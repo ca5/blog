@@ -5,6 +5,8 @@ from __future__ import unicode_literals
 AUTHOR = u'Ca5'
 SITENAME = u'ca5blog'
 SITEURL = ''
+ARTICLE_URL = '{date:%Y}/{date:%m}/{date:%d}/{slug}/'
+ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
 
 PATH = 'content'
 
