@@ -3,7 +3,7 @@ Date: 2011-09-27 00:00
 Author: admin
 Category: music, web
 Tags: soundcloud
-Slug: 9in1%e3%82%92soundcloud%e3%81%b8up
+Slug: 9in1をsoundcloudへup
 
 すでに公開してた古い曲まとめをSoundCloudにもあっぷしてみました
 

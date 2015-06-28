@@ -3,7 +3,7 @@ Date: 2010-02-13 23:56
 Author: admin
 Category: web
 Tags: wordpress
-Slug: iphone%e5%af%be%e5%bf%9c
+Slug: iphone対応
 
 １，２分くらいでできた
 

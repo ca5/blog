@@ -3,7 +3,7 @@ Date: 2011-09-23 13:24
 Author: admin
 Category: game
 Tags: gamepad, iPhone, joypad
-Slug: iphone%e3%82%92joypad%e3%81%ab
+Slug: iphoneをjoypadに
 
 こんなiPhoneアプリがあったのでちょっと試しに使ってみました  
 [[Joypad - Game

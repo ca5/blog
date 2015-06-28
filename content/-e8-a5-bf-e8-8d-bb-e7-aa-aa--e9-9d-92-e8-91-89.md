@@ -3,7 +3,7 @@ Date: 2010-11-11 09:00
 Author: admin
 Category: 食べ物
 Tags: ラーメン
-Slug: %e8%a5%bf%e8%8d%bb%e7%aa%aa-%e9%9d%92%e8%91%89
+Slug: 西荻窪-青葉
 
 西荻窪の青葉というラーメン屋に行きました  
 チェーン店らしいですが、  

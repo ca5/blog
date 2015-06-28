@@ -2,7 +2,7 @@ Title: macとsakuraとscreen
 Date: 2008-04-15 23:50
 Author: admin
 Category: web, その他
-Slug: mac%e3%81%a8sakura%e3%81%a8screen
+Slug: macとsakuraとscreen
 
 ようやくmacのターミナルからsakuraにログインしてscreen上で日本語打てるようになりましたメモ
 

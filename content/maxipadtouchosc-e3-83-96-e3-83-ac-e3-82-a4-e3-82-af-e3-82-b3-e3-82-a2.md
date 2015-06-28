@@ -3,7 +3,7 @@ Date: 2010-12-16 00:49
 Author: admin
 Category: music
 Tags: iPad, max/msp, touchosc
-Slug: maxipadtouchosc%e3%83%96%e3%83%ac%e3%82%a4%e3%82%af%e3%82%b3%e3%82%a2
+Slug: maxipadtouchoscブレイクコア
 
 今日はラーメン・・・ではなくてamenな話です。  
 この前のライブで使ったセットを紹介します

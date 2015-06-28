@@ -3,7 +3,7 @@ Date: 2010-11-12 09:00
 Author: admin
 Category: 食べ物
 Tags: ラーメン
-Slug: %e5%85%ad%e6%9c%ac%e6%9c%a8-%e5%a4%a9%e9%b3%b3
+Slug: 六本木-天鳳
 
 ミッドタウンすぐ近くの  
 天鳳というラーメン屋へ

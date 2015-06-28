@@ -3,7 +3,7 @@ Date: 2011-10-25 00:00
 Author: admin
 Category: 8bit, music, 日記
 Tags: blipfestival, breakcore, chiptune
-Slug: blipfestival-tokyo-2011%e3%82%88%e3%81%8b%e3%81%a3%e3%81%9f
+Slug: blipfestival-tokyo-2011よかった
 
 おとといはblipfestivalに行ってました
 

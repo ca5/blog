@@ -3,7 +3,7 @@ Date: 2011-09-18 00:10
 Author: admin
 Category: その他, 日記
 Tags: mac
-Slug: macos%e3%81%aeupdate
+Slug: macosのupdate
 
 ライブ/音楽実験用のMacBookのOSのアップデートをしました
 

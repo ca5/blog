@@ -3,7 +3,7 @@ Date: 2010-02-13 22:30
 Author: admin
 Category: 未分類
 Tags: wordpress
-Slug: wordpress%e3%81%ab%e7%a7%bb%e8%a1%8c
+Slug: wordpressに移行
 
 MovableType飽きたのでwordpressにしてみました。
 

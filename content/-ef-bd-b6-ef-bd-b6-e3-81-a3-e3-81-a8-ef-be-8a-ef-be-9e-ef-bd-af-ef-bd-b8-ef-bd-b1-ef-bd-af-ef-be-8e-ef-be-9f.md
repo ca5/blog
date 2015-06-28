@@ -2,7 +2,7 @@ Title: ｶｶっとﾊﾞｯｸｱｯﾎﾟ
 Date: 2010-01-04 12:24
 Author: admin
 Category: web
-Slug: %ef%bd%b6%ef%bd%b6%e3%81%a3%e3%81%a8%ef%be%8a%ef%be%9e%ef%bd%af%ef%bd%b8%ef%bd%b1%ef%bd%af%ef%be%8e%ef%be%9f
+Slug: カカっとバックアッポ
 
 lifehackerに載ってたのでとりあえずアカウントとうろくしてみました。  
 今月いっぱいは無料らしいよ！

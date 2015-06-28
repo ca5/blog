@@ -3,7 +3,7 @@ Date: 2010-05-28 09:00
 Author: admin
 Category: 日記
 Tags: 旅行
-Slug: %e6%9d%be%e6%b1%9f%e5%9f%8e
+Slug: 松江城
 
 やっぱり国内旅行といったら城ですね
 

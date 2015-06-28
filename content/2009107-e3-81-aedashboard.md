@@ -2,7 +2,7 @@ Title: 2009/10/7のDashboard
 Date: 2009-10-08 00:42
 Author: admin
 Category: tumblr
-Slug: 2009107%e3%81%aedashboard
+Slug: 2009107のdashboard
 
 -ねぇ、自分でちゃんと使ってみた？  
 <http://ca5.tumblr.com/post/206677804>  

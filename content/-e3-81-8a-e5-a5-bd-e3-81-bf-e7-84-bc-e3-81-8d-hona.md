@@ -3,7 +3,7 @@ Date: 2010-07-04 09:00
 Author: admin
 Category: 食べ物
 Tags: お好み焼き
-Slug: %e3%81%8a%e5%a5%bd%e3%81%bf%e7%84%bc%e3%81%8d-hona
+Slug: お好み焼き-hona
 
 前にも書いた気がしますが、  
 六本木のHonaでお好み焼きを食べてきました

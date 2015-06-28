@@ -2,7 +2,7 @@ Title: 2009/10/5のDashboard
 Date: 2009-10-05 23:54
 Author: admin
 Category: music, tumblr, video, ネタ
-Slug: 2009105%e3%81%aedashboard
+Slug: 2009105のdashboard
 
 -iPhone向け乗り換え案内(Google)  
 <http://ca5.tumblr.com/post/205085408/yaruo-iphone>  

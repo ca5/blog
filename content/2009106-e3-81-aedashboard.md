@@ -2,7 +2,7 @@ Title: 2009/10/6のDashboard
 Date: 2009-10-07 06:58
 Author: admin
 Category: tumblr, video, ネタ, 物欲
-Slug: 2009106%e3%81%aedashboard
+Slug: 2009106のdashboard
 
 -Photosketchってソフト  
 

@@ -3,7 +3,7 @@ Date: 2010-08-04 09:00
 Author: admin
 Category: 日記
 Tags: 富士山, 登山
-Slug: %e5%af%8c%e5%a3%ab%e7%99%bb%e5%b1%b1
+Slug: 富士登山
 
 ハバネロと一緒に富士登山してきました。
 

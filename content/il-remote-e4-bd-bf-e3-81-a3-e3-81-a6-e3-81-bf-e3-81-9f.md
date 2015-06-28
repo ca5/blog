@@ -3,7 +3,7 @@ Date: 2014-01-09 00:33
 Author: admin
 Category: music
 Tags: FL, ILRemote
-Slug: il-remote%e4%bd%bf%e3%81%a3%e3%81%a6%e3%81%bf%e3%81%9f
+Slug: il-remote使ってみた
 
 FL Studio専用のコントローラアプリが出ていたのでちょっと使ってみました。  
 使ってみたのはiPad版です。  

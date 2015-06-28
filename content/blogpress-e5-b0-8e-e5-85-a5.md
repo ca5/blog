@@ -3,7 +3,7 @@ Date: 2009-12-14 14:24
 Author: admin
 Category: web, 日記
 Tags: iPhone
-Slug: blogpress%e5%b0%8e%e5%85%a5
+Slug: blogpress導入
 
 まあ、導入と言っても350円のアプリ入れるだけ...  
   

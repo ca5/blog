@@ -3,7 +3,7 @@ Date: 2011-09-08 00:00
 Author: admin
 Category: music
 Tags: max/msp, touchosc
-Slug: touchosc%e3%81%aeencoder%e3%81%8c%e3%82%a4%e3%83%9e%e3%82%a4%e3%83%81
+Slug: touchoscのencoderがイマイチ
 
 カスタマイズ性やレスポンスがなかなかよいので  
 

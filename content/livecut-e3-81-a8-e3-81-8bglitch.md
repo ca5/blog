@@ -2,7 +2,7 @@ Title: LiveCutとかGlitch
 Date: 2008-06-01 20:21
 Author: admin
 Category: music
-Slug: livecut%e3%81%a8%e3%81%8bglitch
+Slug: livecutとかglitch
 
 MacでGlitchが使えないからどうしよう。。と思って探してたら  
 Macにも対応している強力なグリッチノイズ発生プラグインみっけ  

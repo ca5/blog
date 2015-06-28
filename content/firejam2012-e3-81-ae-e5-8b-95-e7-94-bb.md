@@ -3,7 +3,7 @@ Date: 2012-09-06 23:59
 Author: admin
 Category: music
 Tags: kinect, live, max/msp, otherman, touchosc
-Slug: firejam2012%e3%81%ae%e5%8b%95%e7%94%bb
+Slug: firejam2012の動画
 
 もう１週間以上すぎてしまいましたがfirejamお疲れ様でした！  
 以下は自分のライブの様子です  

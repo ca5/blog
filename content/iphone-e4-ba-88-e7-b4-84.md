@@ -2,7 +2,7 @@ Title: iPhone予約
 Date: 2009-12-06 21:40
 Author: admin
 Category: 日記
-Slug: iphone%e4%ba%88%e7%b4%84
+Slug: iphone予約
 
 ついにねんがんのあいふぉんを予約した!
 

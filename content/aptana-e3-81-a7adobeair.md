@@ -2,7 +2,7 @@ Title: AptanaでAdobeAIR
 Date: 2008-07-01 22:31
 Author: admin
 Category: web
-Slug: aptana%e3%81%a7adobeair
+Slug: aptanaでadobeair
 
 <div>
 

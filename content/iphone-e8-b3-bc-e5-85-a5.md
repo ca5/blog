@@ -2,7 +2,7 @@ Title: iPhone購入
 Date: 2009-12-14 01:28
 Author: admin
 Category: 物欲
-Slug: iphone%e8%b3%bc%e5%85%a5
+Slug: iphone購入
 
 iPhoneついに買ってしまいました  
 何度か人に借りて触ったことはあったんだけど、  

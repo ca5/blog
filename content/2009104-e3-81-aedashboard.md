@@ -2,7 +2,7 @@ Title: 2009/10/4のDashboard
 Date: 2009-10-05 00:16
 Author: admin
 Category: tumblr
-Slug: 2009104%e3%81%aedashboard
+Slug: 2009104のdashboard
 
 今日からtumblrで流れてきた面白い物をまとめてみようかと。  
 -iPhone用ARソフト  

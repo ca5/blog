@@ -3,7 +3,7 @@ Date: 2010-05-26 09:00
 Author: admin
 Category: 日記
 Tags: 旅行
-Slug: %e5%87%ba%e9%9b%b2%e5%a4%a7%e7%a4%be
+Slug: 出雲大社
 
 出雲大社に行ってきました
 

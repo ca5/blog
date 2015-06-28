@@ -2,7 +2,7 @@ Title: DSとEzFlashV導入
 Date: 2008-04-29 23:23
 Author: admin
 Category: 未分類
-Slug: ds%e3%81%a8ezflashv%e5%b0%8e%e5%85%a5
+Slug: dsとezflashv導入
 
 <span class="mt-enclosure mt-enclosure-image"
 style="display: inline;">![ds-nitrotracker.jpg](http://ca5z.info/blog/ds-nitrotracker.jpg)</span>

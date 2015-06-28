@@ -2,7 +2,7 @@ Title: Flickr経由で
 Date: 2010-02-14 00:36
 Author: admin
 Category: 未分類
-Slug: flickr%e7%b5%8c%e7%94%b1%e3%81%a7
+Slug: flickr経由で
 
 <div style="float: right; margin-left: 10px; margin-bottom: 10px;">
 

@@ -3,7 +3,7 @@ Date: 2010-09-25 09:00
 Author: admin
 Category: 食べ物
 Tags: つけ麺, ラーメン
-Slug: %e5%85%ad%e6%9c%ac%e6%9c%a8-%e5%a4%a7%e5%8b%9d%e8%bb%92
+Slug: 六本木-大勝軒
 
 六本木に最近で来たので行ってみました
 

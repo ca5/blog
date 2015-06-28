@@ -2,7 +2,7 @@ Title: 2009/10/9のDashboard
 Date: 2009-10-10 12:43
 Author: admin
 Category: 未分類
-Slug: 2009109%e3%81%aedashboard
+Slug: 2009109のdashboard
 
 -Lego Guitar  
 <http://ca5.tumblr.com/post/208844327/nobon-lego-guitar-8-via-lispark>  

@@ -2,7 +2,7 @@ Title: 2011/12/11は The Otherman Show 6 !!!!!
 Date: 2011-12-03 00:24
 Author: admin
 Category: music
-Slug: 20111211%e3%81%af-the-otherman-show-6
+Slug: 20111211は-the-otherman-show-6
 
 来週の日曜日はまたライブをやりますー  
 

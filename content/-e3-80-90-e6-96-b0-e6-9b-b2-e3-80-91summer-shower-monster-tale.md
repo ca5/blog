@@ -3,7 +3,7 @@ Date: 2013-10-14 22:30
 Author: admin
 Category: music
 Tags: 8081netlabel, breakcore, chipbreak, chiptune
-Slug: %e3%80%90%e6%96%b0%e6%9b%b2%e3%80%91summer-shower-monster-tale
+Slug: 【新曲】summer-shower-monster-tale
 
 ロシアのネットレーベル 8081netlabelより  
 DSのMonter TaleというゲームBGMのリミックスコンピがリリースされました。  

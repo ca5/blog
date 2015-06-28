@@ -3,7 +3,7 @@ Date: 2010-02-13 23:01
 Author: admin
 Category: web
 Tags: wordpress
-Slug: twitter%e9%80%a3%e6%90%ba-2
+Slug: twitter連携-2
 
 とりあえずプラグイン入れてみた
 

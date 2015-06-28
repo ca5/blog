@@ -2,7 +2,7 @@ Title: 2009/10/8のDashboard
 Date: 2009-10-10 12:33
 Author: admin
 Category: music, tumblr, video
-Slug: 2009108%e3%81%aedashboard
+Slug: 2009108のdashboard
 
 -セカイカメラ撮影セット  
 <http://ca5.tumblr.com/post/208382764/yaruo-appbank-kml>  

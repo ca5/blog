@@ -3,7 +3,7 @@ Date: 2011-09-13 00:28
 Author: admin
 Category: 8bit, music, web
 Tags: chiptune, node.js, websocket, シーケンサ
-Slug: eightbitbeats%e9%9d%a2%e7%99%bd%e3%81%84
+Slug: eightbitbeats面白い
 
 もうこの名前の時点で俺ほいほいなんですが・・・  
 ロックマンが歩いてシーケンス位置を示すなんてずるすぎる！

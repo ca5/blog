@@ -3,7 +3,7 @@ Date: 2010-05-23 00:00
 Author: admin
 Category: 食べ物
 Tags: 餃子
-Slug: %e5%8e%9f%e5%ae%bf%e9%a4%83%e5%ad%90%e7%98%bb
+Slug: 原宿餃子瘻
 
 原宿餃子瘻にいきました
 

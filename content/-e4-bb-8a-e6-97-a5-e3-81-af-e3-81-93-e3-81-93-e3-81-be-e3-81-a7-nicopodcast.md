@@ -2,7 +2,7 @@ Title: 今日はここまで - nicoPodcast
 Date: 2008-06-27 00:00
 Author: admin
 Category: video, web, 日記
-Slug: %e4%bb%8a%e6%97%a5%e3%81%af%e3%81%93%e3%81%93%e3%81%be%e3%81%a7-nicopodcast
+Slug: 今日はここまで-nicopodcast
 
 ネットで探せばスクリプト転がってるようなもんですが、
 

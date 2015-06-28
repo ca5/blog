@@ -2,7 +2,7 @@ Title: 目からAsience
 Date: 2009-11-26 00:42
 Author: admin
 Category: music, video
-Slug: %e7%9b%ae%e3%81%8b%e3%82%89asience
+Slug: 目からasience
 
 たまたま作業用BGMをニコニコで探してて見つけたんですが  
 AsienceのCMの曲って坂本龍一の曲だったんすね。。  

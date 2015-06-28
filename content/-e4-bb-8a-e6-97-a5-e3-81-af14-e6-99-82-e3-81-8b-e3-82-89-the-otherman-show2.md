@@ -3,7 +3,7 @@ Date: 2010-07-04 00:39
 Author: admin
 Category: music
 Tags: otherman
-Slug: %e4%bb%8a%e6%97%a5%e3%81%af14%e6%99%82%e3%81%8b%e3%82%89-the-otherman-show2
+Slug: 今日は14時から-the-otherman-show2
 
 えー　まだまだ準備中でありますが  
 7/4 14時は自由が丘のアシッドパンダカフェにぜひぜひ起こし下さい！

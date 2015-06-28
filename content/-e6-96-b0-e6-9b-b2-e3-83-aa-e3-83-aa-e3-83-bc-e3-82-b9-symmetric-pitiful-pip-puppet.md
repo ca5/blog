@@ -3,7 +3,7 @@ Date: 2013-06-22 00:17
 Author: admin
 Category: music
 Tags: electronica, pitiful pip puppet
-Slug: %e6%96%b0%e6%9b%b2%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9-symmetric-pitiful-pip-puppet
+Slug: 新曲リリース-symmetric-pitiful-pip-puppet
 
 pitifulp pip puppetから新曲をリリースしました！
 
