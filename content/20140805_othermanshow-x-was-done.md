@@ -1,7 +1,7 @@
 Title: OthermanShow X お疲れ様でした!
 Date: 2014-08-05 01:08
 Author: admin
-Category: music
+Category: create
 Tags: live, otherman, touchosc
 Slug: othermanshow-x-was-done
 

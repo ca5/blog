@@ -1,7 +1,7 @@
 Title: MacOSのUpdate
 Date: 2011-09-18 00:10
 Author: admin
-Category: その他, 日記
+Category: other
 Tags: mac
 Slug: macosのupdate
 

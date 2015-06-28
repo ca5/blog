@@ -1,7 +1,7 @@
 Title: modopocket
 Date: 2010-03-26 17:00
 Author: admin
-Category: その他
+Category: other
 Tags: カメラ
 Slug: modopocket
 

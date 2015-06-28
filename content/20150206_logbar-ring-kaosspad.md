@@ -1,7 +1,7 @@
 Title: logbarのRingでkaosspadのコントロール
 Date: 2015-02-06 00:34
 Author: admin
-Category: music
+Category: create
 Tags: max/msp, Ring
 Slug: logbar-ring-kaosspad
 

@@ -1,7 +1,7 @@
 Title: Signifiant Signifie
 Date: 2010-06-16 09:00
 Author: admin
-Category: 食べ物
+Category: other
 Tags: パン
 Slug: signifiant-signifie
 

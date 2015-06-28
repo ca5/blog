@@ -1,7 +1,7 @@
 Title: 【リミックス】ヘンデル 「水上の音楽」
 Date: 2015-03-28 22:00
 Author: admin
-Category: music
+Category: release
 Tags: breakcore, chipbreak, chiptune, remix
 Slug: water-music
 

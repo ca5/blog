@@ -1,7 +1,7 @@
 Title: ｽﾞｨﾊﾟｰﾝｸﾞ
 Date: 2008-05-13 00:13
 Author: admin
-Category: web, その他, ネタ
+Category: other
 Slug: ズィパーング
 
 あるあ・・・ねーよ  

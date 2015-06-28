@@ -1,7 +1,7 @@
 Title: 【イベント参加】11/10 ゲームレジェンドに参加します【川口】
 Date: 2013-11-09 00:19
 Author: admin
-Category: 8bit, music
+Category: event
 Tags: chiptune, ゲームレジェンド
 Slug: gamelegend
 

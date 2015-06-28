@@ -1,7 +1,7 @@
 Title: THE GREAT BURGER
 Date: 2010-05-11 09:00
 Author: admin
-Category: 食べ物
+Category: other
 Tags: ハンバーガー
 Slug: the-great-burger
 

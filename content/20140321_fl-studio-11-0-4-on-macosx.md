@@ -1,7 +1,7 @@
 Title: FL Studio 11.0.4 on MacOSX
 Date: 2014-03-21 00:50
 Author: admin
-Category: music
+Category: create
 Tags: crossover, FL, mac
 Slug: fl-studio-11-0-4-on-macosx
 

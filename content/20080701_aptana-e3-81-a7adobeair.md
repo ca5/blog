@@ -1,7 +1,7 @@
 Title: AptanaでAdobeAIR
 Date: 2008-07-01 22:31
 Author: admin
-Category: web
+Category: create
 Slug: aptanaでadobeair
 
 <div>

@@ -1,7 +1,7 @@
 Title: ｶｶっとﾊﾞｯｸｱｯﾎﾟ
 Date: 2010-01-04 12:24
 Author: admin
-Category: web
+Category: other
 Slug: カカっとバックアッポ
 
 lifehackerに載ってたのでとりあえずアカウントとうろくしてみました。  

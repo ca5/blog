@@ -1,7 +1,7 @@
 Title: MIRAVILE IMPACT
 Date: 2010-05-16 09:00
 Author: admin
-Category: 食べ物
+Category: other
 Tags: スイーツ
 Slug: miravile-impact
 

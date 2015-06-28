@@ -1,7 +1,7 @@
 Title: 新曲リリース symmetric [pitiful pip puppet]
 Date: 2013-06-22 00:17
 Author: admin
-Category: music
+Category: release
 Tags: electronica, pitiful pip puppet
 Slug: 新曲リリース-symmetric-pitiful-pip-puppet
 

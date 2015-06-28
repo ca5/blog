@@ -1,7 +1,7 @@
 Title: LiveCutとかGlitch
 Date: 2008-06-01 20:21
 Author: admin
-Category: music
+Category: create
 Slug: livecutとかglitch
 
 MacでGlitchが使えないからどうしよう。。と思って探してたら  

@@ -1,7 +1,7 @@
 Title: 【ライブセット公開】秋葉原メイカーズ倶楽部おつかれさまでした #akimake 【mixcloud】
 Date: 2014-11-26 01:14
 Author: admin
-Category: 未分類
+Category: create
 Slug: after-1124-akiba-mogra
 
 秋葉原メイカーズ倶楽部お疲れ様でした！  

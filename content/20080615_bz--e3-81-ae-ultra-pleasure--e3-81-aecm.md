@@ -1,7 +1,7 @@
 Title: B'z の "Ultra Pleasure" のCM
 Date: 2008-06-15 14:30
 Author: admin
-Category: music, video, web
+Category: other
 Slug: bz-の-ultra-pleasure-のcm
 
 <object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/gxuO__YNbT4&amp;hl=ja"></param><embed src="http://www.youtube.com/v/gxuO__YNbT4&amp;hl=ja" type="application/x-shockwave-flash" width="425" height="344"></object>  

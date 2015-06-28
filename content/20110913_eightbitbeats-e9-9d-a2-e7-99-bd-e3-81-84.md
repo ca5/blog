@@ -1,7 +1,7 @@
 Title: eightbitbeats面白い
 Date: 2011-09-13 00:28
 Author: admin
-Category: 8bit, music, web
+Category: other
 Tags: chiptune, node.js, websocket, シーケンサ
 Slug: eightbitbeats面白い
 

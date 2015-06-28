@@ -1,7 +1,7 @@
 Title: 【新曲】Chip Juke Bros.に参加しました
 Date: 2015-05-11 22:41
 Author: admin
-Category: 8bit, music
+Category: release
 Tags: chiptune, LSDJ
 Slug: chip-juke-bros
 

@@ -1,7 +1,7 @@
 Title: WebMusicハッカソンに参加してきました #webmusicjp
 Date: 2014-09-19 00:11
 Author: admin
-Category: music
+Category: create
 Tags: music, webaudio, webmidi
 Slug: webmusichackathon
 

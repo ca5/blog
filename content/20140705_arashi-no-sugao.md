@@ -1,7 +1,7 @@
 Title: 【リミックス】嵐の素顔
 Date: 2014-07-05 22:00
 Author: admin
-Category: music
+Category: release
 Tags: breakcore, chipbreak, chiptune, remix
 Slug: arashi-no-sugao
 

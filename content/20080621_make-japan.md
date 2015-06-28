@@ -1,7 +1,7 @@
 Title: MAKE: Japan
 Date: 2008-06-21 10:14
 Author: admin
-Category: music, video, web
+Category: other
 Slug: make-japan
 
 <http://jp.makezine.com/>てサイトを昨日初めてしりました。面白いぞ。。

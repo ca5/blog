@@ -1,7 +1,7 @@
 Title: 8-bit Music Generator
 Date: 2011-09-11 00:20
 Author: admin
-Category: 8bit, music
+Category: other
 Tags: chiptune, iPad, iPhone
 Slug: 8-bit-music-generator
 

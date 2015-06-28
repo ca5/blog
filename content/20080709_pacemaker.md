@@ -1,7 +1,7 @@
 Title: Pacemaker
 Date: 2008-07-09 23:24
 Author: admin
-Category: music, video
+Category: other
 Slug: pacemaker
 
 <http://www.gizmodo.jp/2008/07/711pacemaker.html>

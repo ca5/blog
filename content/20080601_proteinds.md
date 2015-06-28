@@ -1,7 +1,7 @@
 Title: Protein[DS]
 Date: 2008-06-01 23:27
 Author: admin
-Category: 未分類
+Category: create
 Slug: proteinds
 
 [![](http://lh6.ggpht.com/ca54makske/SEKxdD5rR9I/AAAAAAAABFU/WlsIeVSmaT8/s400/img-0043.jpg)](http://picasaweb.google.co.jp/ca54makske/Blog/photo#5206919232015255506)  

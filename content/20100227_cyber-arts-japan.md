@@ -1,7 +1,7 @@
 Title: cyber arts japan
 Date: 2010-02-27 19:20
 Author: admin
-Category: art, music
+Category: other
 Slug: cyber-arts-japan
 
 暗闇にひっそりと住み着くポストペット…  

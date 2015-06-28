@@ -1,7 +1,7 @@
 Title: 【新曲リリース】dialup-surfer 【pitiful pip puppet】
 Date: 2014-10-03 00:16
 Author: admin
-Category: music
+Category: release
 Tags: chiptune, pitiful pip puppet
 Slug: dialup-surfer
 

@@ -1,7 +1,7 @@
 Title: 【FREE DOWNLOAD】DYSTOPIA【DEMO】
 Date: 2014-11-03 22:30
 Author: admin
-Category: music
+Category: release
 Tags: breakcore, chiptune
 Slug: dystopia-demo
 

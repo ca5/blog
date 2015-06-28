@@ -1,7 +1,7 @@
 Title: wordpressに移行
 Date: 2010-02-13 22:30
 Author: admin
-Category: 未分類
+Category: other
 Tags: wordpress
 Slug: wordpressに移行
 

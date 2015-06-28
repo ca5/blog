@@ -1,7 +1,7 @@
 Title: kinect+kaosspad
 Date: 2011-01-30 19:56
 Author: admin
-Category: music, 未分類
+Category: create
 Tags: kinect, max/msp
 Slug: kinectkaosspad
 

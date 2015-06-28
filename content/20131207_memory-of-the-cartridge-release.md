@@ -1,7 +1,7 @@
 Title: 【新アルバムリリース】Memory of the Cartridge
 Date: 2013-12-07 00:30
 Author: admin
-Category: music
+Category: release
 Tags: otherman
 Slug: memory-of-the-cartridge-release
 
