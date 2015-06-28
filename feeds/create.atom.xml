@@ -1,0 +1,2083 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>ca5blog</title><link href="http://ca5.github.io/blog/" rel="alternate"></link><link href="http://ca5.github.io/blog/feeds/create.atom.xml" rel="self"></link><id>http://ca5.github.io/blog/</id><updated>2015-06-20T01:40:00+02:00</updated><entry><title>いまさらmaxのパッチを公開しました</title><link href="http://ca5.github.io/blog/2015/06/20/maxpatch/" rel="alternate"></link><updated>2015-06-20T01:40:00+02:00</updated><author><name>Ca5</name></author><id>tag:ca5.github.io,2015-06-20:blog/2015/06/20/maxpatch/</id><summary type="html">&lt;p&gt;今更ですけど、ぼくが3年くらいライブで使ってるパッチを公開することにしました。&lt;br /&gt;
+Max5 + &lt;a href="http://cnmat.berkeley.edu/patch/4029"&gt;OSC-Route&lt;/a&gt;
+で動かすことを前提に作ってます。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/ca5/slice8"&gt;https://github.com/ca5/slice8&lt;br /&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;気が向いたら使い方まとめたりするかもしれないです。&lt;/p&gt;</summary><category term="max/msp"></category></entry><entry><title>【再現音源付き】アザマンショー11 お疲れ様でした #CHIPorDIE</title><link href="http://ca5.github.io/blog/2015/03/17/after-otmn11/" rel="alternate"></link><updated>2015-03-17T22:00:00+01:00</updated><author><name>Ca5</name></author><id>tag:ca5.github.io,2015-03-17:blog/2015/03/17/after-otmn11/</id><summary type="html">&lt;p&gt;アザマンショー11 お疲れ様でした！&lt;br /&gt;
+というわけで例によって再現音源つくったので貼っておきます&lt;/p&gt;
+&lt;iframe width="660" height="180" src="https://www.mixcloud.com/widget/iframe/?embed_type=widget_standard&amp;amp;embed_uuid=29cf3992-dcbd-43a9-9247-e6f83ded09c0&amp;amp;feed=https%3A%2F%2Fwww.mixcloud.com%2Fca54makske%2Fca5the-otherman-show-xi-chip-or-die-%2F&amp;amp;hide_cover=1&amp;amp;hide_tracklist=1&amp;amp;replace=0" frameborder="0"&gt;&lt;/iframe&gt;
+
+&lt;div style="clear: both; height: 3px; width: 652px;"&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;&lt;a href="https://www.mixcloud.com/ca54makske/ca5the-otherman-show-xi-chip-or-die-/?utm_source=widget&amp;amp;utm_medium=web&amp;amp;utm_campaign=base_links&amp;amp;utm_term=resource_link"&gt;Ca5@The Otherman Show XI -CHIP or
+DIE-&lt;/a&gt;&lt;span&gt;
+by&lt;/span&gt;&lt;a href="https://www.mixcloud.com/ca54makske/?utm_source=widget&amp;amp;utm_medium=web&amp;amp;utm_campaign=base_links&amp;amp;utm_term=profile_link"&gt;Ca5&lt;/a&gt;&lt;span&gt;
+on&lt;/span&gt;&lt;a href="https://www.mixcloud.com/?utm_source=widget&amp;amp;utm_medium=web&amp;amp;utm_campaign=base_links&amp;amp;utm_term=homepage_link"&gt;Mixcloud&lt;/a&gt;&lt;/p&gt;
+&lt;div style="clear: both; height: 3px; width: 652px;"&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;今回ライブでやったことを一応文字にすると&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ringでライブ音源起動&lt;/li&gt;
+&lt;li&gt;Kinectでエフェクター操作&lt;/li&gt;
+&lt;li&gt;iPadでいつものドラムスライス&lt;/li&gt;
+&lt;li&gt;自作コントローラでエフェクター操作&lt;/li&gt;
+&lt;li&gt;ちょっとだけ機材の紹介&lt;/li&gt;
+&lt;li&gt;一部の曲をGB実機にてプレイ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;ってところなんですが、個人的にはやることも荷物も多すぎてちょっとつかれました。  &lt;/p&gt;
+&lt;p&gt;次ライブするときはもっと機材減らしたいです。でもGBはもうちょっとうまく使いたい。&lt;/p&gt;</summary></entry><entry><title>logbarのRingでkaosspadのコントロール</title><link href="http://ca5.github.io/blog/2015/02/06/logbar-ring-kaosspad/" rel="alternate"></link><updated>2015-02-06T00:34:00+01:00</updated><author><name>Ca5</name></author><id>tag:ca5.github.io,2015-02-06:blog/2015/02/06/logbar-ring-kaosspad/</id><summary type="html">&lt;p&gt;&lt;a href="http://logbar.jp/ring/ja/developer/"&gt;logbarのRing&lt;/a&gt;面白いんですが、&lt;br /&gt;
+まだSDKとかがなくて正直やれることが少ないかなといった印象です。&lt;/p&gt;
+&lt;p&gt;SDKがなくても最初から、  &lt;/p&gt;
+&lt;p&gt;1ジェスチャーにつき1httpリクエストを投げられる機能が標準で付いているので&lt;br /&gt;
+ある程度色んな物を操作できるんですが、  &lt;/p&gt;
+&lt;p&gt;エフェクター操作をこれでやろうと思うとどうしてもワンテンポずれた挙動になってしまう。。。&lt;/p&gt;
+&lt;p&gt;・・・というわけで、ちょっと別な操作法を考えてみました。  &lt;/p&gt;
+&lt;iframe width="420" height="315" src="https://www.youtube.com/embed/RIszxzo9Zco" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;ジェスチャー入力後、指の上下でエフェクトON/OFFを切り替えています。  &lt;/p&gt;
+&lt;p&gt;これはRing標準の音量コントロールを無理やり使ってこんな操作を実現しています。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;iPhoneで一定の音を出力(今回はtonetableを使いました)&lt;/li&gt;
+&lt;li&gt;1.の音量をRingで変化させてmax/mspへ入力&lt;/li&gt;
+&lt;li&gt;max/msp側で音量に応じたmidiメッセージをkaosspadへ送る&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;かなりシンプルなmax/mspのパッチでこんな操作が一応実現できます。&lt;/p&gt;
+&lt;p&gt;ただ欲を言うとやっぱりy軸だけじゃなくてx軸も取りたい・・・・  &lt;/p&gt;
+&lt;p&gt;というわけで、Ringの開発担当の方、SDKのリリース是非是非よろしくお願いしまーす&lt;/p&gt;</summary><category term="max/msp"></category><category term="Ring"></category></entry><entry><title>The Otherman Radio Show お疲れさまでした</title><link href="http://ca5.github.io/blog/2015/02/02/the-otherman-radio-show-2/" rel="alternate"></link><updated>2015-02-02T00:11:00+01:00</updated><author><name>Ca5</name></author><id>tag:ca5.github.io,2015-02-02:blog/2015/02/02/the-otherman-radio-show-2/</id><summary type="html">&lt;p&gt;The Otherman Radio Showお疲れさまでした！&lt;/p&gt;
+&lt;p&gt;配信した宅録動画アップしておきましたので、見れなかった方も是非みてみてください！&lt;/p&gt;
+&lt;p&gt;動画:  &lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/pxfMYbWIgI8" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;音声のみ:  &lt;/p&gt;
+&lt;iframe width="660" height="180" src="https://www.mixcloud.com/widget/iframe/?feed=http%3A%2F%2Fwww.mixcloud.com%2Fca54makske%2Fca5the-otherman-radio-show%2F&amp;amp;embed_uuid=66e769d9-cc74-49c5-808d-e0171ac869c4&amp;amp;replace=0&amp;amp;hide_cover=1&amp;amp;embed_type=widget_standard&amp;amp;hide_tracklist=1" frameborder="0"&gt;&lt;/iframe&gt;
+
+&lt;div style="clear: both; height: 3px; width: 652px;"&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;&lt;a href="http://www.mixcloud.com/ca54makske/ca5the-otherman-radio-show/?utm_source=widget&amp;amp;amp;utm_medium=web&amp;amp;amp;utm_campaign=base_links&amp;amp;amp;utm_term=resource_link"&gt;Ca5@The Otherman Radio
+Show&lt;/a&gt;&lt;span&gt;
+by&lt;/span&gt;&lt;a href="http://www.mixcloud.com/ca54makske/?utm_source=widget&amp;amp;amp;utm_medium=web&amp;amp;amp;utm_campaign=base_links&amp;amp;amp;utm_term=profile_link"&gt;Ca5&lt;/a&gt;&lt;span&gt;
+on&lt;/span&gt;&lt;a href="http://www.mixcloud.com/?utm_source=widget&amp;amp;utm_medium=web&amp;amp;utm_campaign=base_links&amp;amp;utm_term=homepage_link"&gt;Mixcloud&lt;/a&gt;&lt;/p&gt;
+&lt;div style="clear: both; height: 3px; width: 652px;"&gt;
+
+&lt;/div&gt;</summary><category term="breakcore"></category><category term="chipbreak"></category><category term="chiptune"></category><category term="otherman"></category></entry><entry><title>LogbarのRingでAbletonLiveの操作をしてみた【告知つき】</title><link href="http://ca5.github.io/blog/2015/01/06/ringabletonlive/" rel="alternate"></link><updated>2015-01-06T00:21:00+01:00</updated><author><name>Ca5</name></author><id>tag:ca5.github.io,2015-01-06:blog/2015/01/06/ringabletonlive/</id><summary type="html">&lt;p&gt;ちょっと音量小さいですが、&lt;br /&gt;
+LogbarのRingが届いたのでこんなものを作ってみました。  &lt;/p&gt;
+&lt;iframe src="//www.youtube.com/embed/tstlJWH_m54" width="420" height="315" frameborder="0" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;RingのジェスチャーでAbletonLiveのスタートボタンを押して音声を再生しています。&lt;br /&gt;
+とりあえずで作ったのでちょっと回りくどい構成でこんなことになってます&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Ring --http--&gt; webサーバ(画面左側のソース) --osc--&gt;
+max/msp(画面右側) --midi--&gt; AbletonLive&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1&gt;告知&lt;/h1&gt;
+&lt;p&gt;1/31(土), 2/1(日)にオンラインイベント『OthermanRadioshow』にて、&lt;br /&gt;
+今回つくったRingの仕組みもちょっと使ったライブを公開します！&lt;br /&gt;
+是非見てみてください！&lt;br /&gt;
+&lt;a href="http://5th.otherman-records.com/radio/"&gt;http://5th.otherman-records.com/radio/&lt;/a&gt;&lt;/p&gt;</summary></entry><entry><title>2014年の活動まとめ</title><link href="http://ca5.github.io/blog/2014/12/31/2014/" rel="alternate"></link><updated>2014-12-31T00:56:00+01:00</updated><author><name>Ca5</name></author><id>tag:ca5.github.io,2014-12-31:blog/2014/12/31/2014/</id><summary type="html">&lt;p&gt;2014年の活動をまとめてみました&lt;/p&gt;
+&lt;h2&gt;2014/1&lt;/h2&gt;
+&lt;p&gt;vdp4にてライブ  &lt;/p&gt;
+&lt;iframe src="https://www.mixcloud.com/widget/iframe/?feed=http%3A%2F%2Fwww.mixcloud.com%2Fca54makske%2Fca5-vdp4%2F&amp;amp;embed_uuid=35165546-1552-4701-8a67-4671072b1fb2&amp;amp;replace=0&amp;amp;hide_cover=1&amp;amp;embed_type=widget_standard&amp;amp;hide_tracklist=1" width="660" height="180" frameborder="0"&gt;&lt;/iframe&gt;
+
+&lt;div style="clear: both; height: 3px; width: 652px;"&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;&lt;a href="http://www.mixcloud.com/ca54makske/ca5-vdp4/?utm_source=widget&amp;amp;amp;utm_medium=web&amp;amp;amp;utm_campaign=base_links&amp;amp;amp;utm_term=resource_link"&gt;Ca5-vdp4&lt;/a&gt;
+by
+&lt;a href="http://www.mixcloud.com/ca54makske/?utm_source=widget&amp;amp;amp;utm_medium=web&amp;amp;amp;utm_campaign=base_links&amp;amp;amp;utm_term=profile_link"&gt;Ca5&lt;/a&gt;
+on
+&lt;a href="http://www.mixcloud.com/?utm_source=widget&amp;amp;utm_medium=web&amp;amp;utm_campaign=base_links&amp;amp;utm_term=homepage_link"&gt;Mixcloud&lt;/a&gt;&lt;/p&gt;
+&lt;div style="clear: both; height: 3px; width: 652px;"&gt;
+
+&lt;/div&gt;
+
+&lt;h2&gt;2014/4&lt;/h2&gt;
+&lt;p&gt;M3で下記のリリースをしました！&lt;/p&gt;
+&lt;h3&gt;CAPCORE vs NKRN&lt;/h3&gt;
+&lt;p&gt;capcom縛りのリミックスということで、ロックマンとストIIをミックスしてます  &lt;/p&gt;
+&lt;iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/145606009&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false" width="100%" height="166" frameborder="no" scrolling="no"&gt;&lt;/iframe&gt;
+
+&lt;h3&gt;TripleX -LemonsquashExtra01-&lt;/h3&gt;
+&lt;p&gt;FLの3xOSCりコンピに参加しました。&lt;br /&gt;
+ドラムサンプルも使うの控えたので個人的にはかなり難しかった。  &lt;/p&gt;
+&lt;iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/145605472&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false" width="100%" height="166" frameborder="no" scrolling="no"&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;2014/5&lt;/h2&gt;
+&lt;p&gt;サンクラにネタものをアップ  &lt;/p&gt;
+&lt;iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/149951755&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false" width="100%" height="166" frameborder="no" scrolling="no"&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;2014/6&lt;/h2&gt;
+&lt;p&gt;サンクラにネたものをアップ。&lt;br /&gt;
+だんだん使うネタが古くなってきました。  &lt;/p&gt;
+&lt;iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/155509600&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false" width="100%" height="166" frameborder="no" scrolling="no"&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;2014/8&lt;/h2&gt;
+&lt;h3&gt;Otherman Show X&lt;/h3&gt;
+&lt;p&gt;新生ユニット「ふぷほ」として参加してました。&lt;br /&gt;
+特に音源とかは公開してないです。&lt;br /&gt;
+&lt;a href="http://blog.ca54makske.com/blog/2014/08/05/othermanshow-x-was-done/"&gt;http://blog.ca54makske.com/blog/2014/08/05/othermanshow-x-was-done/&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;ネタもの&lt;/h3&gt;
+&lt;p&gt;お蔵入り直前の曲を救出アップ。&lt;br /&gt;
+お盆に合わせてみました。  &lt;/p&gt;
+&lt;iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/163397000&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false" width="100%" height="166" frameborder="no" scrolling="no"&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;2014/10&lt;/h2&gt;
+&lt;h3&gt;DIGITAL&lt;/h3&gt;
+&lt;p&gt;pitiful pip
+puppetから&lt;a href="http://pitifulpippuppet.jp/album/digital/download.html"&gt;DIGITAL&lt;/a&gt;をリリース。  &lt;/p&gt;
+&lt;iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/170199158&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false" width="100%" height="166" frameborder="no" scrolling="no"&gt;&lt;/iframe&gt;
+
+&lt;h3&gt;M3&lt;/h3&gt;
+&lt;p&gt;新アルバムの予告編をリリース。&lt;br /&gt;
+まだまだ製作中です。  &lt;/p&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/172576654&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;
+
+&lt;h3&gt;GBネタもの&lt;/h3&gt;
+&lt;p&gt;この辺りからLSDJを始めました  &lt;/p&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/174244601&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;2014/11&lt;/h2&gt;
+&lt;h3&gt;DMGRMXS&lt;/h3&gt;
+&lt;p&gt;全曲LSDJで作ったリミックス集をリリース  &lt;/p&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/176719908&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;
+
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/176719741&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;
+
+&lt;h3&gt;秋葉原メイカーズ倶楽部&lt;/h3&gt;
+&lt;p&gt;mograにてライブ  &lt;/p&gt;
+&lt;iframe width="660" height="180" src="https://www.mixcloud.com/widget/iframe/?feed=http%3A%2F%2Fwww.mixcloud.com%2Fca54makske%2Fca5%25E7%25A7%258B%25E8%2591%2589%25E5%258E%259F%25E3%2583%25A1%25E3%2582%25A4%25E3%2582%25AB%25E3%2583%25BC%25E3%2582%25BA%25E5%2580%25B6%25E6%25A5%25BD%25E9%2583%25A81124%2F&amp;amp;embed_uuid=df715ae9-ec0c-4c8b-84ac-c75ac1d8f36a&amp;amp;replace=0&amp;amp;hide_cover=1&amp;amp;embed_type=widget_standard&amp;amp;hide_tracklist=1" frameborder="0"&gt;&lt;/iframe&gt;
+
+&lt;div style="clear: both; height: 3px; width: 652px;"&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;&lt;a href="http://www.mixcloud.com/ca54makske/ca5%E7%A7%8B%E8%91%89%E5%8E%9F%E3%83%A1%E3%82%A4%E3%82%AB%E3%83%BC%E3%82%BA%E5%80%B6%E6%A5%BD%E9%83%A81124/?utm_source=widget&amp;amp;amp;utm_medium=web&amp;amp;amp;utm_campaign=base_links&amp;amp;amp;utm_term=resource_link"&gt;Ca5@秋葉原メイカーズ倶楽部(11/24)&lt;/a&gt;&lt;span&gt;
+by&lt;/span&gt;&lt;a href="http://www.mixcloud.com/ca54makske/?utm_source=widget&amp;amp;amp;utm_medium=web&amp;amp;amp;utm_campaign=base_links&amp;amp;amp;utm_term=profile_link"&gt;Ca5&lt;/a&gt;&lt;span&gt;
+on&lt;/span&gt;&lt;a href="http://www.mixcloud.com/?utm_source=widget&amp;amp;utm_medium=web&amp;amp;utm_campaign=base_links&amp;amp;utm_term=homepage_link"&gt;Mixcloud&lt;/a&gt;&lt;/p&gt;
+&lt;div style="clear: both; height: 3px; width: 652px;"&gt;
+
+&lt;/div&gt;
+
+&lt;h3&gt;GBネタもの&lt;/h3&gt;
+&lt;p&gt;MacBookAirのCMの曲の耳コピー版です。&lt;br /&gt;
+CMやってるうちに間に合ってよかった。  &lt;/p&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/179146496&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;2014/12&lt;/h2&gt;
+&lt;p&gt;つくしレコーズのEPに参加。&lt;br /&gt;
+B'zのあの曲のリミックスです。  &lt;/p&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/182756465&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;来年もよろしくお願いします。&lt;/p&gt;</summary></entry><entry><title>【ライブセット公開】秋葉原メイカーズ倶楽部おつかれさまでした #akimake 【mixcloud】</title><link href="http://ca5.github.io/blog/2014/11/26/after-1124-akiba-mogra/" rel="alternate"></link><updated>2014-11-26T01:14:00+01:00</updated><author><name>Ca5</name></author><id>tag:ca5.github.io,2014-11-26:blog/2014/11/26/after-1124-akiba-mogra/</id><summary type="html">&lt;p&gt;秋葉原メイカーズ倶楽部お疲れ様でした！&lt;br /&gt;
+&lt;a href="http://blog.ca54makske.com/blog/2014/11/11/1124-akiba-mogra/"&gt;http://blog.ca54makske.com/blog/2014/11/11/1124-akiba-mogra/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;途中で機材トラブルがあって色々動かなかったり聞き苦しい面があってすみませんでした&lt;/p&gt;
+&lt;p&gt;ライブの再現セットをmixcloudで公開しましたので良かったらお聞きくださいー  &lt;/p&gt;
+&lt;iframe src="//www.mixcloud.com/widget/iframe/?feed=http%3A%2F%2Fwww.mixcloud.com%2Fca54makske%2Fca5%25E7%25A7%258B%25E8%2591%2589%25E5%258E%259F%25E3%2583%25A1%25E3%2582%25A4%25E3%2582%25AB%25E3%2583%25BC%25E3%2582%25BA%25E5%2580%25B6%25E6%25A5%25BD%25E9%2583%25A81124%2F&amp;amp;embed_uuid=167e254b-6b97-4320-9fdb-1eae8e2ed587&amp;amp;replace=0&amp;amp;hide_cover=1&amp;amp;embed_type=widget_standard&amp;amp;hide_tracklist=1" width="660" height="180" frameborder="0"&gt;&lt;/iframe&gt;
+
+&lt;div style="clear: both; height: 3px; width: 652px;"&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;&lt;a href="http://www.mixcloud.com/ca54makske/ca5%E7%A7%8B%E8%91%89%E5%8E%9F%E3%83%A1%E3%82%A4%E3%82%AB%E3%83%BC%E3%82%BA%E5%80%B6%E6%A5%BD%E9%83%A81124/?utm_source=widget&amp;amp;amp;utm_medium=web&amp;amp;amp;utm_campaign=base_links&amp;amp;amp;utm_term=resource_link"&gt;Ca5@秋葉原メイカーズ倶楽部(11/24)&lt;/a&gt;
+by
+&lt;a href="http://www.mixcloud.com/ca54makske/?utm_source=widget&amp;amp;amp;utm_medium=web&amp;amp;amp;utm_campaign=base_links&amp;amp;amp;utm_term=profile_link"&gt;Ca5&lt;/a&gt;
+on
+&lt;a href="http://www.mixcloud.com/?utm_source=widget&amp;amp;utm_medium=web&amp;amp;utm_campaign=base_links&amp;amp;utm_term=homepage_link"&gt;Mixcloud&lt;/a&gt;&lt;/p&gt;</summary></entry><entry><title>WebMusicハッカソンに参加してきました #webmusicjp</title><link href="http://ca5.github.io/blog/2014/09/19/webmusichackathon/" rel="alternate"></link><updated>2014-09-19T00:11:00+02:00</updated><author><name>Ca5</name></author><id>tag:ca5.github.io,2014-09-19:blog/2014/09/19/webmusichackathon/</id><summary type="html">&lt;p&gt;先日、&lt;a href="https://twitter.com/fujikky"&gt;@fujikky&lt;/a&gt;と一緒にチームhimakanとして参加したWebMusicハッカソン
+#3で優勝しました！&lt;/p&gt;
+&lt;p&gt;関連記事:&lt;br /&gt;
+&lt;a href="http://miscfeeling.blogspot.jp/2014/09/web-music-3.html?m=1"&gt;http://miscfeeling.blogspot.jp/2014/09/web-music-3.html?m=1&lt;/a&gt;&lt;br /&gt;
+↑当時の発表の様子などが紹介されています&lt;/p&gt;
+&lt;h2&gt;作ったもの&lt;/h2&gt;
+&lt;p&gt;&lt;a href="http://himakan.github.io/facetracking-effector/"&gt;http://himakan.github.io/facetracking-effector/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;起動してカメラの入力を許可すると、頭の位置をトラッキングして音が変化していきます。&lt;br /&gt;
+(Chromeでしか動作確認してません)&lt;/p&gt;
+&lt;p&gt;MIDI機器がつながっている場合、プルダウンでデバイスを選択して連携させることができます。&lt;br /&gt;
+(MIDI CCのマッピングはKAOSSPAD3上での挙動を想定しています)&lt;/p&gt;
+&lt;h2&gt;WebAudio/Midiの良かったところいろいろ&lt;/h2&gt;
+&lt;p&gt;以下、このイベントを機にWebAudioAPIに触れてみて、&lt;br /&gt;
+思ったことを色々書いておこうと思います。&lt;/p&gt;
+&lt;h3&gt;1.簡単にAudioのin/out処理を書くことができる&lt;/h3&gt;
+&lt;p&gt;なんといっても手軽にAudioの入出力処理をかけるのは素晴らしいと思います。&lt;br /&gt;
+ファイルの形式とかビットレートとか何も考えずに&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;audio in/out&lt;/li&gt;
+&lt;li&gt;フィルタエフェクト&lt;/li&gt;
+&lt;li&gt;フーリエ変換&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;が簡単に行えます。&lt;/p&gt;
+&lt;p&gt;AudioContextを受け渡すことで簡単に連携できるところも使い勝手が良かったです。&lt;/p&gt;
+&lt;h3&gt;2.midi in/out&lt;/h3&gt;
+&lt;p&gt;ブラウザからmidi機器を操作できるのは実際動かしてみるとほんとに画期的です！&lt;/p&gt;
+&lt;p&gt;ただし、現状動くブラウザがかなり限られているようです。&lt;/p&gt;
+&lt;h3&gt;3.JavaScriptならではの良さ&lt;/h3&gt;
+&lt;p&gt;HTML + JavaScriptで作品を作ることができるので&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;作品の公開が簡単&lt;/li&gt;
+&lt;li&gt;開発環境 実質0円！&lt;/li&gt;
+&lt;li&gt;公開されているたくさんのライブラリと連携できる&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;・・・などなどというメリットがあります。&lt;/p&gt;
+&lt;p&gt;例えば今回頭の位置をトラッキングするのにこれを使いましたが&lt;br /&gt;
+&lt;a href="https://github.com/auduno/headtrackr/"&gt;https://github.com/auduno/headtrackr/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;JavaScriptって結構いろんなことができるんですね。。。&lt;br /&gt;
+これがあるならあんなにお金のかかるmax/mspとかもいらないような。。。。&lt;/p&gt;
+&lt;h2&gt;最後に&lt;/h2&gt;
+&lt;p&gt;WebAudio/Midi はまだまだ沢山可能性を秘めているなーと感じました。&lt;/p&gt;
+&lt;p&gt;そのうち、DAWやPCDJ系のソフトは全部クラウド上に置かれるようになって&lt;br /&gt;
+ブラウザが動くデバイスさえあれば  &lt;/p&gt;
+&lt;p&gt;どこでも作曲やライブなどのパフォーマンスができるような時代になるんだろうなと思います。&lt;/p&gt;</summary><category term="music"></category><category term="webaudio"></category><category term="webmidi"></category></entry><entry><title>Renoise+Luaでhelloworld</title><link href="http://ca5.github.io/blog/2014/08/06/renoisehelloworld/" rel="alternate"></link><updated>2014-08-06T02:07:00+02:00</updated><author><name>Ca5</name></author><id>tag:ca5.github.io,2014-08-06:blog/2014/08/06/renoisehelloworld/</id><summary type="html">&lt;p&gt;Renoiseの拡張機能をLuaで書けるらしいので始めてみました&lt;/p&gt;
+&lt;h2&gt;準備編&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;まずrenoise DEMO版をDL+インストール&lt;br /&gt;
+&lt;a href="http://www.renoise.com/"&gt;http://www.renoise.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;次にスターターパックの最新版をDLして解凍しておく  &lt;/p&gt;
+&lt;p&gt;(renoiseインストールした時も同じようなのが勝手に入るんですが、こっちのほうがサンプルが多かった)&lt;br /&gt;
+&lt;a href="https://code.google.com/p/xrnx/"&gt;https://code.google.com/p/xrnx/&lt;/a&gt;
+3.  起動オプションをつけてrenoiseを起動  &lt;/p&gt;
+&lt;p&gt;スターターパックのページにも書いてありますが、"--scripting-dev"オプションを付けて起動します。&lt;br /&gt;
+自分はmac版を使ってるので、Automaterで起動スクリプトを準備しました。&lt;br /&gt;
+&lt;a href="http://farm6.staticflickr.com/5566/14650385269_f064e32339_n.jpg" title="スクリーンショット 2014-08-06 1.16.50"&gt;&lt;img alt="スクリーンショット 2014-08-06
+1.16.50" src="http://farm6.staticflickr.com/5566/14650385269_f064e32339_n.jpg" title="スクリーンショット 2014-08-06 1.16.50" /&gt;&lt;/a&gt;&lt;br /&gt;
+Windowsの場合は多分ショートカット作って起動コマンドいじればいいはず
+4.  configの変更&lt;br /&gt;
+"Help" -&gt; "Show Preferences
+Folder..."で設定ファイルが入ったディレクトリを開き、&lt;br /&gt;
+config.xmlのShowScriptingDevelopmentToolsプロパティを&lt;br /&gt;
+false→trueに変更
+5.  Toolsを開く&lt;br /&gt;
+4.でconfigを変更するとメニューに"Tools"が増える&lt;br /&gt;
+Tools -&gt; &lt;span style="color: #000000;"&gt;"Scripting Console &amp;amp;
+Editor" で、ようやくスクリプトエディタを起動することが出来ます&lt;br /&gt;
+   &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;実行編&lt;/h2&gt;
+&lt;p&gt;スクリプトエディタで"File"-&gt;"New"&lt;br /&gt;
+新規にhelloworld.luaなんて名前でファイルを保存。&lt;/p&gt;
+&lt;p&gt;[bash]&lt;br /&gt;
+renoise.app():show_message("はろーわーるど")&lt;br /&gt;
+[/bash]&lt;/p&gt;
+&lt;p&gt;右下のexecuteをクリックすると&lt;br /&gt;
+&lt;a href="http://farm4.staticflickr.com/3904/14650675130_66e84b6eb9_n.jpg" title="スクリーンショット 2014-08-06 2.05.12"&gt;&lt;img alt="スクリーンショット 2014-08-06
+2.05.12" src="http://farm4.staticflickr.com/3904/14650675130_66e84b6eb9_n.jpg" title="スクリーンショット 2014-08-06 2.05.12" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;こんな風にダイアログボックスを出すことが出来ました。&lt;/p&gt;</summary><category term="Lua"></category><category term="renoise"></category></entry><entry><title>OthermanShow X お疲れ様でした!</title><link href="http://ca5.github.io/blog/2014/08/05/othermanshow-x-was-done/" rel="alternate"></link><updated>2014-08-05T01:08:00+02:00</updated><author><name>Ca5</name></author><id>tag:ca5.github.io,2014-08-05:blog/2014/08/05/othermanshow-x-was-done/</id><summary type="html">&lt;h3&gt;スタッフ的な感想&lt;/h3&gt;
+&lt;p&gt;あざまんしょーお疲れ様でした！&lt;br /&gt;
+今回はいつもに増して豪華なゲストの方をお呼び出来たおかげか、  &lt;/p&gt;
+&lt;p&gt;たくさんのお客さんがお越しくださって盛り上がった良いイベントになったと思ってます。&lt;/p&gt;
+&lt;p&gt;僕は大体ずっとキャッシャーにいたんですが、&lt;br /&gt;
+遠方から来てくださった方が結構いて驚きました。&lt;br /&gt;
+（京都や富山の方からお越しになった方もいました！）&lt;br /&gt;
+本当にみなさんありがとうございます！&lt;/p&gt;
+&lt;h3&gt;出演者的な感想&lt;/h3&gt;
+&lt;p&gt;で、今回新生ユニットふぷほとして参加したわけですが、&lt;br /&gt;
+ライブの機材・プログラム担当としては失敗でした。&lt;/p&gt;
+&lt;p&gt;人が多すぎる&lt;br /&gt;
+↓&lt;br /&gt;
+みんなが持ってるスマホの影響かwifiが混線&lt;br /&gt;
+↓&lt;br /&gt;
+touchOSC - Mac 間の通信が途切れる&lt;/p&gt;
+&lt;p&gt;・・・という状況になってしまって&lt;br /&gt;
+ライブ中何度か操作不能になってしまったんですよね。&lt;/p&gt;
+&lt;p&gt;touchOSCはUDPでoscのメッセージの送受信をするので、&lt;br /&gt;
+どうしてもパケットロスしてしまうことがあります。  &lt;/p&gt;
+&lt;p&gt;大きな会場でライブをする時は、下記のような対策をしたほうがいいかもしれないです。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;xyzポジション使うのを控える(パケット自体を減らす)&lt;/li&gt;
+&lt;li&gt;MIDIのpanicボタンみたいな機能を実装しておく(パケットロスした時の対応)&lt;/li&gt;
+&lt;li&gt;質の良いwifiルーターを導入(通信能力向上)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;あるいは、そもそもwifi使わずケーブルで接続してしまうとか。  &lt;/p&gt;
+&lt;p&gt;後から思い出したんですが、去年見た&lt;a href="http://idlemoments-jp.com/all/techdiff.html"&gt;TechDiff&lt;/a&gt;のライブはtouchOSCをケーブルでMacにつないで使ってました。&lt;/p&gt;</summary><category term="live"></category><category term="otherman"></category><category term="touchosc"></category></entry><entry><title>Android端末と Debian kitと PyAudio(2)</title><link href="http://ca5.github.io/blog/2014/05/11/androiddebian-kit-pyaudio2/" rel="alternate"></link><updated>2014-05-11T22:00:00+02:00</updated><author><name>Ca5</name></author><id>tag:ca5.github.io,2014-05-11:blog/2014/05/11/androiddebian-kit-pyaudio2/</id><summary type="html">&lt;p&gt;&lt;a href="http://blog.ca54makske.com/blog/2014/05/04/androiddebian-kit-pyaudio/"&gt;前回&lt;/a&gt;の続き&lt;/p&gt;
+&lt;p&gt;ドコかの記事で、AndroidのOSをバージョンアップさせるとオーディオのドライバが変わるって記事を見かけたのと、  &lt;/p&gt;
+&lt;p&gt;linux-on-androidプロジェクトでは&lt;a href="https://www.youtube.com/watch?v=3_AiWoTjO78"&gt;オーディオ鳴ってるdemo&lt;/a&gt;があったりするんでこれらを導入してみる&lt;/p&gt;
+&lt;h2&gt;1.AndroidOSアップデート&lt;/h2&gt;
+&lt;p&gt;初代GalaxyTabは公式では2.3.3までしかアップデート出来ないので、&lt;br /&gt;
+CyanogenModというROMを焼いちゃいます。&lt;/p&gt;
+&lt;p&gt;手順まとめるのめんどくさいから参考にしたサイトだけメモ&lt;/p&gt;
+&lt;h3&gt;1-1. 2.3.3のカスタムROMにする&lt;/h3&gt;
+&lt;p&gt;Cyanogenmod入れる前にまずは2.3.3のカスタムROMを焼く&lt;/p&gt;
+&lt;p&gt;参考:  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://paso-kon-seikatsu.cocolog-nifty.com/blog/2011/07/galaxy-tabgin-1.html"&gt;http://paso-kon-seikatsu.cocolog-nifty.com/blog/2011/07/galaxy-tabgin-1.html&lt;br /&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;romがリンク切れでなかなか見つからなかったけどここにあった  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.ersinkoc.com/galaxy-tab-icin-android-2-3-3-gingerbread-kurmak-ve-root-yapmak/"&gt;http://www.ersinkoc.com/galaxy-tab-icin-android-2-3-3-gingerbread-kurmak-ve-root-yapmak/&lt;br /&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;1-2. CyanogenModいれる&lt;/h3&gt;
+&lt;p&gt;CyanogenModを導入。CM10まで上げていくとバージョンが4.1まで上がる&lt;/p&gt;
+&lt;p&gt;参考:&lt;br /&gt;
+&lt;a href="http://cielsomer.blog.fc2.com/blog-entry-79.html"&gt;http://cielsomer.blog.fc2.com/blog-entry-79.html&lt;br /&gt;
+&lt;/a&gt;&lt;a href="/a&amp;gt;http://cielsomer.blog.fc2.com/blog-entry-175.htm"&gt;&lt;/a&gt;http://cielsomer.blog.fc2.com/blog-entry-175.html&lt;br /&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;これで古いGalaxyTabが最新のOSで遊べるようになった！&lt;br /&gt;
+・・・けど本題はここから&lt;/p&gt;
+&lt;h2&gt;2. Debian kit + PyAudio&lt;/h2&gt;
+&lt;p&gt;前回の記事と同じくDebian kitとPyAudioを入れてみた&lt;br /&gt;
+・・・が結局音はならない。&lt;br /&gt;
+やっぱりPortAudioがちゃんとデバイス認識してくれてない&lt;/p&gt;
+&lt;h3&gt;3. Complete Linux Installer&lt;/h3&gt;
+&lt;p&gt;そこで今度試すのが、Complete Linux Installer&lt;br /&gt;
+&lt;a href="http://linuxonandroid.org/"&gt;http://linuxonandroid.org/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;これもDebian kit同様インストールは簡単。  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://play.google.com/store/apps/details?id=com.zpwebsites.linuxonandroid"&gt;https://play.google.com/store/apps/details?id=com.zpwebsites.linuxonandroid&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;ここからアプリをインストールし、中の説明通りにOSをインストールしていく。&lt;/p&gt;
+&lt;p&gt;インストールしたのは Ubuntu13.04のcoreパッケージ&lt;br /&gt;
+(smallやlargeだと常駐するプロセス多すぎて重かった)&lt;/p&gt;
+&lt;p&gt;ここへPyAudioを導入&lt;br /&gt;
+・・・しかし結局音はならず。。。&lt;/p&gt;
+&lt;p&gt;これ以上がんばるくらいなら素直にAndroidのアプリ作ったほうが早そうなんであきらめます&lt;/p&gt;</summary><category term="android"></category><category term="debian"></category><category term="linux"></category><category term="PyAudio"></category><category term="ubuntu"></category></entry><entry><title>Android端末と Debian kitと PyAudio</title><link href="http://ca5.github.io/blog/2014/05/04/androiddebian-kit-pyaudio/" rel="alternate"></link><updated>2014-05-04T22:30:00+02:00</updated><author><name>Ca5</name></author><id>tag:ca5.github.io,2014-05-04:blog/2014/05/04/androiddebian-kit-pyaudio/</id><summary type="html">&lt;p&gt;家に使ってないAndroid端末があったんで、&lt;br /&gt;
+Debian化してpython入れて音出せるかどうか試してみました。&lt;br /&gt;
+結論から言うと全然うまくいかないんですが。&lt;/p&gt;
+&lt;p&gt;対象端末:&lt;br /&gt;
+・Galaxy Tab(SC-01C)&lt;br /&gt;
+→ 中古で購入した時点ですでに JK2 FroyoのRoot化ROMが焼いてあったっぽい&lt;br /&gt;
+　→ バージョンは2.2 Froyo&lt;/p&gt;
+&lt;h2&gt;Debianのinstall&lt;/h2&gt;
+&lt;p&gt;この記事を参考に、Debian kitを使ってDebianを入れます&lt;br /&gt;
+&lt;a href="http://gihyo.jp/admin/serial/01/ubuntu-recipe/0256?page=3"&gt;http://gihyo.jp/admin/serial/01/ubuntu-recipe/0256?page=3&lt;br /&gt;
+&lt;/a&gt;&lt;br /&gt;
+Debian入れると言っても完全にOS焼きなおすんじゃなくて、&lt;br /&gt;
+chrootな環境が出来上がるだけってもののようです。&lt;/p&gt;
+&lt;p&gt;基本的にはAndroid端末にDebian
+kitと何か端末シミュレータをいれて上記の記事にそってインストールしていっただけ。  &lt;/p&gt;
+&lt;p&gt;OSが入って、debコマンドで環境起動したら、その後の作業が楽になるようにssh
+serverを入れておきます&lt;/p&gt;
+&lt;p&gt;[bash]&lt;br /&gt;
+apt-get install openssh-server&lt;br /&gt;
+[/bash]&lt;/p&gt;
+&lt;p&gt;その後の作業は外部からこの端末にsshして色々いじっていく&lt;/p&gt;
+&lt;h2&gt;pythonとかpyenvとか&lt;/h2&gt;
+&lt;p&gt;pyenv入れる前に以下をapt-get installしておく&lt;br /&gt;
+参考：&lt;a href="https://github.com/yyuu/pyenv/wiki/Common-build-problems"&gt;https://github.com/yyuu/pyenv/wiki/Common-build-problems&lt;br /&gt;
+&lt;/a&gt;&lt;br /&gt;
+[bash]&lt;br /&gt;
+git&lt;br /&gt;
+make&lt;br /&gt;
+build-essential&lt;br /&gt;
+libssl-dev&lt;br /&gt;
+zlib1g-dev&lt;br /&gt;
+libbz2-dev&lt;br /&gt;
+libreadline-dev&lt;br /&gt;
+libsqlite3-dev&lt;br /&gt;
+wget&lt;br /&gt;
+curl&lt;br /&gt;
+llvm&lt;br /&gt;
+[/bash]&lt;/p&gt;
+&lt;p&gt;pyenvをレポジトリのREADMEに沿ってインストール&lt;br /&gt;
+&lt;a href="https://github.com/yyuu/pyenv"&gt;https://github.com/yyuu/pyenv&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;pythonのインストールと環境設定&lt;br /&gt;
+[bash]&lt;br /&gt;
+pyenv install 2.7.6&lt;br /&gt;
+pyenv local 2.7.6&lt;br /&gt;
+[/bash]&lt;/p&gt;
+&lt;h2&gt;PyAudioとportaudio&lt;/h2&gt;
+&lt;p&gt;PyAudioはportaudioのpython wrapper版&lt;br /&gt;
+http://people.csail.mit.edu/hubert/pyaudio/&lt;/p&gt;
+&lt;p&gt;portaudioは各OSのaudio apiをwrapしたAPI&lt;br /&gt;
+http://portaudio.com/docs/v19-doxydocs/api_overview.html&lt;/p&gt;
+&lt;p&gt;PyAudio入れる前に、aptでportaudio v19を入れておく&lt;br /&gt;
+[bash]&lt;br /&gt;
+portaudio19-dev&lt;br /&gt;
+libportaudio-dev&lt;br /&gt;
+[/bash]&lt;/p&gt;
+&lt;p&gt;PyAudioのインストール&lt;br /&gt;
+[bash]&lt;br /&gt;
+pip install --allow-external PyAudio --allow-unverified PyAudio
+PyAudio&lt;br /&gt;
+[/bash]&lt;br /&gt;
+この長ったらしいオプション指定なんとかならんのか。。&lt;/p&gt;
+&lt;h2&gt;動作チェック&lt;/h2&gt;
+&lt;p&gt;PyAudio本家のサンプルをそのままコピって動かしてみる&lt;br /&gt;
+http://people.csail.mit.edu/hubert/pyaudio/&lt;/p&gt;
+&lt;p&gt;[python]&lt;br /&gt;
+"""PyAudio Example: Play a WAVE file."""&lt;/p&gt;
+&lt;p&gt;import pyaudio&lt;br /&gt;
+import wave&lt;br /&gt;
+import sys&lt;/p&gt;
+&lt;p&gt;CHUNK = 1024&lt;/p&gt;
+&lt;p&gt;if len(sys.argv) \&amp;lt; 2:&lt;br /&gt;
+print("Plays a wave file.\n\nUsage: %s filename.wav" % sys.argv[0])&lt;br /&gt;
+sys.exit(-1)&lt;/p&gt;
+&lt;p&gt;wf = wave.open(sys.argv[1], 'rb')&lt;/p&gt;
+&lt;p&gt;p = pyaudio.PyAudio()&lt;/p&gt;
+&lt;p&gt;stream = p.open(format=p.get_format_from_width(wf.getsampwidth()),&lt;br /&gt;
+channels=wf.getnchannels(),&lt;br /&gt;
+rate=wf.getframerate(),&lt;br /&gt;
+output=True)&lt;/p&gt;
+&lt;p&gt;data = wf.readframes(CHUNK)&lt;/p&gt;
+&lt;p&gt;while data != '':&lt;br /&gt;
+stream.write(data)&lt;br /&gt;
+data = wf.readframes(CHUNK)&lt;/p&gt;
+&lt;p&gt;stream.stop_stream()&lt;br /&gt;
+stream.close()&lt;/p&gt;
+&lt;p&gt;p.terminate()&lt;br /&gt;
+[/python]&lt;/p&gt;
+&lt;p&gt;実行&lt;br /&gt;
+[bash]&lt;br /&gt;
+\$ python ./soundtest.py amen.wav&lt;br /&gt;
+Traceback (most recent call last):&lt;br /&gt;
+File "./soundtest.py", line 22, in \&amp;lt;module&gt;&lt;br /&gt;
+output=True)&lt;br /&gt;
+File
+"/home/ca5/.pyenv/versions/2.7.6/lib/python2.7/site-packages/pyaudio.py",
+line 747, in open&lt;br /&gt;
+stream = Stream(self, *args, **kwargs)&lt;br /&gt;
+File
+"/home/ca5/.pyenv/versions/2.7.6/lib/python2.7/site-packages/pyaudio.py",
+line 442, in __init__&lt;br /&gt;
+self._stream = pa.open(**arguments)&lt;br /&gt;
+IOError: [Errno Invalid output device (no default output
+device)] -9996&lt;br /&gt;
+[/bash]&lt;/p&gt;
+&lt;p&gt;わー　デバイスが認識されてねー&lt;/p&gt;
+&lt;p&gt;別途、portaudioのサンプルも動かしてみたんですがやっぱりダメ&lt;br /&gt;
+portaudioが使うaudioAPIが対応してないと思われる。&lt;/p&gt;
+&lt;p&gt;Android側のバージョンあげたらportaudioが使えるってどこかの記事で見かけたんで&lt;br /&gt;
+次はOS上げて再チャレンジか&lt;/p&gt;
+&lt;h2&gt;参考&lt;/h2&gt;
+&lt;p&gt;http://stackoverflow.com/questions/5921947/pyaudio-installation-error-command-gcc-failed-with-exit-status-1&lt;/p&gt;
+&lt;p&gt;ここ見るとportaudioでOpenSL使えそう？&lt;br /&gt;
+http://www.gizmodo.jp/2012/07/android_osjelly_bean.html&lt;/p&gt;
+&lt;p&gt;http://stackoverflow.com/questions/4672155/pyaudio-ioerror-no-default-input-device-available&lt;/p&gt;</summary><category term="android"></category><category term="debian"></category><category term="PyAudio"></category><category term="python"></category></entry><entry><title>FLとSMFとpython (準備編)</title><link href="http://ca5.github.io/blog/2014/04/14/fl-smf-python/" rel="alternate"></link><updated>2014-04-14T01:11:00+02:00</updated><author><name>Ca5</name></author><id>tag:ca5.github.io,2014-04-14:blog/2014/04/14/fl-smf-python/</id><summary type="html">&lt;p&gt;FLで作った曲のBPMに合わせてごにょごにょする処理を自前で作りたくて色々試そうとしてます。&lt;/p&gt;
+&lt;p&gt;とりあえず思いついた方法が&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;FLで曲のwavとmidiを書き出す&lt;/li&gt;
+&lt;li&gt;wavとmidiをpythonのスクリプトで読み込んでごにょごにょ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;というわけでまず準備編&lt;/p&gt;
+&lt;h2&gt;1. FLでmidiを吐き出す&lt;/h2&gt;
+&lt;p&gt;FLでこんなプロジェクトを用意&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://firestorage.jp/download/12b13e190a604e9dcd90ff34cb7d4287f95418e5"&gt;bpmtest.zip&lt;/p&gt;
+&lt;p&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[flickr id="13820505455" thumbnail="small_320" overlay="true"
+size="original" group="" align="none"]&lt;/p&gt;
+&lt;p&gt;2小節分のドラムループを4回ループ。3小節目からBPM変更のパターンが入って、5-6小節目中でBPMを140→54.013へ一気に下げる。&lt;/p&gt;
+&lt;p&gt;これのmidiを吐き出すには、まず&lt;/p&gt;
+&lt;p&gt;TOOLS &gt; Macros &gt; prepare for export&lt;/p&gt;
+&lt;p&gt;でmidiファイル出力に必要な適合化処理を実行する必要があります。&lt;/p&gt;
+&lt;p&gt;(これやらないと空のmidiファイルしか出来ない&lt;/p&gt;
+&lt;p&gt;で、こんなmidiファイルが出来る&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://firestorage.jp/download/3fbc6a9cda4e58488abcfa6f0659aa980742f540"&gt;bpmtest.mid&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;2. midiファイルをpythonのスクリプトで解析する&lt;/h2&gt;
+&lt;p&gt;midiの解析にpython-midiを使う&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/vishnubob/python-midi"&gt;https://github.com/vishnubob/python-midi&lt;/p&gt;
+&lt;p&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;pipのindexに入ってるみたいですが、&lt;/p&gt;
+&lt;p&gt;自分の環境だとうまくインストールできなかったのでgitのREADME通りの手順でソースからインストール。&lt;/p&gt;
+&lt;p&gt;すると mididump.py
+というサンプルスクリプトも一緒にインストールされるので試してみる。&lt;/p&gt;
+&lt;dl&gt;
+&lt;dt&gt;[bash]&lt;/dt&gt;
+&lt;dt&gt;\$ mididump.py ./bpmtest.mid | less&lt;/dt&gt;
+&lt;dt&gt;midi.Pattern(format=1, resolution=96, tracks=\&lt;/dt&gt;
+&lt;dt&gt;[midi.Track(\&lt;/dt&gt;
+&lt;dt&gt;[midi.TimeSignatureEvent(tick=0, data=[4, 2, 24, 8]),&lt;/dt&gt;
+&lt;dt&gt;midi.EndOfTrackEvent(tick=0, data=[])]),&lt;/dt&gt;
+&lt;dt&gt;midi.Track(\&lt;/dt&gt;
+&lt;dt&gt;[midi.SetTempoEvent(tick=0, data=[16, 243, 60]),&lt;/dt&gt;
+&lt;dt&gt;midi.SetTempoEvent(tick=0, data=[6, 138, 27]),&lt;/dt&gt;
+&lt;dt&gt;midi.SetTempoEvent(tick=768, data=[6, 138, 27]),&lt;/dt&gt;
+&lt;dt&gt;midi.SetTempoEvent(tick=768, data=[6, 254, 136]),&lt;/dt&gt;
+&lt;dt&gt;midi.SetTempoEvent(tick=24, data=[7, 111, 252]),&lt;/dt&gt;
+&lt;dt&gt;midi.SetTempoEvent(tick=24, data=[7, 211, 193]),&lt;/dt&gt;
+&lt;dt&gt;midi.SetTempoEvent(tick=24, data=[8, 14, 176]),&lt;/dt&gt;
+&lt;dt&gt;midi.SetTempoEvent(tick=24, data=[8, 109, 233]),&lt;/dt&gt;
+&lt;dt&gt;midi.SetTempoEvent(tick=24, data=[8, 190, 72]),&lt;/dt&gt;
+&lt;dt&gt;midi.SetTempoEvent(tick=24, data=[9, 73, 112]),&lt;/dt&gt;
+&lt;dt&gt;midi.SetTempoEvent(tick=24, data=[9, 215, 214]),&lt;/dt&gt;
+&lt;dt&gt;midi.SetTempoEvent(tick=24, data=[10, 103, 106]),&lt;/dt&gt;
+&lt;dt&gt;midi.SetTempoEvent(tick=24, data=[10, 226, 237]),&lt;/dt&gt;
+&lt;dt&gt;midi.SetTempoEvent(tick=24, data=[11, 126, 229]),&lt;/dt&gt;
+&lt;dt&gt;midi.SetTempoEvent(tick=24, data=[12, 22, 109]),&lt;/dt&gt;
+&lt;dt&gt;midi.SetTempoEvent(tick=24, data=[12, 241, 204]),&lt;/dt&gt;
+&lt;dt&gt;midi.SetTempoEvent(tick=24, data=[13, 208, 171]),&lt;/dt&gt;
+&lt;dt&gt;midi.SetTempoEvent(tick=24, data=[14, 207, 174]),&lt;/dt&gt;
+&lt;dt&gt;midi.SetTempoEvent(tick=24, data=[16, 30, 101]),&lt;/dt&gt;
+&lt;dt&gt;midi.SetTempoEvent(tick=24, data=[16, 243, 60]),&lt;/dt&gt;
+&lt;dt&gt;midi.EndOfTrackEvent(tick=0, data=[])]),&lt;/dt&gt;
+&lt;dt&gt;midi.Track(\&lt;/dt&gt;
+&lt;dt&gt;[midi.TrackNameEvent(tick=0, text='Sampler (MIDI)', data=[83, 97, 109,&lt;/dt&gt;
+&lt;dt&gt;112, 108, 101, 114, 32, 40, 77, 73, 68, 73, 41]),&lt;/dt&gt;
+&lt;dt&gt;midi.ControlChangeEvent(tick=0, channel=0, data=[10, 64]),&lt;/dt&gt;
+&lt;dt&gt;midi.ControlChangeEvent(tick=0, channel=0, data=[7, 100]),&lt;/dt&gt;
+&lt;dt&gt;midi.PitchWheelEvent(tick=0, channel=0, data=[0, 64]),&lt;/dt&gt;
+&lt;dd&gt;&lt;/dd&gt;
+&lt;dd&gt;[/bash]&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;p&gt;これだけだとあんまり良くわからないので&lt;/p&gt;
+&lt;p&gt;こんなサイトを参考に&lt;a href="http://www2s.biglobe.ne.jp/~yyagi/material/smfspec.html"&gt;http://www2s.biglobe.ne.jp/~yyagi/material/smfspec.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;以下引用&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;SMFの実際&lt;/p&gt;
+&lt;p&gt;テンポ120で、四分音符でドレ、全音符でミを鳴らすSMF。&lt;/p&gt;
+&lt;p&gt;ランニングステータスが多用されていることに注意。
+また、ランニングステータスの効果を高めるために、 ノートオフとして 9n
+kk 00 (ベロシティゼロでノートオン) を使用している。&lt;/p&gt;
+&lt;p&gt;000000 4D 54 68 64 00 00 00 06 00 01 00 02 00 30 4D 54 /
+MThd.........0MT&lt;/p&gt;
+&lt;p&gt;000010 72 6B 00 00 00 0B 00 FF 51 03 07 A1 20 00 FF 2F /
+rk......Q....../&lt;/p&gt;
+&lt;p&gt;000020 00 4D 54 72 6B 00 00 00 18 00 90 3C 7F 30 3C 00 /
+.MTrk.....・0.0&gt;..@..0@.../&lt;/p&gt;
+&lt;p&gt;000040 00 / .&lt;/p&gt;
+&lt;p&gt;ヘッダ&lt;/p&gt;
+&lt;p&gt;4D 54 68 64 "MThd"&lt;/p&gt;
+&lt;p&gt;00 00 00 06 ブロック長(6)&lt;/p&gt;
+&lt;p&gt;00 01 フォーマット(1)&lt;/p&gt;
+&lt;p&gt;00 02 トラック数(2)&lt;/p&gt;
+&lt;p&gt;00 30 四分音符の分解能(0x30=48)&lt;/p&gt;
+&lt;p&gt;トラック1のデータ (Conductor Track)&lt;/p&gt;
+&lt;p&gt;4D 54 72 6B "MTrk"&lt;/p&gt;
+&lt;p&gt;00 00 00 0B ブロック長(0x0B=11)&lt;/p&gt;
+&lt;p&gt;00 FF 51 03 07 A1 20 テンポ(120)&lt;/p&gt;
+&lt;p&gt;00 FF 2F 00 トラックエンド&lt;/p&gt;
+&lt;p&gt;トラック2のデータ (演奏トラックその1)&lt;/p&gt;
+&lt;p&gt;4D 54 72 6B "MTrk"&lt;/p&gt;
+&lt;p&gt;00 00 00 18 ブロック長(0x18=24)&lt;/p&gt;
+&lt;p&gt;00 90 3C 7F ベロシティ127でノート3Cをノートオン&lt;/p&gt;
+&lt;p&gt;30 3C 00 48tick後、ノート3Cをノートオフ&lt;/p&gt;
+&lt;p&gt;00 3E 7F 直後に、ベロシティ127でノート3Eをノートオン&lt;/p&gt;
+&lt;p&gt;30 3E 00 48tick後、ノート3Eをノートオフ&lt;/p&gt;
+&lt;p&gt;00 40 7F 直後に、ベロシティ127でノート40をノートオン&lt;/p&gt;
+&lt;p&gt;81 40 40 00 192tick後、ノート40をノートオフ&lt;/p&gt;
+&lt;p&gt;00 FF 2F 00 トラックエンド&lt;/p&gt;
+&lt;p&gt;FF 51 03 tttttt : テンポ設定 (単位は μsec / MIDI 四分音符)&lt;/p&gt;
+&lt;p&gt;このイベントでテンポ変更を指示する。&lt;/p&gt;
+&lt;p&gt;tttttt (3byte) には、四分音符の長さをマイクロ秒 (μsec)
+で表したものを格納する。&lt;/p&gt;
+&lt;p&gt;例えば、BPM=120 (1分あたり四分音符が120個)の場合、 四分音符の長さは 60
+x 106 / 120 = 500,000 (μsec)。
+これを16進にすると0x07A120。従って、メタイベントは&lt;/p&gt;
+&lt;p&gt;FF 51 03 07 A1 20&lt;/p&gt;
+&lt;p&gt;となる。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;/引用終わり&lt;/p&gt;
+&lt;p&gt;・・・ということなのでSetTempoEventの部分をみてみると&lt;br /&gt;
+[bash][midi.SetTempoEvent(tick=0, data=[16, 243, 60]),&lt;br /&gt;
+midi.SetTempoEvent(tick=0, data=[6, 138, 27]),&lt;br /&gt;
+midi.SetTempoEvent(tick=768, data=[6, 138, 27]),&lt;br /&gt;
+midi.SetTempoEvent(tick=768, data=[6, 254, 136]),&lt;br /&gt;
+midi.SetTempoEvent(tick=24, data=[7, 111, 252]),&lt;br /&gt;
+midi.SetTempoEvent(tick=24, data=[7, 211, 193]),&lt;br /&gt;
+midi.SetTempoEvent(tick=24, data=[8, 14, 176]),&lt;br /&gt;
+midi.SetTempoEvent(tick=24, data=[8, 109, 233]),&lt;br /&gt;
+midi.SetTempoEvent(tick=24, data=[8, 190, 72]),&lt;br /&gt;
+midi.SetTempoEvent(tick=24, data=[9, 73, 112]),&lt;br /&gt;
+midi.SetTempoEvent(tick=24, data=[9, 215, 214]),&lt;br /&gt;
+midi.SetTempoEvent(tick=24, data=[10, 103, 106]),&lt;br /&gt;
+midi.SetTempoEvent(tick=24, data=[10, 226, 237]),&lt;br /&gt;
+midi.SetTempoEvent(tick=24, data=[11, 126, 229]),&lt;br /&gt;
+midi.SetTempoEvent(tick=24, data=[12, 22, 109]),&lt;br /&gt;
+midi.SetTempoEvent(tick=24, data=[12, 241, 204]),&lt;br /&gt;
+midi.SetTempoEvent(tick=24, data=[13, 208, 171]),&lt;br /&gt;
+midi.SetTempoEvent(tick=24, data=[14, 207, 174]),&lt;br /&gt;
+midi.SetTempoEvent(tick=24, data=[16, 30, 101]),&lt;br /&gt;
+midi.SetTempoEvent(tick=24, data=[16, 243, 60]),&lt;br /&gt;
+midi.EndOfTrackEvent(tick=0, data=[])]),[/bash]&lt;/p&gt;
+&lt;p&gt;BPMはdataの部分の数値を3byteの数値と見れば良い&lt;br /&gt;
+data=[6, 138, 27]の場合は&lt;br /&gt;
+[bash]&lt;br /&gt;
+27 + 256\^1 * 138 + 256\^2 * 6 = 428571(μsec)→4分音符の長さ&lt;br /&gt;
+BPM = 60000000 / 428571 = 140.00014000014 ≒ 140&lt;br /&gt;
+[/bash]&lt;br /&gt;
+となる&lt;/p&gt;
+&lt;p&gt;1.
+BPMを54.012に設定(プロジェクト最後のBPMをとりあえず最初につけてしまっている？)&lt;br /&gt;
+2. BPMを140に設定 (1.からtick=0差なのですぐにこのBPMが適用される)&lt;br /&gt;
+3. 2小節後(tick=96*4*2=768)にBPMを140に設定&lt;br /&gt;
+4. 2小節後にBPMを130.896に設定&lt;br /&gt;
+5. 以下16分音符ごとの間隔でBPMを54.012へ下げていく&lt;/p&gt;
+&lt;p&gt;となっているのがわかりますね。&lt;br /&gt;
+あとはこれを元にごにょごにょやるだけ。&lt;br /&gt;
+気が向いたら続きを書きます。&lt;/p&gt;</summary><category term="FL"></category><category term="midi"></category><category term="python"></category></entry><entry><title>FL Studio 11.0.4 on MacOSX</title><link href="http://ca5.github.io/blog/2014/03/21/fl-studio-11-0-4-on-macosx/" rel="alternate"></link><updated>2014-03-21T00:50:00+01:00</updated><author><name>Ca5</name></author><id>tag:ca5.github.io,2014-03-21:blog/2014/03/21/fl-studio-11-0-4-on-macosx/</id><summary type="html">&lt;p&gt;前に&lt;a href="http://blog.ca54makske.com/blog/2014/01/09/il-remote%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F/"&gt;この記事書いた時に&lt;/a&gt;IL-remoteのためにFLをアップデート(FL
+Studio 11.0.4)してたんですが、&lt;br /&gt;
+このアップデートのお陰で、MacBookにインストールしている&lt;a href="http://www.image-line.com/documents/news.php?entry_id=1378290309"&gt;FL Studio MacOS
+X
+Beta&lt;/a&gt;(これ書いてる時点では最新版が11.0.2)でプロジェクトファイルを開けなくなってしまいました。&lt;/p&gt;
+&lt;p&gt;~~&lt;strong&gt;そもそも0.2っつーマイナーバージョンアップでプロジェクトファイルの互換性失うのってどうなんだよ？&lt;/strong&gt;~~  &lt;/p&gt;
+&lt;p&gt;・・・という話は置いておいて、MacBookに最新版のFLをちゃんと入れられたのでやり方を簡単に書いておきます。&lt;/p&gt;
+&lt;h2&gt;必要なもの&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;FL Studio 11.0.4 インストーラ&lt;/li&gt;
+&lt;li&gt;FLRegkey.Reg (ユーザーページで発行)&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.codeweavers.com/products/"&gt;CrossOver&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;公式で配布されているベータ版のFL Studio
+MacOSXの実体はOSXネイティブなアプリではなくて&lt;br /&gt;
+CrossOverでラッピングしたものになってます。&lt;br /&gt;
+なので今回はCrossOverを使って自力でFLをインストールします&lt;/p&gt;
+&lt;h2&gt;インストール手順&lt;/h2&gt;
+&lt;p&gt;・・・といってもそんなに書くこともあまり無かったりしますが&lt;br /&gt;
+手順としてはこう&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;CrossOverをインストール&lt;/li&gt;
+&lt;li&gt;FLのインストーラを起動(CrossOverが立ち上がってインストーラを起動しようとする)&lt;/li&gt;
+&lt;li&gt;FLをインストールしたボトル(CrossOverの仮想マシン?)のレジストリエディタを起動してFLRegKey.Regを登録&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;わかりにくいやつ&lt;/h2&gt;
+&lt;p&gt;まず最初に躓いたのがインストーラで&lt;/p&gt;
+&lt;p&gt;[flickr id="13289019103" thumbnail="small_320" overlay="true"
+size="original" group="" align="none"]&lt;/p&gt;
+&lt;p&gt;途中で真っ白な画面があるんですが、何かを選択しなければならなかったようで先に進みません。  &lt;/p&gt;
+&lt;p&gt;これを回避するには&lt;strong&gt;この前の画面からウィンドウのフォーカスが変わらないように[Next]を押&lt;/strong&gt;さなければならないです。&lt;/p&gt;
+&lt;p&gt;ちなみに、これなんの選択画面だったかというと&lt;br /&gt;
+[flickr id="13289386705" thumbnail="small_320" overlay="true"
+size="original" group="" align="none"]  &lt;/p&gt;
+&lt;p&gt;上のバナーにもありますがあの悪名高きhaoでした。汚いさすがhao123きたない。&lt;/p&gt;
+&lt;p&gt;次に躓いたのがレジストリの登録ですが、  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://d.hatena.ne.jp/Kei_9/20060921/1158803907"&gt;このへん&lt;/a&gt;見て分かったんですが  &lt;/p&gt;
+&lt;p&gt;CrossOverで作った各ボトルにはちゃんとレジストリエディタが標準でインストールされるようになってます&lt;br /&gt;
+(各ボトルのdir/drive_c/windows/regedit.exe)&lt;br /&gt;
+これを起動して、レジストリの取り込み→FLRegKey.regを選択すれば登録完了&lt;/p&gt;
+&lt;h2&gt;おわりに&lt;/h2&gt;
+&lt;p&gt;&lt;a href="http://support.image-line.com/knowledgebase/base.php?id=55&amp;amp;ans=114"&gt;Image-LineさんがFLのOSXネイティブ対応諦めてるっぽい&lt;/a&gt;おかげでMacOSX機でFL使うのはちょっと最初がめんどくさいですが、&lt;br /&gt;
+自分が使った感じではこのCrossOver環境で十分に使えてると思います。&lt;/p&gt;
+&lt;p&gt;あと、CrossOver環境における利点も実はあって・・・&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;windows用のVSTプラグイン(.dll)をそのまま使える！&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ので、ぼくのようにwindowsでもmacでも同じ作曲環境を作りたい人にとっては&lt;br /&gt;
+実はありがたかったりします。&lt;/p&gt;</summary><category term="crossover"></category><category term="FL"></category><category term="mac"></category></entry><entry><title>【ライブ音源】VolDope4おつかれさまでした</title><link href="http://ca5.github.io/blog/2014/01/16/after-vdp4/" rel="alternate"></link><updated>2014-01-16T23:38:00+01:00</updated><author><name>Ca5</name></author><id>tag:ca5.github.io,2014-01-16:blog/2014/01/16/after-vdp4/</id><summary type="html">&lt;p&gt;VolDope4お疲れさまでした&lt;br /&gt;
+ライブの再現音源をまたmixcloudで公開しました&lt;/p&gt;
+&lt;iframe width="660" height="180" src="//www.mixcloud.com/widget/iframe/?feed=http%3A%2F%2Fwww.mixcloud.com%2Fca54makske%2Fca5-vdp4%2F&amp;amp;embed_type=widget_standard&amp;amp;embed_uuid=e311e3a7-404b-4581-8815-f675a946f71b&amp;amp;hide_tracklist=1&amp;amp;hide_cover=1" frameborder="0"&gt;&lt;/iframe&gt;
+
+&lt;div style="clear: both; height: 3px; width: 652px;"&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;&lt;a href="http://www.mixcloud.com/ca54makske/ca5-vdp4/?utm_source=widget&amp;amp;amp;utm_medium=web&amp;amp;amp;utm_campaign=base_links&amp;amp;amp;utm_term=resource_link"&gt;Ca5-vdp4&lt;/a&gt;&lt;span&gt;
+by&lt;/span&gt;&lt;a href="http://www.mixcloud.com/ca54makske/?utm_source=widget&amp;amp;amp;utm_medium=web&amp;amp;amp;utm_campaign=base_links&amp;amp;amp;utm_term=profile_link"&gt;Ca5&lt;/a&gt;&lt;span&gt;
+on&lt;/span&gt;&lt;a href="http://www.mixcloud.com/?utm_source=widget&amp;amp;utm_medium=web&amp;amp;utm_campaign=base_links&amp;amp;utm_term=homepage_link"&gt;Mixcloud&lt;/a&gt;&lt;/p&gt;
+&lt;div style="clear: both; height: 3px; width: 652px;"&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;今回のセットは40分なのでちょっと長めです&lt;/p&gt;</summary><category term="dopeup"></category><category term="live"></category><category term="vol4"></category></entry><entry><title>IL Remote使ってみた</title><link href="http://ca5.github.io/blog/2014/01/09/il-remote%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F/" rel="alternate"></link><updated>2014-01-09T00:33:00+01:00</updated><author><name>Ca5</name></author><id>tag:ca5.github.io,2014-01-09:blog/2014/01/09/il-remote使ってみた/</id><summary type="html">&lt;p&gt;FL Studio専用のコントローラアプリが出ていたのでちょっと使ってみました。&lt;br /&gt;
+使ってみたのはiPad版です。  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.flickr.com/photos/46200029@N06/11838119063/"&gt;&lt;img alt="" src="http://farm6.staticflickr.com/5549/11838119063_7a8db5934c_b.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;とりあえず所感だけ並べると、&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;設定がとても簡単&lt;/li&gt;
+&lt;li&gt;機能も十分&lt;/li&gt;
+&lt;li&gt;しかも無料！&lt;/li&gt;
+&lt;li&gt;HARMOのタブのキーボードがアレンジにつかえそう&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;と割りと使えそうだなという印象なんですが、一つだけ残念なのが&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;各タブの画面はそれぞれの機能がアクティブになってないと操作が効かない&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;ってところでした。&lt;br /&gt;
+例えば、IL
+Remoteでミキサーの画面をいじろうとしても、FL上でミキサーのウィンドウが手前に来てないと操作できないんです。&lt;/p&gt;
+&lt;p&gt;なんでこんなことになってるのかなーと思って何気なくこの記事書きながらMAINタブの[PLAYLIST]ボタン押したら、&lt;br /&gt;
+あやうくこの記事が消えそうになりました。&lt;br /&gt;
+どうやらこのコントローラはmidi +
+キーボードの操作を送りつける仕様だったみたいです。&lt;br /&gt;
+（FL上でF5押すとPlayListが出るようになってます。）&lt;/p&gt;
+&lt;p&gt;・・・とちょっとダメ出しかいてみましたが、&lt;br /&gt;
+基本的には便利なコントローラだと思いますよ。無料だし！&lt;/p&gt;</summary><category term="FL"></category><category term="ILRemote"></category></entry><entry><title>2013年まとめ</title><link href="http://ca5.github.io/blog/2013/12/30/end-of2013/" rel="alternate"></link><updated>2013-12-30T22:30:00+01:00</updated><author><name>Ca5</name></author><id>tag:ca5.github.io,2013-12-30:blog/2013/12/30/end-of2013/</id><summary type="html">&lt;p&gt;今年の活動まとめ&lt;/p&gt;
+&lt;h2&gt;■リリース一覧&lt;/h2&gt;
+&lt;p&gt;上から新しい順に&lt;br /&gt;
+&lt;strong&gt;-Only Lonely Holy Story(Only Holy Story remix)&lt;/strong&gt;  &lt;/p&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/121528815&amp;amp;color=ff6600&amp;amp;auto_play=false&amp;amp;show_artwork=true" frameborder="no" scrolling="no" width="100%" height="166"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;strong&gt;-Memory of the Cartridge&lt;/strong&gt;&lt;br /&gt;
+[&lt;img alt="" src="http://www.otherman-records.com/images/releases/OTMN051.jpg" /&gt;  &lt;/p&gt;
+&lt;p&gt;http://www.otherman-records.com/releases/OTMN051](http://www.otherman-records.com/releases/OTMN051)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;-Monster Tale&lt;/strong&gt;(#12 Summer Shores/Ca5)&lt;br /&gt;
+[&lt;img alt="" src="http://8081netlabel.ru/img2/va013.png" /&gt;  &lt;/p&gt;
+&lt;p&gt;http://8081netlabel.ru/news/8081_va013_monster_tale/2013-10-13-117](http://8081netlabel.ru/news/8081_va013_monster_tale/2013-10-13-117)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;-Last Summer EP&lt;/strong&gt;(#2 Suikawari/Ca5)&lt;br /&gt;
+[&lt;img alt="" src="http://www.otherman-records.com/images/releases/OTMN047.jpg" /&gt;  &lt;/p&gt;
+&lt;p&gt;http://www.otherman-records.com/releases/OTMN047](http://www.otherman-records.com/releases/OTMN047)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;-HEMISHINKU&lt;/strong&gt;(#2 symmetric/Ca5)&lt;br /&gt;
+[&lt;img alt="" src="http://pitifulpippuppet.jp/pic/2013/hemi265.gif" /&gt;  &lt;/p&gt;
+&lt;p&gt;http://pitifulpippuppet.jp/album/hemishinku/download.html](http://pitifulpippuppet.jp/album/hemishinku/download.html")&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;-Deep Blue&lt;/strong&gt;&lt;br /&gt;
+[&lt;img alt="" src="http://www.archive.org/download/OTMN045/deepblue-jacket.jpg" /&gt;  &lt;/p&gt;
+&lt;p&gt;http://www.otherman-records.com/releases/OTMN045](http://www.otherman-records.com/releases/OTMN045)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;-#6699FF(2006, original)&lt;/strong&gt;  &lt;/p&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F85620202"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;strong&gt;-Haruyo, Koi (#6699FF mix)&lt;/strong&gt;  &lt;/p&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F85618646"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;strong&gt;-memory of the cartridge (DEMO)&lt;/strong&gt;  &lt;/p&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F82757708"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;strong&gt;-iron&lt;/strong&gt;(#1 steel wool/Ca5)&lt;br /&gt;
+[&lt;img alt="" src="http://pitifulpippuppet.web.fc2.com/pic/IRON400.gif" /&gt;  &lt;/p&gt;
+&lt;p&gt;http://pitifulpippuppet.web.fc2.com/album/iron.html](http://pitifulpippuppet.web.fc2.com/album/iron.html)&lt;/p&gt;
+&lt;h2&gt;■ライブ&lt;/h2&gt;
+&lt;p&gt;上から新しい順に&lt;br /&gt;
+&lt;strong&gt;2013/7/27 OthermanShow #9&lt;/strong&gt;  &lt;/p&gt;
+&lt;iframe width="360" height="360" src="//www.mixcloud.com/widget/iframe/?feed=http%3A%2F%2Fwww.mixcloud.com%2Fca54makske%2Fca5-otmn9%2F&amp;amp;mini=&amp;amp;stylecolor=&amp;amp;hide_artwork=&amp;amp;embed_type=widget_standard&amp;amp;embed_uuid=e4de5dcd-badf-481c-aaf4-aa70f3853069&amp;amp;hide_tracklist=&amp;amp;hide_cover=1&amp;amp;autoplay=" frameborder="0"&gt;&lt;/iframe&gt;
+
+&lt;div style="clear:both; height:3px; width:352px;"&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;&lt;a href="http://www.mixcloud.com/ca54makske/ca5-otmn9/?utm_source=widget&amp;amp;utm_medium=web&amp;amp;utm_campaign=base_links&amp;amp;utm_term=resource_link"&gt;Ca5-otmn9&lt;/a&gt;&lt;span&gt;
+by&lt;/span&gt;&lt;a href="http://www.mixcloud.com/ca54makske/?utm_source=widget&amp;amp;utm_medium=web&amp;amp;utm_campaign=base_links&amp;amp;utm_term=profile_link"&gt;Ca5&lt;/a&gt;&lt;span&gt;
+on&lt;/span&gt;&lt;a href="http://www.mixcloud.com/?utm_source=widget&amp;amp;utm_medium=web&amp;amp;utm_campaign=base_links&amp;amp;utm_term=homepage_link"&gt;Mixcloud&lt;/a&gt;&lt;/p&gt;
+&lt;div style="clear:both; height:3px;"&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;2013/7/27 OthermanShow #8&lt;/strong&gt;  &lt;/p&gt;
+&lt;iframe width="360" height="360" src="//www.mixcloud.com/widget/iframe/?feed=http%3A%2F%2Fwww.mixcloud.com%2Fca54makske%2Fca5-otmn8%2F&amp;amp;mini=&amp;amp;stylecolor=&amp;amp;hide_artwork=&amp;amp;embed_type=widget_standard&amp;amp;embed_uuid=d8ce6635-98d7-435e-97e8-760fbbde8b22&amp;amp;hide_tracklist=&amp;amp;hide_cover=1&amp;amp;autoplay=" frameborder="0"&gt;&lt;/iframe&gt;
+
+&lt;div style="clear:both; height:3px; width:352px;"&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;&lt;a href="http://www.mixcloud.com/ca54makske/ca5-otmn8/?utm_source=widget&amp;amp;utm_medium=web&amp;amp;utm_campaign=base_links&amp;amp;utm_term=resource_link"&gt;Ca5-otmn8&lt;/a&gt;&lt;span&gt;
+by&lt;/span&gt;&lt;a href="http://www.mixcloud.com/ca54makske/?utm_source=widget&amp;amp;utm_medium=web&amp;amp;utm_campaign=base_links&amp;amp;utm_term=profile_link"&gt;Ca5&lt;/a&gt;&lt;span&gt;
+on&lt;/span&gt;&lt;a href="http://www.mixcloud.com/?utm_source=widget&amp;amp;utm_medium=web&amp;amp;utm_campaign=base_links&amp;amp;utm_term=homepage_link"&gt;Mixcloud&lt;/a&gt;&lt;/p&gt;
+&lt;div style="clear:both; height:3px;"&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;2013/7/15 FL研究会&lt;/strong&gt;  &lt;/p&gt;
+&lt;iframe width="360" height="360" src="//www.mixcloud.com/widget/iframe/?feed=http%3A%2F%2Fwww.mixcloud.com%2Fca54makske%2Flivefl%25E7%25A0%2594%25E7%25A9%25B6%25E4%25BC%259A2013715-ca5%2F&amp;amp;mini=&amp;amp;stylecolor=&amp;amp;hide_artwork=&amp;amp;embed_type=widget_standard&amp;amp;embed_uuid=d2da2fa5-ef00-4760-9db2-7fcc05f5ae67&amp;amp;hide_tracklist=&amp;amp;hide_cover=1&amp;amp;autoplay=" frameborder="0"&gt;&lt;/iframe&gt;
+
+&lt;div style="clear:both; height:3px; width:352px;"&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;&lt;a href="http://www.mixcloud.com/ca54makske/livefl%E7%A0%94%E7%A9%B6%E4%BC%9A2013715-ca5/?utm_source=widget&amp;amp;utm_medium=web&amp;amp;utm_campaign=base_links&amp;amp;utm_term=resource_link"&gt;Live@FL研究会(2013/7/15) -
+Ca5&lt;/a&gt;&lt;span&gt;
+by&lt;/span&gt;&lt;a href="http://www.mixcloud.com/ca54makske/?utm_source=widget&amp;amp;utm_medium=web&amp;amp;utm_campaign=base_links&amp;amp;utm_term=profile_link"&gt;Ca5&lt;/a&gt;&lt;span&gt;
+on&lt;/span&gt;&lt;a href="http://www.mixcloud.com/?utm_source=widget&amp;amp;utm_medium=web&amp;amp;utm_campaign=base_links&amp;amp;utm_term=homepage_link"&gt;Mixcloud&lt;/a&gt;&lt;/p&gt;
+&lt;div style="clear:both; height:3px;"&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;2014年もよろしくお願いします&lt;br /&gt;
+来月は早速ライブがあります&lt;br /&gt;
+&lt;a href="http://blog.ca54makske.com/blog/2013/12/18/voldope4/"&gt;http://blog.ca54makske.com/blog/2013/12/18/voldope4/&lt;br /&gt;
+&lt;/a&gt;&lt;/p&gt;</summary></entry><entry><title>【ライブ音源】アザマンショー９お疲れ様でした</title><link href="http://ca5.github.io/blog/2013/12/10/after-otmn9/" rel="alternate"></link><updated>2013-12-10T01:00:00+01:00</updated><author><name>Ca5</name></author><id>tag:ca5.github.io,2013-12-10:blog/2013/12/10/after-otmn9/</id><summary type="html">&lt;p&gt;今回なんと会場のBe-WaveさんがUSTのアーカイブ残してくださってます！感謝！&lt;/p&gt;
+&lt;p&gt;この動画は Ca5, スーパーサグ, ebi1000, PortaL と続くアーカイブ&lt;br /&gt;
+&lt;a href="http://www.ustream.tv/recorded/41489660"&gt;http://www.ustream.tv/recorded/41489660&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;他の方のアーカイブも残ってます！&lt;br /&gt;
+http://www.ustream.tv/channel/bewave-ust&lt;/p&gt;
+&lt;p&gt;一応いつもの再現mixcloudもあげておきました  &lt;/p&gt;
+&lt;iframe width="600" height="360" src="//www.mixcloud.com/widget/iframe/?feed=http%3A%2F%2Fwww.mixcloud.com%2Fca54makske%2Fca5-otmn9%2F&amp;amp;mini=&amp;amp;stylecolor=&amp;amp;hide_artwork=&amp;amp;embed_type=widget_standard&amp;amp;embed_uuid=6e493d3a-f87b-4262-a62e-85479b923b22&amp;amp;hide_tracklist=&amp;amp;hide_cover=1&amp;amp;autoplay=" frameborder="0"&gt;&lt;/iframe&gt;
+
+&lt;div style="clear:both; height:3px; width:592px;"&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;&lt;a href="http://www.mixcloud.com/ca54makske/ca5-otmn9/?utm_source=widget&amp;amp;utm_medium=web&amp;amp;utm_campaign=base_links&amp;amp;utm_term=resource_link"&gt;Ca5-otmn9&lt;/a&gt;&lt;span&gt;
+by&lt;/span&gt;&lt;a href="http://www.mixcloud.com/ca54makske/?utm_source=widget&amp;amp;utm_medium=web&amp;amp;utm_campaign=base_links&amp;amp;utm_term=profile_link"&gt;Ca5&lt;/a&gt;&lt;span&gt;
+on&lt;/span&gt;&lt;a href="http://www.mixcloud.com/?utm_source=widget&amp;amp;utm_medium=web&amp;amp;utm_campaign=base_links&amp;amp;utm_term=homepage_link"&gt;Mixcloud&lt;/a&gt;&lt;/p&gt;
+&lt;div style="clear:both; height:3px;"&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;今回mixcloudのサムネに使わせていただいたのは、&lt;br /&gt;
+Memory of the
+Cartridgeのジャケのtac-t!sくんが描いてくれたアナザージャケットです！  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://ryuusanndorodoronanndemotokasu.tumblr.com/post/69476348438/memory-of-the-cartridge"&gt;http://ryuusanndorodoronanndemotokasu.tumblr.com/post/69476348438/memory-of-the-cartridge&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;さらにこのアナザージャケットをmaru303さんがファミコンのスタート画面風に動くアレンジをしてくれました！カッコイイ！&lt;br /&gt;
+&lt;a href="http://1post1design.tumblr.com/post/69386361095/tac-tis-op"&gt;http://1post1design.tumblr.com/post/69386361095/tac-tis-op&lt;/a&gt;&lt;/p&gt;</summary><category term="breakcore"></category><category term="chipbreak"></category><category term="chiptune"></category><category term="live"></category><category term="otherman"></category></entry><entry><title>【arduino】距離センサとKAOSSPAD連動させてみた</title><link href="http://ca5.github.io/blog/2013/11/26/arduino-kaosspad/" rel="alternate"></link><updated>2013-11-26T01:36:00+01:00</updated><author><name>Ca5</name></author><id>tag:ca5.github.io,2013-11-26:blog/2013/11/26/arduino-kaosspad/</id><summary type="html">&lt;p&gt;arduino実験&lt;br /&gt;
+説明するより動画見たほうが早いっす  &lt;/p&gt;
+&lt;iframe width="420" height="315" src="//www.youtube.com/embed/p5obKtVHaRE" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;距離センサの値をmax/mspで受け取って、midiに変換してKAOSSPADに投げてます。&lt;/p&gt;
+&lt;p&gt;今回ネットで調べて情報が多くかつ扱いも簡単そうなシャープの2Y0A21YKって距離センサーを使ってみました。&lt;br /&gt;
+&lt;a href="http://akizukidenshi.com/catalog/g/gI-02551/"&gt;http://akizukidenshi.com/catalog/g/gI-02551/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;距離が離れてくるとどうもノイズと区別できなくなってしまうようで、値がふらついてしまいます。  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://blog.pineapple.cc/post/50115809244/gp2y0a21yk-100uf"&gt;ここのブログ&lt;/a&gt;のように電解コンデンサを挟んでやるといいらしいんですが、  &lt;/p&gt;
+&lt;p&gt;あいにく手元にそんな部品ないんでmax側でソフトウェア的に制御できないかなーといろいろ試したんですが&lt;br /&gt;
+今のところうまくいってないです。&lt;br /&gt;
+おとなしく電解コンデンサ買いに行こうかな。&lt;/p&gt;</summary><category term="arduino"></category><category term="max/msp"></category><category term="midi"></category></entry><entry><title>max5 + maxuino + Arduino UNO + OSC の組み合わせに気をつけろ</title><link href="http://ca5.github.io/blog/2013/11/11/max5-maxduino/" rel="alternate"></link><updated>2013-11-11T01:18:00+01:00</updated><author><name>Ca5</name></author><id>tag:ca5.github.io,2013-11-11:blog/2013/11/11/max5-maxduino/</id><summary type="html">&lt;p&gt;arduinoに手を出し始めました&lt;br /&gt;
+正直まだブレッドボードの正しい使い方すら怪しいです&lt;/p&gt;
+&lt;p&gt;[flickr id="10780096903" thumbnail="small_320" overlay="true"
+size="large" group="" align="none"]&lt;/p&gt;
+&lt;p&gt;とりあえず今までmax/mspで作ってきたライブセットと連動させることを当面の目標にしているので、  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.maxuino.org"&gt;maxuino&lt;/a&gt;を使ってとりあえずLEDをPWDモードで明るさ変更して光らせるってとこまでやってみました。&lt;/p&gt;
+&lt;p&gt;maxuino使ってみて気づいたんですが、&lt;br /&gt;
+max5で使ってると最新版のb016で
+maxuino-gui経由のOSC入力がうまくいかないです。&lt;br /&gt;
+中身見てみたら OSC-route
+オブジェクトがひとつもなくてどうなってるんだ？と思ったら&lt;br /&gt;
+max6以降は標準のrouteオブジェクトでOSC対応してるんですね。。。&lt;/p&gt;
+&lt;p&gt;かといって、バージョン014を使おうとすると&lt;br /&gt;
+今度はArduino UNO用のピンセットにあったモードが無いようで&lt;br /&gt;
+これでもまたうまくいかず。&lt;/p&gt;
+&lt;p&gt;max5 + maxuino + Android UNOな環境では&lt;br /&gt;
+自力でOSC-route使ってメッセージを分けるか、&lt;br /&gt;
+OSC使うの諦めるしかないようですね。&lt;/p&gt;
+&lt;p&gt;まあ、maxuinoが全く使えないというわけではないので&lt;br /&gt;
+そんなにクリティカルな話でもなさそうです。&lt;/p&gt;
+&lt;p&gt;参考:&lt;br /&gt;
+&lt;a href="http://www.maxuino.org/getting-started"&gt;http://www.maxuino.org/getting-started&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://yoppa.org/ssaw12/3759.html"&gt;http://yoppa.org/ssaw12/3759.html&lt;/a&gt;&lt;/p&gt;</summary><category term="arduino"></category><category term="max/msp"></category><category term="osc"></category></entry><entry><title>【Live音源公開】あざまんしょー8お疲れ様でした #アザマンショー</title><link href="http://ca5.github.io/blog/2013/07/30/after-otmn8/" rel="alternate"></link><updated>2013-07-30T22:30:00+02:00</updated><author><name>Ca5</name></author><id>tag:ca5.github.io,2013-07-30:blog/2013/07/30/after-otmn8/</id><summary type="html">&lt;p&gt;おつかれさまでしたー　ということで&lt;br /&gt;
+ライブの元音源公開です。&lt;/p&gt;
+&lt;iframe width="480" height="480" src="//www.mixcloud.com/widget/iframe/?feed=http%3A%2F%2Fwww.mixcloud.com%2Fca54makske%2Fca5-otmn8%2F&amp;amp;embed_uuid=4e76e03a-b61f-4e4a-984a-d7aded3d7930&amp;amp;stylecolor=&amp;amp;embed_type=widget_standard" frameborder="0"&gt;&lt;/iframe&gt;
+
+&lt;div style="clear:both; height:3px; width:472px;"&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;&lt;a href="http://www.mixcloud.com/ca54makske/ca5-otmn8/?utm_source=widget&amp;amp;utm_medium=web&amp;amp;utm_campaign=base_links&amp;amp;utm_term=resource_link"&gt;Ca5-otmn8&lt;/a&gt;&lt;span&gt;
+by&lt;/span&gt;&lt;a href="http://www.mixcloud.com/ca54makske/?utm_source=widget&amp;amp;utm_medium=web&amp;amp;utm_campaign=base_links&amp;amp;utm_term=profile_link"&gt;Ca5&lt;/a&gt;&lt;span&gt;
+on&lt;/span&gt;&lt;a href="http://www.mixcloud.com/?utm_source=widget&amp;amp;utm_medium=web&amp;amp;utm_campaign=base_links&amp;amp;utm_term=homepage_link"&gt;Mixcloud&lt;/a&gt;&lt;/p&gt;
+&lt;div style="clear:both; height:3px;"&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;-おまけ-&lt;br /&gt;
+当日配った「Ca5のわけあリミックス」のトラックリストはこちら&lt;/p&gt;
+&lt;p&gt;[soundcloud url="http://api.soundcloud.com/tracks/61113618" params=""
+width=" 100%" height="166" iframe="true" /]&lt;br /&gt;
+[soundcloud url="http://api.soundcloud.com/tracks/65097747" params=""
+width=" 100%" height="166" iframe="true" /]&lt;br /&gt;
+[soundcloud url="http://api.soundcloud.com/tracks/69554196" params=""
+width=" 100%" height="166" iframe="true" /]&lt;br /&gt;
+[soundcloud url="http://api.soundcloud.com/tracks/85618646" params=""
+width=" 100%" height="166" iframe="true" /]&lt;/p&gt;
+&lt;p&gt;またいつかどこかでくばるかもしれません&lt;/p&gt;</summary></entry><entry><title>【LIVE音源公開】FL研究会お疲れさまでした #FL研究会</title><link href="http://ca5.github.io/blog/2013/07/17/%E3%80%90live%E9%9F%B3%E6%BA%90%E5%85%AC%E9%96%8B%E3%80%91fl%E7%A0%94%E7%A9%B6%E4%BC%9A%E3%81%8A%E7%96%B2%E3%82%8C%E3%81%95%E3%81%BE%E3%81%A7%E3%81%97%E3%81%9F%20fl%E7%A0%94%E7%A9%B6%E4%BC%9A/" rel="alternate"></link><updated>2013-07-17T01:37:00+02:00</updated><author><name>Ca5</name></author><id>tag:ca5.github.io,2013-07-17:blog/2013/07/17/【live音源公開】fl研究会お疲れさまでした fl研究会/</id><summary type="html">&lt;h1&gt;FL研究会&lt;/h1&gt;
+&lt;p&gt;あまり告知できず当日を迎えてしまいましたが、7/15(月)はFL研究会
+@中野HeavySickZero でした！&lt;br /&gt;
+同じソフトを使って曲を作っているはずなのに、&lt;br /&gt;
+皆さんそれぞれ、使い方が個性的でとても面白かったです。&lt;/p&gt;
+&lt;p&gt;この日自分の発表では&lt;br /&gt;
+・macでFLを動かす方法(VirtualBox利用)&lt;br /&gt;
+・Slicexとミキサーチャンネル分割&lt;br /&gt;
+・midioutプラグイン + Glitchプラグインでエフェクト切り替え&lt;br /&gt;
+あたりの説明をしました。&lt;/p&gt;
+&lt;p&gt;3つめのGlitchのネタは実はyoutubeで見つけたもの丸パクリだったりします（てへ  &lt;/p&gt;
+&lt;iframe width="560" height="315" src="//www.youtube.com/embed/oYQzKEyJGXA" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Glitch使うとどうしても、「いかにもGlitch使ってます！」って音になるのがいやだなー&lt;br /&gt;
+と思ってる方はこれを試してみてはどうでしょうか？&lt;br /&gt;
+エフェクトの種類やかかるタイミングをピンポイントに設定してやるだけでも&lt;br /&gt;
+だいぶ変わってくると思います。&lt;/p&gt;
+&lt;h1&gt;おまけ&lt;/h1&gt;
+&lt;p&gt;この日のLiveに使った音源をアップしてみました  &lt;/p&gt;
+&lt;p&gt;Live中に録音したものではないので、当日にアドリブでかけてたエフェクトはかかってないです  &lt;/p&gt;
+&lt;iframe width="480" height="480" src="//www.mixcloud.com/widget/iframe/?feed=http%3A%2F%2Fwww.mixcloud.com%2Fca54makske%2Flivefl%25E7%25A0%2594%25E7%25A9%25B6%25E4%25BC%259A2013715-ca5%2F&amp;amp;embed_uuid=50efc11b-3363-4ded-a9bc-5fc61b47ac7d&amp;amp;stylecolor=&amp;amp;embed_type=widget_standard" frameborder="0"&gt;&lt;/iframe&gt;
+
+&lt;div style="clear:both; height:3px; width:472px;"&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;&lt;a href="http://www.mixcloud.com/ca54makske/livefl%E7%A0%94%E7%A9%B6%E4%BC%9A2013715-ca5/?utm_source=widget&amp;amp;utm_medium=web&amp;amp;utm_campaign=base_links&amp;amp;utm_term=resource_link"&gt;Live@FL研究会(2013/7/15) -
+Ca5&lt;/a&gt;&lt;span&gt;
+by&lt;/span&gt;&lt;a href="http://www.mixcloud.com/ca54makske/?utm_source=widget&amp;amp;utm_medium=web&amp;amp;utm_campaign=base_links&amp;amp;utm_term=profile_link"&gt;Ca5&lt;/a&gt;&lt;span&gt;
+on&lt;/span&gt;&lt;a href="http://www.mixcloud.com/?utm_source=widget&amp;amp;utm_medium=web&amp;amp;utm_campaign=base_links&amp;amp;utm_term=homepage_link"&gt;Mixcloud&lt;/a&gt;&lt;/p&gt;
+&lt;div style="clear:both; height:3px;"&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;曲のURL一覧&lt;br /&gt;
+http://pitifulpippuppet.web.fc2.com/album/hemishinku/download.html&lt;br /&gt;
+http://pitifulpippuppet.web.fc2.com/album/iron.html&lt;br /&gt;
+http://www.otherman-records.com/releases/OTMN045&lt;br /&gt;
+https://soundcloud.com/ca54makske/haruyo-koi-6699ff-mix&lt;br /&gt;
+https://soundcloud.com/ca54makske/mgmn3-megaman3-op-remix&lt;br /&gt;
+https://soundcloud.com/ca54makske/kimi-to-boku-to-chipbreak-kimi&lt;br /&gt;
+http://nkrn.bandcamp.com/album/soulgem-breaks&lt;/p&gt;</summary></entry><entry><title>Live set DEMO動画投稿しました</title><link href="http://ca5.github.io/blog/2013/04/03/live-set-demo/" rel="alternate"></link><updated>2013-04-03T01:46:00+02:00</updated><author><name>Ca5</name></author><id>tag:ca5.github.io,2013-04-03:blog/2013/04/03/live-set-demo/</id><summary type="html">&lt;p&gt;しばらくライブの予定がないんですが、久々にライブセット広げて動画とってみました。  &lt;/p&gt;
+&lt;p&gt;ライブのセット自体は&lt;a href="http://www.youtube.com/watch?v=ck2LWPL8soE"&gt;前に動画とったもの&lt;/a&gt;と同じ仕様です。&lt;br /&gt;
+久々すぎて起動の仕方忘れてえらい苦労しました&lt;/p&gt;
+&lt;iframe width="640" height="360" src="http://www.youtube.com/embed/PrIYCSweC1w?feature=player_detailpage" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;後半調子に乗ってエフェクトかけすぎてますが気にしない！  &lt;/p&gt;
+&lt;p&gt;こんなライブ見てみたいって方いらしたら是非是非ライブのブッキングお待ちしております。&lt;/p&gt;</summary><category term="iPad"></category><category term="max/msp"></category><category term="touchosc"></category></entry><entry><title>othermanshow@firejam2012の動画全員分アップロードしました</title><link href="http://ca5.github.io/blog/2012/11/11/othermanshowfirejam2012%E3%81%AE%E5%8B%95%E7%94%BB%E5%85%A8%E5%93%A1%E5%88%86%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%BC%E3%83%89%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/" rel="alternate"></link><updated>2012-11-11T19:10:00+01:00</updated><author><name>Ca5</name></author><id>tag:ca5.github.io,2012-11-11:blog/2012/11/11/othermanshowfirejam2012の動画全員分アップロードしました/</id><summary type="html">&lt;p&gt;firejam2012でのothermanクルー全員分の動画をアップロードしましたー&lt;/p&gt;
+&lt;p&gt;URL一覧はこちら&lt;br /&gt;
+&lt;a href="http://blog.otherman-records.com/post/35474757069/firejam2012"&gt;http://blog.otherman-records.com/post/35474757069/firejam2012&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;miii&lt;br /&gt;
+ http://blog.otherman-records.com/post/35474237634/miii-live-firejam2012&lt;/p&gt;
+&lt;p&gt;storz  &lt;/p&gt;
+&lt;p&gt;http://blog.otherman-records.com/post/35474277697/storz-live-firejam2012&lt;/p&gt;
+&lt;p&gt;suesett  &lt;/p&gt;
+&lt;p&gt;http://blog.otherman-records.com/post/35474318212/suesett-live-firejam2012&lt;/p&gt;
+&lt;p&gt;nishikawacchi  &lt;/p&gt;
+&lt;p&gt;http://blog.otherman-records.com/post/35474338628/nishikawacchi-dj-firejam2012&lt;/p&gt;
+&lt;p&gt;Ca5&lt;br /&gt;
+ http://blog.otherman-records.com/post/35474349089/ca5-live-firejam2012&lt;/p&gt;
+&lt;p&gt;ebi1000  &lt;/p&gt;
+&lt;p&gt;http://blog.otherman-records.com/post/35474370145/ebi1000-live-firejam2012&lt;/p&gt;
+&lt;p&gt;iserobin  &lt;/p&gt;
+&lt;p&gt;http://blog.otherman-records.com/post/35474379444/iserobin-live-firejam2012&lt;/p&gt;
+&lt;p&gt;othermoon  &lt;/p&gt;
+&lt;p&gt;http://blog.otherman-records.com/post/35474399958/othermoon-dj-firejam2012&lt;/p&gt;
+&lt;/blockquote&gt;</summary><category term="otherman"></category></entry><entry><title>firejam2012の動画</title><link href="http://ca5.github.io/blog/2012/09/06/firejam2012%E3%81%AE%E5%8B%95%E7%94%BB/" rel="alternate"></link><updated>2012-09-06T23:59:00+02:00</updated><author><name>Ca5</name></author><id>tag:ca5.github.io,2012-09-06:blog/2012/09/06/firejam2012の動画/</id><summary type="html">&lt;p&gt;もう１週間以上すぎてしまいましたがfirejamお疲れ様でした！&lt;br /&gt;
+以下は自分のライブの様子です  &lt;/p&gt;
+&lt;iframe width="420" height="315" src="http://www.youtube.com/embed/4qJNfEFd_xc" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;たまに左に手かざしているように見えますが、  &lt;/p&gt;
+&lt;p&gt;その先にはkinectが設置してあって、KAOSSPADのエフェクトがかかるようになってます。&lt;/p&gt;</summary><category term="kinect"></category><category term="live"></category><category term="max/msp"></category><category term="otherman"></category><category term="touchosc"></category></entry><entry><title>動画アップしました(M3-2012, Othermanshow#7)</title><link href="http://ca5.github.io/blog/2012/05/18/%E5%8B%95%E7%94%BB%E3%82%A2%E3%83%83%E3%83%97%E3%81%97%E3%81%BE%E3%81%97%E3%81%9Fm3-2012-othermanshow7/" rel="alternate"></link><updated>2012-05-18T22:00:00+02:00</updated><author><name>Ca5</name></author><id>tag:ca5.github.io,2012-05-18:blog/2012/05/18/動画アップしましたm3-2012-othermanshow7/</id><summary type="html">&lt;p&gt;あざまんしょー７のライブの様子&lt;br /&gt;
+いせさんが取ってくれました！  &lt;/p&gt;
+&lt;iframe width="560" height="315" src="http://www.youtube.com/embed/6HlDEzDdl_E" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;
+あとM3で出した曲のサンプルの長いバージョンをニコニコにアップしておきました。
+
+&lt;script type="text/javascript" src="http://ext.nicovideo.jp/thumb_watch/nm17854060"&gt;&lt;/script&gt;
+
+
+&lt;noscript&gt;
+[【ニコニコ動画】ふたりのボカロ(ふたりの天使remix)](http://www.nicovideo.jp/watch/nm17854060)
+
+&lt;/noscript&gt;</summary><category term="iPad"></category><category term="live"></category><category term="M3"></category><category term="mac"></category><category term="max/msp"></category><category term="NKRN"></category><category term="otherman"></category><category term="touchosc"></category></entry><entry><title>きのうのライブセット公開</title><link href="http://ca5.github.io/blog/2012/05/14/%E3%81%8D%E3%81%AE%E3%81%86%E3%81%AE%E3%83%A9%E3%82%A4%E3%83%96%E3%82%BB%E3%83%83%E3%83%88%E5%85%AC%E9%96%8B/" rel="alternate"></link><updated>2012-05-14T22:00:00+02:00</updated><author><name>Ca5</name></author><id>tag:ca5.github.io,2012-05-14:blog/2012/05/14/きのうのライブセット公開/</id><summary type="html">&lt;p&gt;あざまんしょー７おつかれさまでした  &lt;/p&gt;
+&lt;p&gt;ホントはライブ前にこういうの準備しておきたかったんですが間に合わず・・・&lt;br /&gt;
+ライブセットの様子をを久々に動画に撮っておきました&lt;/p&gt;
+&lt;iframe width="560" height="315" src="http://www.youtube.com/embed/ck2LWPL8soE" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="http://blog.ca54makske.com/?p=7469"&gt;前回のセット&lt;/a&gt;のコアなところはそのままで、&lt;br /&gt;
+リトリガなどのエフェクトを付け足してあります。&lt;br /&gt;
+あざまんしょー７ではこのセット +
+&lt;a href="http://blog.ca54makske.com/?p=442"&gt;kinectのセット&lt;/a&gt;を使ってました。&lt;/p&gt;
+&lt;p&gt;これでもうドラムのスライスが合わないような曲のときでも  &lt;/p&gt;
+&lt;p&gt;ライブ中やることがなくて手持ち無沙汰・・・なんてこともなくなって個人的にはだいぶ満足です&lt;/p&gt;</summary><category term="max/msp"></category><category term="otherman"></category></entry><entry><title>MacOSX Lionで複数の音声入出力を扱う(max/msp)</title><link href="http://ca5.github.io/blog/2012/05/02/macosx-lion%E3%81%A7%E8%A4%87%E6%95%B0%E3%81%AE%E9%9F%B3%E5%A3%B0%E5%85%A5%E5%87%BA%E5%8A%9B%E3%82%92%E6%89%B1%E3%81%86maxmsp/" rel="alternate"></link><updated>2012-05-02T23:52:00+02:00</updated><author><name>Ca5</name></author><id>tag:ca5.github.io,2012-05-02:blog/2012/05/02/macosx-lionで複数の音声入出力を扱うmaxmsp/</id><summary type="html">&lt;p&gt;・・・のにずいぶんはまったのでメモ。&lt;/p&gt;
+&lt;p&gt;自分のライブセットは、&lt;br /&gt;
+AbletonLive -[Soundflower 16ch]→ max/msp -[Audio
+I/Oあるいは内蔵音声出力]→ スピーカー&lt;br /&gt;
+という構成になっているので、今まで(〜MacOSX
+SnowLeopard)はこんな風に設定してました。&lt;/p&gt;
+&lt;p&gt;（※以下出力に「内蔵音声出力」を使った場合、で説明します）&lt;br /&gt;
+[flickr id="6989532404" thumbnail="original" overlay="true"
+size="original" group="" align="none"]&lt;/p&gt;
+&lt;p&gt;ところがOSがLionになってからはこれと同じ設定で音出してくれず。。。&lt;br /&gt;
+どっかのメモで見つけたんですがこんな風にしないと駄目だそうです。&lt;/p&gt;
+&lt;h3&gt;1.Audio MIDI設定で新しい「機器セット」を作る&lt;/h3&gt;
+&lt;p&gt;下記の図みたいな感じで、新しくセットを作った中で&lt;br /&gt;
+使いたいオーディオドライバを選択しておきます。&lt;br /&gt;
+[flickr id="7135615821" thumbnail="medium" overlay="true"
+size="original" group="" align="none"]&lt;/p&gt;
+&lt;h3&gt;2.max/mspの設定で、1.で作った機器セットを利用ドライバとして設定する&lt;/h3&gt;
+&lt;p&gt;[flickr id="7135615959" thumbnail="original" overlay="true"
+size="original" group="" align="none"]&lt;/p&gt;
+&lt;p&gt;・・・とこれでようやく思った通りに音を出すことができるようになりました。&lt;/p&gt;
+&lt;p&gt;OSのバージョンが変わったから仕様が変わるのは仕方ないにしても、  &lt;/p&gt;
+&lt;p&gt;従来のままじゃ動かないケースはなんかこうお知らせとかしてほしいもんですね。&lt;/p&gt;</summary><category term="lion"></category><category term="mac"></category><category term="max/msp"></category></entry><entry><title>LiveのMIDIクロックタイプに気をつけろ</title><link href="http://ca5.github.io/blog/2012/02/05/live%E3%81%AEmidi%E3%82%AF%E3%83%AD%E3%83%83%E3%82%AF%E3%82%BF%E3%82%A4%E3%83%97%E3%81%AB%E6%B0%97%E3%82%92%E3%81%A4%E3%81%91%E3%82%8D/" rel="alternate"></link><updated>2012-02-05T23:42:00+01:00</updated><author><name>Ca5</name></author><id>tag:ca5.github.io,2012-02-05:blog/2012/02/05/liveのmidiクロックタイプに気をつけろ/</id><summary type="html">&lt;p&gt;ドプマンショーおつかれさまでした&lt;/p&gt;
+&lt;p&gt;ぼくのライブセットはAbleton Live → max/mspと&lt;br /&gt;
+midi同期をさせて音の操作をするようになってるんですが、  &lt;/p&gt;
+&lt;p&gt;たまに処理が重くなって音が飛んだ時に、midi同期のクロックとのタイミングがずれてしまうことがあって、&lt;br /&gt;
+以前あざまんしょー６では&lt;br /&gt;
+ライブ中にたまにタイミングを直して・・・とやってました&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+ところがこの前のドプマンショーでは  &lt;/p&gt;
+&lt;p&gt;なかなかクロックが合わず何度か修正しながらやらなきゃならないことになってしまってました。&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+うーんこれはどうにかできないものか・・・&lt;br /&gt;
+と思ってLiveのmidiの仕様について調べてるとこんな記事をみつけました&lt;br /&gt;
+&lt;br /&gt;
+ableton Liveと外部電子楽器の同期について (以下抜粋)&lt;br /&gt;
+&lt;a href="http://shop.plaza.rakuten.co.jp/dj/diary/detail/201008170000/%20"&gt;http://shop.plaza.rakuten.co.jp/dj/diary/detail/201008170000/&lt;br /&gt;
+&lt;/a&gt;  &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;マニュアルによると....&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+Songモード  &lt;/p&gt;
+&lt;p&gt;Liveの再生位置が変わるたびにMIDIソング位置ポインタ(SPP)とコンティニューメッセージが送信されます。&lt;/p&gt;
+&lt;p&gt;Patternモード  &lt;/p&gt;
+&lt;p&gt;スタートメッセージのみ使用し、次にスタートする小節に合わせて送信されます。  &lt;/p&gt;
+&lt;p&gt;MIDIスレーブがSPP(ソングポジションポインタ)メッセージを無視するようならPatternモードを使用します。&lt;/p&gt;
+&lt;p&gt;ableton LiveのデフォルトではSONGモードになっていました。&lt;/p&gt;
+&lt;p&gt;ELECTRIBE
+Sはクリック出し用でパターンモードで使っているのですが、ELECTRIBE
+Sの説明書を見たところSPPメッセージは受けないとのこと。&lt;/p&gt;
+&lt;p&gt;なるほど、Ableton
+LiveのMIDIクロックをパターンモードにすればよいというわけですね。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;自分が作ったパッチはSPPでの同期は対応してないので&lt;br /&gt;
+Patternモードに変えて試してみました&lt;br /&gt;
+&lt;br /&gt;
+するとあっさりクロックずれ問題が解決・・・・・・&lt;br /&gt;
+&lt;br /&gt;
+動作が重くなった時の再現のために  &lt;/p&gt;
+&lt;p&gt;iTunesやらiPhotoやら色々立ち上げて音がブツブツ切れるような状態でもやってみましたが&lt;br /&gt;
+ちゃんと音とクロックをきっちり合わせてくれるようでした&lt;/p&gt;
+&lt;p&gt;という訳で長々書きましたが  &lt;/p&gt;
+&lt;p&gt;Liveと他の機材を同期させるときはモードに気をつけましょうね！というお話でしたとさ&lt;/p&gt;</summary></entry><entry><title>2011まとめ</title><link href="http://ca5.github.io/blog/2011/12/28/2011%E3%81%BE%E3%81%A8%E3%82%81/" rel="alternate"></link><updated>2011-12-28T22:44:00+01:00</updated><author><name>Ca5</name></author><id>tag:ca5.github.io,2011-12-28:blog/2011/12/28/2011まとめ/</id><summary type="html">&lt;p&gt;2011年オレオレ年表&lt;/p&gt;
+&lt;h1&gt;colorEP リリース(1/30)&lt;/h1&gt;
+&lt;p&gt;&lt;img alt="" src="http://www.archive.org/download/OTMN010/folder.jpg" /&gt;&lt;br /&gt;
+&lt;a href="http://www.otherman-records.com/releases/OTMN010"&gt;http://www.otherman-records.com/releases/OTMN010&lt;br /&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;9in1 リリース(2/20)&lt;/h1&gt;
+&lt;p&gt;&lt;img alt="" src="http://ia700403.us.archive.org/5/items/OTMN017/9in1.png" /&gt;&lt;br /&gt;
+&lt;a href="http://www.otherman-records.com/releases/OTMN017"&gt;http://www.otherman-records.com/releases/OTMN017&lt;br /&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;M3(5/1)&lt;/h1&gt;
+&lt;p&gt;今もここで一部視聴ができます&lt;br /&gt;
+&lt;a href="http://nkrn.bandcamp.com/album/killer-9-nie-killer-nine-4"&gt;http://nkrn.bandcamp.com/album/killer-9-nie-killer-nine-4&lt;/a&gt;&lt;br /&gt;
+[soundcloud url="http://api.soundcloud.com/tracks/27076022"]&lt;/p&gt;
+&lt;h1&gt;あざまんしょー #4(5/11)&lt;/h1&gt;
+&lt;p&gt;多分写真ない&lt;/p&gt;
+&lt;h1&gt;あざまんしょー #5(8/7)&lt;/h1&gt;
+&lt;p&gt;映像もない！&lt;/p&gt;
+&lt;h1&gt;grayscale リリース(9/3)&lt;/h1&gt;
+&lt;p&gt;&lt;img alt="" src="http://www.archive.org/download/OTMN024/folder.jpg" /&gt;&lt;br /&gt;
+&lt;a href="http://www.otherman-records.com/releases/OTMN024"&gt;http://www.otherman-records.com/releases/OTMN024&lt;br /&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;M3(10/30)&lt;/h1&gt;
+&lt;p&gt;今もここで一部視聴ができます&lt;br /&gt;
+&lt;a href="http://nkrn.bandcamp.com/album/killer-9-nie-killer-nine-5"&gt;http://nkrn.bandcamp.com/album/killer-9-nie-killer-nine-5&lt;/a&gt;&lt;br /&gt;
+[soundcloud url="http://api.soundcloud.com/tracks/27076023"]&lt;/p&gt;
+&lt;h1&gt;ワギャンランドのリミックス(12/3)&lt;/h1&gt;
+&lt;p&gt;[soundcloud url="http://api.soundcloud.com/tracks/29549003"]&lt;/p&gt;
+&lt;h1&gt;あざまんしょー #6(12/11)&lt;/h1&gt;
+&lt;p&gt;&lt;object type="application/x-shockwave-flash" data="http://www.youtube.com/v/PIwCJOEdnyY" width="400" height="300"&gt;&lt;param name="movie" value="http://www.youtube.com/v/PIwCJOEdnyY"&gt;&lt;/param&gt;&lt;param name="quality" value="high"&gt;&lt;/param&gt;&lt;param name="allowFullScreen" value="true"&gt;&lt;/param&gt;&lt;!-- Fallback content --&gt;&lt;a href="http://www.youtube.com/watch?v=PIwCJOEdnyY"&gt;&lt;img alt="" src="http://img.youtube.com/vi/PIwCJOEdnyY/0.jpg" /&gt;YouTube
+Video&lt;/a&gt;&lt;/object&gt;&lt;/p&gt;
+&lt;p&gt;&lt;object type="application/x-shockwave-flash" data="http://www.youtube.com/v/EzlC1AABp3c" width="400" height="300"&gt;&lt;param name="movie" value="http://www.youtube.com/v/EzlC1AABp3c"&gt;&lt;/param&gt;&lt;param name="quality" value="high"&gt;&lt;/param&gt;&lt;param name="allowFullScreen" value="true"&gt;&lt;/param&gt;&lt;!-- Fallback content --&gt;&lt;a href="http://www.youtube.com/watch?v=EzlC1AABp3c"&gt;&lt;img alt="" src="http://img.youtube.com/vi/EzlC1AABp3c/0.jpg" /&gt;YouTube
+Video&lt;/a&gt;&lt;/object&gt;&lt;/p&gt;
+&lt;p&gt;この一年でだいぶ自分にあったライブのやり方が&lt;br /&gt;
+定まってきた気がします。&lt;/p&gt;
+&lt;p&gt;来年も色々試していきたいです&lt;br /&gt;
+それではよいお年を！&lt;/p&gt;</summary></entry><entry><title>AirKaossPad</title><link href="http://ca5.github.io/blog/2011/12/19/airkaosspad/" rel="alternate"></link><updated>2011-12-19T21:53:00+01:00</updated><author><name>Ca5</name></author><id>tag:ca5.github.io,2011-12-19:blog/2011/12/19/airkaosspad/</id><summary type="html">&lt;p&gt;iPhoneのtouchoscからカオスパッドを操作できるようにしてみました  &lt;/p&gt;
+&lt;p&gt;今回も裏側はmax/mspでパッチを作ってoscをmidiに変換してカオスパッドに送るような形になってます  &lt;/p&gt;
+&lt;iframe width="420" height="315" src="http://www.youtube.com/embed/Rxq8skkkaXU" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;手前のボタンがエフェクトの種類変更とエフェクト自体のトリガーになっていて、&lt;br /&gt;
+iPhone自体の傾きがそのままパッドのxy軸に連動するようになってます。&lt;/p&gt;
+&lt;p&gt;動画ではやってないですが、  &lt;/p&gt;
+&lt;p&gt;iPhone画面のxyパッドを触ってもカオスパッドを操作できるようになってます。&lt;/p&gt;
+&lt;p&gt;なのでこれさえあればもう、&lt;br /&gt;
+カオスパッドを置く位置を気にせず&lt;br /&gt;
+wifiさえ届くとこであればどこでもライブができます！&lt;/p&gt;</summary><category term="chiptune"></category><category term="iPhone"></category><category term="max/msp"></category><category term="touchosc"></category></entry><entry><title>あざまんしょー6の様子</title><link href="http://ca5.github.io/blog/2011/12/14/%E3%81%82%E3%81%96%E3%81%BE%E3%82%93%E3%81%97%E3%82%87%E3%83%BC6%E3%81%AE%E6%A7%98%E5%AD%90/" rel="alternate"></link><updated>2011-12-14T00:30:00+01:00</updated><author><name>Ca5</name></author><id>tag:ca5.github.io,2011-12-14:blog/2011/12/14/あざまんしょー6の様子/</id><summary type="html">&lt;p&gt;アザマンショー6の僕のライブの様子を&lt;br /&gt;
+ebi1000さんが撮ってくれたのでアップしてみました&lt;/p&gt;
+&lt;p&gt;&lt;object type="application/x-shockwave-flash" data="http://www.youtube.com/v/PIwCJOEdnyY" width="400" height="300"&gt;&lt;param name="movie" value="http://www.youtube.com/v/PIwCJOEdnyY"&gt;&lt;/param&gt;&lt;param name="quality" value="high"&gt;&lt;/param&gt;&lt;param name="allowFullScreen" value="true"&gt;&lt;/param&gt;&lt;!-- Fallback content --&gt;&lt;a href="http://www.youtube.com/watch?v=PIwCJOEdnyY"&gt;&lt;img alt="" src="http://img.youtube.com/vi/PIwCJOEdnyY/0.jpg" /&gt;YouTube
+Video&lt;/a&gt;&lt;/object&gt;&lt;/p&gt;
+&lt;p&gt;&lt;object type="application/x-shockwave-flash" data="http://www.youtube.com/v/EzlC1AABp3c" width="400" height="300"&gt;&lt;param name="movie" value="http://www.youtube.com/v/EzlC1AABp3c"&gt;&lt;/param&gt;&lt;param name="quality" value="high"&gt;&lt;/param&gt;&lt;param name="allowFullScreen" value="true"&gt;&lt;/param&gt;&lt;!-- Fallback content --&gt;&lt;a href="http://www.youtube.com/watch?v=EzlC1AABp3c"&gt;&lt;img alt="" src="http://img.youtube.com/vi/EzlC1AABp3c/0.jpg" /&gt;YouTube
+Video&lt;/a&gt;&lt;/object&gt;&lt;/p&gt;
+&lt;p&gt;新しいセットは&lt;br /&gt;
+たまに数コマ音が飛んで拍がずれることはあるものの、&lt;br /&gt;
+ほぼ問題なく使えてたと思います。&lt;/p&gt;
+&lt;p&gt;苦労して前日夜中に調整したかいがあった…！&lt;/p&gt;</summary><category term="otherman"></category><category term="ライブ"></category></entry><entry><title>iKaossilatorすごい</title><link href="http://ca5.github.io/blog/2011/11/08/ikaossilator%E3%81%99%E3%81%94%E3%81%84/" rel="alternate"></link><updated>2011-11-08T00:00:00+01:00</updated><author><name>Ca5</name></author><id>tag:ca5.github.io,2011-11-08:blog/2011/11/08/ikaossilatorすごい/</id><summary type="html">&lt;p&gt;iPhone2台で同期させて使ってみました&lt;/p&gt;
+&lt;iframe width="420" height="315" src="http://www.youtube.com/embed/DnZro5waImg" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;単体でも作りがなかなか良いな―と思ってましたが、&lt;br /&gt;
+こうやって2台で同期させれるとなると夢が広がるきがしますね&lt;/p&gt;</summary><category term="iKaossilator"></category><category term="iPhone"></category></entry><entry><title>半手動ブレイクコアシリーズ その6</title><link href="http://ca5.github.io/blog/2011/11/07/%E5%8D%8A%E6%89%8B%E5%8B%95%E3%83%96%E3%83%AC%E3%82%A4%E3%82%AF%E3%82%B3%E3%82%A2%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-%E3%81%9D%E3%81%AE6/" rel="alternate"></link><updated>2011-11-07T00:28:00+01:00</updated><author><name>Ca5</name></author><id>tag:ca5.github.io,2011-11-07:blog/2011/11/07/半手動ブレイクコアシリーズ-その6/</id><summary type="html">&lt;p&gt;またライブセットをイチから作り直しました&lt;/p&gt;
+&lt;iframe width="420" height="315" src="http://www.youtube.com/embed/eQV9Sgek9MY" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;今回のテーマは&lt;br /&gt;
+&lt;br /&gt;
+&lt;strong&gt;ライブの準備が楽になるように&lt;/strong&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+というのも今までのセットはいつも準備が大変でした。&lt;br /&gt;
+&lt;br /&gt;
+だいぶ前の&lt;a href="http://youtu.be/WTe4o5Fv5bU"&gt;ライブセットver2&lt;/a&gt;の時は&lt;br /&gt;
+各曲のドラムの2小節分のを別々にwavに吐き出してやる必要がありました。&lt;br /&gt;
+しかもwavがかっちり2小節分の長さになってないと拍がずれるので&lt;br /&gt;
+たまに失敗して演奏できない曲がでてしまったり。。&lt;/p&gt;
+&lt;p&gt;んでこれを改良してドラムのサンプルを&lt;br /&gt;
+Liveに載せて8分音符ごとにセットして使うVer  &lt;/p&gt;
+&lt;p&gt;(&lt;a href="http://youtu.be/wNdTP61b3KA"&gt;コントローラーは違うけどやってることはこれにあたる&lt;/a&gt;)&lt;br /&gt;
+というのも２回くらい使ってみましたが、&lt;br /&gt;
+これはこれでLiveでの音のセットがすごく面倒&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+・・・という訳で今回のセットは&lt;br /&gt;
+なってる音をその場で2小節録音して使う仕様になってます。&lt;/p&gt;
+&lt;p&gt;右の赤いボタンでサンプルの録音開始  &lt;/p&gt;
+&lt;p&gt;左の赤いフェーダーは元の音⇔録音した音間のクロスフェードができるようになってます。&lt;br /&gt;
+2本あるのはそれぞれメロディとドラムのパート用に分けてあるためです。&lt;br /&gt;
+&lt;br /&gt;
+あとオマケでスクラッチもつけてみました&lt;br /&gt;
+が。。。やっぱりtouchoscの仕様のせいで精度がよろしくないので&lt;br /&gt;
+再生ピッチは段階的にちょっと変わる程度にしてます。&lt;br /&gt;
+&lt;br /&gt;
+録音のタイミングもmidiのクロック同期で&lt;br /&gt;
+クオンタイズがかかるようになってますが、&lt;br /&gt;
+mspのオーディオ録音/再生がそれなりにレイテンシがあるようで&lt;br /&gt;
+長く使ってるとたまにmidiのクロックに追いつかなくなったりします・・・&lt;br /&gt;
+マシンスペックがちょっと足りないかな。。&lt;br /&gt;
+だれかMacBookProをぼくにかってください。&lt;/p&gt;</summary><category term="live"></category><category term="max/msp"></category><category term="touchosc"></category></entry><entry><title>iPadのGriid試してみた</title><link href="http://ca5.github.io/blog/2011/10/07/ipad%E3%81%AEgriid%E8%A9%A6%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F/" rel="alternate"></link><updated>2011-10-07T21:00:00+02:00</updated><author><name>Ca5</name></author><id>tag:ca5.github.io,2011-10-07:blog/2011/10/07/ipadのgriid試してみた/</id><summary type="html">&lt;p&gt;iPhoneで撮ったんで微妙ですが…  &lt;/p&gt;
+&lt;p&gt;&lt;object type="application/x-shockwave-flash" data="http://www.youtube.com/v/wNdTP61b3KA" width="400" height="300"&gt;&lt;param name="movie" value="http://www.youtube.com/v/wNdTP61b3KA"&gt;&lt;/param&gt;&lt;param name="quality" value="high"&gt;&lt;/param&gt;&lt;param name="allowFullScreen" value="true"&gt;&lt;/param&gt;&lt;!-- Fallback content --&gt;&lt;a href="http://www.youtube.com/watch?v=wNdTP61b3KA"&gt;&lt;img alt="" src="http://img.youtube.com/vi/wNdTP61b3KA/0.jpg" /&gt;YouTube
+Video&lt;/a&gt;&lt;/object&gt;&lt;/p&gt;
+&lt;p&gt;iPadでableton liveを操作出来るGriidというアプリをためしてみました。&lt;br /&gt;
+使い方は簡単で、&lt;/p&gt;
+&lt;p&gt;1.まずはApp StoreからGriidをDLし&lt;br /&gt;
+&lt;a href="http://itunes.apple.com/jp/app/griid/id385050894?mt=8"&gt;http://itunes.apple.com/jp/app/griid/id385050894?mt=8&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2.ここからGriidコネクターをDLし、立ち上げて&lt;br /&gt;
+&lt;a href="http://liine.net/griid/ja/support/"&gt;http://liine.net/griid/ja/support/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;3.ableton liveのmidiの設定でGriidのコントロールをONにして&lt;/p&gt;
+&lt;p&gt;4.あとはGriidをiPadで立ち上げて&lt;br /&gt;
+manual connect→ableton liveを立ち上げたmacのIPを入力して接続&lt;/p&gt;
+&lt;p&gt;…&lt;br /&gt;
+では繋がらなく…&lt;/p&gt;
+&lt;p&gt;エラーをよく見るとGriidのコネクターが古いと言われるんで  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://liine.net/en/support/"&gt;本家英語版のサポートページ&lt;/a&gt;を確認してみると最新版がありました&lt;br /&gt;
+(日本語版のページ何とかしろよ！&lt;/p&gt;
+&lt;p&gt;最新版のコネクターを入れると問題なくつながりました。&lt;/p&gt;
+&lt;p&gt;で、肝心の使い心地はというと&lt;br /&gt;
+立ち上げ直後は表示が遅れたりするんですが、&lt;br /&gt;
+少し経つとそれもなくなり&lt;br /&gt;
+反応もよく、使い勝手も良さそうでした&lt;/p&gt;
+&lt;p&gt;何よりこの情報量と派手な見た目がいいかんじ&lt;/p&gt;
+&lt;p&gt;ただ、各セルのトリガーが出来るだけなんで、&lt;br /&gt;
+今回再生させているような&lt;br /&gt;
+フォロワーアクションでループさせてるような&lt;br /&gt;
+プロジェクトを鳴らすと途中で止められなくなります&lt;br /&gt;
+(後で気づいたんですが空きのセルを最下部におけば良かったです)&lt;/p&gt;
+&lt;p&gt;今回の動画ではわかりにくいですが、&lt;br /&gt;
+ちゃんとそれぞれのセル内の再生進捗も&lt;br /&gt;
+わかるようにはなってたはずなんで&lt;br /&gt;
+それぞれのセルにもう少し長いフレーズをいれて&lt;br /&gt;
+ミックスしたりするのに向いているのかもしれません&lt;/p&gt;</summary><category term="iPad"></category><category term="iPhone"></category><category term="live"></category></entry><entry><title>バックアップは大事</title><link href="http://ca5.github.io/blog/2011/09/25/%E3%83%90%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E3%81%AF%E5%A4%A7%E4%BA%8B/" rel="alternate"></link><updated>2011-09-25T02:45:00+02:00</updated><author><name>Ca5</name></author><id>tag:ca5.github.io,2011-09-25:blog/2011/09/25/バックアップは大事/</id><summary type="html">&lt;p&gt;ぼくは普段windowsで作曲、macでライブをやっていて、  &lt;/p&gt;
+&lt;p&gt;さらに写真の取り込みはiPhoneやiPadとリンクさせてある都合上macでやっているけど、&lt;br /&gt;
+写真の加工はスペックが高くてgimpも使いやすいwindowsでやる  &lt;/p&gt;
+&lt;p&gt;・・・なんて使い方をしているのでどうしてもデータが散乱してしまいがちでした。&lt;/p&gt;
+&lt;p&gt;そんなある日&lt;br /&gt;
+windowsもmacも急に調子悪くなってしまい&lt;br /&gt;
+急遽両方共再セットアップすることにしたんですが&lt;br /&gt;
+どこのどのファイルのバックアップすべきか考えるのが非常にめんどくさくて&lt;br /&gt;
+復旧させるのにど偉い手間がかかってしまうことになってしまいました。&lt;/p&gt;
+&lt;p&gt;何とかしてこの２台で必要なファイルを共有しつつ、&lt;br /&gt;
+安全にファイルをバックアップできないものか？&lt;/p&gt;
+&lt;p&gt;というわけでこんな感じで色々設定してみました&lt;/p&gt;
+&lt;p&gt;[flickr id="6178575252" thumbnail="medium" overlay="true" size="medium"
+group="" align="none"]&lt;/p&gt;
+&lt;p&gt;点線枠はバックアップだけされるファイルで&lt;br /&gt;
+実線の枠は自分で直接ファイルを更新するところです&lt;/p&gt;
+&lt;p&gt;使ったソフト&lt;br /&gt;
+■BanBackup&lt;br /&gt;
+&lt;a href="http://www.vector.co.jp/soft/winnt/util/se288018.html"&gt;http://www.vector.co.jp/soft/winnt/util/se288018.html&lt;br /&gt;
+&lt;/a&gt;&lt;br /&gt;
+バックアップの設定を細く設定して保存できるうえに、&lt;br /&gt;
+windowsのタスクに対応していて、&lt;br /&gt;
+時間やスリープ時などを条件に自動バックアップを行うことができます&lt;/p&gt;
+&lt;p&gt;■WindowsLiveMesh&lt;br /&gt;
+&lt;a href="http://explore.live.com/windows-live-mesh"&gt;http://explore.live.com/windows-live-mesh&lt;br /&gt;
+&lt;/a&gt;&lt;br /&gt;
+こっちはファイルのバックアップというよりは&lt;br /&gt;
+ファイルの共有で利用。&lt;br /&gt;
+2PC間で指定したディレクトリ下を&lt;br /&gt;
+お互い常に最新の状態にしておけます。  &lt;/p&gt;
+&lt;p&gt;（同期するだけのソフトでネット上のストレージに保存するもんではないです）&lt;/p&gt;
+&lt;p&gt;これでとりあえず、&lt;/p&gt;
+&lt;p&gt;・macで作ったmaxのパッチを使ってwindows上で作曲&lt;br /&gt;
+・windowsで作った曲を使ってmac上でライブセットを作成&lt;br /&gt;
+・macで取り込んだ写真をwindows上で加工&lt;/p&gt;
+&lt;p&gt;といったようなことをやることができて、&lt;br /&gt;
+さらに放っておけば自動でバックアップとお互いのファイルの更新が&lt;br /&gt;
+勝手にされるようになりました&lt;br /&gt;
+（まだバックアップは未検証だったりしますが・・・）&lt;/p&gt;
+&lt;p&gt;もう今週はずっと再セットアップばっかりしてて疲れました。&lt;br /&gt;
+ハードディスクは怖い。&lt;/p&gt;</summary><category term="mac"></category><category term="windows"></category><category term="WindowsLiveMesh"></category></entry><entry><title>iPhoneをjoypadに</title><link href="http://ca5.github.io/blog/2011/09/23/iphone%E3%82%92joypad%E3%81%AB/" rel="alternate"></link><updated>2011-09-23T13:24:00+02:00</updated><author><name>Ca5</name></author><id>tag:ca5.github.io,2011-09-23:blog/2011/09/23/iphoneをjoypadに/</id><summary type="html">&lt;p&gt;こんなiPhoneアプリがあったのでちょっと試しに使ってみました&lt;br /&gt;
+&lt;a href="http://itunes.apple.com/us/app/joypad-game-controller/id411422117?mt=8"&gt;[Joypad - Game
+Controller]&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;iPhoneをwifiやbluetooth経由で接続してゲームコントローラとして利用するソフトです&lt;/p&gt;
+&lt;p&gt;windowsのPCとつなぐ場合は&lt;br /&gt;
+ここの公式サイトから　「Download the desktop client: MAC |
+&lt;a href="http://getjoypad.com/joypadconnect/JoypadConnect-1.3.1.msi"&gt;PC&lt;/a&gt;」からPCを選択して&lt;br /&gt;
+クライアントソフトをインストール&lt;br /&gt;
+&lt;a href="http://getjoypad.com/"&gt;http://getjoypad.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;起動したらここから新しい設定を作って&lt;br /&gt;
+[flickr id="6173815323" thumbnail="medium" overlay="true" size="medium"
+group="" align="none"]&lt;/p&gt;
+&lt;p&gt;下記のようにキーボードを割り当て&lt;br /&gt;
+[flickr id="6174343844" thumbnail="medium" overlay="true" size="medium"
+group="" align="none"]&lt;/p&gt;
+&lt;p&gt;そしてwindowsの場合は１つめのウインドウの一番下に&lt;br /&gt;
+手動でIPとポート番号を入れて接続してやります&lt;br /&gt;
+(IPとポート番号はiPhone側の設定画面ででてきます)&lt;/p&gt;
+&lt;p&gt;動作はこんな感じ  &lt;/p&gt;
+&lt;p&gt;（&lt;a href="http://www.forest.impress.co.jp/lib/game/actsport/action/doukutsu.html"&gt;洞窟物語&lt;/a&gt;をやってみてます）  &lt;/p&gt;
+&lt;iframe width="420" height="315" src="http://www.youtube.com/embed/_GPJbSIeT80" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;けっこう反応もよくさくさく動いてくれますね！&lt;br /&gt;
+上の動画ではファミコン風なスキンになってますが&lt;br /&gt;
+これは有料オプションになってます。&lt;/p&gt;
+&lt;p&gt;キーボードのキーなら何でも設定できるんで、&lt;br /&gt;
+ゲーム以外にもいろいろ使えそうです。ライブとか&lt;/p&gt;</summary><category term="gamepad"></category><category term="iPhone"></category><category term="joypad"></category></entry><entry><title>touchoscのencoderがイマイチ</title><link href="http://ca5.github.io/blog/2011/09/08/touchosc%E3%81%AEencoder%E3%81%8C%E3%82%A4%E3%83%9E%E3%82%A4%E3%83%81/" rel="alternate"></link><updated>2011-09-08T00:00:00+02:00</updated><author><name>Ca5</name></author><id>tag:ca5.github.io,2011-09-08:blog/2011/09/08/touchoscのencoderがイマイチ/</id><summary type="html">&lt;p&gt;カスタマイズ性やレスポンスがなかなかよいので  &lt;/p&gt;
+&lt;p&gt;ライブでよくiPad版の&lt;a href="http://hexler.net/software/touchosc"&gt;touchosc&lt;/a&gt;を使うんですが、  &lt;/p&gt;
+&lt;p&gt;最近（・・・といっても1,2ヶ月前？）のアップデートで追加されたコントローラーの精度がちょっと微妙。&lt;/p&gt;
+&lt;p&gt;&lt;object type="application/x-shockwave-flash" data="http://www.youtube.com/v/0-040A5PxSI" width="400" height="300"&gt;&lt;param name="movie" value="http://www.youtube.com/v/0-040A5PxSI"&gt;&lt;/param&gt;&lt;param name="quality" value="high"&gt;&lt;/param&gt;&lt;param name="allowFullScreen" value="true"&gt;&lt;/param&gt;&lt;!-- Fallback content --&gt;&lt;a href="http://www.youtube.com/watch?v=0-040A5PxSI"&gt;&lt;img alt="" src="http://img.youtube.com/vi/0-040A5PxSI/0.jpg" /&gt;YouTube
+Video&lt;/a&gt;&lt;/object&gt;&lt;/p&gt;
+&lt;p&gt;適当に取った動画なんでわかりにくいかもしれないですが、&lt;br /&gt;
+外側の青い円がencoder  &lt;/p&gt;
+&lt;p&gt;内側の赤い円はrotaryで、こっちはencoderの入力値を累積した結果を表しています&lt;/p&gt;
+&lt;p&gt;encoderをスクラッチに使えないかなーと思ってこんな風に試してみたんですが、&lt;br /&gt;
+回転が速ければ早いほど累積した値が溜まるのが早い・・・とはならず、&lt;br /&gt;
+また遅すぎる場合だと全然値送ってくれなかったりするので、  &lt;/p&gt;
+&lt;p&gt;回転する速さによって１回転あたりに送られる値の量が違ってきてしまってます。&lt;/p&gt;
+&lt;p&gt;一般的なロータリーエンコーダーってこんな精度でいいのか・・？？  &lt;/p&gt;
+&lt;p&gt;これだとスクラッチするようなパッチを組んでもなんちゃってな感じでしかつくれないですね。。&lt;/p&gt;
+&lt;p&gt;・・・まあ作っちゃってる人はすでにいたりするんですが  &lt;/p&gt;
+&lt;iframe width="560" height="345" src="http://www.youtube.com/embed/V5K-0GcA5pw" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;なんかほかにうまい使いかたないかなーと模索中&lt;/p&gt;</summary><category term="max/msp"></category><category term="touchosc"></category></entry><entry><title>iPadで動くmidiコンパッチ公開</title><link href="http://ca5.github.io/blog/2011/04/18/ipad%E3%81%A7%E5%8B%95%E3%81%8Fmidi%E3%82%B3%E3%83%B3%E3%83%91%E3%83%83%E3%83%81%E5%85%AC%E9%96%8B/" rel="alternate"></link><updated>2011-04-18T01:09:00+02:00</updated><author><name>Ca5</name></author><id>tag:ca5.github.io,2011-04-18:blog/2011/04/18/ipadで動くmidiコンパッチ公開/</id><summary type="html">&lt;p&gt;こんな感じで動きます  &lt;/p&gt;
+&lt;iframe title="YouTube video player" width="480" height="390" src="http://www.youtube.com/embed/6mQCE9BJxTw" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;デモが適当すぐる・・・&lt;/p&gt;
+&lt;p&gt;下記のような操作ができます&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ノートON/OFF(鍵盤型なほうとボタンから入力)&lt;/li&gt;
+&lt;li&gt;オクターブ変更&lt;/li&gt;
+&lt;li&gt;ベロシティー変更&lt;/li&gt;
+&lt;li&gt;ピッチベンド変更&lt;/li&gt;
+&lt;li&gt;xyパッド(x軸y軸はcc12,13に割当たっています。さらにタッチのon/offがcc92に割当たっています)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;リアルタイムに演奏するというよりは、&lt;br /&gt;
+打ち込み入力をすることを考えたレイアウトにしたつもりです。&lt;/p&gt;
+&lt;p&gt;---作ったmaxのパッチとtouchoscのテンプレ---&lt;br /&gt;
+&lt;a href="http://ca54makske.com/files/iMidiPad.maxpat"&gt;iMidiPad.maxpad&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://ca54makske.com/files/iMidiPad.touchosc"&gt;iMidiPad.touchosc&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;つかいかた&lt;/h3&gt;
+&lt;p&gt;PC1台(macでもwinでも)とiPad1台が同一ネットワーク上にある環境じゃないと動かんです  &lt;/p&gt;
+&lt;h4&gt;1. iPadとtouchosc&lt;/h4&gt;
+&lt;p&gt;&lt;a href="http://hexler.net/software/touchosc"&gt;http://hexler.net/software/touchosc&lt;/a&gt;&lt;br /&gt;
+TouchOSC（iPad用）&lt;br /&gt;
+TouchOSC Editor（win/mac/linux）&lt;/p&gt;
+&lt;p&gt;の2つが必要です&lt;/p&gt;
+&lt;h4&gt;2.touchosc用のテンプレ&lt;/h4&gt;
+&lt;p&gt;これをDLしてtouchoscで読み込ませます。&lt;br /&gt;
+&lt;a href="http://ca54makske.com/files/iMidiPad.touchosc"&gt;iMidiPad.touchosc&lt;/a&gt;&lt;br /&gt;
+TouchOSC Editorを起動させたPCからiPad上のtouchoscへテンプレを送ります。&lt;/p&gt;
+&lt;h4&gt;3.maxのランタイム&lt;/h4&gt;
+&lt;p&gt;&lt;a href="http://cycling74.com/downloads/"&gt;http://cycling74.com/downloads/&lt;br /&gt;
+&lt;/a&gt;ここの右側のExtras Max -RuntimeをDL&lt;br /&gt;
+（max持ってる人はもちろん不要です）&lt;/p&gt;
+&lt;p&gt;maxの体験版でももちろん動作します。&lt;/p&gt;
+&lt;h4&gt;4.maxのパッチを起動&lt;/h4&gt;
+&lt;p&gt;こいつをDLして起動&lt;br /&gt;
+&lt;a href="http://ca54makske.com/files/iMidiPad.maxpat"&gt;iMidiPad.maxpad&lt;/a&gt;&lt;/p&gt;
+&lt;h4&gt;5.パッチの設定&lt;/h4&gt;
+&lt;p&gt;&lt;a href="http://blog.ca54makske.com/wp-content/uploads/2011/04/iMidiPadSettings.png"&gt;&lt;img alt="iMidiPadSettings" src="http://blog.ca54makske.com/wp-content/uploads/2011/04/iMidiPadSettings.png" title="iMidiPadSettings" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;書いてあるとおりですが、左から順に&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;iPadのIPアドレス&lt;/li&gt;
+&lt;li&gt;iPadのtouchoscでPort(incoming)で設定したポート番号&lt;/li&gt;
+&lt;li&gt;PCで受信待ちするポート番号
+    (=iPadのtouchoscでPort(outgoing)で設定したポート番号)&lt;/li&gt;
+&lt;li&gt;midi出力するためのデバイス&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;を設定します&lt;br /&gt;
+これでiPadをmidiコンとして使えるようになります。&lt;/p&gt;
+&lt;p&gt;受信したPC内部で直接midiデータを使う場合は  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.midiox.com/"&gt;midiox&lt;/a&gt;をつかってmidiのデータを内部でルーティングしてやるといいです。&lt;/p&gt;
+&lt;p&gt;ってたぶんこれtouchoscとか使ったことある人じゃないと&lt;br /&gt;
+ピンと来ないだろうな。。&lt;/p&gt;</summary><category term="max/msp"></category><category term="touchosc"></category></entry><entry><title>mixiの日記閲覧スクリプト</title><link href="http://ca5.github.io/blog/2011/04/04/mixi%E3%81%AE%E6%97%A5%E8%A8%98%E9%96%B2%E8%A6%A7%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%83%88/" rel="alternate"></link><updated>2011-04-04T01:12:00+02:00</updated><author><name>Ca5</name></author><id>tag:ca5.github.io,2011-04-04:blog/2011/04/04/mixiの日記閲覧スクリプト/</id><summary type="html">&lt;p&gt;作曲がとんと進まないので、&lt;br /&gt;
+今日は WWW::MechanizeとWeb::Scraperの使い方練習をしてました。&lt;br /&gt;
+どちらかというとこのソース書くよりも、  &lt;/p&gt;
+&lt;p&gt;レンタルサーバ上でcpanちゃんと使える環境整えるほうがめんどくさかったです&lt;/p&gt;
+&lt;p&gt;&lt;link rel="stylesheet" href="http://ca54makske.com/js/highlight/styles/zenburn.css"&gt;&lt;/p&gt;
+&lt;script type="text/javascript" src="http://ca54makske.com/js/highlight/highlight.pack.js"&gt;&lt;/script&gt;
+
+&lt;script&gt;&lt;br /&gt;
+&lt;script type="text/javascript"&gt;&lt;br /&gt;
+  initHighlightingOnLoad();&lt;br /&gt;
+&lt;/script&gt;
+&lt;/p&gt;
+getarticle.pl
+
+wzxhzdk:0
+
+
+実行イメージ
+
+
+    ./getarticle.pl
+    title:日記タイトル
+    content:記事～～
+    title:日記タイトル
+    :
+    :
+
+これ作るために普段mixiあまり見てない自分が  
+
+特定の人にめっちゃあしあと付けまくってますけどあんま気にしないでくださいね　＾。＾
+
+以下参考にしたサイト
+
+-cpan  
+http://d.hatena.ne.jp/mzt/20080218/p1  
+http://www.tafworks.com/2009/12/cpanaesrijndael.html  
+http://d.hatena.ne.jp/ragtarou/20080121  
+http://www.otsune.com/bsd/tips/usercpaninstall.html
+
+-mechanize,scraper  
+http://e8y.net/mag/007-www-mechanize/  
+http://e8y.net/mag/013-web-scraper/</summary><category term="otherman"></category></entry><entry><title>半手動ブレイクコア3</title><link href="http://ca5.github.io/blog/2011/03/07/%E5%8D%8A%E6%89%8B%E5%8B%95%E3%83%96%E3%83%AC%E3%82%A4%E3%82%AF%E3%82%B3%E3%82%A23/" rel="alternate"></link><updated>2011-03-07T01:40:00+01:00</updated><author><name>Ca5</name></author><id>tag:ca5.github.io,2011-03-07:blog/2011/03/07/半手動ブレイクコア3/</id><summary type="html">&lt;p&gt;バージョン3はまたpadKontrolでの操作に戻しました。&lt;br /&gt;
+やっぱりボタンを押す感じが良いので。。。&lt;/p&gt;
+&lt;p&gt;ver3  &lt;/p&gt;
+&lt;iframe title="YouTube video player" width="480" height="390" src="http://www.youtube.com/embed/b3Bqs3-0QOk" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;(以下旧バージョン)&lt;br /&gt;
+ver2&lt;br /&gt;
+&lt;a href="http://blog.ca54makske.com/?p=428"&gt;http://blog.ca54makske.com/?p=428&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ver1&lt;br /&gt;
+&lt;a href="http://blog.ca54makske.com/?p=370"&gt;http://blog.ca54makske.com/?p=370&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+今回のバージョンのは地味に操作体系を変更しています。  &lt;/p&gt;
+&lt;p&gt;KorgNativeMode（については&lt;a href="http://nativemode.blog95.fc2.com/blog-entry-5.html"&gt;このへん&lt;/a&gt;でわかるかな。。。）で動かすような作りにしたため、  &lt;/p&gt;
+&lt;p&gt;通常のmidiコントローラーとしての動きよりも複雑なことができるようになっています。&lt;/p&gt;
+&lt;p&gt;例えばここでシーケンスに合わせてボタンが光る　なんてのは&lt;br /&gt;
+普通のmidiコンとして使用してると無理です。&lt;/p&gt;
+&lt;p&gt;あとはノブの隣についてるボタン等&lt;br /&gt;
+設定にしか使われないボタンもコントローラとして割り当ててます。&lt;br /&gt;
+これも通常モードでは無理です。  &lt;/p&gt;
+&lt;p&gt;（そもそも設定にしか使わないボタンってちょっともったいなくないですかね。。。。）&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+パッチをつくり際には下記を~~パｋ~~参考にしました&lt;br /&gt;
+&lt;a href="http://kpkproject.twoday.net/stories/3362636/#comments"&gt;http://kpkproject.twoday.net/stories/3362636/#comments&lt;br /&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ここのPadkontrol-Cera-01 ってパッチです。&lt;br /&gt;
+このパッチを動かすとりあえずNativeModeでの起動と&lt;br /&gt;
+ボタンの点滅を制御することができます。&lt;br /&gt;
+(動かすには
+&lt;a href="http://www.maxobjects.com/?v=objects&amp;amp;id_objet=812&amp;amp;PHPSESSID=0573c1d51ddd951209daf2abad869178"&gt;bit2int&lt;/a&gt;っていうオブジェクトも必要です)&lt;/p&gt;</summary><category term="max/msp"></category></entry><entry><title>kinect+kaosspad</title><link href="http://ca5.github.io/blog/2011/01/30/kinectkaosspad/" rel="alternate"></link><updated>2011-01-30T19:56:00+01:00</updated><author><name>Ca5</name></author><id>tag:ca5.github.io,2011-01-30:blog/2011/01/30/kinectkaosspad/</id><summary type="html">&lt;p&gt;kinectとkaosspad連動させてみました  &lt;/p&gt;
+&lt;iframe title="YouTube video player" class="youtube-player" type="text/html" width="480" height="390" src="http://www.youtube.com/embed/ktnbFFBKOpE" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;特定の位置よりも近いものの座標検出して&lt;br /&gt;
+kaosspadのパネルと連動させてます。&lt;/p&gt;
+&lt;p&gt;--以下参考にしたものなど--&lt;/p&gt;
+&lt;p&gt;ドライバのインストールはここを参考に。&lt;br /&gt;
+Xcodeのインストールを先にやっておかないとうまくいかないです。&lt;br /&gt;
+http://hiropo.co.uk/archives/576&lt;/p&gt;
+&lt;p&gt;max/mspのエクスターナルオブジェクトはここを参考に。RC3のをつかってみました&lt;br /&gt;
+http://fairground-mag.com/kinect_maxmsp/  &lt;/p&gt;
+&lt;p&gt;https://github.com/jmpelletier/jit.freenect.grab/downloads#download_64612&lt;/p&gt;
+&lt;p&gt;ライブでどう使おうかなー&lt;/p&gt;</summary><category term="kinect"></category><category term="max/msp"></category></entry><entry><title>2010年の活動まとめ</title><link href="http://ca5.github.io/blog/2010/12/28/2010%E5%B9%B4%E3%81%AE%E6%B4%BB%E5%8B%95%E3%81%BE%E3%81%A8%E3%82%81/" rel="alternate"></link><updated>2010-12-28T14:02:00+01:00</updated><author><name>Ca5</name></author><id>tag:ca5.github.io,2010-12-28:blog/2010/12/28/2010年の活動まとめ/</id><summary type="html">&lt;p&gt;いつのまにかラーブロ化してしまったこのブログですが&lt;br /&gt;
+いちおう音楽ネタもやってんすよ　ってことで&lt;br /&gt;
+今年やったことをまとめてみました&lt;/p&gt;
+&lt;h3&gt;2010 2/7&lt;/h3&gt;
+&lt;p&gt;The Otherman show&lt;br /&gt;
+&lt;img alt="" src="http://www.otherman-records.com/images/flyer20100207.jpg" /&gt;&lt;br /&gt;
+今年の初ライブ。&lt;br /&gt;
+この１曲目のをかけたりかけなかったり&lt;br /&gt;
+&lt;a href="http://www.otherman-records.com/releases/OTMN001"&gt;The Otherman
+Showcase&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;2010 2/28&lt;/h3&gt;
+&lt;p&gt;jitterいじり&lt;br /&gt;
+&lt;a href="http://blog.ca54makske.com/?p=209"&gt;ドラムループをカメラで制御&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;object width="640" height="390"&gt;&lt;param name="movie" value="http://www.youtube.com/v/QG3ROJmSb1c&amp;amp;hl=ja_JP&amp;amp;feature=player_embedded&amp;amp;version=3"&gt;&lt;/param&gt;&lt;param name="allowFullScreen" value="true"&gt;&lt;/param&gt;&lt;param name="allowScriptAccess" value="always"&gt;&lt;/param&gt;&lt;embed src="http://www.youtube.com/v/QG3ROJmSb1c&amp;amp;hl=ja_JP&amp;amp;feature=player_embedded&amp;amp;version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="640" height="390"&gt;&lt;/embed&gt;&lt;/object&gt;&lt;br /&gt;
+カメラの入力でドラムパターンを制御してみました&lt;/p&gt;
+&lt;h3&gt;2010 5/5&lt;/h3&gt;
+&lt;p&gt;
+M3に曲を出しました 920  
+[贄 killer 9 (nie killer nine)
+\#2](http://nkrn.bandcamp.com/album/killer-9-nie-killer-nine-2)  
+実はこの曲の古いバージョンをニコニコに昔うｐしてます  
+(リリース版のほうはちゃんと音質UPしてます)
+
+&lt;script type="text/javascript" src="http://ext.nicovideo.jp/thumb_watch/nm3620864"&gt;&lt;/script&gt;
+
+
+&lt;noscript&gt;
+[【ニコニコ動画】くにおくんのアレ](http://www.nicovideo.jp/watch/nm3620864)
+
+&lt;/noscript&gt;
+### 2010 6/17
+
+vol4とのコンピに
+
+songs 4 the man -\#50  
+[songs 4 the man](http://www.otherman-records.com/releases/VL4OTMN_001)
+
+### 2010 6/22
+
+ドラムループのシャッフルパッチを作りました  
+[半手動ブレイクコア？](http://blog.ca54makske.com/?p=370)  
+
+&lt;object width="640" height="390"&gt;&lt;param name="movie" value="http://www.youtube.com/v/Xd4Zn7Qg3WE&amp;amp;hl=ja_JP&amp;amp;feature=player_embedded&amp;amp;version=3"&gt;&lt;/param&gt;&lt;param name="allowFullScreen" value="true"&gt;&lt;/param&gt;&lt;param name="allowScriptAccess" value="always"&gt;&lt;/param&gt;&lt;embed src="http://www.youtube.com/v/Xd4Zn7Qg3WE&amp;amp;hl=ja_JP&amp;amp;feature=player_embedded&amp;amp;version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="640" height="390"&gt;&lt;/embed&gt;&lt;/object&gt;  
+padKontrolでドラムのループをテンポ同期しつつシャッフルできます
+
+### 2010 7/4
+
+The Otherman show \#2  
+![](http://www.otherman-records.com/images/event20100704.jpg)  
+6/22に作ったパッチを手直ししてライブでお披露目
+
+### 2010 10/30
+
+2度目のM3にでました mgmn  
+[贄 killer 9 (nie killer nine)
+\#3](http://nkrn.bandcamp.com/album/killer-9-nie-killer-nine-3)  
+ロックマンのステージセレクト曲のリミックス
+
+### 2010 12/5
+
+The Otherman show \#3  
+![](http://www.otherman-records.com/images/event20101205.gif)
+
+&lt;object width="480" height="385"&gt;&lt;param name="movie" value="http://www.youtube.com/v/mqHvTV-PvZA?fs=1&amp;amp;hl=ja_JP"&gt;&lt;/param&gt;&lt;param name="allowFullScreen" value="true"&gt;&lt;/param&gt;&lt;param name="allowscriptaccess" value="always"&gt;&lt;/param&gt;&lt;embed src="http://www.youtube.com/v/mqHvTV-PvZA?fs=1&amp;amp;hl=ja_JP" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"&gt;&lt;/embed&gt;&lt;/object&gt;  
+こんな感じでライブやりました。iPad
+
+### 2010 12/16
+
+[max+iPad+touchosc=ブレイクコアア](http://blog.ca54makske.com/?p=428)  
+
+&lt;object width="640" height="390"&gt;&lt;param name="movie" value="http://www.youtube.com/v/WTe4o5Fv5bU&amp;amp;hl=ja_JP&amp;amp;feature=player_embedded&amp;amp;version=3"&gt;&lt;/param&gt;&lt;param name="allowFullScreen" value="true"&gt;&lt;/param&gt;&lt;param name="allowScriptAccess" value="always"&gt;&lt;/param&gt;&lt;embed src="http://www.youtube.com/v/WTe4o5Fv5bU&amp;amp;hl=ja_JP&amp;amp;feature=player_embedded&amp;amp;version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="640" height="390"&gt;&lt;/embed&gt;&lt;/object&gt;  
+ライブで使ったセットを公開してみました  
+コレがあれば誰でも同じライブが出来ます
+
+### 2010 12/25
+
+&lt;p&gt;
+メリークリスマス  
+
+&lt;script type="text/javascript" src="http://ext.nicovideo.jp/thumb_watch/nm13111610"&gt;&lt;/script&gt;
+
+
+&lt;noscript&gt;
+[【ニコニコ動画】メリークリスマス](http://www.nicovideo.jp/watch/nm13111610)
+
+&lt;/noscript&gt;
+来年ももうちょっと色々やろうと思います  
+どうぞよろしく</summary><category term="max/msp"></category><category term="otherman"></category></entry><entry><title>max+iPad+touchosc=ブレイクコア</title><link href="http://ca5.github.io/blog/2010/12/16/maxipadtouchosc%E3%83%96%E3%83%AC%E3%82%A4%E3%82%AF%E3%82%B3%E3%82%A2/" rel="alternate"></link><updated>2010-12-16T00:49:00+01:00</updated><author><name>Ca5</name></author><id>tag:ca5.github.io,2010-12-16:blog/2010/12/16/maxipadtouchoscブレイクコア/</id><summary type="html">&lt;p&gt;今日はラーメン・・・ではなくてamenな話です。&lt;br /&gt;
+この前のライブで使ったセットを紹介します&lt;/p&gt;
+&lt;p&gt;&lt;object width="480" height="385"&gt;&lt;param name="movie" value="http://www.youtube.com/v/WTe4o5Fv5bU?fs=1&amp;amp;hl=ja_JP"&gt;&lt;/param&gt;&lt;param name="allowFullScreen" value="true"&gt;&lt;/param&gt;&lt;param name="allowscriptaccess" value="always"&gt;&lt;/param&gt;&lt;embed src="http://www.youtube.com/v/WTe4o5Fv5bU?fs=1&amp;amp;hl=ja_JP" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"&gt;&lt;/embed&gt;&lt;/object&gt;&lt;/p&gt;
+&lt;p&gt;iPadのtouchoscというソフトでインターフェースを作って  &lt;/p&gt;
+&lt;p&gt;wifi経由でmacbook上のmax/mspのパッチを操作してドラムループをシャッフルして演奏してます。&lt;/p&gt;
+&lt;p&gt;青いくるくる回ってるのがドラムループの再生位置を示しています。  &lt;/p&gt;
+&lt;p&gt;あとは、逆再生スイッチやピッチ変更・リトリガ・各サンプルの長さ変更　ってのを&lt;br /&gt;
+真ん中のコントローラでやってます。&lt;/p&gt;
+&lt;p&gt;前にこんなpadKONTROLで操作する方も作ってますが&lt;br /&gt;
+こいつのグレードアップ版　てかんじです。  &lt;/p&gt;
+&lt;p&gt;&lt;object width="480" height="385"&gt;&lt;param name="movie" value="http://www.youtube.com/v/Xd4Zn7Qg3WE?fs=1&amp;amp;hl=ja_JP"&gt;&lt;/param&gt;&lt;param name="allowFullScreen" value="true"&gt;&lt;/param&gt;&lt;param name="allowscriptaccess" value="always"&gt;&lt;/param&gt;&lt;embed src="http://www.youtube.com/v/Xd4Zn7Qg3WE?fs=1&amp;amp;hl=ja_JP" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"&gt;&lt;/embed&gt;&lt;/object&gt;&lt;/p&gt;
+&lt;p&gt;padKONTROL版だとドラムループの再生位置がどこまで進んだかが  &lt;/p&gt;
+&lt;p&gt;視覚的にフィードバックする方法が無い（正確にはやれなくはないがめんどくさい。。）&lt;br /&gt;
+ので、今回のは簡単につくれるtouchosc版をつくりこんでました。&lt;/p&gt;
+&lt;p&gt;touchoscだと、[iPad]→[max/msp]の制御も[max/msp]→[iPad]の制御も&lt;br /&gt;
+同じような感じで oscのメッセージを送ってやれば実現できるので、&lt;br /&gt;
+割と直感的につくり込むことができました。&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+これでより　元ネタのこいつに操作系がちかくなりました。  &lt;/p&gt;
+&lt;p&gt;&lt;object width="640" height="390"&gt;&lt;param name="movie" value="http://www.youtube.com/v/9OW5WF5lJG8&amp;amp;rel=0&amp;amp;hl=en_US&amp;amp;feature=player_embedded&amp;amp;version=3"&gt;&lt;/param&gt;&lt;param name="allowFullScreen" value="true"&gt;&lt;/param&gt;&lt;param name="allowScriptAccess" value="always"&gt;&lt;/param&gt;&lt;embed src="http://www.youtube.com/v/9OW5WF5lJG8&amp;amp;rel=0&amp;amp;hl=en_US&amp;amp;feature=player_embedded&amp;amp;version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="640" height="390"&gt;&lt;/embed&gt;&lt;/object&gt;&lt;/p&gt;
+&lt;p&gt;なんかもっと新しいアイディアを盛り込みたいです　できれば。&lt;/p&gt;</summary><category term="iPad"></category><category term="max/msp"></category><category term="touchosc"></category></entry><entry><title>半手動ブレイクコア？</title><link href="http://ca5.github.io/blog/2010/06/22/%E5%8D%8A%E6%89%8B%E5%8B%95%E3%83%96%E3%83%AC%E3%82%A4%E3%82%AF%E3%82%B3%E3%82%A2?/" rel="alternate"></link><updated>2010-06-22T23:50:00+02:00</updated><author><name>Ca5</name></author><id>tag:ca5.github.io,2010-06-22:blog/2010/06/22/半手動ブレイクコア</id><summary type="html">&lt;p&gt;たまにはラーメン以外のことも書きます。&lt;/p&gt;
+&lt;p&gt;ドラムループをリアルタイムにシャッフルできたら楽しいだろうなーと思って&lt;br /&gt;
+こんなmax/mspのパッチをつくってみました&lt;/p&gt;
+&lt;p&gt;&lt;object width="480" height="385"&gt;&lt;param name="movie" value="http://www.youtube.com/v/Xd4Zn7Qg3WE&amp;amp;hl=ja_JP&amp;amp;fs=1&amp;amp;"&gt;&lt;/param&gt;&lt;param name="allowFullScreen" value="true"&gt;&lt;/param&gt;&lt;param name="allowscriptaccess" value="always"&gt;&lt;/param&gt;&lt;embed src="http://www.youtube.com/v/Xd4Zn7Qg3WE&amp;amp;hl=ja_JP&amp;amp;fs=1&amp;amp;" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"&gt;&lt;/embed&gt;&lt;/object&gt;&lt;/p&gt;
+&lt;p&gt;padKontrolの16個のボタンに、&lt;br /&gt;
+それぞれ16当分したドラムループの再生位置を自動で割り当てています。&lt;br /&gt;
+テンポと同期をとりながら押されたボタンに応じて再生位置を決めるので&lt;br /&gt;
+適当に押してもそれなりに演奏しているように聞こえます。&lt;/p&gt;
+&lt;p&gt;おまけで左のpadに、ピッチベンドと逆再生スイッチをつけてみてます。&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+まー&lt;br /&gt;
+こいつをパクってみたんですけどね。  &lt;/p&gt;
+&lt;p&gt;&lt;object width="640" height="385"&gt;&lt;param name="movie" value="http://www.youtube.com/v/9OW5WF5lJG8&amp;amp;rel=0&amp;amp;color1=0xb1b1b1&amp;amp;color2=0xd0d0d0&amp;amp;hl=en_US&amp;amp;feature=player_embedded&amp;amp;fs=1"&gt;&lt;/param&gt;&lt;param name="allowFullScreen" value="true"&gt;&lt;/param&gt;&lt;param name="allowScriptAccess" value="always"&gt;&lt;/param&gt;&lt;embed src="http://www.youtube.com/v/9OW5WF5lJG8&amp;amp;rel=0&amp;amp;color1=0xb1b1b1&amp;amp;color2=0xd0d0d0&amp;amp;hl=en_US&amp;amp;feature=player_embedded&amp;amp;fs=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="640" height="385"&gt;&lt;/embed&gt;&lt;/object&gt;&lt;/p&gt;
+&lt;p&gt;まだまだ僕のは劣化コピーレベルなので&lt;br /&gt;
+もうちょっと工夫が必要そうです。&lt;/p&gt;
+&lt;p&gt;7/4のライブでお披露目できるかなぁ&lt;/p&gt;</summary><category term="amen"></category><category term="breakcore"></category><category term="max/msp"></category></entry><entry><title>ドラムループをカメラで制御</title><link href="http://ca5.github.io/blog/2010/02/28/%E3%83%89%E3%83%A9%E3%83%A0%E3%83%AB%E3%83%BC%E3%83%97%E3%82%92%E3%82%AB%E3%83%A1%E3%83%A9%E3%81%A7%E5%88%B6%E5%BE%A1/" rel="alternate"></link><updated>2010-02-28T19:25:00+01:00</updated><author><name>Ca5</name></author><id>tag:ca5.github.io,2010-02-28:blog/2010/02/28/ドラムループをカメラで制御/</id><summary type="html">&lt;p&gt;初めてjitterいじってみました。&lt;/p&gt;
+&lt;p&gt;とはいえ映像編集の知識なんて何も無いので、&lt;/p&gt;
+&lt;p&gt;とりあえずカメラの入力をコントローラー的に使おう！というわけでこんなものを作成。  &lt;/p&gt;
+&lt;p&gt;&lt;object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="560" height="340" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"&gt;&lt;param name="allowFullScreen" value="true"&gt;&lt;/param&gt;&lt;param name="allowscriptaccess" value="always"&gt;&lt;/param&gt;&lt;param name="src" value="http://www.youtube.com/v/QG3ROJmSb1c&amp;amp;hl=ja_JP&amp;amp;fs=1&amp;amp;"&gt;&lt;/param&gt;&lt;param name="allowfullscreen" value="true"&gt;&lt;/param&gt;&lt;embed type="application/x-shockwave-flash" width="560" height="340" src="http://www.youtube.com/v/QG3ROJmSb1c&amp;amp;hl=ja_JP&amp;amp;fs=1&amp;amp;" allowscriptaccess="always" allowfullscreen="true"&gt;&lt;/embed&gt;&lt;/object&gt;&lt;br /&gt;
+webカメラで1px×1pxの大きさで映像を取り込み、&lt;/p&gt;
+&lt;p&gt;その色の数値を、この前つくったドラムループシャッフル再生パッチのダイヤルに突っ込んでみました。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;赤成分が逆再生が発生する確立&lt;/li&gt;
+&lt;li&gt;翠成分が再生位置のシャッフルが発生する確立&lt;/li&gt;
+&lt;li&gt;青成分がグリッジノイズっぽい音が出る確立&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;をそれぞれ決めます。  &lt;/p&gt;
+&lt;p&gt;ちょっとカメラが下過ぎて操作が見づらいかもしれないですね。&lt;/p&gt;
+&lt;p&gt;後半はiPhoneのQuickColorsというアプリで単色の画面を作って&lt;/p&gt;
+&lt;p&gt;カメラに映しています。  &lt;/p&gt;
+&lt;p&gt;jitterいじるよりもこの動画をまとめるほうがめんどくさかった。。&lt;/p&gt;
+&lt;p&gt;デジカメで動画をとりつつ、GarageBandで音を内部録音。&lt;/p&gt;
+&lt;p&gt;これをGarageBand内で動画と音のタイミングを合わせて結合して、&lt;/p&gt;
+&lt;p&gt;iMovieで必要な部分だけをカットしてyoutubeへアップロード・・・&lt;/p&gt;
+&lt;p&gt;iMovieの動画読み込みの仕方が一癖あるような気がするのは僕だけだろうか。&lt;/p&gt;</summary><category term="jitter"></category><category term="mac"></category><category term="max/msp"></category></entry><entry><title>max/mspでドラムループいじり</title><link href="http://ca5.github.io/blog/2010/02/20/maxmsp%E3%81%A7%E3%83%89%E3%83%A9%E3%83%A0%E3%83%AB%E3%83%BC%E3%83%97%E3%81%84%E3%81%98%E3%82%8A/" rel="alternate"></link><updated>2010-02-20T20:40:00+01:00</updated><author><name>Ca5</name></author><id>tag:ca5.github.io,2010-02-20:blog/2010/02/20/maxmspでドラムループいじり/</id><summary type="html">&lt;p&gt;休日の生産性をあげるべく&lt;br /&gt;
+とりあえずいじってできた音はここにまとめてみることにします。&lt;/p&gt;
+&lt;p&gt;今日はmax/mspでドラムループをいじってみました。  &lt;/p&gt;
+&lt;p&gt;&lt;object id="scPlayer" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="400" height="330" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"&gt;&lt;param name="quality" value="high"&gt;&lt;/param&gt;&lt;param name="bgcolor" value="#FFFFFF"&gt;&lt;/param&gt;&lt;param name="flashVars" value="thumb=http://content.screencast.com/users/Ca5/folders/Jing/media/b467d096-2a7d-47ef-8eda-71a7bbb01801/FirstFrame.jpg&amp;amp;containerwidth=802&amp;amp;containerheight=672&amp;amp;content=http://content.screencast.com/users/Ca5/folders/Jing/media/b467d096-2a7d-47ef-8eda-71a7bbb01801/00000003.swf"&gt;&lt;/param&gt;&lt;param name="allowFullScreen" value="true"&gt;&lt;/param&gt;&lt;param name="scale" value="showall"&gt;&lt;/param&gt;&lt;param name="allowScriptAccess" value="always"&gt;&lt;/param&gt;&lt;param name="base" value="http://content.screencast.com/users/Ca5/folders/Jing/media/b467d096-2a7d-47ef-8eda-71a7bbb01801/"&gt;&lt;/param&gt;&lt;param name="src" value="http://content.screencast.com/users/Ca5/folders/Jing/media/b467d096-2a7d-47ef-8eda-71a7bbb01801/jingswfplayer.swf"&gt;&lt;/param&gt;&lt;param name="flashvars" value="thumb=http://content.screencast.com/users/Ca5/folders/Jing/media/b467d096-2a7d-47ef-8eda-71a7bbb01801/FirstFrame.jpg&amp;amp;containerwidth=802&amp;amp;containerheight=672&amp;amp;content=http://content.screencast.com/users/Ca5/folders/Jing/media/b467d096-2a7d-47ef-8eda-71a7bbb01801/00000003.swf"&gt;&lt;/param&gt;&lt;param name="allowfullscreen" value="true"&gt;&lt;/param&gt;&lt;embed id="scPlayer" type="application/x-shockwave-flash" width="400" height="330" src="http://content.screencast.com/users/Ca5/folders/Jing/media/b467d096-2a7d-47ef-8eda-71a7bbb01801/jingswfplayer.swf" base="http://content.screencast.com/users/Ca5/folders/Jing/media/b467d096-2a7d-47ef-8eda-71a7bbb01801/" allowscriptaccess="always" scale="showall" allowfullscreen="true" flashvars="thumb=http://content.screencast.com/users/Ca5/folders/Jing/media/b467d096-2a7d-47ef-8eda-71a7bbb01801/FirstFrame.jpg&amp;amp;containerwidth=802&amp;amp;containerheight=672&amp;amp;content=http://content.screencast.com/users/Ca5/folders/Jing/media/b467d096-2a7d-47ef-8eda-71a7bbb01801/00000003.swf" bgcolor="#FFFFFF" quality="high"&gt;&lt;/embed&gt;&lt;/object&gt;&lt;/p&gt;
+&lt;p&gt;ドラムループを16分割して、&lt;br /&gt;
+テンポ同期と乱数でループのパラメータをいじっています。&lt;/p&gt;
+&lt;p&gt;右のダイヤルは、グリッジノイズっぽいループの発生率&lt;br /&gt;
+真ん中のダイヤルは、ランダムな再生位置の発生率&lt;br /&gt;
+左のダイヤルは、逆再生の発生率&lt;/p&gt;
+&lt;p&gt;とりあえず今日はここまで。&lt;/p&gt;</summary></entry><entry><title>iPhone対応</title><link href="http://ca5.github.io/blog/2010/02/13/iphone%E5%AF%BE%E5%BF%9C/" rel="alternate"></link><updated>2010-02-13T23:56:00+01:00</updated><author><name>Ca5</name></author><id>tag:ca5.github.io,2010-02-13:blog/2010/02/13/iphone対応/</id><summary type="html">&lt;p&gt;１，２分くらいでできた&lt;/p&gt;
+&lt;p&gt;かんたんすぎてくやしい！&lt;/p&gt;
+&lt;p&gt;参考:http://mantiddesign.com/archives/4367&lt;/p&gt;</summary><category term="wordpress"></category></entry><entry><title>twitter連携</title><link href="http://ca5.github.io/blog/2010/02/13/twitter%E9%80%A3%E6%90%BA-2/" rel="alternate"></link><updated>2010-02-13T23:01:00+01:00</updated><author><name>Ca5</name></author><id>tag:ca5.github.io,2010-02-13:blog/2010/02/13/twitter連携-2/</id><summary type="html">&lt;p&gt;とりあえずプラグイン入れてみた&lt;/p&gt;
+&lt;p&gt;下記のサイトのとおりにやればとりあえずおｋ&lt;/p&gt;
+&lt;p&gt;http://www.ryuzee.com/contents/blog/2760&lt;/p&gt;</summary><category term="wordpress"></category></entry><entry><title>twitter連携</title><link href="http://ca5.github.io/blog/2009/12/09/twitter%E9%80%A3%E6%90%BA/" rel="alternate"></link><updated>2009-12-09T07:20:00+01:00</updated><author><name>Ca5</name></author><id>tag:ca5.github.io,2009-12-09:blog/2009/12/09/twitter連携/</id><summary type="html">&lt;p&gt;blog投稿したらtwitterにもpostしてくれるプラグイン&lt;br /&gt;
+いれてみました。&lt;/p&gt;
+&lt;p&gt;PostToTwitter:&lt;br /&gt;
+http://labs.m-logic.jp/plugins/posttotwitter/docs/post_to_twitter.html&lt;/p&gt;
+&lt;p&gt;特に設定苦戦することもなく、&lt;br /&gt;
+サクッと入ります。便利。&lt;/p&gt;</summary></entry><entry><title>さくら+MT+MailPackでメールで投稿出来るブログづくり</title><link href="http://ca5.github.io/blog/2009/11/27/%E3%81%95%E3%81%8F%E3%82%89mtmailpack%E3%81%A7%E3%83%A1%E3%83%BC%E3%83%AB%E3%81%A7%E6%8A%95%E7%A8%BF%E5%87%BA%E6%9D%A5%E3%82%8B%E3%83%96%E3%83%AD%E3%82%B0%E3%81%A5%E3%81%8F%E3%82%8A/" rel="alternate"></link><updated>2009-11-27T00:07:00+01:00</updated><author><name>Ca5</name></author><id>tag:ca5.github.io,2009-11-27:blog/2009/11/27/さくらmtmailpackでメールで投稿出来るブログづくり/</id><summary type="html">&lt;p&gt;色々いじってやっとできるようになったのでまとめを。。。&lt;br /&gt;
+つかったもの：&lt;br /&gt;
+・さくらのレンタルサーバ&lt;br /&gt;
+・MobableType&lt;br /&gt;
+・&lt;a href="http://www.skyarc.co.jp/engineerblog/entry/4022.html"&gt;MailPack&lt;/a&gt;&lt;/p&gt;
+&lt;!--more--&gt;
+
+&lt;p&gt;とりあえずさくらでMobableTypeが正常に動いてるのを前提とします。&lt;br /&gt;
+&lt;strong&gt;1.MailPackのインストール&lt;/strong&gt;&lt;br /&gt;
+公式サイト通りにインストール。なんなく入る&lt;br /&gt;
+&lt;a href="http://www.skyarc.co.jp/engineerblog/entry/4022.html"&gt;http://www.skyarc.co.jp/engineerblog/entry/4022.html&lt;/a&gt;&lt;br /&gt;
+run-periodic-taskの設定はあとでやるのでここでは無視。&lt;br /&gt;
+&lt;strong&gt;2.さくらでブログ投稿専用のメールアドレスを作成・設定&lt;/strong&gt;&lt;br /&gt;
+さくらのコントロールパネルから新しいメールアドレスをつくります。&lt;br /&gt;
+そしてMailPackの設定でそのメールアドレスを設定します。&lt;br /&gt;
+&lt;strong&gt;3.メールボックスとrun-periodic-taskの設定&lt;/strong&gt;&lt;br /&gt;
+ここで、メールを受けたら自動的に再構築をやってくれる設定をします。  &lt;/p&gt;
+&lt;p&gt;まずはメールが来たらrun-periodic-taskを実行してくれるシェルスクリプトを用意。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[ca5@xxxx \~/MailBox/アカウント名]\$ cat maildrop.sh&lt;br /&gt;
+ #!/usr/local/bin/bash&lt;br /&gt;
+ BASEDIR=ここにmt.cgiが入ったディレクトリをフルパスで&lt;br /&gt;
+ export PERL_BADLANG=0&lt;br /&gt;
+ echo "[`date`]"&lt;br /&gt;
+ cd \$BASEDIR&lt;br /&gt;
+ sleep 10&lt;br /&gt;
+ ./tools/run-periodic-tasks&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;.mailfilterでさっきのシェルスクリプトを起動する設定を&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[ca5@www684 \~/MailBox/アカウント名]\$ cat .mailfilter&lt;br /&gt;
+ cc "| ./maildrop.sh &gt;&gt;\~/maildrop.log 2&gt;&amp;amp;1"&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;これでメール投稿+再構築を自動でやってくれます。  &lt;/p&gt;
+&lt;p&gt;ただ、、、たまにrun-periodic-taskでメールを取りこぼすことがあるようなので、&lt;br /&gt;
+run-periodic-taskはcronにも仕込んどいた方がいいかもしれないですね。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;*/20 * * * * cd mtのパス;./tools/run-periodic-tasks &gt;
+\~/crontab.log 2&gt;&amp;amp;1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;とりあえずぼくは20分おきに設定しときました。&lt;br /&gt;
+ちなみにこんなめんどくさいことしなくても、&lt;br /&gt;
+このサービス使うと10秒くらいでメールで投稿出来るブログを作成出来ます。  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://jp.techcrunch.com/archives/20080628posterous-beats-tumblr-in-simplicity/"&gt;http://jp.techcrunch.com/archives/20080628posterous-beats-tumblr-in-simplicity/&lt;/a&gt;&lt;br /&gt;
+ま、自分でやったことにきっと意味がある（！？）&lt;/p&gt;</summary></entry><entry><title>wikiを入れてみた</title><link href="http://ca5.github.io/blog/2008/11/15/wiki%E3%82%92%E5%85%A5%E3%82%8C%E3%81%A6%E3%81%BF%E3%81%9F/" rel="alternate"></link><updated>2008-11-15T07:11:00+01:00</updated><author><name>Ca5</name></author><id>tag:ca5.github.io,2008-11-15:blog/2008/11/15/wikiを入れてみた/</id><summary type="html">&lt;p&gt;&lt;a href="http://ca5z.info/wiki/index.php"&gt;http://ca5z.info/wiki/index.php&lt;/a&gt;&lt;/p&gt;
+&lt;div&gt;
+
+さくらならとりあえずパッケージを解凍するだけであっさりつかえるみたいですね。
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+なんかメモまとまったら書いて行こう
+
+&lt;/div&gt;</summary></entry><entry><title>DS-10きました</title><link href="http://ca5.github.io/blog/2008/07/31/ds-10%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F/" rel="alternate"></link><updated>2008-07-31T00:31:00+02:00</updated><author><name>Ca5</name></author><id>tag:ca5.github.io,2008-07-31:blog/2008/07/31/ds-10きました/</id><summary type="html">&lt;p&gt;さっそくニコニコとyoutubeにあげてみました  &lt;/p&gt;
+&lt;p&gt;（両者おんなじ音です）&lt;/p&gt;
+&lt;iframe src="http://ext.nicovideo.jp/thumb/sm4125196" style="border: 1px solid rgb(204, 204, 204);" frameborder="0" height="176" scrolling="no" width="312"&gt;&amp;lt;a
+href="http://www.nicovideo.jp/watch/sm4125196"&amp;gt;【ニコニコ動画】DS-10適当に&amp;lt;/a&amp;gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;object height="344" width="425"&gt;&lt;param name="movie" value="http://www.youtube.com/v/JakGO6Edz5w&amp;amp;hl=ja&amp;amp;fs=1"&gt;&lt;/param&gt;&lt;param name="allowFullScreen" value="true"&gt;&lt;/param&gt;&lt;embed src="http://www.youtube.com/v/JakGO6Edz5w&amp;amp;hl=ja&amp;amp;fs=1" type="application/x-shockwave-flash" allowfullscreen="true" height="344" width="425"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/object&gt;&lt;br /&gt;
+パターンエディタが１６拍×１６小節の保存しかできないので、&lt;br /&gt;
+細かい打ち込みにはあんまり向かないと思います&lt;/p&gt;
+&lt;p&gt;でもこんな感じでパラメーターをいじりながらの演奏には向いてると思いますねー&lt;/p&gt;
+&lt;p&gt;パッドで無造作に音を並べられるので、ちょっとノイズっぽい不安定なパターンなら簡単にできてよい感じです&lt;/p&gt;</summary></entry><entry><title>AptanaでAdobeAIR</title><link href="http://ca5.github.io/blog/2008/07/01/aptana%E3%81%A7adobeair/" rel="alternate"></link><updated>2008-07-01T22:31:00+02:00</updated><author><name>Ca5</name></author><id>tag:ca5.github.io,2008-07-01:blog/2008/07/01/aptanaでadobeair/</id><summary type="html">&lt;div&gt;
+
+この辺参考に実験
+
+&lt;/div&gt;
+
+&lt;p&gt;http://www.atmarkit.co.jp/fwcr/rensai/freeauthoring01/freeauthoring01_1.html&lt;/p&gt;
+&lt;div&gt;
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+http://www.excite.co.jp/News/society/20080701164402/Kyodo\_OT\_CO2008070101000727.html
+&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+http://d.hatena.ne.jp/drillhands/20070815/1187160005
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+http://libertatem.org/2008/05/adobe-air.html
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+Flex3.0のSDKはこっち
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+http://www.adobe.com/products/flex/flexdownloads/index.html\#sdk
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+.air にするにはここも参考になりそう
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+http://kiyoeri.gotdns.org/joomla/content/view/76/2/
+
+&lt;/div&gt;</summary></entry><entry><title>今日はここまで - nicoPodcast</title><link href="http://ca5.github.io/blog/2008/06/27/%E4%BB%8A%E6%97%A5%E3%81%AF%E3%81%93%E3%81%93%E3%81%BE%E3%81%A7-nicopodcast/" rel="alternate"></link><updated>2008-06-27T00:00:00+02:00</updated><author><name>Ca5</name></author><id>tag:ca5.github.io,2008-06-27:blog/2008/06/27/今日はここまで-nicopodcast/</id><summary type="html">&lt;p&gt;ネットで探せばスクリプト転がってるようなもんですが、&lt;/p&gt;
+&lt;div&gt;
+
+niconicoのマイリストPodcastなる物をつくってみてたりします。
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+今日のメモ
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+・MagpieRSSは0.61を使う（最新版は日本語表示がうまくいかない）
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+&lt;http://www.hyuki.com/yukiwiki/wiki.cgi?MagpieRSS&gt;
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+・ポッドキャスティングのRSSフォーマット
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+&lt;http://webdog.be/archives/051006_231023.php&gt;
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+・ニコニコflvをPHPでDL
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+なんとこぴぺでおk
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+&lt;http://d.hatena.ne.jp/goinger/20070804/1186224313&gt;
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+・ffmpeg...
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+こいつがクセもんで、コンパイルできん。。
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+[http://www.ueryu.com/2007/07/01/h264対応ffmpeg-for-ubuntu-linux-feisty/](http://www.ueryu.com/2007/07/01/h264対応ffmpeg-for-ubuntu-linux-feisty/)
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+道はまだ遠いぜ
+
+&lt;/div&gt;</summary></entry><entry><title>H.264対応FFmpeg をUnixで</title><link href="http://ca5.github.io/blog/2008/06/26/h-264%E5%AF%BE%E5%BF%9Cffmpeg-%E3%82%92unix%E3%81%A7/" rel="alternate"></link><updated>2008-06-26T23:33:00+02:00</updated><author><name>Ca5</name></author><id>tag:ca5.github.io,2008-06-26:blog/2008/06/26/h-264対応ffmpeg-をunixで/</id><summary type="html">&lt;p&gt;http://www.ueryu.com/2007/07/01/h264対応ffmpeg-for-ubuntu-linux-feisty/&lt;/p&gt;</summary></entry><entry><title>PHPでニコニコ動画をダウンロードする方法</title><link href="http://ca5.github.io/blog/2008/06/26/php%E3%81%A7%E3%83%8B%E3%82%B3%E3%83%8B%E3%82%B3%E5%8B%95%E7%94%BB%E3%82%92%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95/" rel="alternate"></link><updated>2008-06-26T23:07:00+02:00</updated><author><name>Ca5</name></author><id>tag:ca5.github.io,2008-06-26:blog/2008/06/26/phpでニコニコ動画をダウンロードする方法/</id><summary type="html">&lt;p&gt;http://d.hatena.ne.jp/goinger/20070804/1186224313&lt;/p&gt;</summary></entry><entry><title>ポッドキャステング用のRSS 2.0の書き方</title><link href="http://ca5.github.io/blog/2008/06/26/%E3%83%9D%E3%83%83%E3%83%89%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%86%E3%83%B3%E3%82%B0%E7%94%A8%E3%81%AErss-2-0%E3%81%AE%E6%9B%B8%E3%81%8D%E6%96%B9/" rel="alternate"></link><updated>2008-06-26T22:48:00+02:00</updated><author><name>Ca5</name></author><id>tag:ca5.github.io,2008-06-26:blog/2008/06/26/ポッドキャステング用のrss-2-0の書き方/</id><summary type="html">&lt;p&gt;http://webdog.be/archives/051006_231023.php&lt;/p&gt;</summary></entry><entry><title>MagpieRSS を使ってみようと・・・</title><link href="http://ca5.github.io/blog/2008/06/24/magpierss-%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86%E3%81%A8%E3%83%BB%E3%83%BB%E3%83%BB/" rel="alternate"></link><updated>2008-06-24T23:03:00+02:00</updated><author><name>Ca5</name></author><id>tag:ca5.github.io,2008-06-24:blog/2008/06/24/magpierss-を使ってみようと・・・/</id><summary type="html">&lt;div&gt;
+
+PHPの練習がてら、niconicoのビデオポッドキャスト化をやってみようと思って
+
+&lt;/div&gt;
+
+&lt;p&gt;&lt;a href="http://www.hyuki.com/yukiwiki/wiki.cgi?MagpieRSS"&gt;http://www.hyuki.com/yukiwiki/wiki.cgi?MagpieRSS&lt;br /&gt;
+&lt;/a&gt;MagpieRSSとやらをさくらでためしてみました。&lt;/p&gt;
+&lt;div&gt;
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+とりあえずここのコピペだけでこのブログのRSS取得が簡単にできて
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+すげーと思っていたんですが（日本語は化けるが途中のコメントに解決策があるっぽい
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+さくらから肝心のニコニコのRSSが取れない。。
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+なんでだろうと思って、そもそもxmlのDLが可能か試してみたら・・・
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+&lt;/div&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;\$ fetch http://ca5z.info/blog/rss.xml&lt;br /&gt;
+rss.xml                                       100% of   23 kB   11
+MBps&lt;/p&gt;
+&lt;p&gt;\$ fetch http://www.nicovideo.jp/mylist/7270893?rss=2.0&lt;br /&gt;
+fetch: http://www.nicovideo.jp/mylist/7270893?rss=2.0: Forbidden&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div&gt;
+
+&lt;div&gt;
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+うわー　アク禁くせー　orz
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;</summary></entry><entry><title>Plaggerインスコめも</title><link href="http://ca5.github.io/blog/2008/06/22/plagger%E3%82%A4%E3%83%B3%E3%82%B9%E3%82%B3%E3%82%81%E3%82%82/" rel="alternate"></link><updated>2008-06-22T02:03:00+02:00</updated><author><name>Ca5</name></author><id>tag:ca5.github.io,2008-06-22:blog/2008/06/22/plaggerインスコめも/</id><summary type="html">&lt;p&gt;&lt;a href="http://isoya.at.webry.info/200611/article_26.html"&gt;http://isoya.at.webry.info/200611/article_26.html&lt;/a&gt;&lt;/p&gt;
+&lt;div&gt;
+
+とりあえずこれの　test Plagger までおわた
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+CPAN初期設定はこの辺を
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+&lt;http://iandeth.dyndns.org/mt/ian/archives/000623.html&gt;  
+&lt;http://www.otsune.com/bsd/tips/usercpaninstall.html&gt;
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+とりあえずわけわからんので
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+まるぱくりでやってみるか。。
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+なんかエラーが気になるんだよな。。
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+&lt;div&gt;
+
+All tests successful.
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+Files=3, Tests=23,  1 wallclock secs ( 0.16 cusr +  0.11 csys =  0.27
+CPU)
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+  /usr/bin/make test -- OK
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+Running make for M/MI/MIYAGAWA/Plagger-0.7.17.tar.gz
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+  Is already unwrapped into directory
+/home/ca5/.cpan/build/Plagger-0.7.17
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+  CPAN.pm: Going to build M/MI/MIYAGAWA/Plagger-0.7.17.tar.gz
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+Couldn't chdir /home/ca5/.cpan/build/Plagger-0.7.17: No such file or
+directory at /usr/local/lib/perl5/5.8.8/CPAN.pm line 2137
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;</summary></entry><entry><title>Twitter Board ウィジェット</title><link href="http://ca5.github.io/blog/2008/06/16/twitter-board-%E3%82%A6%E3%82%A3%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/" rel="alternate"></link><updated>2008-06-16T00:54:00+02:00</updated><author><name>Ca5</name></author><id>tag:ca5.github.io,2008-06-16:blog/2008/06/16/twitter-board-ウィジェット/</id><summary type="html">&lt;p&gt;&lt;a href="http://modelrr.net/taksware/?p=14"&gt;http://modelrr.net/taksware/?p=14&lt;/a&gt;&lt;/p&gt;
+&lt;div&gt;
+
+これはなかなか便利
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+バックグラウンドで常時メッセージを取得させておけるところがいいねぇ
+
+&lt;/div&gt;</summary></entry><entry><title>Protein[DS]</title><link href="http://ca5.github.io/blog/2008/06/01/proteinds/" rel="alternate"></link><updated>2008-06-01T23:27:00+02:00</updated><author><name>Ca5</name></author><id>tag:ca5.github.io,2008-06-01:blog/2008/06/01/proteinds/</id><summary type="html">&lt;p&gt;&lt;a href="http://picasaweb.google.co.jp/ca54makske/Blog/photo#5206919232015255506"&gt;&lt;img alt="" src="http://lh6.ggpht.com/ca54makske/SEKxdD5rR9I/AAAAAAAABFU/WlsIeVSmaT8/s400/img-0043.jpg" /&gt;&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://gorgull.googlepages.com/home2"&gt;http://gorgull.googlepages.com/home2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;DSMIのページにリンクが貼ってあるんですが、&lt;br /&gt;
+ProteinDSというwavのスクラッチができるソフトがあったんですね&lt;/p&gt;
+&lt;p&gt;Wavファイルを２つ読み込ませて、片方を再生しながらもう片方をスクラッチ・・・&lt;br /&gt;
+とか&lt;/p&gt;
+&lt;p&gt;１発ネタをサンプラーのように再生させることができます。&lt;/p&gt;
+&lt;p&gt;あとびっくりしたのが、スクラッチにローファイエフェクトをかけることもできる上に、&lt;br /&gt;
+マイクの音声にエフェクトをかますことまでできてしまいます&lt;/p&gt;
+&lt;p&gt;これは。。。。。&lt;/p&gt;
+&lt;p&gt;ただ、使うときは　ProteinDSのフォルダをSDのルートに入れて起動してやってください&lt;br /&gt;
+どうやらディレクトリ構造が狂うとうまく起動できないようになっとるようですわ&lt;/p&gt;</summary></entry><entry><title>LiveCutとかGlitch</title><link href="http://ca5.github.io/blog/2008/06/01/livecut%E3%81%A8%E3%81%8Bglitch/" rel="alternate"></link><updated>2008-06-01T20:21:00+02:00</updated><author><name>Ca5</name></author><id>tag:ca5.github.io,2008-06-01:blog/2008/06/01/livecutとかglitch/</id><summary type="html">&lt;p&gt;MacでGlitchが使えないからどうしよう。。と思って探してたら&lt;br /&gt;
+Macにも対応している強力なグリッチノイズ発生プラグインみっけ&lt;br /&gt;
+&lt;a href="http://mdsp.smartelectronix.com/2005/07/livecut.php"&gt;http://mdsp.smartelectronix.com/2005/07/livecut.php&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Glitchと違ってちとパラメーターはわかりにくいですが、&lt;br /&gt;
+これもなかなか強力なプラグインですね&lt;/p&gt;
+&lt;p&gt;ちなみにGlitchはこちら&lt;a href="http://illformed.org/blog/glitch/"&gt;&lt;br /&gt;
+http://illformed.org/blog/glitch/&lt;/a&gt;&lt;/p&gt;</summary></entry><entry><title>DSとマックをDSMIでつなげてみる</title><link href="http://ca5.github.io/blog/2008/06/01/ds%E3%81%A8%E3%83%9E%E3%83%83%E3%82%AF%E3%82%92dsmi%E3%81%A7%E3%81%A4%E3%81%AA%E3%81%92%E3%81%A6%E3%81%BF%E3%82%8B/" rel="alternate"></link><updated>2008-06-01T14:12:00+02:00</updated><author><name>Ca5</name></author><id>tag:ca5.github.io,2008-06-01:blog/2008/06/01/dsとマックをdsmiでつなげてみる/</id><summary type="html">&lt;p&gt;といってもまぁ、ここをもろ参考にしただけなんだが。。&lt;br /&gt;
+&lt;a href="http://dsmidiwifi.tobw.net/index.php?cat_id=1"&gt;http://max.iamas.ac.jp/2061/?p=400&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;何ができるかというと、&lt;br /&gt;
+DSをmidiコントローラーとして使うことができます。&lt;br /&gt;
+DSのタッチパネルをぐにゅぐにゅすると音もぐにゅぐにゅ。。。なんてことも&lt;br /&gt;
+設定次第で何でもできるようになりますね&lt;/p&gt;
+&lt;p&gt;そんな夢のソフトDSMIはこちら&lt;br /&gt;
+http://dsmidiwifi.tobw.net/index.php?cat_id=1&lt;/p&gt;
+&lt;p&gt;ちとあんまり使わない設定で戸惑ったところを抜粋。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&lt;br /&gt;
+&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;MacのWi-Fi設定&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;・Ethernetでのインターネット接続を設定&lt;br /&gt;
+ （普段の設定で構わないが、AirMacでのインターネット接続は不可）  &lt;/p&gt;
+&lt;p&gt;（スタンドアローンなら、IPを手入力にして、アドレスを10.0.0.1などに設定）&lt;br /&gt;
+ ・以下のように設定して、インターネット共有を開始&lt;br /&gt;
+ 　- 共有する接続経路：内蔵Ethernet&lt;br /&gt;
+ 　- 相手のコンピュータが使用するポート：AirMac&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;これやってる間は、AirMacがアクセスポイントみたいなモードになるんで、&lt;br /&gt;
+AirMacを通してネットすることができなくなるんで注意&lt;/p&gt;
+&lt;p&gt;あ、それと地味に設定戸惑ったのはDS側の無線LAN設定。&lt;br /&gt;
+Wi-fi対戦可能ソフトが無いと設定できないってところがPSPとはちがうところですな&lt;/p&gt;</summary></entry><entry><title>DSとEzFlashV導入</title><link href="http://ca5.github.io/blog/2008/04/29/ds%E3%81%A8ezflashv%E5%B0%8E%E5%85%A5/" rel="alternate"></link><updated>2008-04-29T23:23:00+02:00</updated><author><name>Ca5</name></author><id>tag:ca5.github.io,2008-04-29:blog/2008/04/29/dsとezflashv導入/</id><summary type="html">&lt;p&gt;&lt;span class="mt-enclosure mt-enclosure-image"
+style="display: inline;"&gt;&lt;img alt="ds-nitrotracker.jpg" src="http://ca5z.info/blog/ds-nitrotracker.jpg" /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;マジコンついでにDS本体も買ってしまいました \^o\^&lt;/p&gt;
+&lt;div&gt;
+
+&lt;/div&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;・EzFlashV導入メモ&lt;br /&gt;
+1.まずはまとめサイトから&lt;br /&gt;
+&lt;a href="http://dswiki.7mc.org/wiki.cgi?page=EZ-Flash+V"&gt;http://dswiki.7mc.org/wiki.cgi?page=EZ-Flash+V&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ローダーとやらのファームウェアみたいのをアップグレードします。&lt;br /&gt;
+「Rを押しながら起動」ってのがミソ&lt;/p&gt;
+&lt;p&gt;2.DLDI Patcherとやらを入手&lt;a href="http://r4ds-magicom.seesaa.net/article/53859294.html"&gt;&lt;br /&gt;
+http://r4ds-magicom.seesaa.net/article/53859294.html&lt;/a&gt;&lt;br /&gt;
+---以下勝手に抜粋---&lt;br /&gt;
+DLDIパッチの当て方&lt;br /&gt;
+【dlditool-win32-gui.zip】をダウンロードする&lt;br /&gt;
+&lt;a href="http://chishm.drunkencoders.com/DLDI/index.html#patchers"&gt;http://chishm.drunkencoders.com/DLDI/index.html#patchers&lt;/a&gt;&lt;br /&gt;
+各マジコンのDLDIパッチをダウンロードする－R4DS【r4tf.dldi】&lt;br /&gt;
+&lt;a href="http://chishm.drunkencoders.com/DLDI/index.html#patches"&gt;http://chishm.drunkencoders.com/DLDI/index.html#patches&lt;/a&gt;&lt;br /&gt;
+------&lt;br /&gt;
+これはR4用の説明ですが、&lt;br /&gt;
+DLDIパッチをEzFlash用のものに置き換えるだけでやり方は一緒&lt;/p&gt;
+&lt;p&gt;どうやら毎回.ndsファイルにはパッチをあてにゃならんようですね&lt;/p&gt;
+&lt;p&gt;〜とりあえずいろいろいれてみた〜&lt;br /&gt;
+・まずはお約束のnesDS&lt;a href="http://dswiki.7mc.org/wiki.cgi?page=nesDS"&gt;&lt;br /&gt;
+http://dswiki.7mc.org/wiki.cgi?page=nesDS&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;・PDAという言葉に釣られてDSOrganizeも入れてみた&lt;a href="http://www.dragonminded.com/?loc=ndsdev/DSOrganize"&gt;&lt;br /&gt;
+http://www.dragonminded.com/?loc=ndsdev/DSOrganize&lt;/a&gt;&lt;br /&gt;
+なんか無線LANの設定が対応してないらしくWEBブラウザが試せない&lt;/p&gt;
+&lt;p&gt;・NitroTracker&lt;a href="http://kishiwada.orz.hm/game/nitrotracker/"&gt;&lt;br /&gt;
+http://kishiwada.orz.hm/game/nitrotracker/&lt;/a&gt;&lt;br /&gt;
+写真のとおりばっちり動いてくれました&lt;br /&gt;
+これはつかえるかもしれん \^q\^&lt;/p&gt;
+&lt;p&gt;・まだ入れてないけどこんなのも&lt;a href="http://dsmidiwifi.tobw.net/index.php?cat_id=0"&gt;&lt;br /&gt;
+http://dsmidiwifi.tobw.net/index.php?cat_id=0&lt;/a&gt;&lt;br /&gt;
+DSをMidiコントローラーとして使えるようです&lt;br /&gt;
+近いうちにためしてみます&lt;br /&gt;
+これはライブでつかえるかもしれん \^q\^&lt;/p&gt;</summary></entry><entry><title>macとsakuraとscreen</title><link href="http://ca5.github.io/blog/2008/04/15/mac%E3%81%A8sakura%E3%81%A8screen/" rel="alternate"></link><updated>2008-04-15T23:50:00+02:00</updated><author><name>Ca5</name></author><id>tag:ca5.github.io,2008-04-15:blog/2008/04/15/macとsakuraとscreen/</id><summary type="html">&lt;p&gt;ようやくmacのターミナルからsakuraにログインしてscreen上で日本語打てるようになりましたメモ&lt;/p&gt;
+&lt;!--more--&gt;
+
+&lt;p&gt;•ターミナルの設定&lt;br /&gt;
+ターミナルの宣言方法：xterm-color (ls で多色表示にするため)&lt;br /&gt;
+文字エンコーディング：EUC&lt;br /&gt;
+※起動時にLANG環境変数を設定　は　&lt;strong&gt;はずす&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;•bashrcの設定&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;alias screen=&amp;#39;~/bin/screen-4.0.3/screen&amp;#39; #単にscreenのインストール先を指定
+export CLICOLOR=1 
+export TERM=xterm-color #この2行でカラー表示
+export LANG=ja_JP.eucJP
+
+
+•screenrcの設定（いろいろ追加してどれがどういう意味かうろ覚え）
+helltitle &amp;quot;$ |bash&amp;quot;
+hardstatus alwayslastline &amp;quot;%y/%m/%d(%D) [%02c]: %-w%{=b bw}%n %t%{-}%+w&amp;quot;
+bind s
+bind ^U encoding utf8
+bind ^E encoding EUC
+bind ^S encoding SJIS
+escape ^Zz    # Ctrl + z
+defencoding EUC
+encoding EUC
+termcap  facit|vt100|xterm LP:G0
+terminfo facit|vt100|xterm LP:G0
+
+あとは、普通にログインすれば日本語が打てる、と。
+screen起動してもおk
+&lt;/pre&gt;&lt;/div&gt;</summary></entry><entry><title>mac キーボード周りメモ</title><link href="http://ca5.github.io/blog/2008/03/30/mac-%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E5%91%A8%E3%82%8A%E3%83%A1%E3%83%A2/" rel="alternate"></link><updated>2008-03-30T07:40:00+02:00</updated><author><name>Ca5</name></author><id>tag:ca5.github.io,2008-03-30:blog/2008/03/30/mac-キーボード周りメモ/</id><summary type="html">&lt;p&gt;mac-win間でsynergy使ったりHHKBLite使ったりするときのメモ&lt;/p&gt;
+&lt;!--more--&gt;
+
+&lt;p&gt;•日本語化&lt;br /&gt;
+Synergy wiki - 日本語化パッチ&lt;a href="http://wiki.nothing.sh/page/memo/Synergy"&gt;&lt;br /&gt;
+http://wiki.nothing.sh/page/memo/Synergy&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;斜に - 日本語化パッチ&lt;a href="http://naname.jp/index.php?Synergy"&gt;&lt;br /&gt;
+http://naname.jp/index.php?Synergy&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;どっちを入れたかは忘れたけど、日本語配列のキーボードを使うならあった方が良い&lt;br /&gt;
+英語キーボードだったら必要ないかな。。。&lt;/p&gt;
+&lt;p&gt;•キー配列&lt;br /&gt;
+回り道日記 - Synergy で Win をサーバ、MacBook
+をクライアントにした場合の問題&lt;a href="http://suga.parfe.jp/td/index.cgi?date=20080108"&gt;http://suga.parfe.jp/td/index.cgi?date=20080108&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;WindowsキーボードをMacで使う&lt;br /&gt;
+&lt;a href="http://msyk.net/macos/winkeyboard/"&gt;http://msyk.net/macos/winkeyboard/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;このパッチを使って、キーボードの設定を「PS/2J」にしてやらないと、&lt;br /&gt;
+英語キーボードであっても記号などの位置が刻印とずれてしまう模様。&lt;/p&gt;
+&lt;p&gt;ただ、キーボードを直にさしてやると「U.S.」の設定でいけるようなので&lt;br /&gt;
+これはSynergyのみの問題かな&lt;/p&gt;
+&lt;p&gt;•Windowsでキーボードを英語キーボードに変える&lt;br /&gt;
+Vector - キーボード切り替えツール&lt;br /&gt;
+&lt;a href="http://www.vector.co.jp/soft/winnt/util/se394832.html"&gt;http://www.vector.co.jp/soft/winnt/util/se394832.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;初期設定で日本語キーボードにしていて、後で英語キーボードに変える時や&lt;br /&gt;
+その逆にも使える。&lt;br /&gt;
+どうやらレジストリを書き換えて再起動する必要があるようだ&lt;/p&gt;</summary></entry><entry><title>ダイナミックパブリシングあきらめた</title><link href="http://ca5.github.io/blog/2008/03/28/%E3%83%80%E3%82%A4%E3%83%8A%E3%83%9F%E3%83%83%E3%82%AF%E3%83%91%E3%83%96%E3%83%AA%E3%82%B7%E3%83%B3%E3%82%B0%E3%81%82%E3%81%8D%E3%82%89%E3%82%81%E3%81%9F/" rel="alternate"></link><updated>2008-03-28T18:23:00+01:00</updated><author><name>Ca5</name></author><id>tag:ca5.github.io,2008-03-28:blog/2008/03/28/ダイナミックパブリシングあきらめた/</id><summary type="html">&lt;p&gt;さくら鯖でダイナミックパブリシング全然うまくいかないのであきらめました&lt;/p&gt;
+&lt;p&gt;以下やったことメモ&lt;/p&gt;
+&lt;!--more--&gt;
+
+&lt;p&gt;1.ググったら散々出てくる、噂の.htaccessの編集&lt;br /&gt;
+http://www.google.co.jp/search?q=sakura+movable+%E3%83%80%E3%82%A4%E3%83%8A%E3%83%9F%E3%83%83%E3%82%AF&amp;amp;hl=ja&amp;amp;lr=lang_ja&amp;amp;safe=off&amp;amp;client=firefox-a&amp;amp;rls=org.mozilla:ja-JP-mac:official&amp;amp;hs=Xjp&amp;amp;start=10&amp;amp;sa=N&lt;/p&gt;
+&lt;p&gt;2. *.php *.pm *.pl の全パーミッションを755 へ&lt;br /&gt;
+mtを置いてるディレクトリ下で&lt;br /&gt;
+"find ./ -name *.php -exec chmod 755 {} ¥;"&lt;br /&gt;
+"find ./ -name *.pm -exec chmod 755 {} ¥;"&lt;br /&gt;
+"find ./ -name *.pl -exec chmod 755 {} ¥;"&lt;br /&gt;
+を実行&lt;/p&gt;
+&lt;p&gt;3. 再構築&lt;/p&gt;
+&lt;p&gt;ざっと見たところディレクトリのパーミッションも間違ってなさそうなんで&lt;br /&gt;
+もうお手上げ　＼(\^o\^)／&lt;/p&gt;</summary></entry><entry><title>ダイナミックなんちゃら</title><link href="http://ca5.github.io/blog/2008/03/24/%E3%83%80%E3%82%A4%E3%83%8A%E3%83%9F%E3%83%83%E3%82%AF%E3%81%AA%E3%82%93%E3%81%A1%E3%82%83%E3%82%89/" rel="alternate"></link><updated>2008-03-24T01:03:00+01:00</updated><author><name>Ca5</name></author><id>tag:ca5.github.io,2008-03-24:blog/2008/03/24/ダイナミックなんちゃら/</id><summary type="html">&lt;p&gt;動的なページにしてみるてすと&lt;br /&gt;
+umakuikan&lt;br /&gt;
+umakuikando&lt;/p&gt;</summary></entry><entry><title>とりあえずインスコ完了</title><link href="http://ca5.github.io/blog/2008/03/23/%E3%81%A8%E3%82%8A%E3%81%82%E3%81%88%E3%81%9A%E3%82%A4%E3%83%B3%E3%82%B9%E3%82%B3%E5%AE%8C%E4%BA%86/" rel="alternate"></link><updated>2008-03-23T00:19:00+01:00</updated><author><name>Ca5</name></author><id>tag:ca5.github.io,2008-03-23:blog/2008/03/23/とりあえずインスコ完了/</id><summary type="html">&lt;p&gt;全部デフォルｔ－&lt;br /&gt;
+MT4.1になってインスコや設定もずいぶん楽になったもんだぜ&lt;/p&gt;</summary></entry></feed>

@@ -1,88 +1,83 @@
 <!DOCTYPE html>
-<html lang="jp">
+<html lang="jp"
+>
 <head>
-        <meta charset="utf-8" />
-        <title>ca5blog - live</title>
-        <link rel="stylesheet" href="http://ca5.github.io/blog/theme/css/main.css" />
-        <link href="http://ca5.github.io/blog/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="ca5blog Atom Feed" />
+    <title>live - ca5blog</title>
+    <!-- Using the latest rendering mode for IE -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-        <!--[if IE]>
-            <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-        <![endif]-->
+
+
+
+    <meta name="author" content="Ca5" />
+    <meta name="keywords" content="live" />
+
+    <!-- Open Graph tags -->
+        <meta property="og:site_name" content="ca5blog" />
+        <meta property="og:type" content="website"/>
+        <meta property="og:title" content="ca5blog"/>
+        <meta property="og:url" content="http://ca5.github.io/blog"/>
+        <meta property="og:description" content="ca5blog"/>
+
+
+    <!-- Bootstrap -->
+        <link rel="stylesheet" href="http://ca5.github.io/blog/theme/css/bootstrap.min.css" type="text/css"/>
+    <link href="http://ca5.github.io/blog/theme/css/font-awesome.min.css" rel="stylesheet">
+
+    <link href="http://ca5.github.io/blog/theme/css/pygments/native.css" rel="stylesheet">
+    <link rel="stylesheet" href="http://ca5.github.io/blog/theme/css/style.css" type="text/css"/>
+
+        <link href="http://ca5.github.io/blog/feeds/all.atom.xml" type="application/atom+xml" rel="alternate"
+              title="ca5blog ATOM Feed"/>
+
 </head>
+<body>
 
-<body id="index" class="home">
-        <header id="banner" class="body">
-                <h1><a href="http://ca5.github.io/blog/">ca5blog </a></h1>
-                <nav><ul>
-                    <li><a href="http://ca5.github.io/blog/category/8bit-game.html">8bit, game</a></li>
-                    <li><a href="http://ca5.github.io/blog/category/8bit-game-music.html">8bit, game, music</a></li>
-                    <li><a href="http://ca5.github.io/blog/category/8bit-music.html">8bit, music</a></li>
-                    <li><a href="http://ca5.github.io/blog/category/8bit-music-ri-ji.html">8bit, music, 日記</a></li>
-                    <li><a href="http://ca5.github.io/blog/category/8bit-music-web.html">8bit, music, web</a></li>
-                    <li><a href="http://ca5.github.io/blog/category/8bit-tumblr.html">8bit, tumblr</a></li>
-                    <li><a href="http://ca5.github.io/blog/category/art-music.html">art, music</a></li>
-                    <li><a href="http://ca5.github.io/blog/category/art-music-ri-ji-shi-bewu.html">art, music, 日記, 食べ物</a></li>
-                    <li><a href="http://ca5.github.io/blog/category/game.html">game</a></li>
-                    <li><a href="http://ca5.github.io/blog/category/game-music.html">game, music</a></li>
-                    <li><a href="http://ca5.github.io/blog/category/game-music-video-web.html">game, music, video, web</a></li>
-                    <li><a href="http://ca5.github.io/blog/category/game-web.html">game, web</a></li>
-                    <li><a href="http://ca5.github.io/blog/category/game-wu-yu.html">game, 物欲</a></li>
-                    <li><a href="http://ca5.github.io/blog/category/misc.html">misc</a></li>
-                    <li><a href="http://ca5.github.io/blog/category/music.html">music</a></li>
-                    <li><a href="http://ca5.github.io/blog/category/music-neta.html">music, ネタ</a></li>
-                    <li><a href="http://ca5.github.io/blog/category/music-ri-ji.html">music, 日記</a></li>
-                    <li><a href="http://ca5.github.io/blog/category/music-tumblr-video.html">music, tumblr, video</a></li>
-                    <li><a href="http://ca5.github.io/blog/category/music-tumblr-video-neta.html">music, tumblr, video, ネタ</a></li>
-                    <li><a href="http://ca5.github.io/blog/category/music-video.html">music, video</a></li>
-                    <li><a href="http://ca5.github.io/blog/category/music-video-neta-wu-yu.html">music, video, ネタ, 物欲</a></li>
-                    <li><a href="http://ca5.github.io/blog/category/music-video-web.html">music, video, web</a></li>
-                    <li><a href="http://ca5.github.io/blog/category/music-web.html">music, web</a></li>
-                    <li><a href="http://ca5.github.io/blog/category/music-wei-fen-lei.html">music, 未分類</a></li>
-                    <li><a href="http://ca5.github.io/blog/category/ri-ji.html">日記</a></li>
-                    <li><a href="http://ca5.github.io/blog/category/shi-bewu.html">食べ物</a></li>
-                    <li><a href="http://ca5.github.io/blog/category/sonota.html">その他</a></li>
-                    <li><a href="http://ca5.github.io/blog/category/sonota-ri-ji.html">その他, 日記</a></li>
-                    <li><a href="http://ca5.github.io/blog/category/sonota-wu-yu.html">その他, 物欲</a></li>
-                    <li><a href="http://ca5.github.io/blog/category/tumblr.html">tumblr</a></li>
-                    <li><a href="http://ca5.github.io/blog/category/tumblr-video-neta-wu-yu.html">tumblr, video, ネタ, 物欲</a></li>
-                    <li><a href="http://ca5.github.io/blog/category/tumblr-web.html">tumblr, web</a></li>
-                    <li><a href="http://ca5.github.io/blog/category/video.html">video</a></li>
-                    <li><a href="http://ca5.github.io/blog/category/video-neta.html">video, ネタ</a></li>
-                    <li><a href="http://ca5.github.io/blog/category/video-web.html">video, web</a></li>
-                    <li><a href="http://ca5.github.io/blog/category/video-web-neta.html">video, web, ネタ</a></li>
-                    <li><a href="http://ca5.github.io/blog/category/video-web-ri-ji.html">video, web, 日記</a></li>
-                    <li><a href="http://ca5.github.io/blog/category/video-wu-yu.html">video, 物欲</a></li>
-                    <li><a href="http://ca5.github.io/blog/category/web.html">web</a></li>
-                    <li><a href="http://ca5.github.io/blog/category/web-ri-ji.html">web, 日記</a></li>
-                    <li><a href="http://ca5.github.io/blog/category/web-sonota.html">web, その他</a></li>
-                    <li><a href="http://ca5.github.io/blog/category/web-sonota-neta.html">web, その他, ネタ</a></li>
-                    <li><a href="http://ca5.github.io/blog/category/web-wu-yu.html">web, 物欲</a></li>
-                    <li><a href="http://ca5.github.io/blog/category/wei-fen-lei.html">未分類</a></li>
-                    <li><a href="http://ca5.github.io/blog/category/wu-yu.html">物欲</a></li>
-                </ul></nav>
-        </header><!-- /#banner -->
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+	<div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a href="http://ca5.github.io/blog/" class="navbar-brand">
+ca5blog            </a>
+        </div>
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+            <ul class="nav navbar-nav">
+                        <li >
+                            <a href="http://ca5.github.io/blog/category/create.html">Create</a>
+                        </li>
+                        <li >
+                            <a href="http://ca5.github.io/blog/category/event.html">Event</a>
+                        </li>
+                        <li >
+                            <a href="http://ca5.github.io/blog/category/other.html">Other</a>
+                        </li>
+                        <li >
+                            <a href="http://ca5.github.io/blog/category/release.html">Release</a>
+                        </li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+              <li><a href="http://ca5.github.io/blog/archives.html"><i class="fa fa-th-list"></i><span class="icon-label">Archives</span></a></li>
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+</div> <!-- /.navbar -->
+<!-- Banner -->
+<!-- End Banner -->
+<div class="container">
+    <div class="row">
+        <div class="col-sm-9">
 
-                <section id="content" class="body">
-                    <ol id="posts-list" class="hfeed" start="9">
-            <li><article class="hentry">
-                <header>
-                    <h1><a href="http://ca5.github.io/blog/動画アップしましたm3-2012-othermanshow7.html" rel="bookmark"
-                           title="Permalink to 動画アップしました(M3-2012, Othermanshow#7)">動画アップしました(M3-2012, Othermanshow#7)</a></h1>
-                </header>
-
-                <div class="entry-content">
-<footer class="post-info">
-        <abbr class="published" title="2012-05-18T22:00:00+02:00">
-                Published: 金 18 5月 2012
-        </abbr>
-
-        <address class="vcard author">
-                By                         <a class="url fn" href="http://ca5.github.io/blog/author/admin.html">admin</a>
-        </address>
-<p>In <a href="http://ca5.github.io/blog/category/music.html">music</a>. </p>
-<p>tags: <a href="http://ca5.github.io/blog/tag/ipad.html">iPad</a> <a href="http://ca5.github.io/blog/tag/live.html">live</a> <a href="http://ca5.github.io/blog/tag/m3.html">M3</a> <a href="http://ca5.github.io/blog/tag/mac.html">mac</a> <a href="http://ca5.github.io/blog/tag/maxmsp.html">max/msp</a> <a href="http://ca5.github.io/blog/tag/nkrn.html">NKRN</a> <a href="http://ca5.github.io/blog/tag/otherman.html">otherman</a> <a href="http://ca5.github.io/blog/tag/touchosc.html">touchosc</a> </p>
-</footer><!-- /.post-info -->                <p>あざまんしょー７のライブの様子<br />
+            <article>
+                <h2><a href="http://ca5.github.io/blog/2012/05/18/動画アップしましたm3-2012-othermanshow7/">動画アップしました(M3-2012, Othermanshow#7)</a></h2>
+                <div class="summary"><p>あざまんしょー７のライブの様子<br />
 いせさんが取ってくれました！  </p>
 <iframe width="560" height="315" src="http://www.youtube.com/embed/6HlDEzDdl_E" frameborder="0" allowfullscreen></iframe>
 
@@ -96,28 +91,13 @@
 [【ニコニコ動画】ふたりのボカロ(ふたりの天使remix)](http://www.nicovideo.jp/watch/nm17854060)
 
 </noscript>
-                <a class="readmore" href="http://ca5.github.io/blog/動画アップしましたm3-2012-othermanshow7.html">read more</a>
-                </div><!-- /.entry-content -->
-            </article></li>
-
-            <li><article class="hentry">
-                <header>
-                    <h1><a href="http://ca5.github.io/blog/半手動ブレイクコアシリーズ-その6.html" rel="bookmark"
-                           title="Permalink to 半手動ブレイクコアシリーズ その6">半手動ブレイクコアシリーズ その6</a></h1>
-                </header>
-
-                <div class="entry-content">
-<footer class="post-info">
-        <abbr class="published" title="2011-11-07T00:28:00+01:00">
-                Published: 月 07 11月 2011
-        </abbr>
-
-        <address class="vcard author">
-                By                         <a class="url fn" href="http://ca5.github.io/blog/author/admin.html">admin</a>
-        </address>
-<p>In <a href="http://ca5.github.io/blog/category/music.html">music</a>. </p>
-<p>tags: <a href="http://ca5.github.io/blog/tag/live.html">live</a> <a href="http://ca5.github.io/blog/tag/maxmsp.html">max/msp</a> <a href="http://ca5.github.io/blog/tag/touchosc.html">touchosc</a> </p>
-</footer><!-- /.post-info -->                <p>またライブセットをイチから作り直しました</p>
+                    <a class="btn btn-default btn-xs" href="http://ca5.github.io/blog/2012/05/18/動画アップしましたm3-2012-othermanshow7/">more ...</a>
+                </div>
+            </article>
+            <hr/>
+            <article>
+                <h2><a href="http://ca5.github.io/blog/2011/11/07/半手動ブレイクコアシリーズ-その6/">半手動ブレイクコアシリーズ その6</a></h2>
+                <div class="summary"><p>またライブセットをイチから作り直しました</p>
 <iframe width="420" height="315" src="http://www.youtube.com/embed/eQV9Sgek9MY" frameborder="0" allowfullscreen></iframe>
 
 <p>今回のテーマは<br />
@@ -155,28 +135,13 @@ mspのオーディオ録音/再生がそれなりにレイテンシがあるよ�
 長く使ってるとたまにmidiのクロックに追いつかなくなったりします・・・<br />
 マシンスペックがちょっと足りないかな。。<br />
 だれかMacBookProをぼくにかってください。</p>
-                <a class="readmore" href="http://ca5.github.io/blog/半手動ブレイクコアシリーズ-その6.html">read more</a>
-                </div><!-- /.entry-content -->
-            </article></li>
-
-            <li><article class="hentry">
-                <header>
-                    <h1><a href="http://ca5.github.io/blog/ipadのgriid試してみた.html" rel="bookmark"
-                           title="Permalink to iPadのGriid試してみた">iPadのGriid試してみた</a></h1>
-                </header>
-
-                <div class="entry-content">
-<footer class="post-info">
-        <abbr class="published" title="2011-10-07T21:00:00+02:00">
-                Published: 金 07 10月 2011
-        </abbr>
-
-        <address class="vcard author">
-                By                         <a class="url fn" href="http://ca5.github.io/blog/author/admin.html">admin</a>
-        </address>
-<p>In <a href="http://ca5.github.io/blog/category/music.html">music</a>. </p>
-<p>tags: <a href="http://ca5.github.io/blog/tag/ipad.html">iPad</a> <a href="http://ca5.github.io/blog/tag/iphone.html">iPhone</a> <a href="http://ca5.github.io/blog/tag/live.html">live</a> </p>
-</footer><!-- /.post-info -->                <p>iPhoneで撮ったんで微妙ですが…  </p>
+                    <a class="btn btn-default btn-xs" href="http://ca5.github.io/blog/2011/11/07/半手動ブレイクコアシリーズ-その6/">more ...</a>
+                </div>
+            </article>
+            <hr/>
+            <article>
+                <h2><a href="http://ca5.github.io/blog/2011/10/07/ipadのgriid試してみた/">iPadのGriid試してみた</a></h2>
+                <div class="summary"><p>iPhoneで撮ったんで微妙ですが…  </p>
 <p><object type="application/x-shockwave-flash" data="http://www.youtube.com/v/wNdTP61b3KA" width="400" height="300"><param name="movie" value="http://www.youtube.com/v/wNdTP61b3KA"></param><param name="quality" value="high"></param><param name="allowFullScreen" value="true"></param><!-- Fallback content --><a href="http://www.youtube.com/watch?v=wNdTP61b3KA"><img alt="" src="http://img.youtube.com/vi/wNdTP61b3KA/0.jpg" />YouTube
 Video</a></object></p>
 <p>iPadでableton liveを操作出来るGriidというアプリをためしてみました。<br />
@@ -199,43 +164,589 @@ manual connect→ableton liveを立ち上げたmacのIPを入力して接続</p>
 少し経つとそれもなくなり<br />
 反応もよく、使い勝手も良さそうでした</p>
 <p>何よりこの情報量と派手な見た目がいいかんじ ...</p>
-                <a class="readmore" href="http://ca5.github.io/blog/ipadのgriid試してみた.html">read more</a>
-                </div><!-- /.entry-content -->
-            </article></li>
-                </ol><!-- /#posts-list -->
-<p class="paginator">
-        <a href="http://ca5.github.io/blog/tag/live.html">&laquo;</a>
-    Page 2 / 2
-</p>
-                </section><!-- /#content -->
-        <section id="extras" class="body">
-                <div class="blogroll">
-                        <h2>blogroll</h2>
-                        <ul>
-                            <li><a href="http://getpelican.com/">Pelican</a></li>
-                            <li><a href="http://python.org/">Python.org</a></li>
-                            <li><a href="http://jinja.pocoo.org/">Jinja2</a></li>
-                            <li><a href="#">You can modify those links in your config file</a></li>
-                        </ul>
-                </div><!-- /.blogroll -->
-                <div class="social">
-                        <h2>social</h2>
-                        <ul>
-                            <li><a href="http://ca5.github.io/blog/feeds/all.atom.xml" type="application/atom+xml" rel="alternate">atom feed</a></li>
+                    <a class="btn btn-default btn-xs" href="http://ca5.github.io/blog/2011/10/07/ipadのgriid試してみた/">more ...</a>
+                </div>
+            </article>
+            <hr/>
 
-                            <li><a href="#">You can add links in your config file</a></li>
-                            <li><a href="#">Another social link</a></li>
-                        </ul>
-                </div><!-- /.social -->
-        </section><!-- /#extras -->
+        <ul class="pagination">
+                <li class="prev"><a href="http://ca5.github.io/blog/tag/live.html">&laquo;</a>
+                </li>
+                    <li class=""><a
+                            href="http://ca5.github.io/blog/tag/live.html">1</a></li>
+                    <li class="active"><a
+                            href="http://ca5.github.io/blog/tag/live2.html">2</a></li>
+                <li class="next disabled"><a href="#">&raquo;</a></li>
+        </ul>
+        </div>
+        <div class="col-sm-3" id="sidebar">
+            <aside>
 
-        <footer id="contentinfo" class="body">
-                <address id="about" class="vcard body">
-                Proudly powered by <a href="http://getpelican.com/">Pelican</a>, which takes great advantage of <a href="http://python.org">Python</a>.
-                </address><!-- /#about -->
+<section class="well well-sm">
+    <ul class="list-group list-group-flush">
+            <li class="list-group-item"><h4><i class="fa fa-home fa-lg"></i><span class="icon-label">Social</span></h4>
+              <ul class="list-group" id="social">
+                <li class="list-group-item"><a href="#"><i class="fa fa-you-can-add-links-in-your-config-file-square fa-lg"></i> You can add links in your config file</a></li>
+                <li class="list-group-item"><a href="#"><i class="fa fa-another-social-link-square fa-lg"></i> Another social link</a></li>
+              </ul>
+            </li>
 
-                <p>The theme is by <a href="http://coding.smashingmagazine.com/2009/08/04/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, thanks!</p>
-        </footer><!-- /#contentinfo -->
+
+
+            <li class="list-group-item"><a href="http://ca5.github.io/blog/"><h4><i class="fa fa-tags fa-lg"></i><span class="icon-label">Tags</span></h4></a>
+                <ul class="list-group " id="tags">
+                    <li class="list-group-item tag-1">
+                        <a href="http://ca5.github.io/blog/tag/live.html">
+                            live
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-1">
+                        <a href="http://ca5.github.io/blog/tag/chiptune.html">
+                            chiptune
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-1">
+                        <a href="http://ca5.github.io/blog/tag/otherman.html">
+                            otherman
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-1">
+                        <a href="http://ca5.github.io/blog/tag/breakcore.html">
+                            breakcore
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-1">
+                        <a href="http://ca5.github.io/blog/tag/ramen.html">
+                            ラーメン
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-1">
+                        <a href="http://ca5.github.io/blog/tag/maxmsp.html">
+                            max/msp
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-1">
+                        <a href="http://ca5.github.io/blog/tag/chipbreak.html">
+                            chipbreak
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-2">
+                        <a href="http://ca5.github.io/blog/tag/kahue.html">
+                            カフェ
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-2">
+                        <a href="http://ca5.github.io/blog/tag/hanbaga.html">
+                            ハンバーガー
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-2">
+                        <a href="http://ca5.github.io/blog/tag/iphone.html">
+                            iPhone
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-2">
+                        <a href="http://ca5.github.io/blog/tag/remix.html">
+                            remix
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-2">
+                        <a href="http://ca5.github.io/blog/tag/ipad.html">
+                            iPad
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-2">
+                        <a href="http://ca5.github.io/blog/tag/touchosc.html">
+                            touchosc
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-2">
+                        <a href="http://ca5.github.io/blog/tag/m3.html">
+                            M3
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-2">
+                        <a href="http://ca5.github.io/blog/tag/mac.html">
+                            mac
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-2">
+                        <a href="http://ca5.github.io/blog/tag/jiao-zi.html">
+                            餃子
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-2">
+                        <a href="http://ca5.github.io/blog/tag/suitsu.html">
+                            スイーツ
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-2">
+                        <a href="http://ca5.github.io/blog/tag/nkrn.html">
+                            NKRN
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-2">
+                        <a href="http://ca5.github.io/blog/tag/fl.html">
+                            FL
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-3">
+                        <a href="http://ca5.github.io/blog/tag/he-guo-zi.html">
+                            和菓子
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-3">
+                        <a href="http://ca5.github.io/blog/tag/liu-ben-mu.html">
+                            六本木
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-3">
+                        <a href="http://ca5.github.io/blog/tag/er-lang.html">
+                            二郎
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-3">
+                        <a href="http://ca5.github.io/blog/tag/lsdj.html">
+                            LSDJ
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-3">
+                        <a href="http://ca5.github.io/blog/tag/arduino.html">
+                            arduino
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-3">
+                        <a href="http://ca5.github.io/blog/tag/kinect.html">
+                            kinect
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-3">
+                        <a href="http://ca5.github.io/blog/tag/android.html">
+                            android
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-3">
+                        <a href="http://ca5.github.io/blog/tag/pyaudio.html">
+                            PyAudio
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-3">
+                        <a href="http://ca5.github.io/blog/tag/mashup.html">
+                            mashup
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-3">
+                        <a href="http://ca5.github.io/blog/tag/lu-xing.html">
+                            旅行
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-3">
+                        <a href="http://ca5.github.io/blog/tag/tailiao-li.html">
+                            タイ料理
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-3">
+                        <a href="http://ca5.github.io/blog/tag/vol4.html">
+                            vol4
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-3">
+                        <a href="http://ca5.github.io/blog/tag/tsukemian.html">
+                            つけ麺
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-3">
+                        <a href="http://ca5.github.io/blog/tag/python.html">
+                            python
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-3">
+                        <a href="http://ca5.github.io/blog/tag/wordpress.html">
+                            wordpress
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-3">
+                        <a href="http://ca5.github.io/blog/tag/dopeup.html">
+                            dopeup
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-3">
+                        <a href="http://ca5.github.io/blog/tag/raibu.html">
+                            ライブ
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-3">
+                        <a href="http://ca5.github.io/blog/tag/ba.html">
+                            バー
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-3">
+                        <a href="http://ca5.github.io/blog/tag/midi.html">
+                            midi
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-3">
+                        <a href="http://ca5.github.io/blog/tag/rayou.html">
+                            ラー油
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-3">
+                        <a href="http://ca5.github.io/blog/tag/kohi.html">
+                            コーヒー
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-3">
+                        <a href="http://ca5.github.io/blog/tag/pitiful-pip-puppet.html">
+                            pitiful pip puppet
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-3">
+                        <a href="http://ca5.github.io/blog/tag/debian.html">
+                            debian
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-3">
+                        <a href="http://ca5.github.io/blog/tag/ohao-mishao-ki.html">
+                            お好み焼き
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-3">
+                        <a href="http://ca5.github.io/blog/tag/keki.html">
+                            ケーキ
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/zhong-hua.html">
+                            中華
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/iamas.html">
+                            IAMAS
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/joypad.html">
+                            joypad
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/linux.html">
+                            linux
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/beatmania.html">
+                            beatmania
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/hai.html">
+                            海
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/ubuntu.html">
+                            ubuntu
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/he-shi.html">
+                            和食
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/shikensa.html">
+                            シーケンサ
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/wei-cheng.html">
+                            味噌
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/shirasujing.html">
+                            しらす丼
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/tun-kimuchi.html">
+                            豚キムチ
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/fu-shi-shan.html">
+                            富士山
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/lua.html">
+                            Lua
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/azialiao-li.html">
+                            アジア料理
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/webaudio.html">
+                            webaudio
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/korotsuke.html">
+                            コロッケ
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/ming-ci.html">
+                            名詞
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/renoise.html">
+                            renoise
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/kakihurai.html">
+                            カキフライ
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/komike.html">
+                            コミケ
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/webmidi.html">
+                            webmidi
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/windowslivemesh.html">
+                            WindowsLiveMesh
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/amen.html">
+                            amen
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/blipfestival.html">
+                            blipfestival
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/niu-tan.html">
+                            牛タン
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/osc.html">
+                            osc
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/shao-rou.html">
+                            焼肉
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/lion.html">
+                            lion
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/soundcloud.html">
+                            soundcloud
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/wu-fan-tian.html">
+                            五反田
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/pankeki.html">
+                            パンケーキ
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/electronica.html">
+                            electronica
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/katsupumian.html">
+                            カップ麺
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/tuan-zi.html">
+                            団子
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/nsf.html">
+                            nsf
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/donatsu.html">
+                            ドーナツ
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/supaidama.html">
+                            スパイダーマ
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/biru.html">
+                            ビール
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/bo.html">
+                            柏
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/ranchi.html">
+                            ランチ
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/hai-xian.html">
+                            海鮮
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/karemian.html">
+                            カレー麺
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/yoyo.html">
+                            ヨーヨー
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/midines.html">
+                            MIDINES
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/8081netlabel.html">
+                            8081netlabel
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/music.html">
+                            music
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/jitter.html">
+                            jitter
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/gapao.html">
+                            ガパオ
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/ring.html">
+                            Ring
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/qiao-mai.html">
+                            蕎麦
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/wen-ju.html">
+                            文具
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/ilremote.html">
+                            ILRemote
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/gamepad.html">
+                            gamepad
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/xi-di-wa.html">
+                            西荻窪
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/oth.html">
+                            oth
+                        </a>
+                    </li>
+                </ul>
+            </li>
+    <li class="list-group-item"><h4><i class="fa fa-external-link-square fa-lg"></i><span class="icon-label">Links</span></h4>
+      <ul class="list-group" id="links">
+        <li class="list-group-item">
+            <a href="http://getpelican.com/" target="_blank">
+                Pelican
+            </a>
+        </li>
+        <li class="list-group-item">
+            <a href="http://python.org/" target="_blank">
+                Python.org
+            </a>
+        </li>
+        <li class="list-group-item">
+            <a href="http://jinja.pocoo.org/" target="_blank">
+                Jinja2
+            </a>
+        </li>
+        <li class="list-group-item">
+            <a href="#" target="_blank">
+                You can modify those links in your config file
+            </a>
+        </li>
+      </ul>
+    </li>
+    </ul>
+</section>
+            </aside>
+        </div>
+    </div>
+</div>
+<footer>
+   <div class="container">
+      <hr>
+      <div class="row">
+         <div class="col-xs-10">&copy; 2014 Ca5
+            &middot; Powered by <a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
+            <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
+            <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>         </div>
+         <div class="col-xs-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
+      </div>
+   </div>
+</footer>
+<script src="http://ca5.github.io/blog/theme/js/jquery.min.js"></script>
+
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="http://ca5.github.io/blog/theme/js/bootstrap.min.js"></script>
+
+<!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
+<script src="http://ca5.github.io/blog/theme/js/respond.min.js"></script>
+
 
 </body>
 </html>
