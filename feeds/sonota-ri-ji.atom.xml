@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>ca5blog</title><link href="/" rel="alternate"></link><link href="/feeds/sonota-ri-ji.atom.xml" rel="self"></link><id>/</id><updated>2011-09-18T00:10:00+02:00</updated><entry><title>MacOSのUpdate</title><link href="/macos%e3%81%aeupdate.html" rel="alternate"></link><updated>2011-09-18T00:10:00+02:00</updated><author><name>admin</name></author><id>tag:,2011-09-18:macos%e3%81%aeupdate.html</id><summary type="html">&lt;p&gt;ライブ/音楽実験用のMacBookのOSのアップデートをしました&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>ca5blog</title><link href="http://ca5.github.io/blog/" rel="alternate"></link><link href="http://ca5.github.io/blog/feeds/sonota-ri-ji.atom.xml" rel="self"></link><id>http://ca5.github.io/blog/</id><updated>2011-09-18T00:10:00+02:00</updated><entry><title>MacOSのUpdate</title><link href="http://ca5.github.io/blog/macos%e3%81%aeupdate.html" rel="alternate"></link><updated>2011-09-18T00:10:00+02:00</updated><author><name>admin</name></author><id>tag:ca5.github.io,2011-09-18:blog/macos%e3%81%aeupdate.html</id><summary type="html">&lt;p&gt;ライブ/音楽実験用のMacBookのOSのアップデートをしました&lt;/p&gt;
 &lt;p&gt;ぼくのMacBookは2008年の頭に型落ちの2007年後期型のを買ったんで&lt;br /&gt;
 MacOSX Lepardでした。&lt;/p&gt;
 &lt;p&gt;Lionが発表されたときは&lt;br /&gt;

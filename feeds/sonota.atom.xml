@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>ca5blog</title><link href="/" rel="alternate"></link><link href="/feeds/sonota.atom.xml" rel="self"></link><id>/</id><updated>2013-11-26T01:36:00+01:00</updated><entry><title>【arduino】距離センサとKAOSSPAD連動させてみた</title><link href="/arduino-kaosspad.html" rel="alternate"></link><updated>2013-11-26T01:36:00+01:00</updated><author><name>admin</name></author><id>tag:,2013-11-26:arduino-kaosspad.html</id><summary type="html">&lt;p&gt;arduino実験&lt;br /&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>ca5blog</title><link href="http://ca5.github.io/blog/" rel="alternate"></link><link href="http://ca5.github.io/blog/feeds/sonota.atom.xml" rel="self"></link><id>http://ca5.github.io/blog/</id><updated>2013-11-26T01:36:00+01:00</updated><entry><title>【arduino】距離センサとKAOSSPAD連動させてみた</title><link href="http://ca5.github.io/blog/arduino-kaosspad.html" rel="alternate"></link><updated>2013-11-26T01:36:00+01:00</updated><author><name>admin</name></author><id>tag:ca5.github.io,2013-11-26:blog/arduino-kaosspad.html</id><summary type="html">&lt;p&gt;arduino実験&lt;br /&gt;
 説明するより動画見たほうが早いっす  &lt;/p&gt;
 &lt;iframe width="420" height="315" src="//www.youtube.com/embed/p5obKtVHaRE" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
@@ -10,7 +10,7 @@
 &lt;p&gt;&lt;a href="http://blog.pineapple.cc/post/50115809244/gp2y0a21yk-100uf"&gt;ここのブログ&lt;/a&gt;のように電解コンデンサを挟んでやるといいらしいんですが、  &lt;/p&gt;
 &lt;p&gt;あいにく手元にそんな部品ないんでmax側でソフトウェア的に制御できないかなーといろいろ試したんですが&lt;br /&gt;
 今のところうまくいってないです。&lt;br /&gt;
-おとなしく電解コンデンサ買いに行こうかな。&lt;/p&gt;</summary><category term="arduino"></category><category term="max/msp"></category><category term="midi"></category></entry><entry><title>max5 + maxuino + Arduino UNO + OSC の組み合わせに気をつけろ</title><link href="/max5-maxduino.html" rel="alternate"></link><updated>2013-11-11T01:18:00+01:00</updated><author><name>admin</name></author><id>tag:,2013-11-11:max5-maxduino.html</id><summary type="html">&lt;p&gt;arduinoに手を出し始めました&lt;br /&gt;
+おとなしく電解コンデンサ買いに行こうかな。&lt;/p&gt;</summary><category term="arduino"></category><category term="max/msp"></category><category term="midi"></category></entry><entry><title>max5 + maxuino + Arduino UNO + OSC の組み合わせに気をつけろ</title><link href="http://ca5.github.io/blog/max5-maxduino.html" rel="alternate"></link><updated>2013-11-11T01:18:00+01:00</updated><author><name>admin</name></author><id>tag:ca5.github.io,2013-11-11:blog/max5-maxduino.html</id><summary type="html">&lt;p&gt;arduinoに手を出し始めました&lt;br /&gt;
 正直まだブレッドボードの正しい使い方すら怪しいです&lt;/p&gt;
 &lt;p&gt;[flickr id="10780096903" thumbnail="small_320" overlay="true"
 size="large" group="" align="none"]&lt;/p&gt;
@@ -32,7 +32,7 @@ OSC使うの諦めるしかないようですね。&lt;/p&gt;
 そんなにクリティカルな話でもなさそうです。&lt;/p&gt;
 &lt;p&gt;参考:&lt;br /&gt;
 &lt;a href="http://www.maxuino.org/getting-started"&gt;http://www.maxuino.org/getting-started&lt;/a&gt;&lt;br /&gt;
-&lt;a href="http://yoppa.org/ssaw12/3759.html"&gt;http://yoppa.org/ssaw12/3759.html&lt;/a&gt;&lt;/p&gt;</summary><category term="arduino"></category><category term="max/msp"></category><category term="osc"></category></entry><entry><title>ヨーヨー買った</title><link href="/%e3%83%a8%e3%83%bc%e3%83%a8%e3%83%bc%e8%b2%b7%e3%81%a3%e3%81%9f.html" rel="alternate"></link><updated>2010-06-28T09:00:00+02:00</updated><author><name>admin</name></author><id>tag:,2010-06-28:%e3%83%a8%e3%83%bc%e3%83%a8%e3%83%bc%e8%b2%b7%e3%81%a3%e3%81%9f.html</id><summary type="html">&lt;p&gt;友達の影響を受けて&lt;br /&gt;
+&lt;a href="http://yoppa.org/ssaw12/3759.html"&gt;http://yoppa.org/ssaw12/3759.html&lt;/a&gt;&lt;/p&gt;</summary><category term="arduino"></category><category term="max/msp"></category><category term="osc"></category></entry><entry><title>ヨーヨー買った</title><link href="http://ca5.github.io/blog/%e3%83%a8%e3%83%bc%e3%83%a8%e3%83%bc%e8%b2%b7%e3%81%a3%e3%81%9f.html" rel="alternate"></link><updated>2010-06-28T09:00:00+02:00</updated><author><name>admin</name></author><id>tag:ca5.github.io,2010-06-28:blog/%e3%83%a8%e3%83%bc%e3%83%a8%e3%83%bc%e8%b2%b7%e3%81%a3%e3%81%9f.html</id><summary type="html">&lt;p&gt;友達の影響を受けて&lt;br /&gt;
 最近のヨーヨーをひとつ買ってみました&lt;/p&gt;
 &lt;p&gt;
 &lt;center&gt;
@@ -49,7 +49,7 @@ OSC使うの諦めるしかないようですね。&lt;/p&gt;
 &lt;p&gt;ぼくはろくに技は出来ないんですが、&lt;br /&gt;
 ただ、下でスリープさせるだけでもその差は歴然。とても長持ちします。&lt;br /&gt;
 技術の進歩はすごいなー&lt;/p&gt;
-&lt;p&gt;しばらく練習してみます&lt;/p&gt;</summary><category term="ヨーヨー"></category></entry><entry><title>modopocket</title><link href="/modopocket.html" rel="alternate"></link><updated>2010-03-26T17:00:00+01:00</updated><author><name>admin</name></author><id>tag:,2010-03-26:modopocket.html</id><summary type="html">&lt;p&gt;デジカメ用の簡易三脚なるものを買ってみました&lt;/p&gt;
+&lt;p&gt;しばらく練習してみます&lt;/p&gt;</summary><category term="ヨーヨー"></category></entry><entry><title>modopocket</title><link href="http://ca5.github.io/blog/modopocket.html" rel="alternate"></link><updated>2010-03-26T17:00:00+01:00</updated><author><name>admin</name></author><id>tag:ca5.github.io,2010-03-26:blog/modopocket.html</id><summary type="html">&lt;p&gt;デジカメ用の簡易三脚なるものを買ってみました&lt;/p&gt;
 &lt;p&gt;modopocket&lt;/p&gt;
 &lt;p&gt;&lt;a href="http://www.flickr.com/photos/46200029@N06/4452842518/"&gt;&lt;img alt="" src="http://farm5.static.flickr.com/4001/4452842518_cc6a8abb22_m.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;
 折りたたんだ状態&lt;br /&gt;
@@ -66,7 +66,7 @@ OSC使うの諦めるしかないようですね。&lt;/p&gt;
 &lt;p&gt;&lt;a href="http://www.flickr.com/photos/46200029@N06/4452844322/"&gt;&lt;img alt="" src="http://farm3.static.flickr.com/2801/4452844322_721b9ca693_m.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;
 向きを変えればこんな風に角度をつけることも可能です&lt;/p&gt;
 &lt;p&gt;ヨドバシカメラで1980円でした&lt;/p&gt;
-&lt;iframe src="http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&amp;amp;bc1=000000&amp;amp;IS2=1&amp;amp;bg1=FFFFFF&amp;amp;fc1=000000&amp;amp;lc1=0000FF&amp;amp;t=cain03-22&amp;amp;o=9&amp;amp;p=8&amp;amp;l=as1&amp;amp;m=amazon&amp;amp;f=ifr&amp;amp;md=1X69VDGQCMF7Z30FM082&amp;amp;asins=B0011DIMYQ" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"&gt;&lt;/iframe&gt;</summary><category term="カメラ"></category></entry><entry><title>あけましておめでとうございます</title><link href="/%e3%81%82%e3%81%91%e3%81%be%e3%81%97%e3%81%a6%e3%81%8a%e3%82%81%e3%81%a7%e3%81%a8%e3%81%86%e3%81%94%e3%81%96%e3%81%84%e3%81%be%e3%81%99.html" rel="alternate"></link><updated>2010-01-01T00:00:00+01:00</updated><author><name>admin</name></author><id>tag:,2010-01-01:%e3%81%82%e3%81%91%e3%81%be%e3%81%97%e3%81%a6%e3%81%8a%e3%82%81%e3%81%a7%e3%81%a8%e3%81%86%e3%81%94%e3%81%96%e3%81%84%e3%81%be%e3%81%99.html</id><summary type="html">&lt;p&gt;&lt;strong&gt;あけましておめでとうございます！&lt;/strong&gt;&lt;/p&gt;
+&lt;iframe src="http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&amp;amp;bc1=000000&amp;amp;IS2=1&amp;amp;bg1=FFFFFF&amp;amp;fc1=000000&amp;amp;lc1=0000FF&amp;amp;t=cain03-22&amp;amp;o=9&amp;amp;p=8&amp;amp;l=as1&amp;amp;m=amazon&amp;amp;f=ifr&amp;amp;md=1X69VDGQCMF7Z30FM082&amp;amp;asins=B0011DIMYQ" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"&gt;&lt;/iframe&gt;</summary><category term="カメラ"></category></entry><entry><title>あけましておめでとうございます</title><link href="http://ca5.github.io/blog/%e3%81%82%e3%81%91%e3%81%be%e3%81%97%e3%81%a6%e3%81%8a%e3%82%81%e3%81%a7%e3%81%a8%e3%81%86%e3%81%94%e3%81%96%e3%81%84%e3%81%be%e3%81%99.html" rel="alternate"></link><updated>2010-01-01T00:00:00+01:00</updated><author><name>admin</name></author><id>tag:ca5.github.io,2010-01-01:blog/%e3%81%82%e3%81%91%e3%81%be%e3%81%97%e3%81%a6%e3%81%8a%e3%82%81%e3%81%a7%e3%81%a8%e3%81%86%e3%81%94%e3%81%96%e3%81%84%e3%81%be%e3%81%99.html</id><summary type="html">&lt;p&gt;&lt;strong&gt;あけましておめでとうございます！&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img alt="2010.png" src="http://ca54makske.com/blog/images/2010.png" /&gt;&lt;br /&gt;
 去年tumblrでかき集めた画像をつかって、&lt;br /&gt;
 寅年にちなんだ例の歯ブラシのモザイク画像つくってみました&lt;/p&gt;
@@ -88,7 +88,7 @@ OSC使うの諦めるしかないようですね。&lt;/p&gt;
 &lt;p&gt;P.S.&lt;br /&gt;
 何かログインしないとコメント残せないよ？&lt;br /&gt;
 という指摘があったのでコメント入力の時のアカウント制限とってみました&lt;/p&gt;
-&lt;p&gt;では今年もよろしくお願いします&lt;/p&gt;</summary></entry><entry><title>980円</title><link href="/980%e5%86%86.html" rel="alternate"></link><updated>2008-06-15T16:23:00+02:00</updated><author><name>admin</name></author><id>tag:,2008-06-15:980%e5%86%86.html</id><summary type="html">&lt;p&gt;&lt;a href="http://kaden.yahoo.co.jp/trend/news/?type=detail&amp;amp;c=6&amp;amp;p=5062&amp;amp;d=1"&gt;http://kaden.yahoo.co.jp/trend/news/?type=detail&amp;amp;c=6&amp;amp;p=5062&amp;amp;d=1&lt;/a&gt;&lt;br /&gt;
+&lt;p&gt;では今年もよろしくお願いします&lt;/p&gt;</summary></entry><entry><title>980円</title><link href="http://ca5.github.io/blog/980%e5%86%86.html" rel="alternate"></link><updated>2008-06-15T16:23:00+02:00</updated><author><name>admin</name></author><id>tag:ca5.github.io,2008-06-15:blog/980%e5%86%86.html</id><summary type="html">&lt;p&gt;&lt;a href="http://kaden.yahoo.co.jp/trend/news/?type=detail&amp;amp;c=6&amp;amp;p=5062&amp;amp;d=1"&gt;http://kaden.yahoo.co.jp/trend/news/?type=detail&amp;amp;c=6&amp;amp;p=5062&amp;amp;d=1&lt;/a&gt;&lt;br /&gt;
 一瞬でもドコモ頑張るなぁと思った俺がアホだった&lt;/p&gt;
 &lt;div&gt;
 
