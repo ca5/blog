@@ -1,6 +1,6 @@
 Title: macとsakuraとscreen
 Date: 2008-04-15 23:50
-Author: admin
+Author: Ca5
 Category: create
 Slug: macとsakuraとscreen
 

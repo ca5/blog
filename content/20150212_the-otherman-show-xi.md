@@ -1,6 +1,6 @@
 Title: 【ライブ告知】The Otherman Show XI【3/14】
 Date: 2015-02-12 00:43
-Author: admin
+Author: Ca5
 Category: event
 Tags: breakcore, chipbreak, chiptune, otherman
 Slug: the-otherman-show-xi

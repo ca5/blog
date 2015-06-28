@@ -1,6 +1,6 @@
 Title: ChipBreakGentleman
 Date: 2012-09-26 00:00
-Author: admin
+Author: Ca5
 Category: release
 Tags: breakcore, chiptune
 Slug: chipbreakgentleman

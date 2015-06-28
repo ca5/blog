@@ -1,6 +1,6 @@
 Title: 【arduino】距離センサとKAOSSPAD連動させてみた 
 Date: 2013-11-26 01:36
-Author: admin
+Author: Ca5
 Category: create
 Tags: arduino, max/msp, midi
 Slug: arduino-kaosspad

@@ -1,6 +1,6 @@
 Title: 【オンラインイベント】1/31, 2/1はThe Otherman Radio Show
 Date: 2015-01-30 00:03
-Author: admin
+Author: Ca5
 Category: event
 Slug: the-otherman-radio-show
 

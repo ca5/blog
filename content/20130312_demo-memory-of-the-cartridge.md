@@ -1,6 +1,6 @@
 Title: DEMO曲 (memory of the cartridge)
 Date: 2013-03-12 00:00
-Author: admin
+Author: Ca5
 Category: release
 Tags: breakcore, chipbreak, chiptune, otherman
 Slug: demo-memory-of-the-cartridge

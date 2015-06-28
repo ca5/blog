@@ -1,6 +1,6 @@
 Title: FLとSMFとpython (準備編)
 Date: 2014-04-14 01:11
-Author: admin
+Author: Ca5
 Category: create
 Tags: FL, midi, python
 Slug: fl-smf-python

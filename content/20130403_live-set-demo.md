@@ -1,6 +1,6 @@
 Title: Live set DEMO動画投稿しました
 Date: 2013-04-03 01:46
-Author: admin
+Author: Ca5
 Category: create
 Tags: iPad, max/msp, touchosc
 Slug: live-set-demo

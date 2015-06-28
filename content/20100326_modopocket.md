@@ -1,6 +1,6 @@
 Title: modopocket
 Date: 2010-03-26 17:00
-Author: admin
+Author: Ca5
 Category: other
 Tags: カメラ
 Slug: modopocket

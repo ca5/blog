@@ -1,6 +1,6 @@
 Title: B'z の "Ultra Pleasure" のCM
 Date: 2008-06-15 14:30
-Author: admin
+Author: Ca5
 Category: other
 Slug: bz-の-ultra-pleasure-のcm
 

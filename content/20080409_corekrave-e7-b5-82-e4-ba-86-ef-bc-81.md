@@ -1,6 +1,6 @@
 Title: coreKrave終了！
 Date: 2008-04-09 01:00
-Author: admin
+Author: Ca5
 Category: event
 Slug: corekrave終了!
 

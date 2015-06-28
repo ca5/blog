@@ -1,6 +1,6 @@
 Title: Renoise+Luaでhelloworld
 Date: 2014-08-06 02:07
-Author: admin
+Author: Ca5
 Category: create
 Tags: Lua, renoise
 Slug: renoisehelloworld

@@ -1,6 +1,6 @@
 Title: 【新曲】Summer Shores(Monster Tale)
 Date: 2013-10-14 22:30
-Author: admin
+Author: Ca5
 Category: release
 Tags: 8081netlabel, breakcore, chipbreak, chiptune
 Slug: 【新曲】summer-shower-monster-tale

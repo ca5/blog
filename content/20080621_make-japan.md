@@ -1,6 +1,6 @@
 Title: MAKE: Japan
 Date: 2008-06-21 10:14
-Author: admin
+Author: Ca5
 Category: other
 Slug: make-japan
 

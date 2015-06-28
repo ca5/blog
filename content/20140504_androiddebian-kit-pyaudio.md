@@ -1,6 +1,6 @@
 Title: Android端末と Debian kitと PyAudio
 Date: 2014-05-04 22:30
-Author: admin
+Author: Ca5
 Category: create
 Tags: android, debian, PyAudio, python
 Slug: androiddebian-kit-pyaudio

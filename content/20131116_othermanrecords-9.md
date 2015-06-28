@@ -1,6 +1,6 @@
 Title: 【イベント告知】Otherman Show # 9 
 Date: 2013-11-16 22:45
-Author: admin
+Author: Ca5
 Category: event
 Tags: breakcore, chipbreak, chiptune, live, otherman
 Slug: othermanrecords-9

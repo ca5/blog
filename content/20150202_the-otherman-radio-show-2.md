@@ -1,6 +1,6 @@
 Title: The Otherman Radio Show お疲れさまでした
 Date: 2015-02-02 00:11
-Author: admin
+Author: Ca5
 Category: create
 Tags: breakcore, chipbreak, chiptune, otherman
 Slug: the-otherman-radio-show-2

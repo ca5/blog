@@ -1,6 +1,6 @@
 Title: kinect+kaosspad
 Date: 2011-01-30 19:56
-Author: admin
+Author: Ca5
 Category: create
 Tags: kinect, max/msp
 Slug: kinectkaosspad

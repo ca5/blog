@@ -1,6 +1,6 @@
 Title: MacOSのUpdate
 Date: 2011-09-18 00:10
-Author: admin
+Author: Ca5
 Category: other
 Tags: mac
 Slug: macosのupdate

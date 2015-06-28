@@ -1,6 +1,6 @@
 Title: TouchDiamond
 Date: 2008-11-15 07:07
-Author: admin
+Author: Ca5
 Category: other
 Slug: touchdiamond
 

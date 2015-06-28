@@ -1,6 +1,6 @@
 Title: LogbarのRingでAbletonLiveの操作をしてみた【告知つき】
 Date: 2015-01-06 00:21
-Author: admin
+Author: Ca5
 Category: create
 Slug: ringabletonlive
 

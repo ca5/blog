@@ -1,6 +1,6 @@
 Title: Protein[DS]
 Date: 2008-06-01 23:27
-Author: admin
+Author: Ca5
 Category: create
 Slug: proteinds
 

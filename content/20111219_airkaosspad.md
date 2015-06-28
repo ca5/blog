@@ -1,6 +1,6 @@
 Title: AirKaossPad
 Date: 2011-12-19 21:53
-Author: admin
+Author: Ca5
 Category: create
 Tags: chiptune, iPhone, max/msp, touchosc
 Slug: airkaosspad

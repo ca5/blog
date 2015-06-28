@@ -1,6 +1,6 @@
 Title: max5  + maxuino + Arduino UNO + OSC の組み合わせに気をつけろ
 Date: 2013-11-11 01:18
-Author: admin
+Author: Ca5
 Category: create
 Tags: arduino, max/msp, osc
 Slug: max5-maxduino

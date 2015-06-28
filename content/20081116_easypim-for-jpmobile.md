@@ -1,6 +1,6 @@
 Title: EasyPIM for JPmobile
 Date: 2008-11-16 00:17
-Author: admin
+Author: Ca5
 Category: other
 Slug: easypim-for-jpmobile
 

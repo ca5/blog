@@ -1,6 +1,6 @@
 Title: iPhone対応
 Date: 2010-02-13 23:56
-Author: admin
+Author: Ca5
 Category: create
 Tags: wordpress
 Slug: iphone対応

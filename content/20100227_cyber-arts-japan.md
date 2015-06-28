@@ -1,6 +1,6 @@
 Title: cyber arts japan
 Date: 2010-02-27 19:20
-Author: admin
+Author: Ca5
 Category: other
 Slug: cyber-arts-japan
 
