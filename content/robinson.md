@@ -1,0 +1,11 @@
+Title: 【リミックス】Robinson
+Date: 2014-05-17 22:00
+Author: admin
+Category: music
+Tags: breakcore, chipbreak, chiptune, mashup, remix
+Slug: robinson
+
+ホントはロビンソン百貨店のサウンドロゴとかも混ぜようと思ったけど  
+全然見つからないんであきらめました。
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/149951755&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=true"></iframe>

@@ -1,0 +1,56 @@
+Title: M3 2013秋で新アルバム出します(第一展示場G14b )
+Date: 2013-10-20 23:55
+Author: admin
+Category: music
+Tags: breakcore, chipbreak, chiptune, M3, NKRN, otherman
+Slug: m3-2013-autumn
+
+### NKRNの宣伝
+
+既にtwitterではbotを動かして告知してますが、  
+2013/10/27のM3でベスト盤のアルバムを出します。
+
+[![jacket](http://www.otherman-records.com/NKRN/releases/NKRN-SL-001/images/img_jacket_sl.jpg)  
+
+http://www.otherman-records.com/NKRN/releases/NKRN-SL-001/](http://www.otherman-records.com/NKRN/releases/NKRN-SL-001/)
+
+なんと今回初のプレスCD！  
+・・・というわけで、
+
+[![](http://farm6.staticflickr.com/5530/10382044073_938a5b3c77_o.jpg)](http://www.flickr.com/photos/46200029@N06/10382044073/)
+
+家に今こんなに在庫があります(@300枚)  
+おねがいですみなさん買ってください。
+
+### 個人の宣伝
+
+あと、今回NKRNのとは別に、  
+OthermanRecordsで近日リリース予定の個人のアルバム+オマケ曲を  
+CDRで準備しておいておこうと思ってます。
+
+<p>
+※完成イメージ  
+[  
+
+![](http://farm8.staticflickr.com/7364/10381860585_9be5bf5e89_o.jpg)](http://www.flickr.com/photos/46200029@N06/10381860585/)
+
+</center>
+</p>
+後にフリー版がOthermanRecordsで出ますが、  
+tac-t!s君にお願いしたナイスなジャケットを実物で手に取りたいという方！  
+また、CDR版にかついてこないオマケの曲が気になる！なんて方  
+ぜひぜひお買い求めください。
+
+tac-t!s君はジャケットのみならずこんな可愛いgifまで作ってくれました！  
+ぼくのブログだけじゃホントもったいないんで是非広めて欲しいです  
+
+[![motcbig\_touka](http://blog.ca54makske.com/wp-content/uploads/2013/10/motcbig_touka.gif)](http://blog.ca54makske.com/wp-content/uploads/2013/10/motcbig_touka.gif)
+
+tac-t!s君の公式tumblrはこちら  
+他にも作品がいろいろ公開されています！  
+[http://ryuusanndorodoronanndemotokasu.tumblr.com  
+](http://ryuusanndorodoronanndemotokasu.tumblr.com)  
+　  
+
+OthermanRecordsではKenKoTaijiさんのアルバムのジャケットも担当されてました  
+<http://www.otherman-records.com/releases/OTMN044>

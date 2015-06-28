@@ -1,0 +1,25 @@
+Title: 2009/10/6のDashboard
+Date: 2009-10-07 06:58
+Author: admin
+Category: tumblr, video, ネタ, 物欲
+Slug: 2009106%e3%81%aedashboard
+
+-Photosketchってソフト  
+
+<http://ca5.tumblr.com/post/205882517/vichy-fukumatsu-noboko-photoshop>  
+
+<object width="400" height="300"><param name="allowfullscreen" value="true"></param><param name="allowscriptaccess" value="always"></param><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=6496886&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1"></param><embed src="http://vimeo.com/moogaloop.swf?clip_id=6496886&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="400" height="300"></embed></object>
+
+[PhotoSketch: Internet Image Montage](http://vimeo.com/6496886) from
+[tao chen](http://vimeo.com/user2276797) on [Vimeo](http://vimeo.com).
+
+ざっくり写真のイメージを手書きで書いてやると、  
+そのイメージに近いものを合成して画像を作ってくれる・・・ソフトらしい  
+-iPhoneキーボード  
+<http://ca5.tumblr.com/post/205882698/nobon>  
+![](http://15.media.tumblr.com/tumblr_kr2qu5hXcZ1qzp12po1_400.jpg)  
+これいいなぁ  
+-今日のtnk  
+
+<http://ca5.tumblr.com/post/205881383/j-p-g-an-unfortunate-accident-via>  
+![](http://16.media.tumblr.com/tumblr_kr33bjXO6W1qzty50o1_400.jpg)

@@ -1,0 +1,36 @@
+Title: 【Live音源公開】あざまんしょー8お疲れ様でした #アザマンショー
+Date: 2013-07-30 22:30
+Author: admin
+Category: music, 未分類
+Slug: after-otmn8
+
+おつかれさまでしたー　ということで  
+ライブの元音源公開です。
+
+<iframe width="480" height="480" src="//www.mixcloud.com/widget/iframe/?feed=http%3A%2F%2Fwww.mixcloud.com%2Fca54makske%2Fca5-otmn8%2F&amp;embed_uuid=4e76e03a-b61f-4e4a-984a-d7aded3d7930&amp;stylecolor=&amp;embed_type=widget_standard" frameborder="0"></iframe>
+
+<div style="clear:both; height:3px; width:472px;">
+
+</div>
+
+[Ca5-otmn8](http://www.mixcloud.com/ca54makske/ca5-otmn8/?utm_source=widget&utm_medium=web&utm_campaign=base_links&utm_term=resource_link)<span>
+by</span>[Ca5](http://www.mixcloud.com/ca54makske/?utm_source=widget&utm_medium=web&utm_campaign=base_links&utm_term=profile_link)<span>
+on</span>[Mixcloud](http://www.mixcloud.com/?utm_source=widget&utm_medium=web&utm_campaign=base_links&utm_term=homepage_link)
+
+<div style="clear:both; height:3px;">
+
+</div>
+
+-おまけ-  
+当日配った「Ca5のわけあリミックス」のトラックリストはこちら
+
+[soundcloud url="http://api.soundcloud.com/tracks/61113618" params=""
+width=" 100%" height="166" iframe="true" /]  
+[soundcloud url="http://api.soundcloud.com/tracks/65097747" params=""
+width=" 100%" height="166" iframe="true" /]  
+[soundcloud url="http://api.soundcloud.com/tracks/69554196" params=""
+width=" 100%" height="166" iframe="true" /]  
+[soundcloud url="http://api.soundcloud.com/tracks/85618646" params=""
+width=" 100%" height="166" iframe="true" /]
+
+またいつかどこかでくばるかもしれません

@@ -1,0 +1,16 @@
+Title: 2009/10/7のDashboard
+Date: 2009-10-08 00:42
+Author: admin
+Category: tumblr
+Slug: 2009107%e3%81%aedashboard
+
+-ねぇ、自分でちゃんと使ってみた？  
+<http://ca5.tumblr.com/post/206677804>  
+最近の国内のタッチパネル携帯には全然物欲が湧かない  
+-インターネットで私たちが失ったモノ  
+<http://ca5.tumblr.com/post/206686141>  
+お父さんファイアウォールw  
+-今日の名言  
+
+<http://ca5.tumblr.com/post/206678486/mnky-yellowblog-horomoku-okiheki>  
+![](http://4.media.tumblr.com/yQeBkNqD8asrjpvhoGc1QAE8_400.jpg)

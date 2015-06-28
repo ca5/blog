@@ -1,0 +1,36 @@
+Title: 【再現音源付き】アザマンショー11 お疲れ様でした #CHIPorDIE
+Date: 2015-03-17 22:00
+Author: admin
+Category: music
+Slug: after-otmn11
+
+アザマンショー11 お疲れ様でした！  
+というわけで例によって再現音源つくったので貼っておきます
+
+<iframe width="660" height="180" src="https://www.mixcloud.com/widget/iframe/?embed_type=widget_standard&amp;embed_uuid=29cf3992-dcbd-43a9-9247-e6f83ded09c0&amp;feed=https%3A%2F%2Fwww.mixcloud.com%2Fca54makske%2Fca5the-otherman-show-xi-chip-or-die-%2F&amp;hide_cover=1&amp;hide_tracklist=1&amp;replace=0" frameborder="0"></iframe>
+
+<div style="clear: both; height: 3px; width: 652px;">
+
+</div>
+
+[Ca5@The Otherman Show XI -CHIP or
+DIE-](https://www.mixcloud.com/ca54makske/ca5the-otherman-show-xi-chip-or-die-/?utm_source=widget&utm_medium=web&utm_campaign=base_links&utm_term=resource_link)<span>
+by</span>[Ca5](https://www.mixcloud.com/ca54makske/?utm_source=widget&utm_medium=web&utm_campaign=base_links&utm_term=profile_link)<span>
+on</span>[Mixcloud](https://www.mixcloud.com/?utm_source=widget&utm_medium=web&utm_campaign=base_links&utm_term=homepage_link)
+
+<div style="clear: both; height: 3px; width: 652px;">
+
+</div>
+
+今回ライブでやったことを一応文字にすると
+
+-   Ringでライブ音源起動
+-   Kinectでエフェクター操作
+-   iPadでいつものドラムスライス
+-   自作コントローラでエフェクター操作
+-   ちょっとだけ機材の紹介
+-   一部の曲をGB実機にてプレイ
+
+ってところなんですが、個人的にはやることも荷物も多すぎてちょっとつかれました。  
+
+次ライブするときはもっと機材減らしたいです。でもGBはもうちょっとうまく使いたい。

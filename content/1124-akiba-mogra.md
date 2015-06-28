@@ -1,0 +1,81 @@
+Title: 【11/24(祝)】秋葉原メイカーズ倶楽部に出演します【MOGRA】
+Date: 2014-11-11 22:30
+Author: admin
+Category: 未分類
+Slug: 1124-akiba-mogra
+
+11/24に久々にライブ出させてもらえることになりました！
+
+Maker Faireの非公式アフターイベントです！
+
+ 
+
+公式サイト:  
+<http://akiba-maker-club.cs8.biz/>
+
+Facebook:  
+<https://www.facebook.com/events/580101025424284/>
+
+ 
+
+> (抜粋)
+>
+> <span style="color: #141823;">開催日時 :
+> 2014/11/</span><wbr style="color: #141823;"></wbr><span
+> style="color: #141823;">24(月・祝)　18:00-22:00</span>  
+>   
+> <span
+> style="color: #141823;">※秋葉原MOGRA、初見の人はまず迷うので、ローソン</span><wbr style="color: #141823;"></wbr><span
+> style="color: #141823;">秋葉原北口店あたりで \#akimake
+> で呼んでもらえれば1時間に1回ぐらい迎えに行きます</span>  
+>   
+> <span style="color: #141823;">入場料 : 3000円(1ドリンク付き)</span>  
+> <span
+> style="color: #141823;">受け付けで以下のものを提示した場合、500円割り引き</span><wbr style="color: #141823;"></wbr><span
+> style="color: #141823;">します。詳しくはWEBページを</span>  
+> <span style="color: #141823;">Maker Fair Tokyo 2014
+> 落選通知メール</span>  
+> <span style="color: #141823;">Arduino, Raspberry Pi</span>  
+> <span style="color: #141823;">はんだゴテ</span>  
+> <span style="color: #141823;">LED</span>  
+> <span
+> style="color: #141823;">プロジェクター</span><span class="text_exposed_show" style="color: #141823;">  
+>  レーザー  
+>  コスプレ (小さい着替えテントあり)
+>
+> 企画趣旨 :  
+>
+> メイカーとクラバーの溝を秋葉原MOGRAで縮めたい<wbr></wbr>！！そうすれば未来のクラブイベントはもっと面白くなる<wbr></wbr>はずだ！！！  
+>  そんな思いを元に11月24日（月・祝日） お台場で開催されるあのイベント
+> の非公式アフタークラブイベントとして万を持して開催し<wbr></wbr>ます。
+>
+> ■DJ/LIVE:  
+>  DJ WILD PARTY  
+>  コバルト爆弾αΩ  
+>  TORIENA × きゅんくん × LuminouShare  
+>  Naohiro Yako (flapper3/Bunkai-Kei records)  
+>  Ca5 (OthermanRecords)  
+>  tomad (MaltineRecords)
+>
+> ■VJ／LJ:  
+>  VIDEO BOY  
+>  Web LJ System : ayafuji × VJひゃっほー  
+>
+> ※[http://works.ayafuji.com/](http://l.facebook.com/l.php?u=http%3A%2F%2Fworks.ayafuji.com%2F&h=0AQHyKjXG&enc=AZNzNXkUr5WHGuwhrTdozW_gGSKYOTUEuugcy6_nJ4r5JPZ06wUvfde8Z_-q_UW6jfo&s=1)  
+>
+> iPhone端末をシェイクすることで会場の照明を自由<wbr></wbr>に操作できるWEBLJ（ライティングジョッキー）シス<wbr></wbr>テムを担当するayafujiと、新進気鋭のVJひゃっ<wbr></wbr>ほーによる共演。  
+>  m7kenji (TORIENA × きゅんくん × LuminouShare 映像演出）</span>
+
+ 
+
+今回折角Makerっぽいイベントに呼んでいただいたので、  
+
+機材の説明を挟んだり、修理間に合えば前に作った[これ](http://blog.ca54makske.com/blog/2013/11/26/arduino-kaosspad/)も使おうかなと思ってます
+
+\<iframe width="420" height="315"
+src="//www.youtube.com/embed/p5obKtVHaRE" frameborder="0"
+allowfullscreen\>\</iframe\>
+
+ぜひ遊びに来てください！
+
+ 

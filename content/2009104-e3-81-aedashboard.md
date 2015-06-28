@@ -1,0 +1,19 @@
+Title: 2009/10/4のDashboard
+Date: 2009-10-05 00:16
+Author: admin
+Category: tumblr
+Slug: 2009104%e3%81%aedashboard
+
+今日からtumblrで流れてきた面白い物をまとめてみようかと。  
+-iPhone用ARソフト  
+<http://ca5.tumblr.com/post/204077763/iphone-ar-wired-vision>  
+
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/x5SDSUvLYro&amp;rel=0&amp;color1=0xb1b1b1&amp;color2=0xcfcfcf&amp;feature=player_embedded&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.youtube.com/v/x5SDSUvLYro&amp;rel=0&amp;color1=0xb1b1b1&amp;color2=0xcfcfcf&amp;feature=player_embedded&amp;fs=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="425" height="344"></embed></object>  
+セカイカメラ以外にも色々でてるのね  
+-24時間時計  
+
+<http://ca5.tumblr.com/post/204069749/petapeta-nacookan-pdl2h-ak47-jacony>  
+![](http://10.media.tumblr.com/n43ZDTEQTjq72clqUunu9tAyo1_400.jpg)  
+-ちちみほん  
+<http://ca5.tumblr.com/post/204075993>  
+多分今日のMVP

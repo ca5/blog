@@ -1,0 +1,49 @@
+Title: 2011/12/11は The Otherman Show 6 !!!!!
+Date: 2011-12-03 00:24
+Author: admin
+Category: music
+Slug: 20111211%e3%81%af-the-otherman-show-6
+
+来週の日曜日はまたライブをやりますー  
+
+![](http://www.otherman-records.com/images/events/theothermanshow6.jpg)  
+<http://www.otherman-records.com/events>
+
+<quote>  
+2011.12.11(sun) @shibuya acid panda cafe
+
+14:00 - 20:00 \\1,500 (1drink)
+
+Lives
+
+Missqulater
+
+iserobin
+
+Ca5
+
+east breaks in thousand
+
+storz
+
+suesett
+
+DJs
+
+katana
+
+hercelot
+
+ina
+
+nishikawacchi
+
+othermoon
+
+VJs  
+<quote>
+
+また acid panda cafeでやりますが、今度は渋谷です  
+
+たぶん[こんな](http://blog.ca54makske.com/?p=7469)ライブセットで今度は挑みます  
+よろしく！

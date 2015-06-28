@@ -1,0 +1,31 @@
+Title: Deep Blue【新曲リリース】
+Date: 2013-04-22 00:40
+Author: admin
+Category: music
+Tags: breakcore, chipbreak, otherman
+Slug: deep-blue
+
+久々に OthermanRecordsでEPをリリースしました！
+
+**Deep Blue**  
+[![](http://www.archive.org/download/OTMN045/deepblue-jacket.jpg)  
+
+http://www.otherman-records.com/releases/OTMN045](http://www.otherman-records.com/releases/OTMN045)
+
+ボーナストラックとしてumioさんによるタイトル曲のリミックスが入っています！  
+ぜひぜひ皆さんDLしてみてください
+
+**試聴版**  
+[soundcloud url="http://api.soundcloud.com/tracks/88847695" params=""
+width=" 100%" height="166" iframe="true" /]
+
+**～～おまけ～～**  
+おまけで入ってる壁紙はこんなふうに使って遊んでみてください  
+
+ただの画像なんで相手がmacだろうがiPadだろうが、ブルースクリーンクラッシャーになることができます
+
+[![](http://farm9.staticflickr.com/8383/8668953718_d7bd1a3e62_b.jpg)](http://www.flickr.com/photos/46200029@N06/8668953718/)
+
+[![](http://farm9.staticflickr.com/8386/8668954092_24ed589fbe_b.jpg)](http://www.flickr.com/photos/46200029@N06/8668954092/)
+
+※説明用なので明るい所で撮影していますが、暗い所で撮影したほうがそれっぽく写ります

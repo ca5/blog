@@ -1,0 +1,16 @@
+Title: 【M3】2014/10/26 新譜Demo版配布予定です！
+Date: 2014-10-17 23:58
+Author: admin
+Category: music
+Tags: breakcore, chipbreak, chiptune, M3
+Slug: 2014m3autumn
+
+[soundcloud url="https://api.soundcloud.com/tracks/172576654"
+params="auto\_play=false&hide\_related=false&show\_comments=true&show\_user=true&show\_reposts=false&visual=true"
+width="100%" height="450" iframe="true" /]  
+現在作成中のアルバムのDEMO版を 今度のM3で配布予定です！
+
+詳しくは 2014/10/26 [M3](http://www.m3net.jp/ "m3") NKRNブース(<span
+style="color: #000000;">第一展示場 C 15b</span>) まで！
+
+アルバムのフルリリースは2015年のM3で行う予定です

@@ -1,0 +1,24 @@
+Title: 【イベント告知】今度の日曜はあざまんしょー9【12/8】
+Date: 2013-12-02 23:32
+Author: admin
+Category: 8bit, music
+Tags: arduino, breakcore, chipbreak, chiptune, live, max/msp, oth, otherman
+Slug: othm9
+
+この前もこんな形で告知しましたが・・・  
+<http://blog.ca54makske.com/blog/2013/11/16/othermanrecords-9/>
+
+次のライブまでついに1週間を切りました！  
+
+今度はいつものライブセット＋ちょっと変わったことをやれたらやるつもりです
+
+いつものライブセットはこんな感じ  
+
+<iframe width="420" height="315" src="//www.youtube.com/embed/PrIYCSweC1w" frameborder="0" allowfullscreen></iframe>
+
+準備が間に合えば今作ってるこんな奴もきっとライブに登場します  
+
+<iframe width="420" height="315" src="//www.youtube.com/embed/p5obKtVHaRE" frameborder="0" allowfullscreen></iframe>
+
+お得なWEB割引もまだ間に合いますので、気になっている方は是非よろしくお願いします！  
+<http://peatix.com/event/20875>

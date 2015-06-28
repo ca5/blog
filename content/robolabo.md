@@ -1,0 +1,36 @@
+Title: 【告知】3/7に高円寺4thでライブします
+Date: 2015-02-19 00:00
+Author: admin
+Category: music
+Tags: chiptune
+Slug: robolabo
+
+[アザマンショー](http://chipordie.otherman-records.com)の丁度1週間前にあたる3/7(土)にもライブ出演させていただけることになりました！
+
+<p>
+<center>
+[![](https://farm8.staticflickr.com/7325/16571283765_e33a0c8499_o.jpg)](http://www.flickr.com/photos/46200029@N06/16571283765/)
+
+</center>
+</p>
+> Robo Labo
+>
+> 2015/3/7 @kouenji 4th  
+>  18:00 open  
+>  18:30 start  
+>  2000yen/1D
+>
+> -Guest LIVE-  
+>  Quarta330
+>
+> -LIVE-  
+>  suesett  
+>  tozo  
+>  合法都市  
+>  ureyu  
+>  Ca5
+>
+> -DJ-  
+>  SEXYYY
+
+是非遊びに来てください！

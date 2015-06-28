@@ -1,0 +1,36 @@
+Title: touchoscのencoderがイマイチ
+Date: 2011-09-08 00:00
+Author: admin
+Category: music
+Tags: max/msp, touchosc
+Slug: touchosc%e3%81%aeencoder%e3%81%8c%e3%82%a4%e3%83%9e%e3%82%a4%e3%83%81
+
+カスタマイズ性やレスポンスがなかなかよいので  
+
+ライブでよくiPad版の[touchosc](http://hexler.net/software/touchosc)を使うんですが、  
+
+最近（・・・といっても1,2ヶ月前？）のアップデートで追加されたコントローラーの精度がちょっと微妙。
+
+<object type="application/x-shockwave-flash" data="http://www.youtube.com/v/0-040A5PxSI" width="400" height="300"><param name="movie" value="http://www.youtube.com/v/0-040A5PxSI"></param><param name="quality" value="high"></param><param name="allowFullScreen" value="true"></param><!-- Fallback content -->[![](http://img.youtube.com/vi/0-040A5PxSI/0.jpg)YouTube
+Video](http://www.youtube.com/watch?v=0-040A5PxSI)</object>
+
+適当に取った動画なんでわかりにくいかもしれないですが、  
+外側の青い円がencoder  
+
+内側の赤い円はrotaryで、こっちはencoderの入力値を累積した結果を表しています
+
+encoderをスクラッチに使えないかなーと思ってこんな風に試してみたんですが、  
+回転が速ければ早いほど累積した値が溜まるのが早い・・・とはならず、  
+また遅すぎる場合だと全然値送ってくれなかったりするので、  
+
+回転する速さによって１回転あたりに送られる値の量が違ってきてしまってます。
+
+一般的なロータリーエンコーダーってこんな精度でいいのか・・？？  
+
+これだとスクラッチするようなパッチを組んでもなんちゃってな感じでしかつくれないですね。。
+
+・・・まあ作っちゃってる人はすでにいたりするんですが  
+
+<iframe width="560" height="345" src="http://www.youtube.com/embed/V5K-0GcA5pw" frameborder="0" allowfullscreen></iframe>
+
+なんかほかにうまい使いかたないかなーと模索中

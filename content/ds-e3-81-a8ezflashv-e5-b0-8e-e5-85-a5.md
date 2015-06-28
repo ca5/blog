@@ -1,0 +1,55 @@
+Title: DSとEzFlashV導入
+Date: 2008-04-29 23:23
+Author: admin
+Category: 未分類
+Slug: ds%e3%81%a8ezflashv%e5%b0%8e%e5%85%a5
+
+<span class="mt-enclosure mt-enclosure-image"
+style="display: inline;">![ds-nitrotracker.jpg](http://ca5z.info/blog/ds-nitrotracker.jpg)</span>
+
+マジコンついでにDS本体も買ってしまいました \^o\^
+
+<div>
+
+</div>
+
+<!--more-->  
+・EzFlashV導入メモ  
+1.まずはまとめサイトから  
+<http://dswiki.7mc.org/wiki.cgi?page=EZ-Flash+V>
+
+ローダーとやらのファームウェアみたいのをアップグレードします。  
+「Rを押しながら起動」ってのがミソ
+
+2.DLDI Patcherとやらを入手[  
+http://r4ds-magicom.seesaa.net/article/53859294.html](http://r4ds-magicom.seesaa.net/article/53859294.html)  
+---以下勝手に抜粋---  
+DLDIパッチの当て方  
+【dlditool-win32-gui.zip】をダウンロードする  
+　<http://chishm.drunkencoders.com/DLDI/index.html#patchers>  
+各マジコンのDLDIパッチをダウンロードする－R4DS【r4tf.dldi】  
+　<http://chishm.drunkencoders.com/DLDI/index.html#patches>  
+------  
+これはR4用の説明ですが、  
+DLDIパッチをEzFlash用のものに置き換えるだけでやり方は一緒
+
+どうやら毎回.ndsファイルにはパッチをあてにゃならんようですね
+
+〜とりあえずいろいろいれてみた〜  
+・まずはお約束のnesDS[  
+http://dswiki.7mc.org/wiki.cgi?page=nesDS](http://dswiki.7mc.org/wiki.cgi?page=nesDS)
+
+・PDAという言葉に釣られてDSOrganizeも入れてみた[  
+http://www.dragonminded.com/?loc=ndsdev/DSOrganize](http://www.dragonminded.com/?loc=ndsdev/DSOrganize)  
+なんか無線LANの設定が対応してないらしくWEBブラウザが試せない
+
+・NitroTracker[  
+http://kishiwada.orz.hm/game/nitrotracker/](http://kishiwada.orz.hm/game/nitrotracker/)  
+写真のとおりばっちり動いてくれました  
+これはつかえるかもしれん \^q\^
+
+・まだ入れてないけどこんなのも[  
+http://dsmidiwifi.tobw.net/index.php?cat\_id=0](http://dsmidiwifi.tobw.net/index.php?cat_id=0)  
+DSをMidiコントローラーとして使えるようです  
+近いうちにためしてみます  
+これはライブでつかえるかもしれん \^q\^

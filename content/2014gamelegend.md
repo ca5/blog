@@ -1,0 +1,24 @@
+Title: 【11/16】ゲームレジェンドに参加します！【3a】
+Date: 2014-11-13 23:02
+Author: admin
+Category: 未分類
+Slug: 2014gamelegend
+
+今年も去年に引き続きゲームレジェンドというイベントで曲の頒布をします！
+
+east breaks in thousandのブース[**3a**]でお待ちしております
+
+<http://www.geocities.jp/zed_gamelegend/>
+
+> ゲームレジェンド21  
+>  2014年11月16日（日）11：00～15：30  
+>  川口市キュポ・ラ本館4階フレンディア（埼玉県川口市川口1-1-1）
+
+今回 ebi1000, suesettと共同で初めてLSDJだけで作った曲をまとめて、  
+こんなパッケージで頒布します！
+
+<iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/176719741&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true" width="100%" height="450" frameborder="no" scrolling="no"></iframe>
+
+<iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/176719908&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true" width="100%" height="450" frameborder="no" scrolling="no"></iframe>
+
+ゲームレジェンドにお越しの際は、ぜひお手にとって見てみてください！

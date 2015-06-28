@@ -1,0 +1,42 @@
+Title: iPhoneをjoypadに
+Date: 2011-09-23 13:24
+Author: admin
+Category: game
+Tags: gamepad, iPhone, joypad
+Slug: iphone%e3%82%92joypad%e3%81%ab
+
+こんなiPhoneアプリがあったのでちょっと試しに使ってみました  
+[[Joypad - Game
+Controller]](http://itunes.apple.com/us/app/joypad-game-controller/id411422117?mt=8)
+
+iPhoneをwifiやbluetooth経由で接続してゲームコントローラとして利用するソフトです
+
+windowsのPCとつなぐ場合は  
+ここの公式サイトから　「Download the desktop client: MAC |
+[PC](http://getjoypad.com/joypadconnect/JoypadConnect-1.3.1.msi)」からPCを選択して  
+クライアントソフトをインストール  
+<http://getjoypad.com/>
+
+起動したらここから新しい設定を作って  
+[flickr id="6173815323" thumbnail="medium" overlay="true" size="medium"
+group="" align="none"]
+
+下記のようにキーボードを割り当て  
+[flickr id="6174343844" thumbnail="medium" overlay="true" size="medium"
+group="" align="none"]
+
+そしてwindowsの場合は１つめのウインドウの一番下に  
+手動でIPとポート番号を入れて接続してやります  
+(IPとポート番号はiPhone側の設定画面ででてきます)
+
+動作はこんな感じ  
+
+（[洞窟物語](http://www.forest.impress.co.jp/lib/game/actsport/action/doukutsu.html)をやってみてます）  
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/_GPJbSIeT80" frameborder="0" allowfullscreen></iframe>  
+けっこう反応もよくさくさく動いてくれますね！  
+上の動画ではファミコン風なスキンになってますが  
+これは有料オプションになってます。
+
+キーボードのキーなら何でも設定できるんで、  
+ゲーム以外にもいろいろ使えそうです。ライブとか

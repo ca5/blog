@@ -1,0 +1,112 @@
+Title: 2013年まとめ
+Date: 2013-12-30 22:30
+Author: admin
+Category: music
+Slug: end-of2013
+
+今年の活動まとめ
+
+■リリース一覧
+-------------
+
+上から新しい順に  
+**-Only Lonely Holy Story(Only Holy Story remix)**  
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/121528815&amp;color=ff6600&amp;auto_play=false&amp;show_artwork=true" frameborder="no" scrolling="no" width="100%" height="166"></iframe>
+
+**-Memory of the Cartridge**  
+[![](http://www.otherman-records.com/images/releases/OTMN051.jpg)  
+
+http://www.otherman-records.com/releases/OTMN051](http://www.otherman-records.com/releases/OTMN051)
+
+**-Monster Tale**(\#12 Summer Shores/Ca5)  
+[![](http://8081netlabel.ru/img2/va013.png)  
+
+http://8081netlabel.ru/news/8081\_va013\_monster\_tale/2013-10-13-117](http://8081netlabel.ru/news/8081_va013_monster_tale/2013-10-13-117)
+
+**-Last Summer EP**(\#2 Suikawari/Ca5)  
+[![](http://www.otherman-records.com/images/releases/OTMN047.jpg)  
+
+http://www.otherman-records.com/releases/OTMN047](http://www.otherman-records.com/releases/OTMN047)
+
+**-HEMISHINKU**(\#2 symmetric/Ca5)  
+[![](http://pitifulpippuppet.jp/pic/2013/hemi265.gif)  
+
+http://pitifulpippuppet.jp/album/hemishinku/download.html](http://pitifulpippuppet.jp/album/hemishinku/download.html")
+
+**-Deep Blue**  
+[![](http://www.archive.org/download/OTMN045/deepblue-jacket.jpg)  
+
+http://www.otherman-records.com/releases/OTMN045](http://www.otherman-records.com/releases/OTMN045)
+
+**-\#6699FF(2006, original)**  
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F85620202"></iframe>  
+**-Haruyo, Koi (\#6699FF mix)**  
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F85618646"></iframe>  
+**-memory of the cartridge (DEMO)**  
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F82757708"></iframe>  
+**-iron**(\#1 steel wool/Ca5)  
+[![](http://pitifulpippuppet.web.fc2.com/pic/IRON400.gif)  
+
+http://pitifulpippuppet.web.fc2.com/album/iron.html](http://pitifulpippuppet.web.fc2.com/album/iron.html)
+
+■ライブ
+-------
+
+上から新しい順に  
+**2013/7/27 OthermanShow \#9**  
+
+<iframe width="360" height="360" src="//www.mixcloud.com/widget/iframe/?feed=http%3A%2F%2Fwww.mixcloud.com%2Fca54makske%2Fca5-otmn9%2F&amp;mini=&amp;stylecolor=&amp;hide_artwork=&amp;embed_type=widget_standard&amp;embed_uuid=e4de5dcd-badf-481c-aaf4-aa70f3853069&amp;hide_tracklist=&amp;hide_cover=1&amp;autoplay=" frameborder="0"></iframe>
+
+<div style="clear:both; height:3px; width:352px;">
+
+</div>
+
+[Ca5-otmn9](http://www.mixcloud.com/ca54makske/ca5-otmn9/?utm_source=widget&utm_medium=web&utm_campaign=base_links&utm_term=resource_link)<span>
+by</span>[Ca5](http://www.mixcloud.com/ca54makske/?utm_source=widget&utm_medium=web&utm_campaign=base_links&utm_term=profile_link)<span>
+on</span>[Mixcloud](http://www.mixcloud.com/?utm_source=widget&utm_medium=web&utm_campaign=base_links&utm_term=homepage_link)
+
+<div style="clear:both; height:3px;">
+
+</div>
+
+**2013/7/27 OthermanShow \#8**  
+
+<iframe width="360" height="360" src="//www.mixcloud.com/widget/iframe/?feed=http%3A%2F%2Fwww.mixcloud.com%2Fca54makske%2Fca5-otmn8%2F&amp;mini=&amp;stylecolor=&amp;hide_artwork=&amp;embed_type=widget_standard&amp;embed_uuid=d8ce6635-98d7-435e-97e8-760fbbde8b22&amp;hide_tracklist=&amp;hide_cover=1&amp;autoplay=" frameborder="0"></iframe>
+
+<div style="clear:both; height:3px; width:352px;">
+
+</div>
+
+[Ca5-otmn8](http://www.mixcloud.com/ca54makske/ca5-otmn8/?utm_source=widget&utm_medium=web&utm_campaign=base_links&utm_term=resource_link)<span>
+by</span>[Ca5](http://www.mixcloud.com/ca54makske/?utm_source=widget&utm_medium=web&utm_campaign=base_links&utm_term=profile_link)<span>
+on</span>[Mixcloud](http://www.mixcloud.com/?utm_source=widget&utm_medium=web&utm_campaign=base_links&utm_term=homepage_link)
+
+<div style="clear:both; height:3px;">
+
+</div>
+
+**2013/7/15 FL研究会**  
+
+<iframe width="360" height="360" src="//www.mixcloud.com/widget/iframe/?feed=http%3A%2F%2Fwww.mixcloud.com%2Fca54makske%2Flivefl%25E7%25A0%2594%25E7%25A9%25B6%25E4%25BC%259A2013715-ca5%2F&amp;mini=&amp;stylecolor=&amp;hide_artwork=&amp;embed_type=widget_standard&amp;embed_uuid=d2da2fa5-ef00-4760-9db2-7fcc05f5ae67&amp;hide_tracklist=&amp;hide_cover=1&amp;autoplay=" frameborder="0"></iframe>
+
+<div style="clear:both; height:3px; width:352px;">
+
+</div>
+
+[Live@FL研究会(2013/7/15) -
+Ca5](http://www.mixcloud.com/ca54makske/livefl%E7%A0%94%E7%A9%B6%E4%BC%9A2013715-ca5/?utm_source=widget&utm_medium=web&utm_campaign=base_links&utm_term=resource_link)<span>
+by</span>[Ca5](http://www.mixcloud.com/ca54makske/?utm_source=widget&utm_medium=web&utm_campaign=base_links&utm_term=profile_link)<span>
+on</span>[Mixcloud](http://www.mixcloud.com/?utm_source=widget&utm_medium=web&utm_campaign=base_links&utm_term=homepage_link)
+
+<div style="clear:both; height:3px;">
+
+</div>
+
+2014年もよろしくお願いします  
+来月は早速ライブがあります  
+[http://blog.ca54makske.com/blog/2013/12/18/voldope4/  
+](http://blog.ca54makske.com/blog/2013/12/18/voldope4/)

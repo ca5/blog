@@ -1,0 +1,14 @@
+Title: TV'sTV
+Date: 2008-03-30 09:15
+Author: admin
+Category: video
+Slug: tvstv
+
+<p>
+<script type="text/javascript" src="http://www.nicovideo.jp/thumb_watch/sm1676258" charset="utf-8"></script>
+  
+昔こんな深夜番組があったらしいですね
+
+</p>
+ウゴウゴルーガのテレビ君も出てきます。。  
+何となく病みつきになってしまう危険動画

@@ -1,0 +1,25 @@
+Title: 【ライブ音源】VolDope4おつかれさまでした
+Date: 2014-01-16 23:38
+Author: admin
+Category: music
+Tags: dopeup, live, vol4
+Slug: after-vdp4
+
+VolDope4お疲れさまでした  
+ライブの再現音源をまたmixcloudで公開しました
+
+<iframe width="660" height="180" src="//www.mixcloud.com/widget/iframe/?feed=http%3A%2F%2Fwww.mixcloud.com%2Fca54makske%2Fca5-vdp4%2F&amp;embed_type=widget_standard&amp;embed_uuid=e311e3a7-404b-4581-8815-f675a946f71b&amp;hide_tracklist=1&amp;hide_cover=1" frameborder="0"></iframe>
+
+<div style="clear: both; height: 3px; width: 652px;">
+
+</div>
+
+[Ca5-vdp4](http://www.mixcloud.com/ca54makske/ca5-vdp4/?utm_source=widget&amp;utm_medium=web&amp;utm_campaign=base_links&amp;utm_term=resource_link)<span>
+by</span>[Ca5](http://www.mixcloud.com/ca54makske/?utm_source=widget&amp;utm_medium=web&amp;utm_campaign=base_links&amp;utm_term=profile_link)<span>
+on</span>[Mixcloud](http://www.mixcloud.com/?utm_source=widget&utm_medium=web&utm_campaign=base_links&utm_term=homepage_link)
+
+<div style="clear: both; height: 3px; width: 652px;">
+
+</div>
+
+今回のセットは40分なのでちょっと長めです

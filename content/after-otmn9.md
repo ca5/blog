@@ -1,0 +1,39 @@
+Title: 【ライブ音源】アザマンショー９お疲れ様でした
+Date: 2013-12-10 01:00
+Author: admin
+Category: music
+Tags: breakcore, chipbreak, chiptune, live, otherman
+Slug: after-otmn9
+
+今回なんと会場のBe-WaveさんがUSTのアーカイブ残してくださってます！感謝！
+
+この動画は Ca5, スーパーサグ, ebi1000, PortaL と続くアーカイブ  
+<http://www.ustream.tv/recorded/41489660>
+
+他の方のアーカイブも残ってます！  
+http://www.ustream.tv/channel/bewave-ust
+
+一応いつもの再現mixcloudもあげておきました  
+
+<iframe width="600" height="360" src="//www.mixcloud.com/widget/iframe/?feed=http%3A%2F%2Fwww.mixcloud.com%2Fca54makske%2Fca5-otmn9%2F&amp;mini=&amp;stylecolor=&amp;hide_artwork=&amp;embed_type=widget_standard&amp;embed_uuid=6e493d3a-f87b-4262-a62e-85479b923b22&amp;hide_tracklist=&amp;hide_cover=1&amp;autoplay=" frameborder="0"></iframe>
+
+<div style="clear:both; height:3px; width:592px;">
+
+</div>
+
+[Ca5-otmn9](http://www.mixcloud.com/ca54makske/ca5-otmn9/?utm_source=widget&utm_medium=web&utm_campaign=base_links&utm_term=resource_link)<span>
+by</span>[Ca5](http://www.mixcloud.com/ca54makske/?utm_source=widget&utm_medium=web&utm_campaign=base_links&utm_term=profile_link)<span>
+on</span>[Mixcloud](http://www.mixcloud.com/?utm_source=widget&utm_medium=web&utm_campaign=base_links&utm_term=homepage_link)
+
+<div style="clear:both; height:3px;">
+
+</div>
+
+今回mixcloudのサムネに使わせていただいたのは、  
+Memory of the
+Cartridgeのジャケのtac-t!sくんが描いてくれたアナザージャケットです！  
+
+<http://ryuusanndorodoronanndemotokasu.tumblr.com/post/69476348438/memory-of-the-cartridge>
+
+さらにこのアナザージャケットをmaru303さんがファミコンのスタート画面風に動くアレンジをしてくれました！カッコイイ！  
+<http://1post1design.tumblr.com/post/69386361095/tac-tis-op>

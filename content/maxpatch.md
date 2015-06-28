@@ -1,0 +1,15 @@
+Title: いまさらmaxのパッチを公開しました
+Date: 2015-06-20 01:40
+Author: admin
+Category: music
+Tags: max/msp
+Slug: maxpatch
+
+今更ですけど、ぼくが3年くらいライブで使ってるパッチを公開することにしました。  
+Max5 + [OSC-Route](http://cnmat.berkeley.edu/patch/4029)
+で動かすことを前提に作ってます。
+
+[https://github.com/ca5/slice8  
+](https://github.com/ca5/slice8)
+
+気が向いたら使い方まとめたりするかもしれないです。

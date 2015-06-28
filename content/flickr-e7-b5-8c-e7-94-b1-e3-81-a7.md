@@ -1,0 +1,24 @@
+Title: Flickr経由で
+Date: 2010-02-14 00:36
+Author: admin
+Category: 未分類
+Slug: flickr%e7%b5%8c%e7%94%b1%e3%81%a7
+
+<div style="float: right; margin-left: 10px; margin-bottom: 10px;">
+
+[![](http://farm3.static.flickr.com/2744/4353161627_31f500d407_m.jpg)](http://www.flickr.com/photos/46200029@N06/4353161627/ "photo sharing")  
+  
+<span style="font-size: 0.9em; margin-top: 0px;">  
+[Flickr経由で](http://www.flickr.com/photos/46200029@N06/4353161627/)  
+  
+Originally uploaded by
+[ca54makske](http://www.flickr.com/people/46200029@N06/)  
+</span>
+
+</div>
+
+投稿テスト  
+写真付きの記事はflickr経由だとお手軽な上に  
+容量もあまり気にしなくていいすね  
+  
+

@@ -1,0 +1,14 @@
+Title: firejam2012の動画
+Date: 2012-09-06 23:59
+Author: admin
+Category: music
+Tags: kinect, live, max/msp, otherman, touchosc
+Slug: firejam2012%e3%81%ae%e5%8b%95%e7%94%bb
+
+もう１週間以上すぎてしまいましたがfirejamお疲れ様でした！  
+以下は自分のライブの様子です  
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/4qJNfEFd_xc" frameborder="0" allowfullscreen></iframe>  
+たまに左に手かざしているように見えますが、  
+
+その先にはkinectが設置してあって、KAOSSPADのエフェクトがかかるようになってます。

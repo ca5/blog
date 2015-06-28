@@ -1,0 +1,36 @@
+Title: blipfestival tokyo 2011よかった
+Date: 2011-10-25 00:00
+Author: admin
+Category: 8bit, music, 日記
+Tags: blipfestival, breakcore, chiptune
+Slug: blipfestival-tokyo-2011%e3%82%88%e3%81%8b%e3%81%a3%e3%81%9f
+
+おとといはblipfestivalに行ってました
+
+[http://tokyo.blipfestival.org/2011/?lang=ja  
+](http://tokyo.blipfestival.org/2011/?lang=ja)
+
+やっぱりチップチューンをこんな大きな会場ででかい音で聞けるってホント幸せです。  
+また来年も東京に来て欲しい。
+
+今回個人的にヒットだったのが、  
+チップチューン + バンド演奏でノリノリな[**anamanaguchi**  
+](http://anamanaguchi.com/)  
+
+<iframe src="http://player.vimeo.com/video/4218457?color=ff000d" width="400" height="220" frameborder="0" webkitallowfullscreen allowfullscreen></iframe>
+
+[Anamanaguchi // Blip Festival 2007: The
+Videos](http://vimeo.com/4218457) from [2 Player
+Productions](http://vimeo.com/twoplayer) on [Vimeo](http://vimeo.com).
+
+とamigaなどの昔の筐体でライブをしていた　[**cTrix**](http://chipmusic.syntaxparty.org/ctrix.html)  
+
+<iframe src="http://www.youtube.com/embed/1shXj6h3cGI" frameborder="0" width="420" height="315"></iframe>
+
+cTrixさんはチップチューンぽい曲からブレイクコアっぽい曲まで幅広くやっててよかったです
+
+[**Omodaka**](http://fareastrecording.com/)もよかったなぁ。。  
+曲もいいんですが、パフォーマンスがまた楽しかったです  
+
+<iframe src="http://www.youtube.com/embed/0yTrwFPVfzA" frameborder="0" width="560" height="315"></iframe>  
+ヨソウヤサンダヨー
