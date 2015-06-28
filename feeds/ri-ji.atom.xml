@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>ca5blog</title><link href="/" rel="alternate"></link><link href="/feeds/ri-ji.atom.xml" rel="self"></link><id>/</id><updated>2011-10-16T02:13:00+02:00</updated><entry><title>修理に出したPCが帰って来ました</title><link href="/%e4%bf%ae%e7%90%86%e3%81%ab%e5%87%ba%e3%81%97%e3%81%9fpc%e3%81%8c%e5%b8%b0%e3%81%a3%e3%81%a6%e6%9d%a5%e3%81%be%e3%81%97%e3%81%9f.html" rel="alternate"></link><updated>2011-10-16T02:13:00+02:00</updated><author><name>admin</name></author><id>tag:,2011-10-16:%e4%bf%ae%e7%90%86%e3%81%ab%e5%87%ba%e3%81%97%e3%81%9fpc%e3%81%8c%e5%b8%b0%e3%81%a3%e3%81%a6%e6%9d%a5%e3%81%be%e3%81%97%e3%81%9f.html</id><summary type="html">&lt;p&gt;謎のファイル書き込み/読み込みエラーが起こってしまい&lt;br /&gt;
+修理にだしてた作曲用のwindowsPCが戻って来ました。&lt;/p&gt;
+&lt;p&gt;原因のひとつはHDDのケーブルだったようで、&lt;br /&gt;
+ケーブル交換で書き込み自体は治ったとのこと。&lt;br /&gt;
+ただし、、、すでにおかしな状態で書きこまれてしまったデータを読み込むと&lt;br /&gt;
+やっぱりエラーが再発してしまうということなんで、&lt;br /&gt;
+前回のライブの時に準備したwavファイルをバッサリ削除したところ&lt;br /&gt;
+なんとか元通り問題ない状態になりました。ヨカッター&lt;/p&gt;
+&lt;p&gt;それにしてもHDDのケーブルのせいで調子悪くなんてなったりするんですね。&lt;br /&gt;
+パソコン工房のサポートは丁寧でなかなかよかったです。&lt;/p&gt;</summary></entry><entry><title>macbookのバッテリー交換</title><link href="/macbook%e3%81%ae%e3%83%90%e3%83%83%e3%83%86%e3%83%aa%e3%83%bc%e4%ba%a4%e6%8f%9b.html" rel="alternate"></link><updated>2011-10-03T22:00:00+02:00</updated><author><name>admin</name></author><id>tag:,2011-10-03:macbook%e3%81%ae%e3%83%90%e3%83%83%e3%83%86%e3%83%aa%e3%83%bc%e4%ba%a4%e6%8f%9b.html</id><summary type="html">&lt;p&gt;最近ライブ用のmacbookが調子悪くて、&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;スリープ状態にしていても急に電源がはいったりする&lt;/li&gt;
+&lt;li&gt;トラックパッドのボタンのクリック感がなくなった&lt;/li&gt;
+&lt;li&gt;トラックパッドが意図しないタイミングでクリックされたりする&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;といったことがあったんですが、&lt;br /&gt;
+バッテリーを交換しただけでこれが全部解決。&lt;/p&gt;
+&lt;p&gt;下の画像は左が新しいバッテリー、右が古いバッテリーなんですが・・・&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.flickr.com/photos/46200029@N06/6202460968/"&gt;&lt;img alt="" src="http://farm7.static.flickr.com/6121/6202460968_2166626198_b.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;古いバッテリーが微妙に膨らんで、&lt;br /&gt;
+iPad1の裏面みたいなきれいな曲面形になってしまってました。&lt;/p&gt;
+&lt;p&gt;macbookのバッテリーの位置はちょうどトラックパッドの真下にあったんで、&lt;br /&gt;
+トラックパッドを圧迫して調子悪くなってたようです。  &lt;/p&gt;
+&lt;p&gt;というわけでちょっと前の白黒のラインナップな頃のmacbookが調子悪いひとは&lt;br /&gt;
+バッテリーを確認してみるといいかもしれません&lt;/p&gt;
+&lt;p&gt;しかしこのバッテリー・・・¥15000円もしました&lt;br /&gt;
+タケェ・・・&lt;/p&gt;</summary><category term="mac"></category><category term="macbook"></category></entry><entry><title>バックアップは大事</title><link href="/%e3%83%90%e3%83%83%e3%82%af%e3%82%a2%e3%83%83%e3%83%97%e3%81%af%e5%a4%a7%e4%ba%8b.html" rel="alternate"></link><updated>2011-09-25T02:45:00+02:00</updated><author><name>admin</name></author><id>tag:,2011-09-25:%e3%83%90%e3%83%83%e3%82%af%e3%82%a2%e3%83%83%e3%83%97%e3%81%af%e5%a4%a7%e4%ba%8b.html</id><summary type="html">&lt;p&gt;ぼくは普段windowsで作曲、macでライブをやっていて、  &lt;/p&gt;
+&lt;p&gt;さらに写真の取り込みはiPhoneやiPadとリンクさせてある都合上macでやっているけど、&lt;br /&gt;
+写真の加工はスペックが高くてgimpも使いやすいwindowsでやる  &lt;/p&gt;
+&lt;p&gt;・・・なんて使い方をしているのでどうしてもデータが散乱してしまいがちでした。&lt;/p&gt;
+&lt;p&gt;そんなある日&lt;br /&gt;
+windowsもmacも急に調子悪くなってしまい&lt;br /&gt;
+急遽両方共再セットアップすることにしたんですが&lt;br /&gt;
+どこのどのファイルのバックアップすべきか考えるのが非常にめんどくさくて&lt;br /&gt;
+復旧させるのにど偉い手間がかかってしまうことになってしまいました。&lt;/p&gt;
+&lt;p&gt;何とかしてこの２台で必要なファイルを共有しつつ、&lt;br /&gt;
+安全にファイルをバックアップできないものか？&lt;/p&gt;
+&lt;p&gt;というわけでこんな感じで色々設定してみました&lt;/p&gt;
+&lt;p&gt;[flickr id="6178575252" thumbnail="medium" overlay="true" size="medium"
+group="" align="none"]&lt;/p&gt;
+&lt;p&gt;点線枠はバックアップだけされるファイルで&lt;br /&gt;
+実線の枠は自分で直接ファイルを更新するところです&lt;/p&gt;
+&lt;p&gt;使ったソフト&lt;br /&gt;
+■BanBackup&lt;br /&gt;
+&lt;a href="http://www.vector.co.jp/soft/winnt/util/se288018.html"&gt;http://www.vector.co.jp/soft/winnt/util/se288018.html&lt;br /&gt;
+&lt;/a&gt;&lt;br /&gt;
+バックアップの設定を細く設定して保存できるうえに、&lt;br /&gt;
+windowsのタスクに対応していて、&lt;br /&gt;
+時間やスリープ時などを条件に自動バックアップを行うことができます&lt;/p&gt;
+&lt;p&gt;■WindowsLiveMesh&lt;br /&gt;
+&lt;a href="http://explore.live.com/windows-live-mesh"&gt;http://explore.live.com/windows-live-mesh&lt;br /&gt;
+&lt;/a&gt;&lt;br /&gt;
+こっちはファイルのバックアップというよりは&lt;br /&gt;
+ファイルの共有で利用。&lt;br /&gt;
+2PC間で指定したディレクトリ下を&lt;br /&gt;
+お互い常に最新の状態にしておけます。  &lt;/p&gt;
+&lt;p&gt;（同期するだけのソフトでネット上のストレージに保存するもんではないです）&lt;/p&gt;
+&lt;p&gt;これでとりあえず、&lt;/p&gt;
+&lt;p&gt;・macで作ったmaxのパッチを使ってwindows上で作曲&lt;br /&gt;
+・windowsで作った曲を使ってmac上でライブセットを作成&lt;br /&gt;
+・macで取り込んだ写真をwindows上で加工&lt;/p&gt;
+&lt;p&gt;といったようなことをやることができて、&lt;br /&gt;
+さらに放っておけば自動でバックアップとお互いのファイルの更新が&lt;br /&gt;
+勝手にされるようになりました&lt;br /&gt;
+（まだバックアップは未検証だったりしますが・・・）&lt;/p&gt;
+&lt;p&gt;もう今週はずっと再セットアップばっかりしてて疲れました。&lt;br /&gt;
+ハードディスクは怖い。&lt;/p&gt;</summary><category term="mac"></category><category term="windows"></category><category term="WindowsLiveMesh"></category></entry><entry><title>富士登山</title><link href="/%e5%af%8c%e5%a3%ab%e7%99%bb%e5%b1%b1.html" rel="alternate"></link><updated>2010-08-04T09:00:00+02:00</updated><author><name>admin</name></author><id>tag:,2010-08-04:%e5%af%8c%e5%a3%ab%e7%99%bb%e5%b1%b1.html</id><summary type="html">&lt;p&gt;ハバネロと一緒に富士登山してきました。&lt;/p&gt;
+&lt;p&gt;
+&lt;center&gt;
+[![](http://farm5.static.flickr.com/4139/4857043702_3b212964f5_m.jpg)](http://www.flickr.com/photos/46200029@N06/4857043702/)
+
+&lt;/center&gt;
+
+談合坂PAでの本来の姿。
+
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;center&gt;
+[![](http://farm5.static.flickr.com/4141/4856425753_868e07fb2b_m.jpg)](http://www.flickr.com/photos/46200029@N06/4856425753/)
+
+&lt;/center&gt;
+
+登山前、5合目での様子。  
+既に大分膨らんでます。
+
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;center&gt;
+[![](http://farm5.static.flickr.com/4094/4857044324_79d0105a14_m.jpg)](http://www.flickr.com/photos/46200029@N06/4857044324/)
+
+&lt;/center&gt;
+
+6合目。  
+だんだんハバネロさんがお怒りに。
+
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;center&gt;
+[![](http://farm5.static.flickr.com/4138/4856426445_4851b3ffe6_m.jpg)](http://www.flickr.com/photos/46200029@N06/4856426445/)
+
+&lt;/center&gt;
+
+7合目。  
+もはや風船状態。
+
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;center&gt;
+[![](http://farm5.static.flickr.com/4114/4857044926_c7d289e0ed_m.jpg)](http://www.flickr.com/photos/46200029@N06/4857044926/)
+
+&lt;/center&gt;
+
+8.5合目あたり。  
+もう限界か…？！
+
+&lt;/p&gt;
+
+&lt;p&gt;ここを過ぎてから急に高山病にかかって&lt;br /&gt;
+写真どころじゃなくなくなりました。&lt;/p&gt;
+&lt;p&gt;…&lt;/p&gt;
+&lt;p&gt;
+&lt;center&gt;
+[![](http://farm5.static.flickr.com/4141/4856426947_546b7b14c7_m.jpg)](http://www.flickr.com/photos/46200029@N06/4856426947/)
+
+&lt;/center&gt;
+
+友達に助けてもらいながらなんとかして山頂へ到着！  
+具合悪さが感動を完全に上回ってました。
+
+&lt;/p&gt;
+
+&lt;p&gt;下山途中に山頂付近で気付いたんですが、&lt;br /&gt;
+いつのまにかハバネロさんは元の姿に戻っていました。&lt;br /&gt;
+内部の気圧に耐えられなくて袋に穴が空いてました。&lt;/p&gt;
+&lt;p&gt;なるほどこれだけ気圧が違うんだから&lt;br /&gt;
+人の体にも影響が出るわけだなーと実感できた&lt;br /&gt;
+そんな登山でした。&lt;/p&gt;
+&lt;p&gt;そして助けてくれたみんなありがとう…&lt;/p&gt;</summary><category term="富士山"></category><category term="登山"></category></entry><entry><title>海の詩</title><link href="/%e6%b5%b7%e3%81%ae%e8%a9%a9.html" rel="alternate"></link><updated>2010-07-29T09:00:00+02:00</updated><author><name>admin</name></author><id>tag:,2010-07-29:%e6%b5%b7%e3%81%ae%e8%a9%a9.html</id><summary type="html">&lt;p&gt;バイクで湘南へ！&lt;/p&gt;
+&lt;p&gt;
+&lt;center&gt;
+[![](http://farm5.static.flickr.com/4111/4834370940_d3a49cab35_m.jpg)](http://www.flickr.com/photos/46200029@N06/4834370940/)
+
+&lt;/center&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;center&gt;
+[![](http://farm5.static.flickr.com/4103/4834371158_15741e2404_m.jpg)](http://www.flickr.com/photos/46200029@N06/4834371158/)
+
+&lt;/center&gt;
+
+これは鵠沼海岸あたりです  
+トイデジアプリでそれっぽく撮れました。  
+まだ午前中だったせいか人は少なめ。
+
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;center&gt;
+[![](http://farm5.static.flickr.com/4108/4834371538_f2a8fa2f27_m.jpg)](http://www.flickr.com/photos/46200029@N06/4834371538/)
+
+&lt;/center&gt;
+
+江ノ島にのびる橋の近くにあった  
+謎の像…  
+タイトル「海の詩」だそうです
+
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;center&gt;
+[![](http://farm5.static.flickr.com/4084/4834371814_e38d62b02b_m.jpg)](http://www.flickr.com/photos/46200029@N06/4834371814/)
+
+&lt;/center&gt;
+
+ここからは三浦半島
+
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;center&gt;
+[![](http://farm5.static.flickr.com/4149/4833762621_3406fb4e87_m.jpg)](http://www.flickr.com/photos/46200029@N06/4833762621/)
+
+&lt;/center&gt;
+
+城ヶ島公園につきました
+
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;center&gt;
+[![](http://farm5.static.flickr.com/4107/4834372484_449e1af83a_m.jpg)](http://www.flickr.com/photos/46200029@N06/4834372484/)
+
+&lt;/center&gt;
+
+快晴です
+
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;center&gt;
+[![](http://farm5.static.flickr.com/4131/4834372968_0523f2b075_m.jpg)](http://www.flickr.com/photos/46200029@N06/4834372968/)
+
+&lt;/center&gt;
+
+そしてすごい絶壁と
+
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;center&gt;
+[![](http://farm5.static.flickr.com/4083/4833763627_2ccb56b278_m.jpg)](http://www.flickr.com/photos/46200029@N06/4833763627/)
+
+&lt;/center&gt;
+
+強い風…  
+若干ジョジョ立ちに
+
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;center&gt;
+[![](http://farm5.static.flickr.com/4089/4833764085_d2713dc2a4_m.jpg)](http://www.flickr.com/photos/46200029@N06/4833764085/)
+
+&lt;/center&gt;
+
+最後にドブ板通りを少しみて帰りました
+
+&lt;/p&gt;
+
+&lt;p&gt;食い物編は次回以降。&lt;/p&gt;</summary><category term="海"></category></entry><entry><title>松江城</title><link href="/%e6%9d%be%e6%b1%9f%e5%9f%8e.html" rel="alternate"></link><updated>2010-05-28T09:00:00+02:00</updated><author><name>admin</name></author><id>tag:,2010-05-28:%e6%9d%be%e6%b1%9f%e5%9f%8e.html</id><summary type="html">&lt;p&gt;やっぱり国内旅行といったら城ですね&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.flickr.com/photos/46200029@N06/4636933283/"&gt;&lt;img alt="" src="http://farm5.static.flickr.com/4028/4636933283_d58a83556c_m.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;
+遠くから&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.flickr.com/photos/46200029@N06/4637543554/"&gt;&lt;img alt="" src="http://farm4.static.flickr.com/3413/4637543554_61b4e6102b_m.jpg" /&gt;&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;飾り気が少なくて渋い。&lt;br /&gt;
+所々に銃を撃つための穴みたいのがあります&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.flickr.com/photos/46200029@N06/4637545002/"&gt;&lt;img alt="" src="http://farm4.static.flickr.com/3362/4637545002_79b387f75b_m.jpg" /&gt;&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;最上階から外を眺めたところ&lt;br /&gt;
+ここまで来るのに、はしごのような階段を&lt;br /&gt;
+4フロア上がらなければなりません&lt;/p&gt;
+&lt;p&gt;一度も攻められたことの無い城だったそうで&lt;br /&gt;
+中も当時のままに残されていました。&lt;/p&gt;</summary><category term="旅行"></category></entry><entry><title>出雲大社</title><link href="/%e5%87%ba%e9%9b%b2%e5%a4%a7%e7%a4%be.html" rel="alternate"></link><updated>2010-05-26T09:00:00+02:00</updated><author><name>admin</name></author><id>tag:,2010-05-26:%e5%87%ba%e9%9b%b2%e5%a4%a7%e7%a4%be.html</id><summary type="html">&lt;p&gt;出雲大社に行ってきました&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.flickr.com/photos/46200029@N06/4635075309/"&gt;&lt;img alt="" src="http://farm5.static.flickr.com/4024/4635075309_5a6dd85887_m.jpg" /&gt;&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;これは松江市から出雲大社へ行ける電車&lt;br /&gt;
+一畑鉄道。&lt;br /&gt;
+レトロな電車は見た目には良いけど、&lt;br /&gt;
+乗り心地もかなり年季のはいった感じでした。&lt;/p&gt;
+&lt;p&gt;川跡駅から出雲大社駅までの間は&lt;br /&gt;
+駅員さんが周囲の観光案内をしてくれました。&lt;br /&gt;
+バスガイドさんみたい。&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.flickr.com/photos/46200029@N06/4635076131/"&gt;&lt;img alt="" src="http://farm5.static.flickr.com/4002/4635076131_a973d1ed84_m.jpg" /&gt;&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;しかし…肝心の神社は遷宮準備中&lt;br /&gt;
+もちろん仮の建物があってお参りはできるんですが&lt;br /&gt;
+ちと残念な結果に&lt;/p&gt;</summary><category term="旅行"></category></entry><entry><title>一見さんお断りなお店</title><link href="/%e4%b8%80%e8%a6%8b%e3%81%95%e3%82%93%e3%81%8a%e6%96%ad%e3%82%8a%e3%81%aa%e3%81%8a%e5%ba%97.html" rel="alternate"></link><updated>2010-05-21T00:00:00+02:00</updated><author><name>admin</name></author><id>tag:,2010-05-21:%e4%b8%80%e8%a6%8b%e3%81%95%e3%82%93%e3%81%8a%e6%96%ad%e3%82%8a%e3%81%aa%e3%81%8a%e5%ba%97.html</id><summary type="html">&lt;p&gt;三田に本店がある常連だらけのラーメン屋さん&lt;br /&gt;
+・・・の話ではなくてどこにでもあるレンタルDVD屋さんの話。&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+ぼくは最近あまり邦楽は聞かないし、  &lt;/p&gt;
+&lt;p&gt;DVDを借りて家で映画を見る、という習慣もあまりないので（あっても年1〜2回くらいか）&lt;br /&gt;
+一緒に住んでいる妹の会員カードを借りて&lt;br /&gt;
+DVDを借りていました。&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+先日一年ぶり位に妹のカードを借りて&lt;br /&gt;
+そのレンタルショップへ向かったわけですが、&lt;br /&gt;
+まあ久々過ぎて探し方も借り方も覚えてなくて、&lt;br /&gt;
+店内を20分くらいうろうろしてようやくお目当てのDVDを見つけ、&lt;br /&gt;
+外側のケースごと持ってレジへ向かいました。&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+自信なさげにDVDとカードをわたすと&lt;br /&gt;
+早速店員のねーちゃんが強く事務的にこういいました&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+ねー:「次回からは中のケースだけお持ちください」&lt;br /&gt;
+ぼく:「ああすみません」&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+この時点ではああ、店員さん忙しいのにすいませんね&lt;br /&gt;
+位の気持ちでいれたのですが&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+ねー:「身分証明になるものをお持ちですか？」&lt;br /&gt;
+ぼく:「え・・？いや持ってないです」&lt;br /&gt;
+ねー:「次回は住民票などの住所がわかるものをお持ちください」&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+べつに18禁のDVD借りるわけじゃないのにこんなの必要なのか？&lt;br /&gt;
+自分が知っている頃よりずいぶん厳しくなったなぁ&lt;br /&gt;
+&lt;br /&gt;
+・・・とここで、妹に渡された割引券を思い出し&lt;br /&gt;
+ミシン目に沿って券を切って出そうとすると&lt;br /&gt;
+&lt;br /&gt;
+&lt;/p&gt;
+&lt;p&gt;ねー:「それは切り離さないでそのままお渡しください。半券がついていないものは無効になります」&lt;br /&gt;
+ぼく:「あ、そうなんですかすいません」&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+また謝りながら券をそのまま渡す。&lt;br /&gt;
+ねーちゃんココで券を2枚切り離す。&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+とここで&lt;br /&gt;
+ねーちゃん:「お客様このカードの持ち主ですか？」&lt;br /&gt;
+と今更聞く。&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+ぼく:「いえ、違いますけど」&lt;br /&gt;
+ねーちゃん:「こちらのカードはご本人様でないと使用になれないのですが」&lt;br /&gt;
+ぼく:「これは妹のカードなんですが、兄妹でもだめなんですか？」&lt;br /&gt;
+ねーちゃん:「はい、ご本人の方がいないとダメです」&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+と言われ、その後新規にカードを作るよう言われましたが&lt;br /&gt;
+なんだかめんどくさくなってDVD借りるのを諦めてしまいました。&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+この文章じゃぜんぜん伝わらんですが、&lt;br /&gt;
+店員のねーちゃんとのやりとりでずっと感じたのは&lt;br /&gt;
+「ここでDVD借りるルールなんて知ってて当たり前」&lt;br /&gt;
+というのが前提のあまりに機械的な対応。&lt;br /&gt;
+&lt;br /&gt;
+ぼくがルールを知らなかったのはもちろん良くないですが、&lt;br /&gt;
+ルールを知らなかったらたった1回DVD借りるのに  &lt;/p&gt;
+&lt;p&gt;強い口調で　ああしろ　こうしろ　とこうもいわれなきゃならないのだろうか。&lt;br /&gt;
+免許の更新手続きなんかのほうがよっぽどフレンドリーです。&lt;/p&gt;
+&lt;p&gt;なんだか、注文のしかたでそわそわする有名なあのラーメン屋よりも&lt;br /&gt;
+どこにでもあるDVDレンタルショップでDVD借りる方が&lt;br /&gt;
+よっぽどハードルが高いことなんじゃないか　と思えてきました。&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+あ、そういえば割引券2枚切られたまんまだ&lt;/p&gt;</summary></entry><entry><title>上越国際スキー場</title><link href="/%e4%b8%8a%e8%b6%8a%e5%9b%bd%e9%9a%9b%e3%82%b9%e3%82%ad%e3%83%bc%e5%a0%b4.html" rel="alternate"></link><updated>2010-02-15T08:51:00+01:00</updated><author><name>admin</name></author><id>tag:,2010-02-15:%e4%b8%8a%e8%b6%8a%e5%9b%bd%e9%9a%9b%e3%82%b9%e3%82%ad%e3%83%bc%e5%a0%b4.html</id><summary type="html">&lt;p&gt;初めて上越国際スキー場いってきました&lt;/p&gt;
+&lt;p&gt;コースがだだっ広くてあまり急斜面が無いので、&lt;br /&gt;
+スキーよりもスノーボードのほうが楽しめそうなとこでした&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.flickr.com/photos/46200029@N06/4356495262/"&gt;&lt;img alt="" src="http://farm5.static.flickr.com/4042/4356495262_256284f93b_m.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;いい天気&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.flickr.com/photos/46200029@N06/4355749831/"&gt;&lt;img alt="" src="http://farm5.static.flickr.com/4007/4355749831_70e12e2a46_m.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;これは…せーふなのか…&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.flickr.com/photos/46200029@N06/4355750463/"&gt;&lt;img alt="" src="http://farm3.static.flickr.com/2726/4355750463_84c36ced0a_m.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;スイカのペンギンも冬には弱いようです&lt;/p&gt;
+&lt;p&gt;Blogpressアプリで投稿してみました&lt;br /&gt;
+flickrやpicasaとカンタンに連動できます&lt;/p&gt;</summary><category term="スノーボード"></category></entry><entry><title>ホワイトイルミネーション</title><link href="/%e3%83%9b%e3%83%af%e3%82%a4%e3%83%88%e3%82%a4%e3%83%ab%e3%83%9f%e3%83%8d%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3.html" rel="alternate"></link><updated>2010-01-05T13:48:00+01:00</updated><author><name>admin</name></author><id>tag:,2010-01-05:%e3%83%9b%e3%83%af%e3%82%a4%e3%83%88%e3%82%a4%e3%83%ab%e3%83%9f%e3%83%8d%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3.html</id><summary type="html">&lt;div style="float: right; margin-left: 10px; margin-bottom: 10px;"&gt;
+
+[![](http://farm3.static.flickr.com/2769/4246372133_a9750823e6_m.jpg)](http://www.flickr.com/photos/46200029@N06/4246372133/ "photo sharing")  
+
+&lt;span style="font-size: 0.9em; margin-top: 0px;"&gt;  
+
+[ホワイトイルミネーション](http://www.flickr.com/photos/46200029@N06/4246372133/)  
+
+Originally uploaded by
+[ca54makske](http://www.flickr.com/people/46200029@N06/)  
+&lt;/span&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;flickrからの投稿てすとを兼ねて、&lt;br /&gt;
+昨日撮ったホワイトイルミネーションを&lt;br /&gt;
+はってみました&lt;/p&gt;
+&lt;p&gt;やっぱ札幌いいな&lt;br /&gt;
+ちなみになぜか毎年ついてたはずの&lt;br /&gt;
+すずらんのイルミネーションが消灯してました&lt;br /&gt;
+これも不況がもたらしたものなんだろうか  &lt;/p&gt;</summary></entry><entry><title>初破壊</title><link href="/%e5%88%9d%e7%a0%b4%e5%a3%8a.html" rel="alternate"></link><updated>2010-01-04T13:06:00+01:00</updated><author><name>admin</name></author><id>tag:,2010-01-04:%e5%88%9d%e7%a0%b4%e5%a3%8a.html</id><summary type="html">&lt;p&gt;ラミーがこわれたああああ！！&lt;/p&gt;
+&lt;p&gt;
+&lt;center&gt;
+[![](http://lh4.ggpht.com/_j8LkHgBNqPs/S0HnwYW5jQI/AAAAAAAAGkU/NmbU3khriws/s288/iphone_photo.jpg)](http://picasaweb.google.com/ca54makske/Blog#5422870244689022210)
+
+&lt;/center&gt;
+
+まだ買ってひと月もたっておりません
+
+&lt;/p&gt;
+
+&lt;p&gt;とりあえず2液式のパテでつないではみたが...&lt;/p&gt;
+&lt;p&gt;気にいったからといって、&lt;br /&gt;
+四六時中身につけるのもまあ、&lt;br /&gt;
+良く無かったようです。&lt;/p&gt;
+&lt;p&gt;場所:&lt;a href="http://maps.google.com/maps?q=%EF%BC%98%E4%B8%81%E7%9B%AE,%E6%9C%AD%E5%B9%8C%E5%B8%82,%E6%97%A5%E6%9C%AC%4043.013718%2C141.351341&amp;amp;z=10"&gt;８丁目,札幌市,日本&lt;/a&gt;&lt;/p&gt;</summary><category term="文具"></category></entry><entry><title>2010の</title><link href="/2010%e3%81%ae.html" rel="alternate"></link><updated>2010-01-03T03:55:00+01:00</updated><author><name>admin</name></author><id>tag:,2010-01-03:2010%e3%81%ae.html</id><summary type="html">&lt;p&gt;今年のおせち  &lt;/p&gt;
+&lt;p&gt;
+&lt;center&gt;
+[![](http://lh4.ggpht.com/_j8LkHgBNqPs/S0AVGbGOZKI/AAAAAAAAGkM/811dGdS9tlM/s288/iphone_photo.jpg)](http://picasaweb.google.com/ca54makske/Blog#5422357151451341986)
+
+&lt;/center&gt;
+
+正月早々見事にかぜひきました。  
+
+
+
+おなかの調子も年末に二郎食ってから全然回復することなく、  
+
+各種忘年会であまりはしゃぎきれないうちに  
+
+新年と風邪菌をむかえることとなりました。  
+
+
+
+というわけで今年の目標（さくせん）は  
+
+
+
+「二郎卒業」  
+
+「いのちだいじに」  
+
+
+
+としたいとおもいます。  
+
+
+
+
+
+年齢相応の、生活を。  
+
+&lt;/p&gt;</summary></entry><entry><title>西武遊園地</title><link href="/%e8%a5%bf%e6%ad%a6%e9%81%8a%e5%9c%92%e5%9c%b0.html" rel="alternate"></link><updated>2009-12-25T23:07:00+01:00</updated><author><name>admin</name></author><id>tag:,2009-12-25:%e8%a5%bf%e6%ad%a6%e9%81%8a%e5%9c%92%e5%9c%b0.html</id><summary type="html">&lt;p&gt;遊園地ばっかり言ってる訳ではないんだけど、&lt;br /&gt;
+前回に引き続き遊園地ネタ。&lt;/p&gt;
+&lt;p&gt;西武遊園地でスケートをしてきました&lt;/p&gt;
+&lt;p&gt;
+&lt;center&gt;
+[![](http://lh4.ggpht.com/_j8LkHgBNqPs/SzVFwqb0JtI/AAAAAAAAFxM/SRK-Vmdm7IU/s288/iphone_photo.jpg)](http://picasaweb.google.com/ca54makske/Blog#5419314428937250514)
+
+&lt;/center&gt;
+
+スケートはそこそこにぎわってましたが...
+
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;center&gt;
+[![](http://lh3.ggpht.com/_j8LkHgBNqPs/SzVFxFa5_BI/AAAAAAAAFxU/Z17RZrUjPDQ/s288/iphone_photo.jpg)](http://picasaweb.google.com/ca54makske/Blog#5419314436181195794)
+
+&lt;/center&gt;
+
+休日なのに...
+
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;center&gt;
+[![](http://lh4.ggpht.com/_j8LkHgBNqPs/SzVFx8CTrtI/AAAAAAAAFxY/TvyPZsCEPhA/s288/iphone_photo.jpg)](http://picasaweb.google.com/ca54makske/Blog#5419314450841972434)
+
+&lt;/center&gt;
+
+だれもいねーー！！
+
+&lt;/p&gt;
+
+&lt;p&gt;...ん...？&lt;/p&gt;
+&lt;p&gt;
+&lt;center&gt;
+[![](http://lh4.ggpht.com/_j8LkHgBNqPs/SzVFycnBHeI/AAAAAAAAFxc/EAmn3NgLmkA/s288/iphone_photo.jpg)](http://picasaweb.google.com/ca54makske/Blog#5419314459585879522)
+
+&lt;/center&gt;
+
+......  
+！？
+
+&lt;/p&gt;
+
+&lt;p&gt;ttp://www.toychan.net/archives/2007/10/26_2357.php&lt;/p&gt;
+&lt;p&gt;！！！&lt;/p&gt;
+&lt;p&gt;ちなみに西武遊園地のスケートリンクは、&lt;br /&gt;
+遠い上にあまり安くないのでもう行かないと思います。&lt;br /&gt;
+ごめんなさい。&lt;/p&gt;</summary></entry><entry><title>はなやしき</title><link href="/%e3%81%af%e3%81%aa%e3%82%84%e3%81%97%e3%81%8d.html" rel="alternate"></link><updated>2009-12-23T03:20:00+01:00</updated><author><name>admin</name></author><id>tag:,2009-12-23:%e3%81%af%e3%81%aa%e3%82%84%e3%81%97%e3%81%8d.html</id><summary type="html">&lt;p&gt;
+&lt;center&gt;
+[![](http://blogpress.w18.net/photos/09/12/22/s_913.jpg)](http://blogpress.w18.net/photos/09/12/22/913.jpg)
+
+&lt;/center&gt;
+
+初めての花やしき
+
+&lt;/p&gt;
+
+&lt;p&gt;空きスペースが少しでもありゃ&lt;br /&gt;
+遊具をおいてしまえ!&lt;br /&gt;
+と言わんばかりのデッドスペースの無さがみてて楽しかったです&lt;/p&gt;
+&lt;p&gt;お土産で忍者グッズ売ってたけど全然浅草と関係ないし...&lt;/p&gt;</summary></entry><entry><title>スパイダーマ</title><link href="/%e3%82%b9%e3%83%91%e3%82%a4%e3%83%80%e3%83%bc%e3%83%9e.html" rel="alternate"></link><updated>2009-12-16T12:17:00+01:00</updated><author><name>admin</name></author><id>tag:,2009-12-16:%e3%82%b9%e3%83%91%e3%82%a4%e3%83%80%e3%83%bc%e3%83%9e.html</id><summary type="html">&lt;p&gt;お土産でもらいました。  &lt;/p&gt;
+&lt;p&gt;今日は寒かったので丁度よかったです  &lt;/p&gt;
+&lt;p&gt;
+&lt;center&gt;
+[![](http://blogpress.w18.net/photos/09/12/16/s_133.jpg)](http://blogpress.w18.net/photos/09/12/16/133.jpg)
+
+&lt;/center&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;center&gt;
+[![](http://blogpress.w18.net/photos/09/12/16/s_134.jpg)](http://blogpress.w18.net/photos/09/12/16/134.jpg)
+
+&lt;/center&gt;
+&lt;/p&gt;
+
+&lt;p&gt;場所:&lt;a href="http://maps.google.com/maps?q=%EF%BC%97%E4%B8%81%E7%9B%AE,%E6%B8%AF%E5%8C%BA,%E6%97%A5%E6%9C%AC%4035.666588%2C139.727823&amp;amp;z=10"&gt;７丁目,港区,日本&lt;/a&gt;&lt;/p&gt;</summary><category term="スパイダーマ"></category></entry><entry><title>twitter連携</title><link href="/twitter%e9%80%a3%e6%90%ba.html" rel="alternate"></link><updated>2009-12-09T07:20:00+01:00</updated><author><name>admin</name></author><id>tag:,2009-12-09:twitter%e9%80%a3%e6%90%ba.html</id><summary type="html">&lt;p&gt;blog投稿したらtwitterにもpostしてくれるプラグイン&lt;br /&gt;
+いれてみました。&lt;/p&gt;
+&lt;p&gt;PostToTwitter:&lt;br /&gt;
+http://labs.m-logic.jp/plugins/posttotwitter/docs/post_to_twitter.html&lt;/p&gt;
+&lt;p&gt;特に設定苦戦することもなく、&lt;br /&gt;
+サクッと入ります。便利。&lt;/p&gt;</summary></entry><entry><title>iPhone予約</title><link href="/iphone%e4%ba%88%e7%b4%84.html" rel="alternate"></link><updated>2009-12-06T21:40:00+01:00</updated><author><name>admin</name></author><id>tag:,2009-12-06:iphone%e4%ba%88%e7%b4%84.html</id><summary type="html">&lt;p&gt;ついにねんがんのあいふぉんを予約した!&lt;/p&gt;
+&lt;p&gt;ホントはその場で購入したかったんだけど&lt;br /&gt;
+12/5に安くなってから16GBモデルが品薄だそうで、無理でした&lt;br /&gt;
+購入予定なかたはお早めに&lt;/p&gt;
+&lt;/p&gt;</summary></entry><entry><title>しんでしまうとはなさけない</title><link href="/%e3%81%97%e3%82%93%e3%81%a7%e3%81%97%e3%81%be%e3%81%86%e3%81%a8%e3%81%af%e3%81%aa%e3%81%95%e3%81%91%e3%81%aa%e3%81%84.html" rel="alternate"></link><updated>2009-12-02T09:20:00+01:00</updated><author><name>admin</name></author><id>tag:,2009-12-02:%e3%81%97%e3%82%93%e3%81%a7%e3%81%97%e3%81%be%e3%81%86%e3%81%a8%e3%81%af%e3%81%aa%e3%81%95%e3%81%91%e3%81%aa%e3%81%84.html</id><summary type="html">&lt;p&gt;アドセンス＼(\^o\^)／キエタ&lt;/p&gt;</summary></entry><entry><title>新宿御苑で紅葉</title><link href="/%e6%96%b0%e5%ae%bf%e5%be%a1%e8%8b%91%e3%81%a7%e7%b4%85%e8%91%89.html" rel="alternate"></link><updated>2009-11-29T22:40:00+01:00</updated><author><name>admin</name></author><id>tag:,2009-11-29:%e6%96%b0%e5%ae%bf%e5%be%a1%e8%8b%91%e3%81%a7%e7%b4%85%e8%91%89.html</id><summary type="html">&lt;p&gt;&lt;span
+class="mt-enclosure mt-enclosure-image"&gt;&lt;a href="http://ca54makske.com/blog/files/20091129224002_93_1.JPG"&gt;&lt;img alt="" src="http://ca54makske.com/blog/files/20091129224002_93_1_thumb.JPG" /&gt;&lt;/a&gt;&lt;/span&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;span
+class="mt-enclosure mt-enclosure-image"&gt;&lt;a href="http://ca54makske.com/blog/files/20091129224002_93.JPG"&gt;&lt;img alt="" src="http://ca54makske.com/blog/files/20091129224002_93_thumb.JPG" /&gt;&lt;/a&gt;&lt;/span&gt;  &lt;/p&gt;
+&lt;p&gt;新宿御苑にいってきました。&lt;br /&gt;
+いい具合に紅葉していて丁度見頃な時期なのかもしれないです。&lt;/p&gt;
+&lt;p&gt;ちょっと離れたところにDocomoタワーやコクーンタワーが見&lt;br /&gt;
+えたりして&lt;br /&gt;
+ちょっとミスマッチなところが東京っぽいというかなんというか。&lt;/p&gt;</summary></entry><entry><title>ヒルズのイルミネーション</title><link href="/%e3%83%92%e3%83%ab%e3%82%ba%e3%81%ae%e3%82%a4%e3%83%ab%e3%83%9f%e3%83%8d%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3.html" rel="alternate"></link><updated>2009-11-26T23:44:00+01:00</updated><author><name>admin</name></author><id>tag:,2009-11-26:%e3%83%92%e3%83%ab%e3%82%ba%e3%81%ae%e3%82%a4%e3%83%ab%e3%83%9f%e3%83%8d%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3.html</id><summary type="html">&lt;p&gt;&lt;span
+class="mt-enclosure mt-enclosure-image"&gt;&lt;a href="http://ca54makske.com/blog/files/20091126234448_87.jpg"&gt;&lt;img alt="" src="http://ca54makske.com/blog/files/20091126234448_87_thumb.jpg" /&gt;&lt;/a&gt;&lt;/span&gt;  &lt;/p&gt;
+&lt;p&gt;メールで記事投稿出来るようになったんで、&lt;br /&gt;
+テストがてらさっき撮った&lt;br /&gt;
+ヒルズのイルミネーションをアップしてみた&lt;/p&gt;
+&lt;p&gt;今年のはなかなかええのう&lt;/p&gt;</summary></entry><entry><title>メール投稿テスト3</title><link href="/%e3%83%a1%e3%83%bc%e3%83%ab%e6%8a%95%e7%a8%bf%e3%83%86%e3%82%b9%e3%83%883.html" rel="alternate"></link><updated>2009-11-26T09:20:00+01:00</updated><author><name>admin</name></author><id>tag:,2009-11-26:%e3%83%a1%e3%83%bc%e3%83%ab%e6%8a%95%e7%a8%bf%e3%83%86%e3%82%b9%e3%83%883.html</id><summary type="html">&lt;p&gt;メールで記事を投稿してみるテスト3&lt;/p&gt;</summary></entry><entry><title>めーるで</title><link href="/%e3%82%81%e3%83%bc%e3%82%8b%e3%81%a7.html" rel="alternate"></link><updated>2009-11-26T09:00:00+01:00</updated><author><name>admin</name></author><id>tag:,2009-11-26:%e3%82%81%e3%83%bc%e3%82%8b%e3%81%a7.html</id><summary type="html">&lt;p&gt;投稿テスト&lt;/p&gt;</summary></entry><entry><title>久々に</title><link href="/%e4%b9%85%e3%80%85%e3%81%ab.html" rel="alternate"></link><updated>2009-11-15T11:39:00+01:00</updated><author><name>admin</name></author><id>tag:,2009-11-15:%e4%b9%85%e3%80%85%e3%81%ab.html</id><summary type="html">&lt;p&gt;mixi日記を外部のblogと連動させることにしてみました。&lt;/p&gt;
+&lt;div&gt;
+
+うん、それだけ
+
+&lt;/div&gt;</summary></entry><entry><title>今日から</title><link href="/%e4%bb%8a%e6%97%a5%e3%81%8b%e3%82%89.html" rel="alternate"></link><updated>2008-05-19T07:20:00+02:00</updated><author><name>admin</name></author><id>tag:,2008-05-19:%e4%bb%8a%e6%97%a5%e3%81%8b%e3%82%89.html</id><summary type="html">&lt;p&gt;lヽ ﾉ l　　　　　　　　ｌ l　ｌ ヽ　　 ヽ&lt;br /&gt;
+　 )'ｰーノ(　 |　|　 | ､　　　　　 / l｜ ｌ　ハヽ　　|ｰ‐''"ｌ&lt;br /&gt;
+　/　O　　|　|　|／| ﾊ　　/ / ,/ /|ﾉ /l /　ｌ l ｌ|　ｌ　 O ヽ&lt;br /&gt;
+　l 　 ･　　i´ |　ヽ､| |ｒ|| |　//--‐'" 　 ｀'メ､_ｌﾉ| /　 ・　 /&lt;br /&gt;
+　|　 J　　l　 トー-トヽ| |ノ　''"´｀　　　ｒｰ-/// |　 J　｜&lt;br /&gt;
+　|　 ･　　 |／　　 　 | l ||､　''"""　 j　""''/ | |ヽｌ 　・　｜&lt;br /&gt;
+　|　 T 　 |　　 　 　 | l |　ヽ,　 　-- 　 ／　| |　ｌ　 T　 |&lt;br /&gt;
+　| 　 !!　 |　　 　 /　| | |　　 ` ｰ-‐ ' ´||　,ﾉ| |　|　　!!　｜&lt;br /&gt;
+ノｰ‐---､,|　 　 /　│ｌ､l　　　　　　 　 |ﾚ' ,ﾉﾉ　ﾉハ､_ノヽ&lt;br /&gt;
+　/ 　　 　 　 ／　ノ⌒ヾ､　 ヽ　　　 ノハ,　　　 　 |&lt;br /&gt;
+,/ 　 　　　,イーｆ'´ /´　　＼　| ,／´ ｜ヽl　　　 　 |&lt;br /&gt;
+　　　　 ／-ト、|　┼--- ､_ヽﾒr'　, -=ｌ''"ハ　　　　|　 ｌ&lt;br /&gt;
+　　 ,／　 　|　ヽ 　＼　　_,ノｰｆ' ´　　ﾉノ　 ヽ　 　｜　|&lt;br /&gt;
+､_　　　 _ ‐''ｌ　　`ー‐--''" ⌒'ｰ--‐'´｀ヽ､_ 　　_,ノ　ノ&lt;br /&gt;
+　 ￣￣　　 |　　　　　　　　　　 ／&lt;/p&gt;
+&lt;p&gt;これでももう２年目なんです&lt;/p&gt;</summary></entry></feed>

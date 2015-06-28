@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>ca5blog</title><link href="/" rel="alternate"></link><link href="/feeds/web.atom.xml" rel="self"></link><id>/</id><updated>2011-04-04T01:12:00+02:00</updated><entry><title>mixiの日記閲覧スクリプト</title><link href="/mixi%e3%81%ae%e6%97%a5%e8%a8%98%e9%96%b2%e8%a6%a7%e3%82%b9%e3%82%af%e3%83%aa%e3%83%97%e3%83%88.html" rel="alternate"></link><updated>2011-04-04T01:12:00+02:00</updated><author><name>admin</name></author><id>tag:,2011-04-04:mixi%e3%81%ae%e6%97%a5%e8%a8%98%e9%96%b2%e8%a6%a7%e3%82%b9%e3%82%af%e3%83%aa%e3%83%97%e3%83%88.html</id><summary type="html">&lt;p&gt;作曲がとんと進まないので、&lt;br /&gt;
+今日は WWW::MechanizeとWeb::Scraperの使い方練習をしてました。&lt;br /&gt;
+どちらかというとこのソース書くよりも、  &lt;/p&gt;
+&lt;p&gt;レンタルサーバ上でcpanちゃんと使える環境整えるほうがめんどくさかったです&lt;/p&gt;
+&lt;p&gt;&lt;link rel="stylesheet" href="http://ca54makske.com/js/highlight/styles/zenburn.css"&gt;&lt;/p&gt;
+&lt;script type="text/javascript" src="http://ca54makske.com/js/highlight/highlight.pack.js"&gt;&lt;/script&gt;
+
+&lt;script&gt;&lt;br /&gt;
+&lt;script type="text/javascript"&gt;&lt;br /&gt;
+  initHighlightingOnLoad();&lt;br /&gt;
+&lt;/script&gt;
+&lt;/p&gt;
+getarticle.pl
+
+wzxhzdk:0
+
+
+実行イメージ
+
+
+    ./getarticle.pl
+    title:日記タイトル
+    content:記事～～
+    title:日記タイトル
+    :
+    :
+
+これ作るために普段mixiあまり見てない自分が  
+
+特定の人にめっちゃあしあと付けまくってますけどあんま気にしないでくださいね　＾。＾
+
+以下参考にしたサイト
+
+-cpan  
+http://d.hatena.ne.jp/mzt/20080218/p1  
+http://www.tafworks.com/2009/12/cpanaesrijndael.html  
+http://d.hatena.ne.jp/ragtarou/20080121  
+http://www.otsune.com/bsd/tips/usercpaninstall.html
+
+-mechanize,scraper  
+http://e8y.net/mag/007-www-mechanize/  
+http://e8y.net/mag/013-web-scraper/</summary><category term="otherman"></category></entry><entry><title>iPhone対応</title><link href="/iphone%e5%af%be%e5%bf%9c.html" rel="alternate"></link><updated>2010-02-13T23:56:00+01:00</updated><author><name>admin</name></author><id>tag:,2010-02-13:iphone%e5%af%be%e5%bf%9c.html</id><summary type="html">&lt;p&gt;１，２分くらいでできた&lt;/p&gt;
+&lt;p&gt;かんたんすぎてくやしい！&lt;/p&gt;
+&lt;p&gt;参考:http://mantiddesign.com/archives/4367&lt;/p&gt;</summary><category term="wordpress"></category></entry><entry><title>twitter連携</title><link href="/twitter%e9%80%a3%e6%90%ba-2.html" rel="alternate"></link><updated>2010-02-13T23:01:00+01:00</updated><author><name>admin</name></author><id>tag:,2010-02-13:twitter%e9%80%a3%e6%90%ba-2.html</id><summary type="html">&lt;p&gt;とりあえずプラグイン入れてみた&lt;/p&gt;
+&lt;p&gt;下記のサイトのとおりにやればとりあえずおｋ&lt;/p&gt;
+&lt;p&gt;http://www.ryuzee.com/contents/blog/2760&lt;/p&gt;</summary><category term="wordpress"></category></entry><entry><title>ｶｶっとﾊﾞｯｸｱｯﾎﾟ</title><link href="/%ef%bd%b6%ef%bd%b6%e3%81%a3%e3%81%a8%ef%be%8a%ef%be%9e%ef%bd%af%ef%bd%b8%ef%bd%b1%ef%bd%af%ef%be%8e%ef%be%9f.html" rel="alternate"></link><updated>2010-01-04T12:24:00+01:00</updated><author><name>admin</name></author><id>tag:,2010-01-04:%ef%bd%b6%ef%bd%b6%e3%81%a3%e3%81%a8%ef%be%8a%ef%be%9e%ef%bd%af%ef%bd%b8%ef%bd%b1%ef%bd%af%ef%be%8e%ef%be%9f.html</id><summary type="html">&lt;p&gt;lifehackerに載ってたのでとりあえずアカウントとうろくしてみました。&lt;br /&gt;
+今月いっぱいは無料らしいよ！&lt;/p&gt;
+&lt;p&gt;・Gmail・Twitterからブログまで一括バックアップできる「Backupify」が無料キャンペーン実施中&lt;br /&gt;
+&lt;a href="http://www.lifehacker.jp/2009/12/gmailtwitterbackupify1.html"&gt;http://www.lifehacker.jp/2009/12/gmailtwitterbackupify1.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;とりあえず、「今すぐバックアップ！」っぽいボタンが見あたらないので&lt;br /&gt;
+登録だけしてバックアップされるのを待ってみます。&lt;br /&gt;
+うまく行ったら追記でご報告。&lt;/p&gt;</summary></entry><entry><title>さくら+MT+MailPackでメールで投稿出来るブログづくり</title><link href="/%e3%81%95%e3%81%8f%e3%82%89mtmailpack%e3%81%a7%e3%83%a1%e3%83%bc%e3%83%ab%e3%81%a7%e6%8a%95%e7%a8%bf%e5%87%ba%e6%9d%a5%e3%82%8b%e3%83%96%e3%83%ad%e3%82%b0%e3%81%a5%e3%81%8f%e3%82%8a.html" rel="alternate"></link><updated>2009-11-27T00:07:00+01:00</updated><author><name>admin</name></author><id>tag:,2009-11-27:%e3%81%95%e3%81%8f%e3%82%89mtmailpack%e3%81%a7%e3%83%a1%e3%83%bc%e3%83%ab%e3%81%a7%e6%8a%95%e7%a8%bf%e5%87%ba%e6%9d%a5%e3%82%8b%e3%83%96%e3%83%ad%e3%82%b0%e3%81%a5%e3%81%8f%e3%82%8a.html</id><summary type="html">&lt;p&gt;色々いじってやっとできるようになったのでまとめを。。。&lt;br /&gt;
+つかったもの：&lt;br /&gt;
+・さくらのレンタルサーバ&lt;br /&gt;
+・MobableType&lt;br /&gt;
+・&lt;a href="http://www.skyarc.co.jp/engineerblog/entry/4022.html"&gt;MailPack&lt;/a&gt;&lt;/p&gt;
+&lt;!--more--&gt;
+
+&lt;p&gt;とりあえずさくらでMobableTypeが正常に動いてるのを前提とします。&lt;br /&gt;
+&lt;strong&gt;1.MailPackのインストール&lt;/strong&gt;&lt;br /&gt;
+公式サイト通りにインストール。なんなく入る&lt;br /&gt;
+&lt;a href="http://www.skyarc.co.jp/engineerblog/entry/4022.html"&gt;http://www.skyarc.co.jp/engineerblog/entry/4022.html&lt;/a&gt;&lt;br /&gt;
+run-periodic-taskの設定はあとでやるのでここでは無視。&lt;br /&gt;
+&lt;strong&gt;2.さくらでブログ投稿専用のメールアドレスを作成・設定&lt;/strong&gt;&lt;br /&gt;
+さくらのコントロールパネルから新しいメールアドレスをつくります。&lt;br /&gt;
+そしてMailPackの設定でそのメールアドレスを設定します。&lt;br /&gt;
+&lt;strong&gt;3.メールボックスとrun-periodic-taskの設定&lt;/strong&gt;&lt;br /&gt;
+ここで、メールを受けたら自動的に再構築をやってくれる設定をします。  &lt;/p&gt;
+&lt;p&gt;まずはメールが来たらrun-periodic-taskを実行してくれるシェルスクリプトを用意。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[ca5@xxxx \~/MailBox/アカウント名]\$ cat maildrop.sh&lt;br /&gt;
+ #!/usr/local/bin/bash&lt;br /&gt;
+ BASEDIR=ここにmt.cgiが入ったディレクトリをフルパスで&lt;br /&gt;
+ export PERL_BADLANG=0&lt;br /&gt;
+ echo "[`date`]"&lt;br /&gt;
+ cd \$BASEDIR&lt;br /&gt;
+ sleep 10&lt;br /&gt;
+ ./tools/run-periodic-tasks&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;.mailfilterでさっきのシェルスクリプトを起動する設定を&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[ca5@www684 \~/MailBox/アカウント名]\$ cat .mailfilter&lt;br /&gt;
+ cc "| ./maildrop.sh &gt;&gt;\~/maildrop.log 2&gt;&amp;amp;1"&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;これでメール投稿+再構築を自動でやってくれます。  &lt;/p&gt;
+&lt;p&gt;ただ、、、たまにrun-periodic-taskでメールを取りこぼすことがあるようなので、&lt;br /&gt;
+run-periodic-taskはcronにも仕込んどいた方がいいかもしれないですね。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;*/20 * * * * cd mtのパス;./tools/run-periodic-tasks &gt;
+\~/crontab.log 2&gt;&amp;amp;1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;とりあえずぼくは20分おきに設定しときました。&lt;br /&gt;
+ちなみにこんなめんどくさいことしなくても、&lt;br /&gt;
+このサービス使うと10秒くらいでメールで投稿出来るブログを作成出来ます。  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://jp.techcrunch.com/archives/20080628posterous-beats-tumblr-in-simplicity/"&gt;http://jp.techcrunch.com/archives/20080628posterous-beats-tumblr-in-simplicity/&lt;/a&gt;&lt;br /&gt;
+ま、自分でやったことにきっと意味がある（！？）&lt;/p&gt;</summary></entry><entry><title>EasyPIM for JPmobile</title><link href="/easypim-for-jpmobile.html" rel="alternate"></link><updated>2008-11-16T00:17:00+01:00</updated><author><name>admin</name></author><id>tag:,2008-11-16:easypim-for-jpmobile.html</id><summary type="html">&lt;div&gt;
+
+コレ気になる。。
+
+&lt;/div&gt;
+
+&lt;p&gt;http://pim.easy4apps.com/&lt;br /&gt;
+あとでつかってみよ&lt;/p&gt;</summary></entry><entry><title>wikiを入れてみた</title><link href="/wiki%e3%82%92%e5%85%a5%e3%82%8c%e3%81%a6%e3%81%bf%e3%81%9f.html" rel="alternate"></link><updated>2008-11-15T07:11:00+01:00</updated><author><name>admin</name></author><id>tag:,2008-11-15:wiki%e3%82%92%e5%85%a5%e3%82%8c%e3%81%a6%e3%81%bf%e3%81%9f.html</id><summary type="html">&lt;p&gt;&lt;a href="http://ca5z.info/wiki/index.php"&gt;http://ca5z.info/wiki/index.php&lt;/a&gt;&lt;/p&gt;
+&lt;div&gt;
+
+さくらならとりあえずパッケージを解凍するだけであっさりつかえるみたいですね。
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+なんかメモまとまったら書いて行こう
+
+&lt;/div&gt;</summary></entry><entry><title>毎日のアレ</title><link href="/%e6%af%8e%e6%97%a5%e3%81%ae%e3%82%a2%e3%83%ac.html" rel="alternate"></link><updated>2008-07-21T21:28:00+02:00</updated><author><name>admin</name></author><id>tag:,2008-07-21:%e6%af%8e%e6%97%a5%e3%81%ae%e3%82%a2%e3%83%ac.html</id><summary type="html">&lt;p&gt;&lt;a href="http://gigazine.net/index.php?/news/comments/20080721_mdn_mainichi_jp/"&gt;http://gigazine.net/index.php?/news/comments/20080721_mdn_mainichi_jp/&lt;br /&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;div&gt;
+
+gigazineてすげーな
+
+&lt;/div&gt;</summary></entry><entry><title>AptanaでAdobeAIR</title><link href="/aptana%e3%81%a7adobeair.html" rel="alternate"></link><updated>2008-07-01T22:31:00+02:00</updated><author><name>admin</name></author><id>tag:,2008-07-01:aptana%e3%81%a7adobeair.html</id><summary type="html">&lt;div&gt;
+
+この辺参考に実験
+
+&lt;/div&gt;
+
+&lt;p&gt;http://www.atmarkit.co.jp/fwcr/rensai/freeauthoring01/freeauthoring01_1.html&lt;/p&gt;
+&lt;div&gt;
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+http://www.excite.co.jp/News/society/20080701164402/Kyodo\_OT\_CO2008070101000727.html
+&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+http://d.hatena.ne.jp/drillhands/20070815/1187160005
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+http://libertatem.org/2008/05/adobe-air.html
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+Flex3.0のSDKはこっち
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+http://www.adobe.com/products/flex/flexdownloads/index.html\#sdk
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+.air にするにはここも参考になりそう
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+http://kiyoeri.gotdns.org/joomla/content/view/76/2/
+
+&lt;/div&gt;</summary></entry><entry><title>H.264対応FFmpeg をUnixで</title><link href="/h-264%e5%af%be%e5%bf%9cffmpeg-%e3%82%92unix%e3%81%a7.html" rel="alternate"></link><updated>2008-06-26T23:33:00+02:00</updated><author><name>admin</name></author><id>tag:,2008-06-26:h-264%e5%af%be%e5%bf%9cffmpeg-%e3%82%92unix%e3%81%a7.html</id><summary type="html">&lt;p&gt;http://www.ueryu.com/2007/07/01/h264対応ffmpeg-for-ubuntu-linux-feisty/&lt;/p&gt;</summary></entry><entry><title>MagpieRSS を使ってみようと・・・</title><link href="/magpierss-%e3%82%92%e4%bd%bf%e3%81%a3%e3%81%a6%e3%81%bf%e3%82%88%e3%81%86%e3%81%a8%e3%83%bb%e3%83%bb%e3%83%bb.html" rel="alternate"></link><updated>2008-06-24T23:03:00+02:00</updated><author><name>admin</name></author><id>tag:,2008-06-24:magpierss-%e3%82%92%e4%bd%bf%e3%81%a3%e3%81%a6%e3%81%bf%e3%82%88%e3%81%86%e3%81%a8%e3%83%bb%e3%83%bb%e3%83%bb.html</id><summary type="html">&lt;div&gt;
+
+PHPの練習がてら、niconicoのビデオポッドキャスト化をやってみようと思って
+
+&lt;/div&gt;
+
+&lt;p&gt;&lt;a href="http://www.hyuki.com/yukiwiki/wiki.cgi?MagpieRSS"&gt;http://www.hyuki.com/yukiwiki/wiki.cgi?MagpieRSS&lt;br /&gt;
+&lt;/a&gt;MagpieRSSとやらをさくらでためしてみました。&lt;/p&gt;
+&lt;div&gt;
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+とりあえずここのコピペだけでこのブログのRSS取得が簡単にできて
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+すげーと思っていたんですが（日本語は化けるが途中のコメントに解決策があるっぽい
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+さくらから肝心のニコニコのRSSが取れない。。
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+なんでだろうと思って、そもそもxmlのDLが可能か試してみたら・・・
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+&lt;/div&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;\$ fetch http://ca5z.info/blog/rss.xml&lt;br /&gt;
+rss.xml                                       100% of   23 kB   11
+MBps&lt;/p&gt;
+&lt;p&gt;\$ fetch http://www.nicovideo.jp/mylist/7270893?rss=2.0&lt;br /&gt;
+fetch: http://www.nicovideo.jp/mylist/7270893?rss=2.0: Forbidden&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div&gt;
+
+&lt;div&gt;
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+うわー　アク禁くせー　orz
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;</summary></entry><entry><title>Plaggerインスコめも</title><link href="/plagger%e3%82%a4%e3%83%b3%e3%82%b9%e3%82%b3%e3%82%81%e3%82%82.html" rel="alternate"></link><updated>2008-06-22T02:03:00+02:00</updated><author><name>admin</name></author><id>tag:,2008-06-22:plagger%e3%82%a4%e3%83%b3%e3%82%b9%e3%82%b3%e3%82%81%e3%82%82.html</id><summary type="html">&lt;p&gt;&lt;a href="http://isoya.at.webry.info/200611/article_26.html"&gt;http://isoya.at.webry.info/200611/article_26.html&lt;/a&gt;&lt;/p&gt;
+&lt;div&gt;
+
+とりあえずこれの　test Plagger までおわた
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+CPAN初期設定はこの辺を
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+&lt;http://iandeth.dyndns.org/mt/ian/archives/000623.html&gt;  
+&lt;http://www.otsune.com/bsd/tips/usercpaninstall.html&gt;
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+とりあえずわけわからんので
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+まるぱくりでやってみるか。。
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+なんかエラーが気になるんだよな。。
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+&lt;div&gt;
+
+All tests successful.
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+Files=3, Tests=23,  1 wallclock secs ( 0.16 cusr +  0.11 csys =  0.27
+CPU)
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+  /usr/bin/make test -- OK
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+Running make for M/MI/MIYAGAWA/Plagger-0.7.17.tar.gz
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+  Is already unwrapped into directory
+/home/ca5/.cpan/build/Plagger-0.7.17
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+  CPAN.pm: Going to build M/MI/MIYAGAWA/Plagger-0.7.17.tar.gz
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+Couldn't chdir /home/ca5/.cpan/build/Plagger-0.7.17: No such file or
+directory at /usr/local/lib/perl5/5.8.8/CPAN.pm line 2137
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;</summary></entry><entry><title>Twitter Board ウィジェット</title><link href="/twitter-board-%e3%82%a6%e3%82%a3%e3%82%b8%e3%82%a7%e3%83%83%e3%83%88.html" rel="alternate"></link><updated>2008-06-16T00:54:00+02:00</updated><author><name>admin</name></author><id>tag:,2008-06-16:twitter-board-%e3%82%a6%e3%82%a3%e3%82%b8%e3%82%a7%e3%83%83%e3%83%88.html</id><summary type="html">&lt;p&gt;&lt;a href="http://modelrr.net/taksware/?p=14"&gt;http://modelrr.net/taksware/?p=14&lt;/a&gt;&lt;/p&gt;
+&lt;div&gt;
+
+これはなかなか便利
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+バックグラウンドで常時メッセージを取得させておけるところがいいねぇ
+
+&lt;/div&gt;</summary></entry><entry><title>彼女に見切られるNGポイント４</title><link href="/%e5%bd%bc%e5%a5%b3%e3%81%ab%e8%a6%8b%e5%88%87%e3%82%89%e3%82%8c%e3%82%8bng%e3%83%9d%e3%82%a4%e3%83%b3%e3%83%88%ef%bc%94.html" rel="alternate"></link><updated>2008-05-13T00:20:00+02:00</updated><author><name>admin</name></author><id>tag:,2008-05-13:%e5%bd%bc%e5%a5%b3%e3%81%ab%e8%a6%8b%e5%88%87%e3%82%89%e3%82%8c%e3%82%8bng%e3%83%9d%e3%82%a4%e3%83%b3%e3%83%88%ef%bc%94.html</id><summary type="html">&lt;p&gt;これ、ドキッとしたのはおれだけじゃないはずだ&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://mainichi.jp/life/love/news/20080507alb00m070001000c.html"&gt;http://mainichi.jp/life/love/news/20080507alb00m070001000c.html&lt;/a&gt;&lt;/p&gt;</summary></entry><entry><title>Picasaつかってみた</title><link href="/picasa%e3%81%a4%e3%81%8b%e3%81%a3%e3%81%a6%e3%81%bf%e3%81%9f.html" rel="alternate"></link><updated>2008-05-11T18:54:00+02:00</updated><author><name>admin</name></author><id>tag:,2008-05-11:picasa%e3%81%a4%e3%81%8b%e3%81%a3%e3%81%a6%e3%81%bf%e3%81%9f.html</id><summary type="html">&lt;hr /&gt;
+&lt;p&gt;&lt;a href="http://picasaweb.google.com/ca54makske/vHfabF"&gt;&lt;img alt="" src="http://lh5.ggpht.com/ca54makske/SCag9HmnbCE/AAAAAAAAA_0/p3JMjMUH5vU/s160-c/vHfabF.jpg" /&gt;&lt;/a&gt;
+  &lt;a href="http://picasaweb.google.com/ca54makske/vHfabF"&gt;くいもん&lt;/a&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;まともなデジカメ持ってないけど、ケータイの写真をうpしてみました&lt;br /&gt;
+&lt;a href="http://picasaweb.google.com/ca54makske/"&gt;http://picasaweb.google.com/ca54makske/&lt;br /&gt;
+&lt;/a&gt;&lt;br /&gt;
+Windows版ピカサとウェブ版との連携が便利すぎる&lt;br /&gt;
+写真の管理も楽で、しかも軽くてよい感じです&lt;/p&gt;</summary></entry><entry><title>ダイナミックパブリシングあきらめた</title><link href="/%e3%83%80%e3%82%a4%e3%83%8a%e3%83%9f%e3%83%83%e3%82%af%e3%83%91%e3%83%96%e3%83%aa%e3%82%b7%e3%83%b3%e3%82%b0%e3%81%82%e3%81%8d%e3%82%89%e3%82%81%e3%81%9f.html" rel="alternate"></link><updated>2008-03-28T18:23:00+01:00</updated><author><name>admin</name></author><id>tag:,2008-03-28:%e3%83%80%e3%82%a4%e3%83%8a%e3%83%9f%e3%83%83%e3%82%af%e3%83%91%e3%83%96%e3%83%aa%e3%82%b7%e3%83%b3%e3%82%b0%e3%81%82%e3%81%8d%e3%82%89%e3%82%81%e3%81%9f.html</id><summary type="html">&lt;p&gt;さくら鯖でダイナミックパブリシング全然うまくいかないのであきらめました&lt;/p&gt;
+&lt;p&gt;以下やったことメモ&lt;/p&gt;
+&lt;!--more--&gt;
+
+&lt;p&gt;1.ググったら散々出てくる、噂の.htaccessの編集&lt;br /&gt;
+http://www.google.co.jp/search?q=sakura+movable+%E3%83%80%E3%82%A4%E3%83%8A%E3%83%9F%E3%83%83%E3%82%AF&amp;amp;hl=ja&amp;amp;lr=lang_ja&amp;amp;safe=off&amp;amp;client=firefox-a&amp;amp;rls=org.mozilla:ja-JP-mac:official&amp;amp;hs=Xjp&amp;amp;start=10&amp;amp;sa=N&lt;/p&gt;
+&lt;p&gt;2. *.php *.pm *.pl の全パーミッションを755 へ&lt;br /&gt;
+mtを置いてるディレクトリ下で&lt;br /&gt;
+"find ./ -name *.php -exec chmod 755 {} ¥;"&lt;br /&gt;
+"find ./ -name *.pm -exec chmod 755 {} ¥;"&lt;br /&gt;
+"find ./ -name *.pl -exec chmod 755 {} ¥;"&lt;br /&gt;
+を実行&lt;/p&gt;
+&lt;p&gt;3. 再構築&lt;/p&gt;
+&lt;p&gt;ざっと見たところディレクトリのパーミッションも間違ってなさそうなんで&lt;br /&gt;
+もうお手上げ　＼(\^o\^)／&lt;/p&gt;</summary></entry><entry><title>ダイナミックなんちゃら</title><link href="/%e3%83%80%e3%82%a4%e3%83%8a%e3%83%9f%e3%83%83%e3%82%af%e3%81%aa%e3%82%93%e3%81%a1%e3%82%83%e3%82%89.html" rel="alternate"></link><updated>2008-03-24T01:03:00+01:00</updated><author><name>admin</name></author><id>tag:,2008-03-24:%e3%83%80%e3%82%a4%e3%83%8a%e3%83%9f%e3%83%83%e3%82%af%e3%81%aa%e3%82%93%e3%81%a1%e3%82%83%e3%82%89.html</id><summary type="html">&lt;p&gt;動的なページにしてみるてすと&lt;br /&gt;
+umakuikan&lt;br /&gt;
+umakuikando&lt;/p&gt;</summary></entry><entry><title>とりあえずインスコ完了</title><link href="/%e3%81%a8%e3%82%8a%e3%81%82%e3%81%88%e3%81%9a%e3%82%a4%e3%83%b3%e3%82%b9%e3%82%b3%e5%ae%8c%e4%ba%86.html" rel="alternate"></link><updated>2008-03-23T00:19:00+01:00</updated><author><name>admin</name></author><id>tag:,2008-03-23:%e3%81%a8%e3%82%8a%e3%81%82%e3%81%88%e3%81%9a%e3%82%a4%e3%83%b3%e3%82%b9%e3%82%b3%e5%ae%8c%e4%ba%86.html</id><summary type="html">&lt;p&gt;全部デフォルｔ－&lt;br /&gt;
+MT4.1になってインスコや設定もずいぶん楽になったもんだぜ&lt;/p&gt;</summary></entry><entry><title>Movable Type 4 へようこそ！</title><link href="/movable-type-4-%e3%81%b8%e3%82%88%e3%81%86%e3%81%93%e3%81%9d%ef%bc%81.html" rel="alternate"></link><updated>2008-03-23T00:15:00+01:00</updated><author><name>admin</name></author><id>tag:,2008-03-23:movable-type-4-%e3%81%b8%e3%82%88%e3%81%86%e3%81%93%e3%81%9d%ef%bc%81.html</id><summary type="html">&lt;p&gt;このブログ記事は、Movable Type
+4のインストール完了時に、システムによって自動的に作成されたブログ記事です。
+新しくなったMT4の管理画面で、早速ブログを更新してみましょう。&lt;/p&gt;</summary></entry></feed>

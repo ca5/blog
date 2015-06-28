@@ -1,0 +1,1619 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>ca5blog</title><link href="/" rel="alternate"></link><link href="/feeds/music.atom.xml" rel="self"></link><id>/</id><updated>2015-06-20T01:40:00+02:00</updated><entry><title>いまさらmaxのパッチを公開しました</title><link href="/maxpatch.html" rel="alternate"></link><updated>2015-06-20T01:40:00+02:00</updated><author><name>admin</name></author><id>tag:,2015-06-20:maxpatch.html</id><summary type="html">&lt;p&gt;今更ですけど、ぼくが3年くらいライブで使ってるパッチを公開することにしました。&lt;br /&gt;
+Max5 + &lt;a href="http://cnmat.berkeley.edu/patch/4029"&gt;OSC-Route&lt;/a&gt;
+で動かすことを前提に作ってます。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/ca5/slice8"&gt;https://github.com/ca5/slice8&lt;br /&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;気が向いたら使い方まとめたりするかもしれないです。&lt;/p&gt;</summary><category term="max/msp"></category></entry><entry><title>【2015春M3】4/26にM3で新曲頒布します【第二展示場1F お-30b】</title><link href="/m32015426.html" rel="alternate"></link><updated>2015-04-15T21:00:00+02:00</updated><author><name>admin</name></author><id>tag:,2015-04-15:m32015426.html</id><summary type="html">&lt;p&gt;2015/4/26のM3で新曲を頒布します！&lt;br /&gt;
+今回は全員LSDJで作ったアルバムです!&lt;/p&gt;
+&lt;p&gt;チップチューンだけど全員必ずどこかにamenサンプルを使うという縛りありなアルバムなので、&lt;br /&gt;
+どこかで必ずあのドラムサンプルのドカドカっとした音が入る&lt;br /&gt;
+NKRNらしいアルバムになったと思います。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;--ブース情報--&lt;br /&gt;
+ 4/26(日) &lt;a href="http://www.m3net.jp/"&gt;M3&lt;/a&gt;&lt;br /&gt;
+ 東京流通センター 第二展示場1F お-30b&lt;br /&gt;
+ サークル名: NKRN&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;自分の曲&lt;br /&gt;
+[soundcloud url="https://api.soundcloud.com/tracks/200768211"
+params="color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"
+width="100%" height="166" iframe="true" /]&lt;/p&gt;
+&lt;p&gt;自分含めみんなの曲メドレー  &lt;/p&gt;
+&lt;iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1156154560/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless&gt;[Gamen
+Boy by various
+artists](http://nkrn.bandcamp.com/album/gamen-boy)&lt;/iframe&gt;
+
+&lt;p&gt;4曲入りのEP１つ500円です&lt;br /&gt;
+よろしくおねがいしますー&lt;/p&gt;</summary><category term="chiptune"></category><category term="LSDJ"></category><category term="M3"></category><category term="NKRN"></category></entry><entry><title>【リミックス】ヘンデル 「水上の音楽」</title><link href="/water-music.html" rel="alternate"></link><updated>2015-03-28T22:00:00+01:00</updated><author><name>admin</name></author><id>tag:,2015-03-28:water-music.html</id><summary type="html">&lt;p&gt;ヘンデルの「水上の音楽」をチップブレイクにしてみました。&lt;br /&gt;
+芸能人格付けチェックのBGMなどに使ってるあの曲です。&lt;br /&gt;
+この間のアザマンショーの最後にかけてました。&lt;/p&gt;
+&lt;p&gt;[soundcloud url="https://api.soundcloud.com/tracks/196975219"
+params="auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;visual=true"
+width="100%" height="450" iframe="true" /]&lt;/p&gt;
+&lt;p&gt;個人的にはクラシックの中でも中世くらいの曲とチップチューンは相性がすごくいいと思ってます。&lt;br /&gt;
+音数がそんなに多くないとか、共通点があるような気がする。&lt;/p&gt;</summary><category term="breakcore"></category><category term="chipbreak"></category><category term="chiptune"></category><category term="remix"></category></entry><entry><title>【再現音源付き】アザマンショー11 お疲れ様でした #CHIPorDIE</title><link href="/after-otmn11.html" rel="alternate"></link><updated>2015-03-17T22:00:00+01:00</updated><author><name>admin</name></author><id>tag:,2015-03-17:after-otmn11.html</id><summary type="html">&lt;p&gt;アザマンショー11 お疲れ様でした！&lt;br /&gt;
+というわけで例によって再現音源つくったので貼っておきます&lt;/p&gt;
+&lt;iframe width="660" height="180" src="https://www.mixcloud.com/widget/iframe/?embed_type=widget_standard&amp;amp;embed_uuid=29cf3992-dcbd-43a9-9247-e6f83ded09c0&amp;amp;feed=https%3A%2F%2Fwww.mixcloud.com%2Fca54makske%2Fca5the-otherman-show-xi-chip-or-die-%2F&amp;amp;hide_cover=1&amp;amp;hide_tracklist=1&amp;amp;replace=0" frameborder="0"&gt;&lt;/iframe&gt;
+
+&lt;div style="clear: both; height: 3px; width: 652px;"&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;&lt;a href="https://www.mixcloud.com/ca54makske/ca5the-otherman-show-xi-chip-or-die-/?utm_source=widget&amp;amp;utm_medium=web&amp;amp;utm_campaign=base_links&amp;amp;utm_term=resource_link"&gt;Ca5@The Otherman Show XI -CHIP or
+DIE-&lt;/a&gt;&lt;span&gt;
+by&lt;/span&gt;&lt;a href="https://www.mixcloud.com/ca54makske/?utm_source=widget&amp;amp;utm_medium=web&amp;amp;utm_campaign=base_links&amp;amp;utm_term=profile_link"&gt;Ca5&lt;/a&gt;&lt;span&gt;
+on&lt;/span&gt;&lt;a href="https://www.mixcloud.com/?utm_source=widget&amp;amp;utm_medium=web&amp;amp;utm_campaign=base_links&amp;amp;utm_term=homepage_link"&gt;Mixcloud&lt;/a&gt;&lt;/p&gt;
+&lt;div style="clear: both; height: 3px; width: 652px;"&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;今回ライブでやったことを一応文字にすると&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ringでライブ音源起動&lt;/li&gt;
+&lt;li&gt;Kinectでエフェクター操作&lt;/li&gt;
+&lt;li&gt;iPadでいつものドラムスライス&lt;/li&gt;
+&lt;li&gt;自作コントローラでエフェクター操作&lt;/li&gt;
+&lt;li&gt;ちょっとだけ機材の紹介&lt;/li&gt;
+&lt;li&gt;一部の曲をGB実機にてプレイ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;ってところなんですが、個人的にはやることも荷物も多すぎてちょっとつかれました。  &lt;/p&gt;
+&lt;p&gt;次ライブするときはもっと機材減らしたいです。でもGBはもうちょっとうまく使いたい。&lt;/p&gt;</summary></entry><entry><title>【告知】3/7に高円寺4thでライブします</title><link href="/robolabo.html" rel="alternate"></link><updated>2015-02-19T00:00:00+01:00</updated><author><name>admin</name></author><id>tag:,2015-02-19:robolabo.html</id><summary type="html">&lt;p&gt;&lt;a href="http://chipordie.otherman-records.com"&gt;アザマンショー&lt;/a&gt;の丁度1週間前にあたる3/7(土)にもライブ出演させていただけることになりました！&lt;/p&gt;
+&lt;p&gt;
+&lt;center&gt;
+[![](https://farm8.staticflickr.com/7325/16571283765_e33a0c8499_o.jpg)](http://www.flickr.com/photos/46200029@N06/16571283765/)
+
+&lt;/center&gt;
+&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Robo Labo&lt;/p&gt;
+&lt;p&gt;2015/3/7 @kouenji 4th&lt;br /&gt;
+ 18:00 open&lt;br /&gt;
+ 18:30 start&lt;br /&gt;
+ 2000yen/1D&lt;/p&gt;
+&lt;p&gt;-Guest LIVE-&lt;br /&gt;
+ Quarta330&lt;/p&gt;
+&lt;p&gt;-LIVE-&lt;br /&gt;
+ suesett&lt;br /&gt;
+ tozo&lt;br /&gt;
+ 合法都市&lt;br /&gt;
+ ureyu&lt;br /&gt;
+ Ca5&lt;/p&gt;
+&lt;p&gt;-DJ-&lt;br /&gt;
+ SEXYYY&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;是非遊びに来てください！&lt;/p&gt;</summary><category term="chiptune"></category></entry><entry><title>logbarのRingでkaosspadのコントロール</title><link href="/logbar-ring-kaosspad.html" rel="alternate"></link><updated>2015-02-06T00:34:00+01:00</updated><author><name>admin</name></author><id>tag:,2015-02-06:logbar-ring-kaosspad.html</id><summary type="html">&lt;p&gt;&lt;a href="http://logbar.jp/ring/ja/developer/"&gt;logbarのRing&lt;/a&gt;面白いんですが、&lt;br /&gt;
+まだSDKとかがなくて正直やれることが少ないかなといった印象です。&lt;/p&gt;
+&lt;p&gt;SDKがなくても最初から、  &lt;/p&gt;
+&lt;p&gt;1ジェスチャーにつき1httpリクエストを投げられる機能が標準で付いているので&lt;br /&gt;
+ある程度色んな物を操作できるんですが、  &lt;/p&gt;
+&lt;p&gt;エフェクター操作をこれでやろうと思うとどうしてもワンテンポずれた挙動になってしまう。。。&lt;/p&gt;
+&lt;p&gt;・・・というわけで、ちょっと別な操作法を考えてみました。  &lt;/p&gt;
+&lt;iframe width="420" height="315" src="https://www.youtube.com/embed/RIszxzo9Zco" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;ジェスチャー入力後、指の上下でエフェクトON/OFFを切り替えています。  &lt;/p&gt;
+&lt;p&gt;これはRing標準の音量コントロールを無理やり使ってこんな操作を実現しています。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;iPhoneで一定の音を出力(今回はtonetableを使いました)&lt;/li&gt;
+&lt;li&gt;1.の音量をRingで変化させてmax/mspへ入力&lt;/li&gt;
+&lt;li&gt;max/msp側で音量に応じたmidiメッセージをkaosspadへ送る&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;かなりシンプルなmax/mspのパッチでこんな操作が一応実現できます。&lt;/p&gt;
+&lt;p&gt;ただ欲を言うとやっぱりy軸だけじゃなくてx軸も取りたい・・・・  &lt;/p&gt;
+&lt;p&gt;というわけで、Ringの開発担当の方、SDKのリリース是非是非よろしくお願いしまーす&lt;/p&gt;</summary><category term="max/msp"></category><category term="Ring"></category></entry><entry><title>The Otherman Radio Show お疲れさまでした</title><link href="/the-otherman-radio-show-2.html" rel="alternate"></link><updated>2015-02-02T00:11:00+01:00</updated><author><name>admin</name></author><id>tag:,2015-02-02:the-otherman-radio-show-2.html</id><summary type="html">&lt;p&gt;The Otherman Radio Showお疲れさまでした！&lt;/p&gt;
+&lt;p&gt;配信した宅録動画アップしておきましたので、見れなかった方も是非みてみてください！&lt;/p&gt;
+&lt;p&gt;動画:  &lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/pxfMYbWIgI8" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;音声のみ:  &lt;/p&gt;
+&lt;iframe width="660" height="180" src="https://www.mixcloud.com/widget/iframe/?feed=http%3A%2F%2Fwww.mixcloud.com%2Fca54makske%2Fca5the-otherman-radio-show%2F&amp;amp;embed_uuid=66e769d9-cc74-49c5-808d-e0171ac869c4&amp;amp;replace=0&amp;amp;hide_cover=1&amp;amp;embed_type=widget_standard&amp;amp;hide_tracklist=1" frameborder="0"&gt;&lt;/iframe&gt;
+
+&lt;div style="clear: both; height: 3px; width: 652px;"&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;&lt;a href="http://www.mixcloud.com/ca54makske/ca5the-otherman-radio-show/?utm_source=widget&amp;amp;amp;utm_medium=web&amp;amp;amp;utm_campaign=base_links&amp;amp;amp;utm_term=resource_link"&gt;Ca5@The Otherman Radio
+Show&lt;/a&gt;&lt;span&gt;
+by&lt;/span&gt;&lt;a href="http://www.mixcloud.com/ca54makske/?utm_source=widget&amp;amp;amp;utm_medium=web&amp;amp;amp;utm_campaign=base_links&amp;amp;amp;utm_term=profile_link"&gt;Ca5&lt;/a&gt;&lt;span&gt;
+on&lt;/span&gt;&lt;a href="http://www.mixcloud.com/?utm_source=widget&amp;amp;utm_medium=web&amp;amp;utm_campaign=base_links&amp;amp;utm_term=homepage_link"&gt;Mixcloud&lt;/a&gt;&lt;/p&gt;
+&lt;div style="clear: both; height: 3px; width: 652px;"&gt;
+
+&lt;/div&gt;</summary><category term="breakcore"></category><category term="chipbreak"></category><category term="chiptune"></category><category term="otherman"></category></entry><entry><title>【オンラインイベント】1/31, 2/1はThe Otherman Radio Show</title><link href="/the-otherman-radio-show.html" rel="alternate"></link><updated>2015-01-30T00:03:00+01:00</updated><author><name>admin</name></author><id>tag:,2015-01-30:the-otherman-radio-show.html</id><summary type="html">&lt;p&gt;1/31, 2/1に OthermanRecords 5周年を記念したオンラインイベント&lt;br /&gt;
+The Otherman Radio Showが開催されます&lt;br /&gt;
+もちろん僕も出ます！&lt;/p&gt;
+&lt;p&gt;公式サイト(=イベント会場):&lt;br /&gt;
+&lt;a href="http://5th.otherman-records.com/radio/"&gt;http://5th.otherman-records.com/radio/&lt;br /&gt;
+&lt;img alt="" src="http://5th.otherman-records.com/images/banner_radio.jpg" /&gt;  &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;タイムテーブルはこちら&lt;br /&gt;
+&lt;a href="http://5th.otherman-records.com/radio/timetable.html"&gt;http://5th.otherman-records.com/radio/timetable.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;僕の出番は 2/1(日) 19:15 - 19:45頃(JST)です&lt;br /&gt;
+家で一発撮りしたライブ動画で参戦します！&lt;/p&gt;
+&lt;p&gt;自分の出番の時は可能な限り&lt;a href="https://twitter.com/Ca5"&gt;Twitter&lt;/a&gt;でその時なってる曲の元リンクや  &lt;/p&gt;
+&lt;p&gt;ご要望があればライブの仕組みなんかをツイートしようと思ってるので、是非合わせてご覧ください！&lt;/p&gt;</summary></entry><entry><title>【新曲リリース】つくしEP6</title><link href="/tuxuep6.html" rel="alternate"></link><updated>2014-12-23T22:00:00+01:00</updated><author><name>admin</name></author><id>tag:,2014-12-23:tuxuep6.html</id><summary type="html">&lt;p&gt;つくしレコーズのつくしEP6へ参加させていただきました！&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://tuxurecords.tumblr.com/post/105860816816/ep6"&gt;http://tuxurecords.tumblr.com/post/105860816816/ep6&lt;br /&gt;
+&lt;/a&gt;&lt;br /&gt;
+EP全体の試聴版&lt;br /&gt;
+[soundcloud url="https://api.soundcloud.com/tracks/182603892"
+params="color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"
+width="100%" height="166" iframe="true" /]&lt;/p&gt;
+&lt;p&gt;自分の曲の試聴版&lt;br /&gt;
+[soundcloud url="https://api.soundcloud.com/tracks/182756465"
+params="color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"
+width="100%" height="166" iframe="true" /]&lt;/p&gt;
+&lt;p&gt;ネタもの盛りだくさんの楽しいEPです&lt;br /&gt;
+是非聞いてみてください！&lt;/p&gt;</summary><category term="breakcore"></category><category term="chipbreak"></category><category term="mashup"></category><category term="nerdcore"></category><category term="remix"></category></entry><entry><title>【FREE DOWNLOAD】DYSTOPIA【DEMO】</title><link href="/dystopia-demo.html" rel="alternate"></link><updated>2014-11-03T22:30:00+01:00</updated><author><name>admin</name></author><id>tag:,2014-11-03:dystopia-demo.html</id><summary type="html">&lt;p&gt;先日M3にお越しいただいた方、ありがとうございました&lt;/p&gt;
+&lt;p&gt;M3に来れなかった方も下記よURLよりDYSTOPIAのデモ版 DOWNLOADできます！&lt;br /&gt;
+DL数限定なのでお早めにどうぞ！&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://goo.gl/18FvvX"&gt;&lt;img alt="" src="http://chart.googleapis.com/chart?cht=qr&amp;amp;chs=100x100&amp;amp;choe=UTF-8&amp;amp;chld=H%7C0&amp;amp;chl=http://goo.gl/18FvvX" /&gt;http://goo.gl/18FvvX&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;※
+M3で配布したURLが大文字のIと小文字のlが混ざった大変わかりにくいものだったので、&lt;br /&gt;
+手打ちでURL試してうまくいかなかった方は上記のURLで再度お試しください&lt;/p&gt;</summary><category term="breakcore"></category><category term="chiptune"></category></entry><entry><title>【M3】2014/10/26 新譜Demo版配布予定です！</title><link href="/2014m3autumn.html" rel="alternate"></link><updated>2014-10-17T23:58:00+02:00</updated><author><name>admin</name></author><id>tag:,2014-10-17:2014m3autumn.html</id><summary type="html">&lt;p&gt;[soundcloud url="https://api.soundcloud.com/tracks/172576654"
+params="auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;visual=true"
+width="100%" height="450" iframe="true" /]&lt;br /&gt;
+現在作成中のアルバムのDEMO版を 今度のM3で配布予定です！&lt;/p&gt;
+&lt;p&gt;詳しくは 2014/10/26 &lt;a href="http://www.m3net.jp/" title="m3"&gt;M3&lt;/a&gt; NKRNブース(&lt;span
+style="color: #000000;"&gt;第一展示場 C 15b&lt;/span&gt;) まで！&lt;/p&gt;
+&lt;p&gt;アルバムのフルリリースは2015年のM3で行う予定です&lt;/p&gt;</summary><category term="breakcore"></category><category term="chipbreak"></category><category term="chiptune"></category><category term="M3"></category></entry><entry><title>【新曲リリース】dialup-surfer 【pitiful pip puppet】</title><link href="/dialup-surfer.html" rel="alternate"></link><updated>2014-10-03T00:16:00+02:00</updated><author><name>admin</name></author><id>tag:,2014-10-03:dialup-surfer.html</id><summary type="html">&lt;p&gt;pitiful pip puppet から新曲リリースしました！&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://pitifulpippuppet.jp/album/digital/download.html"&gt;DIGITAL&lt;/a&gt; - 9.
+dialup-surfer&lt;br /&gt;
+&lt;img alt="" src="http://pitifulpippuppet.jp/album/digital/cover400.gif" /&gt;&lt;/p&gt;
+&lt;p&gt;今回のアルバムは "デジタル"　がテーマということで、&lt;/p&gt;
+&lt;p&gt;90年代くらいの 「デジタルかアナログか？」みたいな過渡期の&lt;/p&gt;
+&lt;p&gt;ちょっと古臭い感じを出したいなーと思ってvaperwaveっぽい曲を目指したんですが、&lt;/p&gt;
+&lt;p&gt;イマイチそこまで古臭い感じを出せずじまいな感じの仕上がりになってしまいました。&lt;/p&gt;
+&lt;p&gt;とはいえ懐かしのモデム音とマッチしたゆったりした曲調になってくれたんじゃないかなと思ってます。&lt;/p&gt;
+&lt;p&gt;あと、ダイアルアップのモデムはアナログ回線用もあるだろ！ってツッコミはなしでお願いします。&lt;/p&gt;</summary><category term="chiptune"></category><category term="pitiful pip puppet"></category></entry><entry><title>WebMusicハッカソンに参加してきました #webmusicjp</title><link href="/webmusichackathon.html" rel="alternate"></link><updated>2014-09-19T00:11:00+02:00</updated><author><name>admin</name></author><id>tag:,2014-09-19:webmusichackathon.html</id><summary type="html">&lt;p&gt;先日、&lt;a href="https://twitter.com/fujikky"&gt;@fujikky&lt;/a&gt;と一緒にチームhimakanとして参加したWebMusicハッカソン
+#3で優勝しました！&lt;/p&gt;
+&lt;p&gt;関連記事:&lt;br /&gt;
+&lt;a href="http://miscfeeling.blogspot.jp/2014/09/web-music-3.html?m=1"&gt;http://miscfeeling.blogspot.jp/2014/09/web-music-3.html?m=1&lt;/a&gt;&lt;br /&gt;
+↑当時の発表の様子などが紹介されています&lt;/p&gt;
+&lt;h2&gt;作ったもの&lt;/h2&gt;
+&lt;p&gt;&lt;a href="http://himakan.github.io/facetracking-effector/"&gt;http://himakan.github.io/facetracking-effector/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;起動してカメラの入力を許可すると、頭の位置をトラッキングして音が変化していきます。&lt;br /&gt;
+(Chromeでしか動作確認してません)&lt;/p&gt;
+&lt;p&gt;MIDI機器がつながっている場合、プルダウンでデバイスを選択して連携させることができます。&lt;br /&gt;
+(MIDI CCのマッピングはKAOSSPAD3上での挙動を想定しています)&lt;/p&gt;
+&lt;h2&gt;WebAudio/Midiの良かったところいろいろ&lt;/h2&gt;
+&lt;p&gt;以下、このイベントを機にWebAudioAPIに触れてみて、&lt;br /&gt;
+思ったことを色々書いておこうと思います。&lt;/p&gt;
+&lt;h3&gt;1.簡単にAudioのin/out処理を書くことができる&lt;/h3&gt;
+&lt;p&gt;なんといっても手軽にAudioの入出力処理をかけるのは素晴らしいと思います。&lt;br /&gt;
+ファイルの形式とかビットレートとか何も考えずに&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;audio in/out&lt;/li&gt;
+&lt;li&gt;フィルタエフェクト&lt;/li&gt;
+&lt;li&gt;フーリエ変換&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;が簡単に行えます。&lt;/p&gt;
+&lt;p&gt;AudioContextを受け渡すことで簡単に連携できるところも使い勝手が良かったです。&lt;/p&gt;
+&lt;h3&gt;2.midi in/out&lt;/h3&gt;
+&lt;p&gt;ブラウザからmidi機器を操作できるのは実際動かしてみるとほんとに画期的です！&lt;/p&gt;
+&lt;p&gt;ただし、現状動くブラウザがかなり限られているようです。&lt;/p&gt;
+&lt;h3&gt;3.JavaScriptならではの良さ&lt;/h3&gt;
+&lt;p&gt;HTML + JavaScriptで作品を作ることができるので&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;作品の公開が簡単&lt;/li&gt;
+&lt;li&gt;開発環境 実質0円！&lt;/li&gt;
+&lt;li&gt;公開されているたくさんのライブラリと連携できる&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;・・・などなどというメリットがあります。&lt;/p&gt;
+&lt;p&gt;例えば今回頭の位置をトラッキングするのにこれを使いましたが&lt;br /&gt;
+&lt;a href="https://github.com/auduno/headtrackr/"&gt;https://github.com/auduno/headtrackr/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;JavaScriptって結構いろんなことができるんですね。。。&lt;br /&gt;
+これがあるならあんなにお金のかかるmax/mspとかもいらないような。。。。&lt;/p&gt;
+&lt;h2&gt;最後に&lt;/h2&gt;
+&lt;p&gt;WebAudio/Midi はまだまだ沢山可能性を秘めているなーと感じました。&lt;/p&gt;
+&lt;p&gt;そのうち、DAWやPCDJ系のソフトは全部クラウド上に置かれるようになって&lt;br /&gt;
+ブラウザが動くデバイスさえあれば  &lt;/p&gt;
+&lt;p&gt;どこでも作曲やライブなどのパフォーマンスができるような時代になるんだろうなと思います。&lt;/p&gt;</summary><category term="music"></category><category term="webaudio"></category><category term="webmidi"></category></entry><entry><title>Renoise+Luaでhelloworld</title><link href="/renoisehelloworld.html" rel="alternate"></link><updated>2014-08-06T02:07:00+02:00</updated><author><name>admin</name></author><id>tag:,2014-08-06:renoisehelloworld.html</id><summary type="html">&lt;p&gt;Renoiseの拡張機能をLuaで書けるらしいので始めてみました&lt;/p&gt;
+&lt;h2&gt;準備編&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;まずrenoise DEMO版をDL+インストール&lt;br /&gt;
+&lt;a href="http://www.renoise.com/"&gt;http://www.renoise.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;次にスターターパックの最新版をDLして解凍しておく  &lt;/p&gt;
+&lt;p&gt;(renoiseインストールした時も同じようなのが勝手に入るんですが、こっちのほうがサンプルが多かった)&lt;br /&gt;
+&lt;a href="https://code.google.com/p/xrnx/"&gt;https://code.google.com/p/xrnx/&lt;/a&gt;
+3.  起動オプションをつけてrenoiseを起動  &lt;/p&gt;
+&lt;p&gt;スターターパックのページにも書いてありますが、"--scripting-dev"オプションを付けて起動します。&lt;br /&gt;
+自分はmac版を使ってるので、Automaterで起動スクリプトを準備しました。&lt;br /&gt;
+&lt;a href="http://farm6.staticflickr.com/5566/14650385269_f064e32339_n.jpg" title="スクリーンショット 2014-08-06 1.16.50"&gt;&lt;img alt="スクリーンショット 2014-08-06
+1.16.50" src="http://farm6.staticflickr.com/5566/14650385269_f064e32339_n.jpg" title="スクリーンショット 2014-08-06 1.16.50" /&gt;&lt;/a&gt;&lt;br /&gt;
+Windowsの場合は多分ショートカット作って起動コマンドいじればいいはず
+4.  configの変更&lt;br /&gt;
+"Help" -&gt; "Show Preferences
+Folder..."で設定ファイルが入ったディレクトリを開き、&lt;br /&gt;
+config.xmlのShowScriptingDevelopmentToolsプロパティを&lt;br /&gt;
+false→trueに変更
+5.  Toolsを開く&lt;br /&gt;
+4.でconfigを変更するとメニューに"Tools"が増える&lt;br /&gt;
+Tools -&gt; &lt;span style="color: #000000;"&gt;"Scripting Console &amp;amp;
+Editor" で、ようやくスクリプトエディタを起動することが出来ます&lt;br /&gt;
+   &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;実行編&lt;/h2&gt;
+&lt;p&gt;スクリプトエディタで"File"-&gt;"New"&lt;br /&gt;
+新規にhelloworld.luaなんて名前でファイルを保存。&lt;/p&gt;
+&lt;p&gt;[bash]&lt;br /&gt;
+renoise.app():show_message("はろーわーるど")&lt;br /&gt;
+[/bash]&lt;/p&gt;
+&lt;p&gt;右下のexecuteをクリックすると&lt;br /&gt;
+&lt;a href="http://farm4.staticflickr.com/3904/14650675130_66e84b6eb9_n.jpg" title="スクリーンショット 2014-08-06 2.05.12"&gt;&lt;img alt="スクリーンショット 2014-08-06
+2.05.12" src="http://farm4.staticflickr.com/3904/14650675130_66e84b6eb9_n.jpg" title="スクリーンショット 2014-08-06 2.05.12" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;こんな風にダイアログボックスを出すことが出来ました。&lt;/p&gt;</summary><category term="Lua"></category><category term="renoise"></category></entry><entry><title>OthermanShow X お疲れ様でした!</title><link href="/othermanshow-x-was-done.html" rel="alternate"></link><updated>2014-08-05T01:08:00+02:00</updated><author><name>admin</name></author><id>tag:,2014-08-05:othermanshow-x-was-done.html</id><summary type="html">&lt;h3&gt;スタッフ的な感想&lt;/h3&gt;
+&lt;p&gt;あざまんしょーお疲れ様でした！&lt;br /&gt;
+今回はいつもに増して豪華なゲストの方をお呼び出来たおかげか、  &lt;/p&gt;
+&lt;p&gt;たくさんのお客さんがお越しくださって盛り上がった良いイベントになったと思ってます。&lt;/p&gt;
+&lt;p&gt;僕は大体ずっとキャッシャーにいたんですが、&lt;br /&gt;
+遠方から来てくださった方が結構いて驚きました。&lt;br /&gt;
+（京都や富山の方からお越しになった方もいました！）&lt;br /&gt;
+本当にみなさんありがとうございます！&lt;/p&gt;
+&lt;h3&gt;出演者的な感想&lt;/h3&gt;
+&lt;p&gt;で、今回新生ユニットふぷほとして参加したわけですが、&lt;br /&gt;
+ライブの機材・プログラム担当としては失敗でした。&lt;/p&gt;
+&lt;p&gt;人が多すぎる&lt;br /&gt;
+↓&lt;br /&gt;
+みんなが持ってるスマホの影響かwifiが混線&lt;br /&gt;
+↓&lt;br /&gt;
+touchOSC - Mac 間の通信が途切れる&lt;/p&gt;
+&lt;p&gt;・・・という状況になってしまって&lt;br /&gt;
+ライブ中何度か操作不能になってしまったんですよね。&lt;/p&gt;
+&lt;p&gt;touchOSCはUDPでoscのメッセージの送受信をするので、&lt;br /&gt;
+どうしてもパケットロスしてしまうことがあります。  &lt;/p&gt;
+&lt;p&gt;大きな会場でライブをする時は、下記のような対策をしたほうがいいかもしれないです。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;xyzポジション使うのを控える(パケット自体を減らす)&lt;/li&gt;
+&lt;li&gt;MIDIのpanicボタンみたいな機能を実装しておく(パケットロスした時の対応)&lt;/li&gt;
+&lt;li&gt;質の良いwifiルーターを導入(通信能力向上)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;あるいは、そもそもwifi使わずケーブルで接続してしまうとか。  &lt;/p&gt;
+&lt;p&gt;後から思い出したんですが、去年見た&lt;a href="http://idlemoments-jp.com/all/techdiff.html"&gt;TechDiff&lt;/a&gt;のライブはtouchOSCをケーブルでMacにつないで使ってました。&lt;/p&gt;</summary><category term="live"></category><category term="otherman"></category><category term="touchosc"></category></entry><entry><title>8/2あざまんショーに出ます</title><link href="/82%e3%81%82%e3%81%96%e3%81%be%e3%82%93%e3%82%b7%e3%83%a7%e3%83%bc%e3%81%ab%e5%87%ba%e3%81%be%e3%81%99.html" rel="alternate"></link><updated>2014-08-01T08:49:00+02:00</updated><author><name>admin</name></author><id>tag:,2014-08-01:82%e3%81%82%e3%81%96%e3%81%be%e3%82%93%e3%82%b7%e3%83%a7%e3%83%bc%e3%81%ab%e5%87%ba%e3%81%be%e3%81%99.html</id><summary type="html">&lt;p&gt;既にツイッターではうるさいくらい告知してますが、&lt;br /&gt;
+8/2(土) Otherman Show Xに出ます！&lt;/p&gt;
+&lt;p&gt;詳細:&lt;br /&gt;
+&lt;a href="http://ravesamurai.otherman-records.com/"&gt;http://ravesamurai.otherman-records.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今回はいつもと違って、Ca5単体名義でのライブはしません。&lt;br /&gt;
+新生ユニット「ふぷほ」としてでます。よろしくしてやってください&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.facebook.com/fupuho"&gt;ふぷほ 公式Facebookページ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;まだライブのイメージ映像とかもちゃんとしたのは無いんですが、  &lt;/p&gt;
+&lt;p&gt;Ca5名義で使ってたtouchosc+maxのライブセットを大幅にパワーアップさせて、メンバー全員でリアルタイムな演奏をします。&lt;/p&gt;
+&lt;p&gt;
+&lt;center&gt;
+[![](https://farm4.staticflickr.com/3844/14607854069_325c3417b8_b.jpg)](http://www.flickr.com/photos/46200029@N06/14607854069/)
+
+&lt;/center&gt;
+&lt;/p&gt;</summary><category term="iPad"></category><category term="otherman"></category><category term="ライブ"></category></entry><entry><title>【リミックス】嵐の素顔</title><link href="/arashi-no-sugao.html" rel="alternate"></link><updated>2014-07-05T22:00:00+02:00</updated><author><name>admin</name></author><id>tag:,2014-07-05:arashi-no-sugao.html</id><summary type="html">&lt;p&gt;どこかのvaporwaveのミックス聞いてたら、この曲をスロー再生したフレーズが出てきて  &lt;/p&gt;
+&lt;p&gt;あれ、この曲今更だけどめっちゃかっこいいじゃねえか　と思ってリミックスしてみました。&lt;/p&gt;
+&lt;p&gt;[soundcloud url="https://api.soundcloud.com/tracks/155509600"
+params="color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"
+width="100%" height="166" iframe="true" /]&lt;/p&gt;</summary><category term="breakcore"></category><category term="chipbreak"></category><category term="chiptune"></category><category term="remix"></category></entry><entry><title>【リミックス】Robinson</title><link href="/robinson.html" rel="alternate"></link><updated>2014-05-17T22:00:00+02:00</updated><author><name>admin</name></author><id>tag:,2014-05-17:robinson.html</id><summary type="html">&lt;p&gt;ホントはロビンソン百貨店のサウンドロゴとかも混ぜようと思ったけど&lt;br /&gt;
+全然見つからないんであきらめました。&lt;/p&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/149951755&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_artwork=true"&gt;&lt;/iframe&gt;</summary><category term="breakcore"></category><category term="chipbreak"></category><category term="chiptune"></category><category term="mashup"></category><category term="remix"></category></entry><entry><title>Android端末と Debian kitと PyAudio(2)</title><link href="/androiddebian-kit-pyaudio2.html" rel="alternate"></link><updated>2014-05-11T22:00:00+02:00</updated><author><name>admin</name></author><id>tag:,2014-05-11:androiddebian-kit-pyaudio2.html</id><summary type="html">&lt;p&gt;&lt;a href="http://blog.ca54makske.com/blog/2014/05/04/androiddebian-kit-pyaudio/"&gt;前回&lt;/a&gt;の続き&lt;/p&gt;
+&lt;p&gt;ドコかの記事で、AndroidのOSをバージョンアップさせるとオーディオのドライバが変わるって記事を見かけたのと、  &lt;/p&gt;
+&lt;p&gt;linux-on-androidプロジェクトでは&lt;a href="https://www.youtube.com/watch?v=3_AiWoTjO78"&gt;オーディオ鳴ってるdemo&lt;/a&gt;があったりするんでこれらを導入してみる&lt;/p&gt;
+&lt;h2&gt;1.AndroidOSアップデート&lt;/h2&gt;
+&lt;p&gt;初代GalaxyTabは公式では2.3.3までしかアップデート出来ないので、&lt;br /&gt;
+CyanogenModというROMを焼いちゃいます。&lt;/p&gt;
+&lt;p&gt;手順まとめるのめんどくさいから参考にしたサイトだけメモ&lt;/p&gt;
+&lt;h3&gt;1-1. 2.3.3のカスタムROMにする&lt;/h3&gt;
+&lt;p&gt;Cyanogenmod入れる前にまずは2.3.3のカスタムROMを焼く&lt;/p&gt;
+&lt;p&gt;参考:  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://paso-kon-seikatsu.cocolog-nifty.com/blog/2011/07/galaxy-tabgin-1.html"&gt;http://paso-kon-seikatsu.cocolog-nifty.com/blog/2011/07/galaxy-tabgin-1.html&lt;br /&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;romがリンク切れでなかなか見つからなかったけどここにあった  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.ersinkoc.com/galaxy-tab-icin-android-2-3-3-gingerbread-kurmak-ve-root-yapmak/"&gt;http://www.ersinkoc.com/galaxy-tab-icin-android-2-3-3-gingerbread-kurmak-ve-root-yapmak/&lt;br /&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;1-2. CyanogenModいれる&lt;/h3&gt;
+&lt;p&gt;CyanogenModを導入。CM10まで上げていくとバージョンが4.1まで上がる&lt;/p&gt;
+&lt;p&gt;参考:&lt;br /&gt;
+&lt;a href="http://cielsomer.blog.fc2.com/blog-entry-79.html"&gt;http://cielsomer.blog.fc2.com/blog-entry-79.html&lt;br /&gt;
+&lt;/a&gt;&lt;a href="/a&amp;gt;http://cielsomer.blog.fc2.com/blog-entry-175.htm"&gt;&lt;/a&gt;http://cielsomer.blog.fc2.com/blog-entry-175.html&lt;br /&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;これで古いGalaxyTabが最新のOSで遊べるようになった！&lt;br /&gt;
+・・・けど本題はここから&lt;/p&gt;
+&lt;h2&gt;2. Debian kit + PyAudio&lt;/h2&gt;
+&lt;p&gt;前回の記事と同じくDebian kitとPyAudioを入れてみた&lt;br /&gt;
+・・・が結局音はならない。&lt;br /&gt;
+やっぱりPortAudioがちゃんとデバイス認識してくれてない&lt;/p&gt;
+&lt;h3&gt;3. Complete Linux Installer&lt;/h3&gt;
+&lt;p&gt;そこで今度試すのが、Complete Linux Installer&lt;br /&gt;
+&lt;a href="http://linuxonandroid.org/"&gt;http://linuxonandroid.org/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;これもDebian kit同様インストールは簡単。  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://play.google.com/store/apps/details?id=com.zpwebsites.linuxonandroid"&gt;https://play.google.com/store/apps/details?id=com.zpwebsites.linuxonandroid&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;ここからアプリをインストールし、中の説明通りにOSをインストールしていく。&lt;/p&gt;
+&lt;p&gt;インストールしたのは Ubuntu13.04のcoreパッケージ&lt;br /&gt;
+(smallやlargeだと常駐するプロセス多すぎて重かった)&lt;/p&gt;
+&lt;p&gt;ここへPyAudioを導入&lt;br /&gt;
+・・・しかし結局音はならず。。。&lt;/p&gt;
+&lt;p&gt;これ以上がんばるくらいなら素直にAndroidのアプリ作ったほうが早そうなんであきらめます&lt;/p&gt;</summary><category term="android"></category><category term="debian"></category><category term="linux"></category><category term="PyAudio"></category><category term="ubuntu"></category></entry><entry><title>Android端末と Debian kitと PyAudio</title><link href="/androiddebian-kit-pyaudio.html" rel="alternate"></link><updated>2014-05-04T22:30:00+02:00</updated><author><name>admin</name></author><id>tag:,2014-05-04:androiddebian-kit-pyaudio.html</id><summary type="html">&lt;p&gt;家に使ってないAndroid端末があったんで、&lt;br /&gt;
+Debian化してpython入れて音出せるかどうか試してみました。&lt;br /&gt;
+結論から言うと全然うまくいかないんですが。&lt;/p&gt;
+&lt;p&gt;対象端末:&lt;br /&gt;
+・Galaxy Tab(SC-01C)&lt;br /&gt;
+→ 中古で購入した時点ですでに JK2 FroyoのRoot化ROMが焼いてあったっぽい&lt;br /&gt;
+　→ バージョンは2.2 Froyo&lt;/p&gt;
+&lt;h2&gt;Debianのinstall&lt;/h2&gt;
+&lt;p&gt;この記事を参考に、Debian kitを使ってDebianを入れます&lt;br /&gt;
+&lt;a href="http://gihyo.jp/admin/serial/01/ubuntu-recipe/0256?page=3"&gt;http://gihyo.jp/admin/serial/01/ubuntu-recipe/0256?page=3&lt;br /&gt;
+&lt;/a&gt;&lt;br /&gt;
+Debian入れると言っても完全にOS焼きなおすんじゃなくて、&lt;br /&gt;
+chrootな環境が出来上がるだけってもののようです。&lt;/p&gt;
+&lt;p&gt;基本的にはAndroid端末にDebian
+kitと何か端末シミュレータをいれて上記の記事にそってインストールしていっただけ。  &lt;/p&gt;
+&lt;p&gt;OSが入って、debコマンドで環境起動したら、その後の作業が楽になるようにssh
+serverを入れておきます&lt;/p&gt;
+&lt;p&gt;[bash]&lt;br /&gt;
+apt-get install openssh-server&lt;br /&gt;
+[/bash]&lt;/p&gt;
+&lt;p&gt;その後の作業は外部からこの端末にsshして色々いじっていく&lt;/p&gt;
+&lt;h2&gt;pythonとかpyenvとか&lt;/h2&gt;
+&lt;p&gt;pyenv入れる前に以下をapt-get installしておく&lt;br /&gt;
+参考：&lt;a href="https://github.com/yyuu/pyenv/wiki/Common-build-problems"&gt;https://github.com/yyuu/pyenv/wiki/Common-build-problems&lt;br /&gt;
+&lt;/a&gt;&lt;br /&gt;
+[bash]&lt;br /&gt;
+git&lt;br /&gt;
+make&lt;br /&gt;
+build-essential&lt;br /&gt;
+libssl-dev&lt;br /&gt;
+zlib1g-dev&lt;br /&gt;
+libbz2-dev&lt;br /&gt;
+libreadline-dev&lt;br /&gt;
+libsqlite3-dev&lt;br /&gt;
+wget&lt;br /&gt;
+curl&lt;br /&gt;
+llvm&lt;br /&gt;
+[/bash]&lt;/p&gt;
+&lt;p&gt;pyenvをレポジトリのREADMEに沿ってインストール&lt;br /&gt;
+&lt;a href="https://github.com/yyuu/pyenv"&gt;https://github.com/yyuu/pyenv&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;pythonのインストールと環境設定&lt;br /&gt;
+[bash]&lt;br /&gt;
+pyenv install 2.7.6&lt;br /&gt;
+pyenv local 2.7.6&lt;br /&gt;
+[/bash]&lt;/p&gt;
+&lt;h2&gt;PyAudioとportaudio&lt;/h2&gt;
+&lt;p&gt;PyAudioはportaudioのpython wrapper版&lt;br /&gt;
+http://people.csail.mit.edu/hubert/pyaudio/&lt;/p&gt;
+&lt;p&gt;portaudioは各OSのaudio apiをwrapしたAPI&lt;br /&gt;
+http://portaudio.com/docs/v19-doxydocs/api_overview.html&lt;/p&gt;
+&lt;p&gt;PyAudio入れる前に、aptでportaudio v19を入れておく&lt;br /&gt;
+[bash]&lt;br /&gt;
+portaudio19-dev&lt;br /&gt;
+libportaudio-dev&lt;br /&gt;
+[/bash]&lt;/p&gt;
+&lt;p&gt;PyAudioのインストール&lt;br /&gt;
+[bash]&lt;br /&gt;
+pip install --allow-external PyAudio --allow-unverified PyAudio
+PyAudio&lt;br /&gt;
+[/bash]&lt;br /&gt;
+この長ったらしいオプション指定なんとかならんのか。。&lt;/p&gt;
+&lt;h2&gt;動作チェック&lt;/h2&gt;
+&lt;p&gt;PyAudio本家のサンプルをそのままコピって動かしてみる&lt;br /&gt;
+http://people.csail.mit.edu/hubert/pyaudio/&lt;/p&gt;
+&lt;p&gt;[python]&lt;br /&gt;
+"""PyAudio Example: Play a WAVE file."""&lt;/p&gt;
+&lt;p&gt;import pyaudio&lt;br /&gt;
+import wave&lt;br /&gt;
+import sys&lt;/p&gt;
+&lt;p&gt;CHUNK = 1024&lt;/p&gt;
+&lt;p&gt;if len(sys.argv) \&amp;lt; 2:&lt;br /&gt;
+print("Plays a wave file.\n\nUsage: %s filename.wav" % sys.argv[0])&lt;br /&gt;
+sys.exit(-1)&lt;/p&gt;
+&lt;p&gt;wf = wave.open(sys.argv[1], 'rb')&lt;/p&gt;
+&lt;p&gt;p = pyaudio.PyAudio()&lt;/p&gt;
+&lt;p&gt;stream = p.open(format=p.get_format_from_width(wf.getsampwidth()),&lt;br /&gt;
+channels=wf.getnchannels(),&lt;br /&gt;
+rate=wf.getframerate(),&lt;br /&gt;
+output=True)&lt;/p&gt;
+&lt;p&gt;data = wf.readframes(CHUNK)&lt;/p&gt;
+&lt;p&gt;while data != '':&lt;br /&gt;
+stream.write(data)&lt;br /&gt;
+data = wf.readframes(CHUNK)&lt;/p&gt;
+&lt;p&gt;stream.stop_stream()&lt;br /&gt;
+stream.close()&lt;/p&gt;
+&lt;p&gt;p.terminate()&lt;br /&gt;
+[/python]&lt;/p&gt;
+&lt;p&gt;実行&lt;br /&gt;
+[bash]&lt;br /&gt;
+\$ python ./soundtest.py amen.wav&lt;br /&gt;
+Traceback (most recent call last):&lt;br /&gt;
+File "./soundtest.py", line 22, in \&amp;lt;module&gt;&lt;br /&gt;
+output=True)&lt;br /&gt;
+File
+"/home/ca5/.pyenv/versions/2.7.6/lib/python2.7/site-packages/pyaudio.py",
+line 747, in open&lt;br /&gt;
+stream = Stream(self, *args, **kwargs)&lt;br /&gt;
+File
+"/home/ca5/.pyenv/versions/2.7.6/lib/python2.7/site-packages/pyaudio.py",
+line 442, in __init__&lt;br /&gt;
+self._stream = pa.open(**arguments)&lt;br /&gt;
+IOError: [Errno Invalid output device (no default output
+device)] -9996&lt;br /&gt;
+[/bash]&lt;/p&gt;
+&lt;p&gt;わー　デバイスが認識されてねー&lt;/p&gt;
+&lt;p&gt;別途、portaudioのサンプルも動かしてみたんですがやっぱりダメ&lt;br /&gt;
+portaudioが使うaudioAPIが対応してないと思われる。&lt;/p&gt;
+&lt;p&gt;Android側のバージョンあげたらportaudioが使えるってどこかの記事で見かけたんで&lt;br /&gt;
+次はOS上げて再チャレンジか&lt;/p&gt;
+&lt;h2&gt;参考&lt;/h2&gt;
+&lt;p&gt;http://stackoverflow.com/questions/5921947/pyaudio-installation-error-command-gcc-failed-with-exit-status-1&lt;/p&gt;
+&lt;p&gt;ここ見るとportaudioでOpenSL使えそう？&lt;br /&gt;
+http://www.gizmodo.jp/2012/07/android_osjelly_bean.html&lt;/p&gt;
+&lt;p&gt;http://stackoverflow.com/questions/4672155/pyaudio-ioerror-no-default-input-device-available&lt;/p&gt;</summary><category term="android"></category><category term="debian"></category><category term="PyAudio"></category><category term="python"></category></entry><entry><title>【M3】新作出します【4/27】</title><link href="/m3-nkrn-201404.html" rel="alternate"></link><updated>2014-04-20T23:38:00+02:00</updated><author><name>admin</name></author><id>tag:,2014-04-20:m3-nkrn-201404.html</id><summary type="html">&lt;p&gt;2014 4/27はM3！！&lt;br /&gt;
+&lt;a href="http://www.m3net.jp/"&gt;http://www.m3net.jp/&lt;br /&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;NKRN&lt;/h2&gt;
+&lt;p&gt;今回もまたNKRNで新作出します!&lt;br /&gt;
+タイトルは「CAPCORE vs NKRN」&lt;br /&gt;
+ロゴからお察しの通りcapcom縛りのリミックス集となってます&lt;br /&gt;
+ブースは第一展示場 2階 N-04a です！&lt;/p&gt;
+&lt;p&gt;全体の試聴:  &lt;/p&gt;
+&lt;iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/31362739&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_artwork=true"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;自分の曲の試聴:  &lt;/p&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/145606009&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_artwork=true"&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;wH-Label&lt;/h2&gt;
+&lt;p&gt;wH-Labelのとんでもない縛りのコンピに参加させていただきました！&lt;br /&gt;
+FL Studioの 3xOSCのみで作られた曲 +
+FLのプロジェクトファイル付きのコンピレーションアルバムです。&lt;br /&gt;
+こちらはN18aのwH-Labelブースで取り扱ってます&lt;/p&gt;
+&lt;p&gt;TripleX -LemonSquashExtra01-&lt;br /&gt;
+全体の試聴:  &lt;/p&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/144360723&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_artwork=true"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;自分の曲の視聴:  &lt;/p&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/145605472&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_artwork=true"&gt;&lt;/iframe&gt;</summary><category term="breakcore"></category><category term="chipbreak"></category><category term="chiptune"></category><category term="M3"></category><category term="NKRN"></category></entry><entry><title>FL Studio 11.0.4 on MacOSX</title><link href="/fl-studio-11-0-4-on-macosx.html" rel="alternate"></link><updated>2014-03-21T00:50:00+01:00</updated><author><name>admin</name></author><id>tag:,2014-03-21:fl-studio-11-0-4-on-macosx.html</id><summary type="html">&lt;p&gt;前に&lt;a href="http://blog.ca54makske.com/blog/2014/01/09/il-remote%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F/"&gt;この記事書いた時に&lt;/a&gt;IL-remoteのためにFLをアップデート(FL
+Studio 11.0.4)してたんですが、&lt;br /&gt;
+このアップデートのお陰で、MacBookにインストールしている&lt;a href="http://www.image-line.com/documents/news.php?entry_id=1378290309"&gt;FL Studio MacOS
+X
+Beta&lt;/a&gt;(これ書いてる時点では最新版が11.0.2)でプロジェクトファイルを開けなくなってしまいました。&lt;/p&gt;
+&lt;p&gt;~~&lt;strong&gt;そもそも0.2っつーマイナーバージョンアップでプロジェクトファイルの互換性失うのってどうなんだよ？&lt;/strong&gt;~~  &lt;/p&gt;
+&lt;p&gt;・・・という話は置いておいて、MacBookに最新版のFLをちゃんと入れられたのでやり方を簡単に書いておきます。&lt;/p&gt;
+&lt;h2&gt;必要なもの&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;FL Studio 11.0.4 インストーラ&lt;/li&gt;
+&lt;li&gt;FLRegkey.Reg (ユーザーページで発行)&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.codeweavers.com/products/"&gt;CrossOver&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;公式で配布されているベータ版のFL Studio
+MacOSXの実体はOSXネイティブなアプリではなくて&lt;br /&gt;
+CrossOverでラッピングしたものになってます。&lt;br /&gt;
+なので今回はCrossOverを使って自力でFLをインストールします&lt;/p&gt;
+&lt;h2&gt;インストール手順&lt;/h2&gt;
+&lt;p&gt;・・・といってもそんなに書くこともあまり無かったりしますが&lt;br /&gt;
+手順としてはこう&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;CrossOverをインストール&lt;/li&gt;
+&lt;li&gt;FLのインストーラを起動(CrossOverが立ち上がってインストーラを起動しようとする)&lt;/li&gt;
+&lt;li&gt;FLをインストールしたボトル(CrossOverの仮想マシン?)のレジストリエディタを起動してFLRegKey.Regを登録&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;わかりにくいやつ&lt;/h2&gt;
+&lt;p&gt;まず最初に躓いたのがインストーラで&lt;/p&gt;
+&lt;p&gt;[flickr id="13289019103" thumbnail="small_320" overlay="true"
+size="original" group="" align="none"]&lt;/p&gt;
+&lt;p&gt;途中で真っ白な画面があるんですが、何かを選択しなければならなかったようで先に進みません。  &lt;/p&gt;
+&lt;p&gt;これを回避するには&lt;strong&gt;この前の画面からウィンドウのフォーカスが変わらないように[Next]を押&lt;/strong&gt;さなければならないです。&lt;/p&gt;
+&lt;p&gt;ちなみに、これなんの選択画面だったかというと&lt;br /&gt;
+[flickr id="13289386705" thumbnail="small_320" overlay="true"
+size="original" group="" align="none"]  &lt;/p&gt;
+&lt;p&gt;上のバナーにもありますがあの悪名高きhaoでした。汚いさすがhao123きたない。&lt;/p&gt;
+&lt;p&gt;次に躓いたのがレジストリの登録ですが、  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://d.hatena.ne.jp/Kei_9/20060921/1158803907"&gt;このへん&lt;/a&gt;見て分かったんですが  &lt;/p&gt;
+&lt;p&gt;CrossOverで作った各ボトルにはちゃんとレジストリエディタが標準でインストールされるようになってます&lt;br /&gt;
+(各ボトルのdir/drive_c/windows/regedit.exe)&lt;br /&gt;
+これを起動して、レジストリの取り込み→FLRegKey.regを選択すれば登録完了&lt;/p&gt;
+&lt;h2&gt;おわりに&lt;/h2&gt;
+&lt;p&gt;&lt;a href="http://support.image-line.com/knowledgebase/base.php?id=55&amp;amp;ans=114"&gt;Image-LineさんがFLのOSXネイティブ対応諦めてるっぽい&lt;/a&gt;おかげでMacOSX機でFL使うのはちょっと最初がめんどくさいですが、&lt;br /&gt;
+自分が使った感じではこのCrossOver環境で十分に使えてると思います。&lt;/p&gt;
+&lt;p&gt;あと、CrossOver環境における利点も実はあって・・・&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;windows用のVSTプラグイン(.dll)をそのまま使える！&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ので、ぼくのようにwindowsでもmacでも同じ作曲環境を作りたい人にとっては&lt;br /&gt;
+実はありがたかったりします。&lt;/p&gt;</summary><category term="crossover"></category><category term="FL"></category><category term="mac"></category></entry><entry><title>【ライブ音源】VolDope4おつかれさまでした</title><link href="/after-vdp4.html" rel="alternate"></link><updated>2014-01-16T23:38:00+01:00</updated><author><name>admin</name></author><id>tag:,2014-01-16:after-vdp4.html</id><summary type="html">&lt;p&gt;VolDope4お疲れさまでした&lt;br /&gt;
+ライブの再現音源をまたmixcloudで公開しました&lt;/p&gt;
+&lt;iframe width="660" height="180" src="//www.mixcloud.com/widget/iframe/?feed=http%3A%2F%2Fwww.mixcloud.com%2Fca54makske%2Fca5-vdp4%2F&amp;amp;embed_type=widget_standard&amp;amp;embed_uuid=e311e3a7-404b-4581-8815-f675a946f71b&amp;amp;hide_tracklist=1&amp;amp;hide_cover=1" frameborder="0"&gt;&lt;/iframe&gt;
+
+&lt;div style="clear: both; height: 3px; width: 652px;"&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;&lt;a href="http://www.mixcloud.com/ca54makske/ca5-vdp4/?utm_source=widget&amp;amp;amp;utm_medium=web&amp;amp;amp;utm_campaign=base_links&amp;amp;amp;utm_term=resource_link"&gt;Ca5-vdp4&lt;/a&gt;&lt;span&gt;
+by&lt;/span&gt;&lt;a href="http://www.mixcloud.com/ca54makske/?utm_source=widget&amp;amp;amp;utm_medium=web&amp;amp;amp;utm_campaign=base_links&amp;amp;amp;utm_term=profile_link"&gt;Ca5&lt;/a&gt;&lt;span&gt;
+on&lt;/span&gt;&lt;a href="http://www.mixcloud.com/?utm_source=widget&amp;amp;utm_medium=web&amp;amp;utm_campaign=base_links&amp;amp;utm_term=homepage_link"&gt;Mixcloud&lt;/a&gt;&lt;/p&gt;
+&lt;div style="clear: both; height: 3px; width: 652px;"&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;今回のセットは40分なのでちょっと長めです&lt;/p&gt;</summary><category term="dopeup"></category><category term="live"></category><category term="vol4"></category></entry><entry><title>IL Remote使ってみた</title><link href="/il-remote%e4%bd%bf%e3%81%a3%e3%81%a6%e3%81%bf%e3%81%9f.html" rel="alternate"></link><updated>2014-01-09T00:33:00+01:00</updated><author><name>admin</name></author><id>tag:,2014-01-09:il-remote%e4%bd%bf%e3%81%a3%e3%81%a6%e3%81%bf%e3%81%9f.html</id><summary type="html">&lt;p&gt;FL Studio専用のコントローラアプリが出ていたのでちょっと使ってみました。&lt;br /&gt;
+使ってみたのはiPad版です。  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.flickr.com/photos/46200029@N06/11838119063/"&gt;&lt;img alt="" src="http://farm6.staticflickr.com/5549/11838119063_7a8db5934c_b.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;とりあえず所感だけ並べると、&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;設定がとても簡単&lt;/li&gt;
+&lt;li&gt;機能も十分&lt;/li&gt;
+&lt;li&gt;しかも無料！&lt;/li&gt;
+&lt;li&gt;HARMOのタブのキーボードがアレンジにつかえそう&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;と割りと使えそうだなという印象なんですが、一つだけ残念なのが&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;各タブの画面はそれぞれの機能がアクティブになってないと操作が効かない&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;ってところでした。&lt;br /&gt;
+例えば、IL
+Remoteでミキサーの画面をいじろうとしても、FL上でミキサーのウィンドウが手前に来てないと操作できないんです。&lt;/p&gt;
+&lt;p&gt;なんでこんなことになってるのかなーと思って何気なくこの記事書きながらMAINタブの[PLAYLIST]ボタン押したら、&lt;br /&gt;
+あやうくこの記事が消えそうになりました。&lt;br /&gt;
+どうやらこのコントローラはmidi +
+キーボードの操作を送りつける仕様だったみたいです。&lt;br /&gt;
+（FL上でF5押すとPlayListが出るようになってます。）&lt;/p&gt;
+&lt;p&gt;・・・とちょっとダメ出しかいてみましたが、&lt;br /&gt;
+基本的には便利なコントローラだと思いますよ。無料だし！&lt;/p&gt;</summary><category term="FL"></category><category term="ILRemote"></category></entry><entry><title>【1/13】今年最初のライブ #vdp4</title><link href="/%e3%80%90113%e3%80%91%e4%bb%8a%e5%b9%b4%e6%9c%80%e5%88%9d%e3%81%ae%e3%83%a9%e3%82%a4%e3%83%96-vdp4.html" rel="alternate"></link><updated>2014-01-08T22:38:00+01:00</updated><author><name>admin</name></author><id>tag:,2014-01-08:%e3%80%90113%e3%80%91%e4%bb%8a%e5%b9%b4%e6%9c%80%e5%88%9d%e3%81%ae%e3%83%a9%e3%82%a4%e3%83%96-vdp4.html</id><summary type="html">&lt;p&gt;&lt;a href="http://blog.ca54makske.com/blog/2013/12/18/voldope4/"&gt;年末の記事&lt;/a&gt;でも告知しましたが、&lt;br /&gt;
+ 今度の成人の日にライブします！&lt;br /&gt;
+&lt;br /&gt;
+ 1/13は是非、中野HeavySickZeroへ！&lt;br /&gt;
+ 詳細: &lt;a href="http://vol4records.wix.com/vdp4"&gt;voldope4公式サイト&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+ タイムテーブルも決まりました&lt;br /&gt;
+ 一番最初にメインフロアでやります！&lt;br /&gt;
+&lt;img alt="" src="http://www.gaf-guren.com/vold4/vol_dope4_tt.png" /&gt;&lt;br /&gt;
+&lt;br /&gt;
+ よろしくおねがいします&lt;br /&gt;
+&lt;/p&gt;</summary><category term="dopeup"></category><category term="live"></category><category term="vol4"></category></entry><entry><title>2013年まとめ</title><link href="/end-of2013.html" rel="alternate"></link><updated>2013-12-30T22:30:00+01:00</updated><author><name>admin</name></author><id>tag:,2013-12-30:end-of2013.html</id><summary type="html">&lt;p&gt;今年の活動まとめ&lt;/p&gt;
+&lt;h2&gt;■リリース一覧&lt;/h2&gt;
+&lt;p&gt;上から新しい順に&lt;br /&gt;
+&lt;strong&gt;-Only Lonely Holy Story(Only Holy Story remix)&lt;/strong&gt;  &lt;/p&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/121528815&amp;amp;color=ff6600&amp;amp;auto_play=false&amp;amp;show_artwork=true" frameborder="no" scrolling="no" width="100%" height="166"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;strong&gt;-Memory of the Cartridge&lt;/strong&gt;&lt;br /&gt;
+[&lt;img alt="" src="http://www.otherman-records.com/images/releases/OTMN051.jpg" /&gt;  &lt;/p&gt;
+&lt;p&gt;http://www.otherman-records.com/releases/OTMN051](http://www.otherman-records.com/releases/OTMN051)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;-Monster Tale&lt;/strong&gt;(#12 Summer Shores/Ca5)&lt;br /&gt;
+[&lt;img alt="" src="http://8081netlabel.ru/img2/va013.png" /&gt;  &lt;/p&gt;
+&lt;p&gt;http://8081netlabel.ru/news/8081_va013_monster_tale/2013-10-13-117](http://8081netlabel.ru/news/8081_va013_monster_tale/2013-10-13-117)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;-Last Summer EP&lt;/strong&gt;(#2 Suikawari/Ca5)&lt;br /&gt;
+[&lt;img alt="" src="http://www.otherman-records.com/images/releases/OTMN047.jpg" /&gt;  &lt;/p&gt;
+&lt;p&gt;http://www.otherman-records.com/releases/OTMN047](http://www.otherman-records.com/releases/OTMN047)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;-HEMISHINKU&lt;/strong&gt;(#2 symmetric/Ca5)&lt;br /&gt;
+[&lt;img alt="" src="http://pitifulpippuppet.jp/pic/2013/hemi265.gif" /&gt;  &lt;/p&gt;
+&lt;p&gt;http://pitifulpippuppet.jp/album/hemishinku/download.html](http://pitifulpippuppet.jp/album/hemishinku/download.html")&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;-Deep Blue&lt;/strong&gt;&lt;br /&gt;
+[&lt;img alt="" src="http://www.archive.org/download/OTMN045/deepblue-jacket.jpg" /&gt;  &lt;/p&gt;
+&lt;p&gt;http://www.otherman-records.com/releases/OTMN045](http://www.otherman-records.com/releases/OTMN045)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;-#6699FF(2006, original)&lt;/strong&gt;  &lt;/p&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F85620202"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;strong&gt;-Haruyo, Koi (#6699FF mix)&lt;/strong&gt;  &lt;/p&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F85618646"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;strong&gt;-memory of the cartridge (DEMO)&lt;/strong&gt;  &lt;/p&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F82757708"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;strong&gt;-iron&lt;/strong&gt;(#1 steel wool/Ca5)&lt;br /&gt;
+[&lt;img alt="" src="http://pitifulpippuppet.web.fc2.com/pic/IRON400.gif" /&gt;  &lt;/p&gt;
+&lt;p&gt;http://pitifulpippuppet.web.fc2.com/album/iron.html](http://pitifulpippuppet.web.fc2.com/album/iron.html)&lt;/p&gt;
+&lt;h2&gt;■ライブ&lt;/h2&gt;
+&lt;p&gt;上から新しい順に&lt;br /&gt;
+&lt;strong&gt;2013/7/27 OthermanShow #9&lt;/strong&gt;  &lt;/p&gt;
+&lt;iframe width="360" height="360" src="//www.mixcloud.com/widget/iframe/?feed=http%3A%2F%2Fwww.mixcloud.com%2Fca54makske%2Fca5-otmn9%2F&amp;amp;mini=&amp;amp;stylecolor=&amp;amp;hide_artwork=&amp;amp;embed_type=widget_standard&amp;amp;embed_uuid=e4de5dcd-badf-481c-aaf4-aa70f3853069&amp;amp;hide_tracklist=&amp;amp;hide_cover=1&amp;amp;autoplay=" frameborder="0"&gt;&lt;/iframe&gt;
+
+&lt;div style="clear:both; height:3px; width:352px;"&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;&lt;a href="http://www.mixcloud.com/ca54makske/ca5-otmn9/?utm_source=widget&amp;amp;utm_medium=web&amp;amp;utm_campaign=base_links&amp;amp;utm_term=resource_link"&gt;Ca5-otmn9&lt;/a&gt;&lt;span&gt;
+by&lt;/span&gt;&lt;a href="http://www.mixcloud.com/ca54makske/?utm_source=widget&amp;amp;utm_medium=web&amp;amp;utm_campaign=base_links&amp;amp;utm_term=profile_link"&gt;Ca5&lt;/a&gt;&lt;span&gt;
+on&lt;/span&gt;&lt;a href="http://www.mixcloud.com/?utm_source=widget&amp;amp;utm_medium=web&amp;amp;utm_campaign=base_links&amp;amp;utm_term=homepage_link"&gt;Mixcloud&lt;/a&gt;&lt;/p&gt;
+&lt;div style="clear:both; height:3px;"&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;2013/7/27 OthermanShow #8&lt;/strong&gt;  &lt;/p&gt;
+&lt;iframe width="360" height="360" src="//www.mixcloud.com/widget/iframe/?feed=http%3A%2F%2Fwww.mixcloud.com%2Fca54makske%2Fca5-otmn8%2F&amp;amp;mini=&amp;amp;stylecolor=&amp;amp;hide_artwork=&amp;amp;embed_type=widget_standard&amp;amp;embed_uuid=d8ce6635-98d7-435e-97e8-760fbbde8b22&amp;amp;hide_tracklist=&amp;amp;hide_cover=1&amp;amp;autoplay=" frameborder="0"&gt;&lt;/iframe&gt;
+
+&lt;div style="clear:both; height:3px; width:352px;"&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;&lt;a href="http://www.mixcloud.com/ca54makske/ca5-otmn8/?utm_source=widget&amp;amp;utm_medium=web&amp;amp;utm_campaign=base_links&amp;amp;utm_term=resource_link"&gt;Ca5-otmn8&lt;/a&gt;&lt;span&gt;
+by&lt;/span&gt;&lt;a href="http://www.mixcloud.com/ca54makske/?utm_source=widget&amp;amp;utm_medium=web&amp;amp;utm_campaign=base_links&amp;amp;utm_term=profile_link"&gt;Ca5&lt;/a&gt;&lt;span&gt;
+on&lt;/span&gt;&lt;a href="http://www.mixcloud.com/?utm_source=widget&amp;amp;utm_medium=web&amp;amp;utm_campaign=base_links&amp;amp;utm_term=homepage_link"&gt;Mixcloud&lt;/a&gt;&lt;/p&gt;
+&lt;div style="clear:both; height:3px;"&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;2013/7/15 FL研究会&lt;/strong&gt;  &lt;/p&gt;
+&lt;iframe width="360" height="360" src="//www.mixcloud.com/widget/iframe/?feed=http%3A%2F%2Fwww.mixcloud.com%2Fca54makske%2Flivefl%25E7%25A0%2594%25E7%25A9%25B6%25E4%25BC%259A2013715-ca5%2F&amp;amp;mini=&amp;amp;stylecolor=&amp;amp;hide_artwork=&amp;amp;embed_type=widget_standard&amp;amp;embed_uuid=d2da2fa5-ef00-4760-9db2-7fcc05f5ae67&amp;amp;hide_tracklist=&amp;amp;hide_cover=1&amp;amp;autoplay=" frameborder="0"&gt;&lt;/iframe&gt;
+
+&lt;div style="clear:both; height:3px; width:352px;"&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;&lt;a href="http://www.mixcloud.com/ca54makske/livefl%E7%A0%94%E7%A9%B6%E4%BC%9A2013715-ca5/?utm_source=widget&amp;amp;utm_medium=web&amp;amp;utm_campaign=base_links&amp;amp;utm_term=resource_link"&gt;Live@FL研究会(2013/7/15) -
+Ca5&lt;/a&gt;&lt;span&gt;
+by&lt;/span&gt;&lt;a href="http://www.mixcloud.com/ca54makske/?utm_source=widget&amp;amp;utm_medium=web&amp;amp;utm_campaign=base_links&amp;amp;utm_term=profile_link"&gt;Ca5&lt;/a&gt;&lt;span&gt;
+on&lt;/span&gt;&lt;a href="http://www.mixcloud.com/?utm_source=widget&amp;amp;utm_medium=web&amp;amp;utm_campaign=base_links&amp;amp;utm_term=homepage_link"&gt;Mixcloud&lt;/a&gt;&lt;/p&gt;
+&lt;div style="clear:both; height:3px;"&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;2014年もよろしくお願いします&lt;br /&gt;
+来月は早速ライブがあります&lt;br /&gt;
+&lt;a href="http://blog.ca54makske.com/blog/2013/12/18/voldope4/"&gt;http://blog.ca54makske.com/blog/2013/12/18/voldope4/&lt;br /&gt;
+&lt;/a&gt;&lt;/p&gt;</summary></entry><entry><title>【ライブ告知】VolDOPE4 2014/1/13</title><link href="/voldope4.html" rel="alternate"></link><updated>2013-12-18T22:30:00+01:00</updated><author><name>admin</name></author><id>tag:,2013-12-18:voldope4.html</id><summary type="html">&lt;p&gt;年明けにライブします！&lt;/p&gt;
+&lt;p&gt;DOPE UPと Vol.4との合同企画、「VolDOPE4」に出させていただきます！&lt;br /&gt;
+&lt;a href="http://vol4records.wix.com/vdp4"&gt;http://vol4records.wix.com/vdp4&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Vol.​​​​DOPE4!!!!!!&lt;/p&gt;
+&lt;p&gt;2014.01.13&lt;br /&gt;
+ ​&lt;br /&gt;
+ Come visit us:&lt;br /&gt;
+ we are open from&lt;br /&gt;
+ 15:00-21:00 on Monday.&lt;br /&gt;
+ DOOR:&lt;br /&gt;
+ 2000YEN WITH 1DRINK&lt;/p&gt;
+&lt;p&gt;NAKANO HEAVY SICK ZERO&lt;br /&gt;
+ 〒164-0001東京都中野区中野5-41-8 カースク中野B1,B2F&lt;br /&gt;
+ ​&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;せっかくなので、&lt;br /&gt;
+ここでちょっとぼくとDOPEUP,Vol4がらみの過去のリリースを紹介します&lt;/p&gt;
+&lt;p&gt;[&lt;img alt="" src="http://www.otherman-records.com/images/releases/VL4OTMN_001.jpg" /&gt;&lt;br /&gt;
+[VL4OTMN_001] songs 4 the
+man](http://www.otherman-records.com/releases/VL4OTMN_001)&lt;br /&gt;
+Vol4. + アザマン企画！&lt;br /&gt;
+「#50」という曲で参加してます&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.otherman-records.com/releases/DPMN001"&gt;&lt;img alt="" src="http://www.otherman-records.com/images/releases/DPMN001.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;
+DOPEUP + アザマン企画！&lt;br /&gt;
+こちらは「whiteout」という曲で参加&lt;/p&gt;</summary><category term="dopeup"></category><category term="live"></category><category term="vol4"></category></entry><entry><title>【ライブ音源】アザマンショー９お疲れ様でした</title><link href="/after-otmn9.html" rel="alternate"></link><updated>2013-12-10T01:00:00+01:00</updated><author><name>admin</name></author><id>tag:,2013-12-10:after-otmn9.html</id><summary type="html">&lt;p&gt;今回なんと会場のBe-WaveさんがUSTのアーカイブ残してくださってます！感謝！&lt;/p&gt;
+&lt;p&gt;この動画は Ca5, スーパーサグ, ebi1000, PortaL と続くアーカイブ&lt;br /&gt;
+&lt;a href="http://www.ustream.tv/recorded/41489660"&gt;http://www.ustream.tv/recorded/41489660&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;他の方のアーカイブも残ってます！&lt;br /&gt;
+http://www.ustream.tv/channel/bewave-ust&lt;/p&gt;
+&lt;p&gt;一応いつもの再現mixcloudもあげておきました  &lt;/p&gt;
+&lt;iframe width="600" height="360" src="//www.mixcloud.com/widget/iframe/?feed=http%3A%2F%2Fwww.mixcloud.com%2Fca54makske%2Fca5-otmn9%2F&amp;amp;mini=&amp;amp;stylecolor=&amp;amp;hide_artwork=&amp;amp;embed_type=widget_standard&amp;amp;embed_uuid=6e493d3a-f87b-4262-a62e-85479b923b22&amp;amp;hide_tracklist=&amp;amp;hide_cover=1&amp;amp;autoplay=" frameborder="0"&gt;&lt;/iframe&gt;
+
+&lt;div style="clear:both; height:3px; width:592px;"&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;&lt;a href="http://www.mixcloud.com/ca54makske/ca5-otmn9/?utm_source=widget&amp;amp;utm_medium=web&amp;amp;utm_campaign=base_links&amp;amp;utm_term=resource_link"&gt;Ca5-otmn9&lt;/a&gt;&lt;span&gt;
+by&lt;/span&gt;&lt;a href="http://www.mixcloud.com/ca54makske/?utm_source=widget&amp;amp;utm_medium=web&amp;amp;utm_campaign=base_links&amp;amp;utm_term=profile_link"&gt;Ca5&lt;/a&gt;&lt;span&gt;
+on&lt;/span&gt;&lt;a href="http://www.mixcloud.com/?utm_source=widget&amp;amp;utm_medium=web&amp;amp;utm_campaign=base_links&amp;amp;utm_term=homepage_link"&gt;Mixcloud&lt;/a&gt;&lt;/p&gt;
+&lt;div style="clear:both; height:3px;"&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;今回mixcloudのサムネに使わせていただいたのは、&lt;br /&gt;
+Memory of the
+Cartridgeのジャケのtac-t!sくんが描いてくれたアナザージャケットです！  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://ryuusanndorodoronanndemotokasu.tumblr.com/post/69476348438/memory-of-the-cartridge"&gt;http://ryuusanndorodoronanndemotokasu.tumblr.com/post/69476348438/memory-of-the-cartridge&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;さらにこのアナザージャケットをmaru303さんがファミコンのスタート画面風に動くアレンジをしてくれました！カッコイイ！&lt;br /&gt;
+&lt;a href="http://1post1design.tumblr.com/post/69386361095/tac-tis-op"&gt;http://1post1design.tumblr.com/post/69386361095/tac-tis-op&lt;/a&gt;&lt;/p&gt;</summary><category term="breakcore"></category><category term="chipbreak"></category><category term="chiptune"></category><category term="live"></category><category term="otherman"></category></entry><entry><title>【新アルバムリリース】Memory of the Cartridge</title><link href="/memory-of-the-cartridge-release.html" rel="alternate"></link><updated>2013-12-07T00:30:00+01:00</updated><author><name>admin</name></author><id>tag:,2013-12-07:memory-of-the-cartridge-release.html</id><summary type="html">&lt;p&gt;ちょっと前からdemo版公開したり、先行でCD版出したりしてたアルバムが&lt;br /&gt;
+遂にOthermanRecordsからリリースされました！&lt;/p&gt;
+&lt;p&gt;[&lt;br /&gt;
+&lt;img alt="" src="http://www.archive.org/download/OTMN051/folder.jpg" /&gt;  &lt;/p&gt;
+&lt;p&gt;http://www.otherman-records.com/releases/OTMN051](http://www.otherman-records.com/releases/OTMN051)&lt;/p&gt;
+&lt;p&gt;試聴版&lt;br /&gt;
+[soundcloud url="https://api.soundcloud.com/tracks/82757708"
+params="color=ff6600&amp;amp;auto_play=false&amp;amp;show_artwork=true" width="100%"
+height="166" iframe="true" /]&lt;br /&gt;
+[soundcloud url="https://api.soundcloud.com/tracks/123533102"
+params="color=ff6600&amp;amp;auto_play=false&amp;amp;show_artwork=true" width="100%"
+height="166" iframe="true" /]  &lt;/p&gt;
+&lt;p&gt;そろそろsoundcloudの容量がいっぱいなので全部載せるのはとりあえずあきらめました。。&lt;/p&gt;
+&lt;p&gt;日曜のライブもよろしくね&lt;br /&gt;
+&lt;a href="http://peatix.com/event/20875"&gt;http://peatix.com/event/20875&lt;/a&gt;&lt;/p&gt;</summary><category term="otherman"></category></entry><entry><title>【新曲】Only Lonely Holy Story【クリスマスネタ】</title><link href="/%e3%80%90%e6%96%b0%e6%9b%b2%e3%80%91only-lonely-holy-story%e3%80%90%e3%82%af%e3%83%aa%e3%82%b9%e3%83%9e%e3%82%b9%e3%83%8d%e3%82%bf%e3%80%91.html" rel="alternate"></link><updated>2013-11-24T22:40:00+01:00</updated><author><name>admin</name></author><id>tag:,2013-11-24:%e3%80%90%e6%96%b0%e6%9b%b2%e3%80%91only-lonely-holy-story%e3%80%90%e3%82%af%e3%83%aa%e3%82%b9%e3%83%9e%e3%82%b9%e3%83%8d%e3%82%bf%e3%80%91.html</id><summary type="html">&lt;p&gt;そろそろクリスマスネタやりたいなーと思って、&lt;br /&gt;
+自分が高校生の時にハマってた曲をリミックスしてみました。&lt;/p&gt;
+&lt;p&gt;[soundcloud url="https://api.soundcloud.com/tracks/121528815"
+width="100%" height="166" iframe="true" /]&lt;/p&gt;
+&lt;p&gt;なんかやたらとポップな出来になった気がするけど、まあいいかｗ&lt;/p&gt;
+&lt;p&gt;元の曲名にちょっと一語付け足してますが、  &lt;/p&gt;
+&lt;p&gt;原曲のリア充っぽい歌詞を全部すっ飛ばしてやったんでこんなタイトルをつけてみました。&lt;br /&gt;
+きっと次のライブ OthermanShow #9でかけると思います。&lt;/p&gt;
+&lt;p&gt;次のライブ詳細は&lt;a href="http://blog.ca54makske.com/blog/2013/11/16/othermanrecords-9/"&gt;こちら&lt;/a&gt;&lt;/p&gt;</summary><category term="chiptune"></category><category term="mashup"></category><category term="remix"></category></entry><entry><title>【イベント告知】Otherman Show # 9</title><link href="/othermanrecords-9.html" rel="alternate"></link><updated>2013-11-16T22:45:00+01:00</updated><author><name>admin</name></author><id>tag:,2013-11-16:othermanrecords-9.html</id><summary type="html">&lt;p&gt;来月ライブします！&lt;/p&gt;
+&lt;h1&gt;Otherman Show #9&lt;/h1&gt;
+&lt;h3&gt;日時&lt;/h3&gt;
+&lt;p&gt;2013/12/08 (日)&lt;br /&gt;
+14:00 - 20:00&lt;/p&gt;
+&lt;h3&gt;会場&lt;/h3&gt;
+&lt;p&gt;新宿 Be-Wave&lt;/p&gt;
+&lt;h3&gt;詳細&lt;/h3&gt;
+&lt;p&gt;&lt;a href="http://t.co/a3pGSIJUaJ"&gt;http://t.co/a3pGSIJUaJ&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;（以下一部抜粋）&lt;/p&gt;
+&lt;p&gt;爆音でブレイクコアを聞きたい！&lt;/p&gt;
+&lt;p&gt;アザマンショーは、ブレイクコア歴10年の Othermoon
+がお送りする、日本でも希少なブレイクコアメインのハチャメチャ祭り。&lt;/p&gt;
+&lt;p&gt;9回目となる今回は、オーストラリアからSPECIAL
+GUEST「AbortRetryFail」が襲来！！  &lt;/p&gt;
+&lt;p&gt;元UKブリストル出身の彼が放つ、ブレイクコアのトレンドを完全に捉えたアガるDJmix
+に乞うご期待！&lt;/p&gt;
+&lt;p&gt;そして、脇を固めるメンツも超・実力派！&lt;br /&gt;
+ ヤバい音は全て取り込んだ全方位型レイヴSOUNDGRAM主宰の、「PortaL」、  &lt;/p&gt;
+&lt;p&gt;今年のベスト5曲でDJmixをする企画5traxが大人気、そして国内随一のダークステップパーティ、SPROUTのレジデントで気を吐く「TAK666」！  &lt;/p&gt;
+&lt;p&gt;おなじみアザマンクルーが、このメンツをしっちゃかめっちゃかに迎撃します！！&lt;/p&gt;
+&lt;p&gt;また、今回は場所をBe-Waveに移しサブテーマである「食」が一層充実。&lt;br /&gt;
+ ハコのご厚意でスペシャルメニュー、カンガルー料理が登場します。&lt;br /&gt;
+ ご興味のある方は、「WEBチケットwithカンガルー料理」を是非！&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;今回何と謎のカンガルー料理が登場します！（自分も食べたこと無いからよくわからんですがｗ&lt;/p&gt;
+&lt;p&gt;当日お友達を連れてきてくれた方には割引が適用されますので、&lt;br /&gt;
+ぜひぜひお誘い合わせの上おこしくださいませー&lt;/p&gt;</summary><category term="breakcore"></category><category term="chipbreak"></category><category term="chiptune"></category><category term="live"></category><category term="otherman"></category></entry><entry><title>M3 2013秋で新アルバム出します(第一展示場G14b )</title><link href="/m3-2013-autumn.html" rel="alternate"></link><updated>2013-10-20T23:55:00+02:00</updated><author><name>admin</name></author><id>tag:,2013-10-20:m3-2013-autumn.html</id><summary type="html">&lt;h3&gt;NKRNの宣伝&lt;/h3&gt;
+&lt;p&gt;既にtwitterではbotを動かして告知してますが、&lt;br /&gt;
+2013/10/27のM3でベスト盤のアルバムを出します。&lt;/p&gt;
+&lt;p&gt;[&lt;img alt="jacket" src="http://www.otherman-records.com/NKRN/releases/NKRN-SL-001/images/img_jacket_sl.jpg" /&gt;  &lt;/p&gt;
+&lt;p&gt;http://www.otherman-records.com/NKRN/releases/NKRN-SL-001/](http://www.otherman-records.com/NKRN/releases/NKRN-SL-001/)&lt;/p&gt;
+&lt;p&gt;なんと今回初のプレスCD！&lt;br /&gt;
+・・・というわけで、&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.flickr.com/photos/46200029@N06/10382044073/"&gt;&lt;img alt="" src="http://farm6.staticflickr.com/5530/10382044073_938a5b3c77_o.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;家に今こんなに在庫があります(@300枚)&lt;br /&gt;
+おねがいですみなさん買ってください。&lt;/p&gt;
+&lt;h3&gt;個人の宣伝&lt;/h3&gt;
+&lt;p&gt;あと、今回NKRNのとは別に、&lt;br /&gt;
+OthermanRecordsで近日リリース予定の個人のアルバム+オマケ曲を&lt;br /&gt;
+CDRで準備しておいておこうと思ってます。&lt;/p&gt;
+&lt;p&gt;
+※完成イメージ  
+[
+
+![](http://farm8.staticflickr.com/7364/10381860585_9be5bf5e89_o.jpg)](http://www.flickr.com/photos/46200029@N06/10381860585/)
+
+&lt;/center&gt;
+&lt;/p&gt;
+
+&lt;p&gt;後にフリー版がOthermanRecordsで出ますが、&lt;br /&gt;
+tac-t!s君にお願いしたナイスなジャケットを実物で手に取りたいという方！&lt;br /&gt;
+また、CDR版にかついてこないオマケの曲が気になる！なんて方&lt;br /&gt;
+ぜひぜひお買い求めください。&lt;/p&gt;
+&lt;p&gt;tac-t!s君はジャケットのみならずこんな可愛いgifまで作ってくれました！&lt;br /&gt;
+ぼくのブログだけじゃホントもったいないんで是非広めて欲しいです  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://blog.ca54makske.com/wp-content/uploads/2013/10/motcbig_touka.gif"&gt;&lt;img alt="motcbig_touka" src="http://blog.ca54makske.com/wp-content/uploads/2013/10/motcbig_touka.gif" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;tac-t!s君の公式tumblrはこちら&lt;br /&gt;
+他にも作品がいろいろ公開されています！&lt;br /&gt;
+&lt;a href="http://ryuusanndorodoronanndemotokasu.tumblr.com"&gt;http://ryuusanndorodoronanndemotokasu.tumblr.com&lt;br /&gt;
+&lt;/a&gt;&lt;br /&gt;
+&lt;/p&gt;
+&lt;p&gt;OthermanRecordsではKenKoTaijiさんのアルバムのジャケットも担当されてました&lt;br /&gt;
+&lt;a href="http://www.otherman-records.com/releases/OTMN044"&gt;http://www.otherman-records.com/releases/OTMN044&lt;/a&gt;&lt;/p&gt;</summary><category term="breakcore"></category><category term="chipbreak"></category><category term="chiptune"></category><category term="M3"></category><category term="NKRN"></category><category term="otherman"></category></entry><entry><title>【新曲】Summer Shores(Monster Tale)</title><link href="/%e3%80%90%e6%96%b0%e6%9b%b2%e3%80%91summer-shower-monster-tale.html" rel="alternate"></link><updated>2013-10-14T22:30:00+02:00</updated><author><name>admin</name></author><id>tag:,2013-10-14:%e3%80%90%e6%96%b0%e6%9b%b2%e3%80%91summer-shower-monster-tale.html</id><summary type="html">&lt;p&gt;ロシアのネットレーベル 8081netlabelより&lt;br /&gt;
+DSのMonter TaleというゲームBGMのリミックスコンピがリリースされました。&lt;br /&gt;
+12曲目の「Summer Shores」という曲で参加してます！&lt;/p&gt;
+&lt;p&gt;試聴版:&lt;br /&gt;
+[soundcloud url="http://api.soundcloud.com/tracks/115166734" params=""
+width=" 100%" height="166" iframe="true" /]&lt;/p&gt;
+&lt;p&gt;ダウンロードはこちら:&lt;br /&gt;
+&lt;a href="http://8081netlabel.ru/news/8081_va013_monster_tale/2013-10-13-117"&gt;http://8081netlabel.ru/news/8081_va013_monster_tale/2013-10-13-117&lt;br /&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;原曲:Ian Stocker - Summer Shores&lt;br /&gt;
+&lt;a href="http://www.youtube.com/watch?v=TjFMLMhqkjk"&gt;http://www.youtube.com/watch?v=TjFMLMhqkjk&lt;br /&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ちなみに、MonsterTaleは残念ながら日本未発売のソフトらしいんで、&lt;br /&gt;
+僕もやったことはないです。&lt;/p&gt;</summary><category term="8081netlabel"></category><category term="breakcore"></category><category term="chipbreak"></category><category term="chiptune"></category></entry><entry><title>Last Summer EP【新作リリース】</title><link href="/lsep.html" rel="alternate"></link><updated>2013-09-03T22:30:00+02:00</updated><author><name>admin</name></author><id>tag:,2013-09-03:lsep.html</id><summary type="html">&lt;p&gt;Otherman Recordsから新作出ました！&lt;br /&gt;
+夏の終わりをテーマにしたEPです。&lt;br /&gt;
+&lt;img alt="" src="http://www.otherman-records.com/images/releases/OTMN047.jpg" /&gt;&lt;br /&gt;
+[soundcloud url="http://api.soundcloud.com/playlists/9715475" params=""
+width=" 100%" height="450" iframe="true" /]&lt;br /&gt;
+2曲目のSuikawariという曲で参加しています！&lt;br /&gt;
+今回は珍しくテンポゆっくりめな仕上がりです。&lt;/p&gt;
+&lt;p&gt;ダウンロードはこちら&lt;br /&gt;
+&lt;a href="http://www.otherman-records.com/releases/OTMN047"&gt;http://www.otherman-records.com/releases/OTMN047&lt;/a&gt;&lt;/p&gt;</summary><category term="chiptune"></category><category term="otherman"></category></entry><entry><title>新曲リリース symmetric [pitiful pip puppet]</title><link href="/%e6%96%b0%e6%9b%b2%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9-symmetric-pitiful-pip-puppet.html" rel="alternate"></link><updated>2013-06-22T00:17:00+02:00</updated><author><name>admin</name></author><id>tag:,2013-06-22:%e6%96%b0%e6%9b%b2%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9-symmetric-pitiful-pip-puppet.html</id><summary type="html">&lt;p&gt;pitifulp pip puppetから新曲をリリースしました！&lt;/p&gt;
+&lt;p&gt;HEMISHINKU  (#2 symmetric - Ca5)  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://pitifulpippuppet.web.fc2.com/album/hemishinku/download.html"&gt;&lt;img alt="" src="http://upup.bz/j/my99726dkuYt8_Y6ihJ5aJ2.gif" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://pitifulpippuppet.web.fc2.com/album/hemishinku/download.html"&gt;http://pitifulpippuppet.web.fc2.com/album/hemishinku/download.html&lt;/a&gt;&lt;br /&gt;
+[soundcloud url="http://api.soundcloud.com/tracks/97849765" params=""
+width=" 100%" height="166" iframe="true" /]&lt;/p&gt;
+&lt;p&gt;今回はテーマがだいぶとんがっていて、&lt;/p&gt;
+&lt;p&gt;「バイノーラルビート」　がテーマのアルバムとなってます。&lt;/p&gt;
+&lt;p&gt;厳密なバイノーラルビートな音縛りというわけではないんですが、&lt;/p&gt;
+&lt;p&gt;左右で別々な音が鳴っている　ということが条件の実験的な作品集です。&lt;/p&gt;
+&lt;p&gt;今回自分が作った「symmetric」という曲では、&lt;/p&gt;
+&lt;p&gt;左右シーケンスは全く一緒だけど音が必ず別々なものが鳴るような構成になってます。&lt;/p&gt;</summary><category term="electronica"></category><category term="pitiful pip puppet"></category></entry><entry><title>【イベント告知】7/15 FL研究会 @中野HeavySickZero 【#FL研究会】</title><link href="/%e3%80%90%e3%82%a4%e3%83%99%e3%83%b3%e3%83%88%e5%91%8a%e7%9f%a5%e3%80%91715-fl%e7%a0%94%e7%a9%b6%e4%bc%9a-%e4%b8%ad%e9%87%8eheavysickzero-%e3%80%90fl%e7%a0%94%e7%a9%b6%e4%bc%9a%e3%80%91.html" rel="alternate"></link><updated>2013-06-20T22:30:00+02:00</updated><author><name>admin</name></author><id>tag:,2013-06-20:%e3%80%90%e3%82%a4%e3%83%99%e3%83%b3%e3%83%88%e5%91%8a%e7%9f%a5%e3%80%91715-fl%e7%a0%94%e7%a9%b6%e4%bc%9a-%e4%b8%ad%e9%87%8eheavysickzero-%e3%80%90fl%e7%a0%94%e7%a9%b6%e4%bc%9a%e3%80%91.html</id><summary type="html">&lt;p&gt;7/15にこんなイベントやります！&lt;/p&gt;
+&lt;p&gt;FL使いな方も、これから使ってみたい方も、ぜひぜひお越しください！&lt;/p&gt;
+&lt;h1&gt;FL研究会&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;イベント名&lt;/strong&gt;：FL研究会&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;日時&lt;/strong&gt;：7/15(月祝) 15:00start-20:30end&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;料金&lt;/strong&gt;：2000円(ワンドリンク込み)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;場所&lt;/strong&gt;：中野HeavySickZero&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;出演 50音順&lt;/strong&gt;：&lt;br /&gt;
+ ca5(&lt;a href="https://twitter.com/Ca5"&gt;@Ca5&lt;/a&gt;)&lt;br /&gt;
+ ebi1000(&lt;a href="https://twitter.com/ebi1000"&gt;@ebi1000&lt;/a&gt;)&lt;br /&gt;
+ FQTQ(&lt;a href="https://twitter.com/FQTQ"&gt;@FQTQ&lt;/a&gt;)&lt;br /&gt;
+ HESUKO(&lt;a href="https://twitter.com/hesuko"&gt;@hesuko&lt;/a&gt;)&lt;br /&gt;
+ hiko(&lt;a href="https://twitter.com/Lender_hiko"&gt;@Lender_hiko&lt;/a&gt;)&lt;br /&gt;
+ Yambabom(&lt;a href="https://twitter.com/yambabom"&gt;@yambabom&lt;/a&gt;)&lt;br /&gt;
+ yousuke kaga(&lt;a href="https://twitter.com/yskkg"&gt;@yskkg&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;イベント内容&lt;/strong&gt;：&lt;br /&gt;
+ ラウンジでFLStudioユーザによる講演および交流会(一人30分、転換10分
+計40分)、  &lt;/p&gt;
+&lt;p&gt;メインでは講演者によるライブ及びDJ（一人30分、転換や客入り等別DJ入ります）。&lt;/p&gt;
+&lt;/blockquote&gt;</summary><category term="FL"></category></entry><entry><title>明日M3に出ます！(4/29 第二展示場1Fえ-30a)</title><link href="/%e6%98%8e%e6%97%a5m3%e3%81%ab%e5%87%ba%e3%81%be%e3%81%99%ef%bc%81429-%e7%ac%ac%e4%ba%8c%e5%b1%95%e7%a4%ba%e5%a0%b41f%e3%81%88-30a.html" rel="alternate"></link><updated>2013-04-28T22:45:00+02:00</updated><author><name>admin</name></author><id>tag:,2013-04-28:%e6%98%8e%e6%97%a5m3%e3%81%ab%e5%87%ba%e3%81%be%e3%81%99%ef%bc%81429-%e7%ac%ac%e4%ba%8c%e5%b1%95%e7%a4%ba%e5%a0%b41f%e3%81%88-30a.html</id><summary type="html">&lt;p&gt;&lt;a href="http://blog.ca54makske.com/blog/2013/04/20/m3%E3%81%AB%E5%87%BA%E3%81%BE%E3%81%99%EF%BC%81429-%E7%AC%AC%E4%BA%8C%E5%B1%95%E7%A4%BA%E5%A0%B41f%E3%81%88-30a/"&gt;前々回の記事&lt;/a&gt;でも書きましたが明日はM3でアルバムを出します！&lt;/p&gt;
+&lt;p&gt;M3会場限定でおまけとして無料リミックス集も配布予定なので&lt;br /&gt;
+ぜひぜひ 第二展示場1F え-30aまでお越しください！&lt;/p&gt;</summary><category term="breakcore"></category><category term="chipbreak"></category><category term="NKRN"></category><category term="otherman"></category></entry><entry><title>Deep Blue【新曲リリース】</title><link href="/deep-blue.html" rel="alternate"></link><updated>2013-04-22T00:40:00+02:00</updated><author><name>admin</name></author><id>tag:,2013-04-22:deep-blue.html</id><summary type="html">&lt;p&gt;久々に OthermanRecordsでEPをリリースしました！&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Deep Blue&lt;/strong&gt;&lt;br /&gt;
+[&lt;img alt="" src="http://www.archive.org/download/OTMN045/deepblue-jacket.jpg" /&gt;  &lt;/p&gt;
+&lt;p&gt;http://www.otherman-records.com/releases/OTMN045](http://www.otherman-records.com/releases/OTMN045)&lt;/p&gt;
+&lt;p&gt;ボーナストラックとしてumioさんによるタイトル曲のリミックスが入っています！&lt;br /&gt;
+ぜひぜひ皆さんDLしてみてください&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;試聴版&lt;/strong&gt;&lt;br /&gt;
+[soundcloud url="http://api.soundcloud.com/tracks/88847695" params=""
+width=" 100%" height="166" iframe="true" /]&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;～～おまけ～～&lt;/strong&gt;&lt;br /&gt;
+おまけで入ってる壁紙はこんなふうに使って遊んでみてください  &lt;/p&gt;
+&lt;p&gt;ただの画像なんで相手がmacだろうがiPadだろうが、ブルースクリーンクラッシャーになることができます&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.flickr.com/photos/46200029@N06/8668953718/"&gt;&lt;img alt="" src="http://farm9.staticflickr.com/8383/8668953718_d7bd1a3e62_b.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.flickr.com/photos/46200029@N06/8668954092/"&gt;&lt;img alt="" src="http://farm9.staticflickr.com/8386/8668954092_24ed589fbe_b.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;※説明用なので明るい所で撮影していますが、暗い所で撮影したほうがそれっぽく写ります&lt;/p&gt;</summary><category term="breakcore"></category><category term="chipbreak"></category><category term="otherman"></category></entry><entry><title>M3に出ます！(4/29 第二展示場1Fえ-30a)</title><link href="/m3%e3%81%ab%e5%87%ba%e3%81%be%e3%81%99%ef%bc%81429-%e7%ac%ac%e4%ba%8c%e5%b1%95%e7%a4%ba%e5%a0%b41f%e3%81%88-30a.html" rel="alternate"></link><updated>2013-04-20T23:30:00+02:00</updated><author><name>admin</name></author><id>tag:,2013-04-20:m3%e3%81%ab%e5%87%ba%e3%81%be%e3%81%99%ef%bc%81429-%e7%ac%ac%e4%ba%8c%e5%b1%95%e7%a4%ba%e5%a0%b41f%e3%81%88-30a.html</id><summary type="html">&lt;p&gt;一年ぶりにM3でCD出すことになりました！&lt;/p&gt;
+&lt;p&gt;Soulgem Breaks  &lt;/p&gt;
+&lt;iframe width="300" height="410" style="position: relative; display: block; width: 300px; height: 410px;" src="http://bandcamp.com/EmbeddedPlayer/v=2/album=128468457/size=grande3/bgcol=FFFFFF/linkcol=4285BB/" allowtransparency="true" frameborder="0"&gt;[Soulgem
+Breaks by various
+artists](http://nkrn.bandcamp.com/album/soulgem-breaks)&lt;/iframe&gt;
+
+&lt;p&gt;担当した曲はこちら&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ca5 - Irmela von Nordheim (ティアラの魔女)&lt;/strong&gt;
+&lt;iframe width="46" height="23" style="position: relative; display: block; width: 46px; height: 23px;" src="http://bandcamp.com/EmbeddedPlayer/v=2/track=2244096427/size=short/bgcol=FFFFFF/linkcol=4285BB/" allowtransparency="true" frameborder="0"&gt;&lt;a href="http://nkrn.bandcamp.com/track/irmela-von-nordheim"&gt;Irmela
+von Nordheim (ティアラの魔女) by
+Ca5&lt;/a&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;第二展示場1Fえ-30a でお待ちしております!&lt;/p&gt;</summary><category term="breakcore"></category><category term="chipbreak"></category><category term="chiptune"></category><category term="M3"></category><category term="NKRN"></category></entry><entry><title>DEMO曲 (memory of the cartridge)</title><link href="/demo-memory-of-the-cartridge.html" rel="alternate"></link><updated>2013-03-12T00:00:00+01:00</updated><author><name>admin</name></author><id>tag:,2013-03-12:demo-memory-of-the-cartridge.html</id><summary type="html">&lt;p&gt;1月から更新ネタが全然なかったので、手元の曲のDEMOバージョンをアップしてみました&lt;/p&gt;
+&lt;p&gt;[soundcloud url="http://api.soundcloud.com/tracks/82757708" params=""
+width=" 100%" height="166" iframe="true" /]&lt;/p&gt;
+&lt;p&gt;そのうちOthermanRecordsで出ると思います、そのうち&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.otherman-records.com/"&gt;http://www.otherman-records.com/&lt;/a&gt;&lt;/p&gt;</summary><category term="breakcore"></category><category term="chipbreak"></category><category term="chiptune"></category><category term="otherman"></category></entry><entry><title>新年早々新曲でました(steel wool) [pitiful pip puppet]</title><link href="/%e6%96%b0%e5%b9%b4%e6%97%a9%e3%80%85%e6%96%b0%e6%9b%b2%e3%81%a7%e3%81%be%e3%81%97%e3%81%9fsteel-wool-pitiful-pip-puppet.html" rel="alternate"></link><updated>2013-01-01T00:45:00+01:00</updated><author><name>admin</name></author><id>tag:,2013-01-01:%e6%96%b0%e5%b9%b4%e6%97%a9%e3%80%85%e6%96%b0%e6%9b%b2%e3%81%a7%e3%81%be%e3%81%97%e3%81%9fsteel-wool-pitiful-pip-puppet.html</id><summary type="html">&lt;p&gt;&lt;a href="http://pitifulpippuppet.web.fc2.com"&gt;pitiful pip
+puppet&lt;/a&gt;の新アルバム「iron」に1曲参加(#1
+steel wool)させていただきました&lt;/p&gt;
+&lt;p&gt;リリースページはこちら！&lt;br /&gt;
+[&lt;img alt="" src="http://pitifulpippuppet.web.fc2.com/pic/IRON400.gif" /&gt;  &lt;/p&gt;
+&lt;p&gt;http://pitifulpippuppet.web.fc2.com/album/iron.html](http://pitifulpippuppet.web.fc2.com/album/iron.html)&lt;/p&gt;
+&lt;p&gt;その名の通り「鉄」がテーマのアルバムとなっていて、  &lt;/p&gt;
+&lt;p&gt;自分の曲も珍しく鉄の音のサンプルを混ぜたちょっと遅めな形に仕上げてみました。&lt;/p&gt;
+&lt;p&gt;試聴版はsoundcloudにもあげてます&lt;br /&gt;
+[soundcloud url="http://api.soundcloud.com/tracks/73169891" params=""
+width=" 100%" height="166" iframe="true" /]&lt;/p&gt;</summary></entry><entry><title>人間発電所のリミックス</title><link href="/%e4%ba%ba%e9%96%93%e7%99%ba%e9%9b%bb%e6%89%80%e3%81%ae%e3%83%aa%e3%83%9f%e3%83%83%e3%82%af%e3%82%b9.html" rel="alternate"></link><updated>2012-12-02T00:34:00+01:00</updated><author><name>admin</name></author><id>tag:,2012-12-02:%e4%ba%ba%e9%96%93%e7%99%ba%e9%9b%bb%e6%89%80%e3%81%ae%e3%83%aa%e3%83%9f%e3%83%83%e3%82%af%e3%82%b9.html</id><summary type="html">&lt;p&gt;勝手にリミックスシリーズまたやってみました。&lt;br /&gt;
+声ものは面白いけど混ぜるのむずかしいです。&lt;br /&gt;
+[soundcloud url="http://api.soundcloud.com/tracks/69554196"
+iframe="true" /]&lt;/p&gt;</summary><category term="breakcore"></category><category term="remix"></category></entry><entry><title>othermanshow@firejam2012の動画全員分アップロードしました</title><link href="/othermanshowfirejam2012%e3%81%ae%e5%8b%95%e7%94%bb%e5%85%a8%e5%93%a1%e5%88%86%e3%82%a2%e3%83%83%e3%83%97%e3%83%ad%e3%83%bc%e3%83%89%e3%81%97%e3%81%be%e3%81%97%e3%81%9f.html" rel="alternate"></link><updated>2012-11-11T19:10:00+01:00</updated><author><name>admin</name></author><id>tag:,2012-11-11:othermanshowfirejam2012%e3%81%ae%e5%8b%95%e7%94%bb%e5%85%a8%e5%93%a1%e5%88%86%e3%82%a2%e3%83%83%e3%83%97%e3%83%ad%e3%83%bc%e3%83%89%e3%81%97%e3%81%be%e3%81%97%e3%81%9f.html</id><summary type="html">&lt;p&gt;firejam2012でのothermanクルー全員分の動画をアップロードしましたー&lt;/p&gt;
+&lt;p&gt;URL一覧はこちら&lt;br /&gt;
+&lt;a href="http://blog.otherman-records.com/post/35474757069/firejam2012"&gt;http://blog.otherman-records.com/post/35474757069/firejam2012&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;miii&lt;br /&gt;
+ http://blog.otherman-records.com/post/35474237634/miii-live-firejam2012&lt;/p&gt;
+&lt;p&gt;storz  &lt;/p&gt;
+&lt;p&gt;http://blog.otherman-records.com/post/35474277697/storz-live-firejam2012&lt;/p&gt;
+&lt;p&gt;suesett  &lt;/p&gt;
+&lt;p&gt;http://blog.otherman-records.com/post/35474318212/suesett-live-firejam2012&lt;/p&gt;
+&lt;p&gt;nishikawacchi  &lt;/p&gt;
+&lt;p&gt;http://blog.otherman-records.com/post/35474338628/nishikawacchi-dj-firejam2012&lt;/p&gt;
+&lt;p&gt;Ca5&lt;br /&gt;
+ http://blog.otherman-records.com/post/35474349089/ca5-live-firejam2012&lt;/p&gt;
+&lt;p&gt;ebi1000  &lt;/p&gt;
+&lt;p&gt;http://blog.otherman-records.com/post/35474370145/ebi1000-live-firejam2012&lt;/p&gt;
+&lt;p&gt;iserobin  &lt;/p&gt;
+&lt;p&gt;http://blog.otherman-records.com/post/35474379444/iserobin-live-firejam2012&lt;/p&gt;
+&lt;p&gt;othermoon  &lt;/p&gt;
+&lt;p&gt;http://blog.otherman-records.com/post/35474399958/othermoon-dj-firejam2012&lt;/p&gt;
+&lt;/blockquote&gt;</summary><category term="otherman"></category></entry><entry><title>ChipBreakGentleman</title><link href="/chipbreakgentleman.html" rel="alternate"></link><updated>2012-09-26T00:00:00+02:00</updated><author><name>admin</name></author><id>tag:,2012-09-26:chipbreakgentleman.html</id><summary type="html">&lt;p&gt;リミックス・・・というか、マッシュアップですね。&lt;br /&gt;
+山田マリオマン&lt;/p&gt;
+&lt;p&gt;[soundcloud url="http://api.soundcloud.com/tracks/61113618"
+iframe="true" /]&lt;/p&gt;</summary><category term="breakcore"></category><category term="chiptune"></category></entry><entry><title>firejam2012の動画</title><link href="/firejam2012%e3%81%ae%e5%8b%95%e7%94%bb.html" rel="alternate"></link><updated>2012-09-06T23:59:00+02:00</updated><author><name>admin</name></author><id>tag:,2012-09-06:firejam2012%e3%81%ae%e5%8b%95%e7%94%bb.html</id><summary type="html">&lt;p&gt;もう１週間以上すぎてしまいましたがfirejamお疲れ様でした！&lt;br /&gt;
+以下は自分のライブの様子です  &lt;/p&gt;
+&lt;iframe width="420" height="315" src="http://www.youtube.com/embed/4qJNfEFd_xc" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;たまに左に手かざしているように見えますが、  &lt;/p&gt;
+&lt;p&gt;その先にはkinectが設置してあって、KAOSSPADのエフェクトがかかるようになってます。&lt;/p&gt;</summary><category term="kinect"></category><category term="live"></category><category term="max/msp"></category><category term="otherman"></category><category term="touchosc"></category></entry><entry><title>コミケで曲出します！(8/11 西地区 "さ" 25b)</title><link href="/%e3%82%b3%e3%83%9f%e3%82%b1%e3%81%a7%e6%9b%b2%e5%87%ba%e3%81%97%e3%81%be%e3%81%99%ef%bc%81811-%e8%a5%bf%e5%9c%b0%e5%8c%ba-%e3%81%95-25b.html" rel="alternate"></link><updated>2012-08-08T23:29:00+02:00</updated><author><name>admin</name></author><id>tag:,2012-08-08:%e3%82%b3%e3%83%9f%e3%82%b1%e3%81%a7%e6%9b%b2%e5%87%ba%e3%81%97%e3%81%be%e3%81%99%ef%bc%81811-%e8%a5%bf%e5%9c%b0%e5%8c%ba-%e3%81%95-25b.html</id><summary type="html">&lt;p&gt;今年もコミケのebi1000ブースでぼくの曲が収録されたCDがでます！&lt;/p&gt;
+&lt;p&gt;場所は&lt;a href="http://twitcmap.jp/?id=0082-2-SAh-25-b"&gt;ここ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;詳細はえびさんブログに載ってます&lt;br /&gt;
+&lt;a href="http://ebi1000.net/"&gt;http://ebi1000.net/&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;新譜はクロノトリガーのアレンジアルバム！今回はゲストも参加しています。&lt;/p&gt;
+&lt;p&gt;Ancient Breaks&lt;/p&gt;
+&lt;p&gt;01.クロノ・トリガー -ab remix-&lt;br /&gt;
+ 02.時の回廊 -ab remix-&lt;br /&gt;
+ 03.ロボのテーマ -ab remix-&lt;br /&gt;
+ 04.黒の夢 -ab remix-&lt;br /&gt;
+ 05.戦い (maha-yuga remix) - maha-yuga&lt;br /&gt;
+ 06.ロボのテーマ (VRC6 remix) - suesett&lt;br /&gt;
+ 07.tokinouiro - ca5&lt;/p&gt;
+&lt;/blockquote&gt;</summary><category term="otherman"></category><category term="コミケ"></category></entry><entry><title>7/29 江ノレイブ</title><link href="/729-%e6%b1%9f%e3%83%8e%e3%83%ac%e3%82%a4%e3%83%96-2.html" rel="alternate"></link><updated>2012-07-22T23:48:00+02:00</updated><author><name>admin</name></author><id>tag:,2012-07-22:729-%e6%b1%9f%e3%83%8e%e3%83%ac%e3%82%a4%e3%83%96-2.html</id><summary type="html">&lt;p&gt;来週江ノ島でゲリラライブのようなイベントに参加します&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;7/29 enerave番外編「江ノレイブ」&lt;br /&gt;
+&lt;/strong&gt;&lt;br /&gt;
+&lt;a href="http://tweetvite.com/event/enorave0729%20"&gt;http://tweetvite.com/event/enorave0729&lt;br /&gt;
+&lt;/a&gt;&lt;br /&gt;
+場所やなんかはOtherman-Records公式のtwitterアカウント
+&lt;a href="https://twitter.com/OthermanRecords" title="@OthermanRecords"&gt;@OthermanRecords&lt;/a&gt;
+にて&lt;br /&gt;
+発表予定です！&lt;/p&gt;
+&lt;p&gt;(追記)&lt;br /&gt;
+公式の告知サイトが出ました！場所詳細などはこちらに載ってます！&lt;br /&gt;
+&lt;a href="http://www.otherman-records.com/special/enorave/"&gt;http://www.otherman-records.com/special/enorave/&lt;/a&gt;&lt;/p&gt;</summary><category term="live"></category><category term="otherman"></category></entry><entry><title>動画アップしました(M3-2012, Othermanshow#7)</title><link href="/%e5%8b%95%e7%94%bb%e3%82%a2%e3%83%83%e3%83%97%e3%81%97%e3%81%be%e3%81%97%e3%81%9fm3-2012-othermanshow7.html" rel="alternate"></link><updated>2012-05-18T22:00:00+02:00</updated><author><name>admin</name></author><id>tag:,2012-05-18:%e5%8b%95%e7%94%bb%e3%82%a2%e3%83%83%e3%83%97%e3%81%97%e3%81%be%e3%81%97%e3%81%9fm3-2012-othermanshow7.html</id><summary type="html">&lt;p&gt;あざまんしょー７のライブの様子&lt;br /&gt;
+いせさんが取ってくれました！  &lt;/p&gt;
+&lt;iframe width="560" height="315" src="http://www.youtube.com/embed/6HlDEzDdl_E" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;
+あとM3で出した曲のサンプルの長いバージョンをニコニコにアップしておきました。
+
+&lt;script type="text/javascript" src="http://ext.nicovideo.jp/thumb_watch/nm17854060"&gt;&lt;/script&gt;
+
+
+&lt;noscript&gt;
+[【ニコニコ動画】ふたりのボカロ(ふたりの天使remix)](http://www.nicovideo.jp/watch/nm17854060)
+
+&lt;/noscript&gt;</summary><category term="iPad"></category><category term="live"></category><category term="M3"></category><category term="mac"></category><category term="max/msp"></category><category term="NKRN"></category><category term="otherman"></category><category term="touchosc"></category></entry><entry><title>きのうのライブセット公開</title><link href="/%e3%81%8d%e3%81%ae%e3%81%86%e3%81%ae%e3%83%a9%e3%82%a4%e3%83%96%e3%82%bb%e3%83%83%e3%83%88%e5%85%ac%e9%96%8b.html" rel="alternate"></link><updated>2012-05-14T22:00:00+02:00</updated><author><name>admin</name></author><id>tag:,2012-05-14:%e3%81%8d%e3%81%ae%e3%81%86%e3%81%ae%e3%83%a9%e3%82%a4%e3%83%96%e3%82%bb%e3%83%83%e3%83%88%e5%85%ac%e9%96%8b.html</id><summary type="html">&lt;p&gt;あざまんしょー７おつかれさまでした  &lt;/p&gt;
+&lt;p&gt;ホントはライブ前にこういうの準備しておきたかったんですが間に合わず・・・&lt;br /&gt;
+ライブセットの様子をを久々に動画に撮っておきました&lt;/p&gt;
+&lt;iframe width="560" height="315" src="http://www.youtube.com/embed/ck2LWPL8soE" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="http://blog.ca54makske.com/?p=7469"&gt;前回のセット&lt;/a&gt;のコアなところはそのままで、&lt;br /&gt;
+リトリガなどのエフェクトを付け足してあります。&lt;br /&gt;
+あざまんしょー７ではこのセット +
+&lt;a href="http://blog.ca54makske.com/?p=442"&gt;kinectのセット&lt;/a&gt;を使ってました。&lt;/p&gt;
+&lt;p&gt;これでもうドラムのスライスが合わないような曲のときでも  &lt;/p&gt;
+&lt;p&gt;ライブ中やることがなくて手持ち無沙汰・・・なんてこともなくなって個人的にはだいぶ満足です&lt;/p&gt;</summary><category term="max/msp"></category><category term="otherman"></category></entry><entry><title>あざまんしょー７</title><link href="/%e3%81%82%e3%81%96%e3%81%be%e3%82%93%e3%81%97%e3%82%87%e3%83%bc%ef%bc%97.html" rel="alternate"></link><updated>2012-05-13T02:21:00+02:00</updated><author><name>admin</name></author><id>tag:,2012-05-13:%e3%81%82%e3%81%96%e3%81%be%e3%82%93%e3%81%97%e3%82%87%e3%83%bc%ef%bc%97.html</id><summary type="html">&lt;p&gt;明日・・・じゃないもう本日、ですね　あざまんしょー７に出ます!&lt;/p&gt;
+&lt;p&gt;THE OTHERMAN SHOW 7&lt;br /&gt;
+&lt;a href="http://www.otherman-records.com/special/7/"&gt;http://www.otherman-records.com/special/7/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日はいつにもまして準備が悪い上に&lt;br /&gt;
+さらに風邪もこじらせてしまって只今誠意準備中でございます。&lt;/p&gt;
+&lt;p&gt;わりとこんな気分です&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;*'``・* 。&lt;br /&gt;
+ 　　　　　　　　|　　　　 `*。&lt;br /&gt;
+ 　　　　 　　,｡∩　　　　 　* 　　　もうどうにでもな～れ&lt;br /&gt;
+ 　　　　　　+　(´･ω･`)　*｡+ﾟ&lt;br /&gt;
+ 　　　　　　`*｡ ヽ、　 つ *ﾟ*&lt;br /&gt;
+ 　　　　　　　`・+｡*・' ﾟ⊃ +ﾟ&lt;br /&gt;
+ 　　　　　　　☆　　 ∪\~ ｡*ﾟ&lt;br /&gt;
+ 　 　　　　　　`・+｡*・ ﾟ&lt;/p&gt;
+&lt;/blockquote&gt;</summary><category term="otherman"></category></entry><entry><title>MacOSX Lionで複数の音声入出力を扱う(max/msp)</title><link href="/macosx-lion%e3%81%a7%e8%a4%87%e6%95%b0%e3%81%ae%e9%9f%b3%e5%a3%b0%e5%85%a5%e5%87%ba%e5%8a%9b%e3%82%92%e6%89%b1%e3%81%86maxmsp.html" rel="alternate"></link><updated>2012-05-02T23:52:00+02:00</updated><author><name>admin</name></author><id>tag:,2012-05-02:macosx-lion%e3%81%a7%e8%a4%87%e6%95%b0%e3%81%ae%e9%9f%b3%e5%a3%b0%e5%85%a5%e5%87%ba%e5%8a%9b%e3%82%92%e6%89%b1%e3%81%86maxmsp.html</id><summary type="html">&lt;p&gt;・・・のにずいぶんはまったのでメモ。&lt;/p&gt;
+&lt;p&gt;自分のライブセットは、&lt;br /&gt;
+AbletonLive -[Soundflower 16ch]→ max/msp -[Audio
+I/Oあるいは内蔵音声出力]→ スピーカー&lt;br /&gt;
+という構成になっているので、今まで(〜MacOSX
+SnowLeopard)はこんな風に設定してました。&lt;/p&gt;
+&lt;p&gt;（※以下出力に「内蔵音声出力」を使った場合、で説明します）&lt;br /&gt;
+[flickr id="6989532404" thumbnail="original" overlay="true"
+size="original" group="" align="none"]&lt;/p&gt;
+&lt;p&gt;ところがOSがLionになってからはこれと同じ設定で音出してくれず。。。&lt;br /&gt;
+どっかのメモで見つけたんですがこんな風にしないと駄目だそうです。&lt;/p&gt;
+&lt;h3&gt;1.Audio MIDI設定で新しい「機器セット」を作る&lt;/h3&gt;
+&lt;p&gt;下記の図みたいな感じで、新しくセットを作った中で&lt;br /&gt;
+使いたいオーディオドライバを選択しておきます。&lt;br /&gt;
+[flickr id="7135615821" thumbnail="medium" overlay="true"
+size="original" group="" align="none"]&lt;/p&gt;
+&lt;h3&gt;2.max/mspの設定で、1.で作った機器セットを利用ドライバとして設定する&lt;/h3&gt;
+&lt;p&gt;[flickr id="7135615959" thumbnail="original" overlay="true"
+size="original" group="" align="none"]&lt;/p&gt;
+&lt;p&gt;・・・とこれでようやく思った通りに音を出すことができるようになりました。&lt;/p&gt;
+&lt;p&gt;OSのバージョンが変わったから仕様が変わるのは仕方ないにしても、  &lt;/p&gt;
+&lt;p&gt;従来のままじゃ動かないケースはなんかこうお知らせとかしてほしいもんですね。&lt;/p&gt;</summary><category term="lion"></category><category term="mac"></category><category term="max/msp"></category></entry><entry><title>4/30のM3の曲のサンプル</title><link href="/430%e3%81%aem3%e3%81%ae%e6%9b%b2%e3%81%ae%e3%82%b5%e3%83%b3%e3%83%97%e3%83%ab.html" rel="alternate"></link><updated>2012-05-02T00:40:00+02:00</updated><author><name>admin</name></author><id>tag:,2012-05-02:430%e3%81%aem3%e3%81%ae%e6%9b%b2%e3%81%ae%e3%82%b5%e3%83%b3%e3%83%97%e3%83%ab.html</id><summary type="html">&lt;p&gt;4/30に出した曲のサンプルをUPしました&lt;br /&gt;
+ちょっとサンプル短いかな。。&lt;/p&gt;
+&lt;p&gt;[soundcloud url="http://api.soundcloud.com/tracks/44961141"
+iframe="true" /]&lt;/p&gt;</summary></entry><entry><title>ドプマン後のsoundcloudリリースまとめ</title><link href="/%e3%83%89%e3%83%97%e3%83%9e%e3%83%b3%e5%be%8c%e3%81%aesoundcloud%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%e3%81%be%e3%81%a8%e3%82%81.html" rel="alternate"></link><updated>2012-02-19T22:00:00+01:00</updated><author><name>admin</name></author><id>tag:,2012-02-19:%e3%83%89%e3%83%97%e3%83%9e%e3%83%b3%e5%be%8c%e3%81%aesoundcloud%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%e3%81%be%e3%81%a8%e3%82%81.html</id><summary type="html">&lt;p&gt;多分今月はもうこれ以上リリースできんので先にまとめておきます&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;HSB (920 series)&lt;br /&gt;
+&lt;/strong&gt;&lt;br /&gt;
+[soundcloud url="http://api.soundcloud.com/tracks/35846175"
+iframe="true" /]&lt;/p&gt;
+&lt;p&gt;ドプマンショーでかけた曲です。  &lt;/p&gt;
+&lt;p&gt;ダウンタウン熱血行進曲のステージセレクト画面で流れる曲のリミックスです。&lt;br /&gt;
+たしかくにおくんの時代劇あたりでも同じ曲が出てきたはず。。。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hemoro X (Ca5 remix)&lt;br /&gt;
+&lt;/strong&gt;&lt;br /&gt;
+[soundcloud url="http://api.soundcloud.com/tracks/37096673"
+iframe="true" /]&lt;/p&gt;
+&lt;p&gt;Wan Bushiさんの曲をリミックスしました。&lt;br /&gt;
+原曲が素晴らしいんでぜひそっちの方を聞いて欲しいです。&lt;/p&gt;
+&lt;p&gt;DLはこちらから：&lt;br /&gt;
+&lt;a href="http://www.otherman-records.com/releases/OTMN030%20"&gt;http://www.otherman-records.com/releases/OTMN030&lt;br /&gt;
+&lt;/a&gt;&lt;/p&gt;</summary><category term="breakcore"></category><category term="otherman"></category></entry><entry><title>LiveのMIDIクロックタイプに気をつけろ</title><link href="/live%e3%81%aemidi%e3%82%af%e3%83%ad%e3%83%83%e3%82%af%e3%82%bf%e3%82%a4%e3%83%97%e3%81%ab%e6%b0%97%e3%82%92%e3%81%a4%e3%81%91%e3%82%8d.html" rel="alternate"></link><updated>2012-02-05T23:42:00+01:00</updated><author><name>admin</name></author><id>tag:,2012-02-05:live%e3%81%aemidi%e3%82%af%e3%83%ad%e3%83%83%e3%82%af%e3%82%bf%e3%82%a4%e3%83%97%e3%81%ab%e6%b0%97%e3%82%92%e3%81%a4%e3%81%91%e3%82%8d.html</id><summary type="html">&lt;p&gt;ドプマンショーおつかれさまでした&lt;/p&gt;
+&lt;p&gt;ぼくのライブセットはAbleton Live → max/mspと&lt;br /&gt;
+midi同期をさせて音の操作をするようになってるんですが、  &lt;/p&gt;
+&lt;p&gt;たまに処理が重くなって音が飛んだ時に、midi同期のクロックとのタイミングがずれてしまうことがあって、&lt;br /&gt;
+以前あざまんしょー６では&lt;br /&gt;
+ライブ中にたまにタイミングを直して・・・とやってました&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+ところがこの前のドプマンショーでは  &lt;/p&gt;
+&lt;p&gt;なかなかクロックが合わず何度か修正しながらやらなきゃならないことになってしまってました。&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+うーんこれはどうにかできないものか・・・&lt;br /&gt;
+と思ってLiveのmidiの仕様について調べてるとこんな記事をみつけました&lt;br /&gt;
+&lt;br /&gt;
+ableton Liveと外部電子楽器の同期について (以下抜粋)&lt;br /&gt;
+&lt;a href="http://shop.plaza.rakuten.co.jp/dj/diary/detail/201008170000/%20"&gt;http://shop.plaza.rakuten.co.jp/dj/diary/detail/201008170000/&lt;br /&gt;
+&lt;/a&gt;  &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;マニュアルによると....&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+Songモード  &lt;/p&gt;
+&lt;p&gt;Liveの再生位置が変わるたびにMIDIソング位置ポインタ(SPP)とコンティニューメッセージが送信されます。&lt;/p&gt;
+&lt;p&gt;Patternモード  &lt;/p&gt;
+&lt;p&gt;スタートメッセージのみ使用し、次にスタートする小節に合わせて送信されます。  &lt;/p&gt;
+&lt;p&gt;MIDIスレーブがSPP(ソングポジションポインタ)メッセージを無視するようならPatternモードを使用します。&lt;/p&gt;
+&lt;p&gt;ableton LiveのデフォルトではSONGモードになっていました。&lt;/p&gt;
+&lt;p&gt;ELECTRIBE
+Sはクリック出し用でパターンモードで使っているのですが、ELECTRIBE
+Sの説明書を見たところSPPメッセージは受けないとのこと。&lt;/p&gt;
+&lt;p&gt;なるほど、Ableton
+LiveのMIDIクロックをパターンモードにすればよいというわけですね。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;自分が作ったパッチはSPPでの同期は対応してないので&lt;br /&gt;
+Patternモードに変えて試してみました&lt;br /&gt;
+&lt;br /&gt;
+するとあっさりクロックずれ問題が解決・・・・・・&lt;br /&gt;
+&lt;br /&gt;
+動作が重くなった時の再現のために  &lt;/p&gt;
+&lt;p&gt;iTunesやらiPhotoやら色々立ち上げて音がブツブツ切れるような状態でもやってみましたが&lt;br /&gt;
+ちゃんと音とクロックをきっちり合わせてくれるようでした&lt;/p&gt;
+&lt;p&gt;という訳で長々書きましたが  &lt;/p&gt;
+&lt;p&gt;Liveと他の機材を同期させるときはモードに気をつけましょうね！というお話でしたとさ&lt;/p&gt;</summary></entry><entry><title>次のらいぶはNakano Heavysick Zeroでドプマンショー #dopeman_show</title><link href="/%e6%ac%a1%e3%81%ae%e3%82%89%e3%81%84%e3%81%b6%e3%81%afnakano-heavysick-zero%e3%81%a7%e3%83%89%e3%83%97%e3%83%9e%e3%83%b3%e3%82%b7%e3%83%a7%e3%83%bc-dopeman_show.html" rel="alternate"></link><updated>2012-01-21T23:41:00+01:00</updated><author><name>admin</name></author><id>tag:,2012-01-21:%e6%ac%a1%e3%81%ae%e3%82%89%e3%81%84%e3%81%b6%e3%81%afnakano-heavysick-zero%e3%81%a7%e3%83%89%e3%83%97%e3%83%9e%e3%83%b3%e3%82%b7%e3%83%a7%e3%83%bc-dopeman_show.html</id><summary type="html">&lt;p&gt;次は2/4にライブします！&lt;br /&gt;
+例によってまた準備が全然できてｎ&lt;/p&gt;
+&lt;p&gt;THE DOPEMAN SHOW&lt;br /&gt;
+&lt;a href="http://www.otherman-records.com/special/dopeman/"&gt;http://www.otherman-records.com/special/dopeman/&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;2012.02.04 (Sat) 15:00 - 20:30&lt;br /&gt;
+ @ &lt;a href="http://www.heavysick.co.jp/zero/"&gt;Nakano Heavysick Zero&lt;/a&gt;&lt;br /&gt;
+ door : 2,000yen / with 1drink&lt;br /&gt;
+ w / f: 1,500yen / with 1drink&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img alt="" src="http://www.otherman-records.com/special/dopeman/images/flyer_omote.png" /&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="http://www.otherman-records.com/special/dopeman/images/flyer_ura.png" /&gt;&lt;/p&gt;
+&lt;p&gt;いつもやるライブより10分枠が長いんで&lt;br /&gt;
+出来ればいろいろ試してみようと思います！&lt;/p&gt;</summary><category term="otherman"></category></entry><entry><title>2011まとめ</title><link href="/2011%e3%81%be%e3%81%a8%e3%82%81.html" rel="alternate"></link><updated>2011-12-28T22:44:00+01:00</updated><author><name>admin</name></author><id>tag:,2011-12-28:2011%e3%81%be%e3%81%a8%e3%82%81.html</id><summary type="html">&lt;p&gt;2011年オレオレ年表&lt;/p&gt;
+&lt;h1&gt;colorEP リリース(1/30)&lt;/h1&gt;
+&lt;p&gt;&lt;img alt="" src="http://www.archive.org/download/OTMN010/folder.jpg" /&gt;&lt;br /&gt;
+&lt;a href="http://www.otherman-records.com/releases/OTMN010"&gt;http://www.otherman-records.com/releases/OTMN010&lt;br /&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;9in1 リリース(2/20)&lt;/h1&gt;
+&lt;p&gt;&lt;img alt="" src="http://ia700403.us.archive.org/5/items/OTMN017/9in1.png" /&gt;&lt;br /&gt;
+&lt;a href="http://www.otherman-records.com/releases/OTMN017"&gt;http://www.otherman-records.com/releases/OTMN017&lt;br /&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;M3(5/1)&lt;/h1&gt;
+&lt;p&gt;今もここで一部視聴ができます&lt;br /&gt;
+&lt;a href="http://nkrn.bandcamp.com/album/killer-9-nie-killer-nine-4"&gt;http://nkrn.bandcamp.com/album/killer-9-nie-killer-nine-4&lt;/a&gt;&lt;br /&gt;
+[soundcloud url="http://api.soundcloud.com/tracks/27076022"]&lt;/p&gt;
+&lt;h1&gt;あざまんしょー #4(5/11)&lt;/h1&gt;
+&lt;p&gt;多分写真ない&lt;/p&gt;
+&lt;h1&gt;あざまんしょー #5(8/7)&lt;/h1&gt;
+&lt;p&gt;映像もない！&lt;/p&gt;
+&lt;h1&gt;grayscale リリース(9/3)&lt;/h1&gt;
+&lt;p&gt;&lt;img alt="" src="http://www.archive.org/download/OTMN024/folder.jpg" /&gt;&lt;br /&gt;
+&lt;a href="http://www.otherman-records.com/releases/OTMN024"&gt;http://www.otherman-records.com/releases/OTMN024&lt;br /&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;M3(10/30)&lt;/h1&gt;
+&lt;p&gt;今もここで一部視聴ができます&lt;br /&gt;
+&lt;a href="http://nkrn.bandcamp.com/album/killer-9-nie-killer-nine-5"&gt;http://nkrn.bandcamp.com/album/killer-9-nie-killer-nine-5&lt;/a&gt;&lt;br /&gt;
+[soundcloud url="http://api.soundcloud.com/tracks/27076023"]&lt;/p&gt;
+&lt;h1&gt;ワギャンランドのリミックス(12/3)&lt;/h1&gt;
+&lt;p&gt;[soundcloud url="http://api.soundcloud.com/tracks/29549003"]&lt;/p&gt;
+&lt;h1&gt;あざまんしょー #6(12/11)&lt;/h1&gt;
+&lt;p&gt;&lt;object type="application/x-shockwave-flash" data="http://www.youtube.com/v/PIwCJOEdnyY" width="400" height="300"&gt;&lt;param name="movie" value="http://www.youtube.com/v/PIwCJOEdnyY"&gt;&lt;/param&gt;&lt;param name="quality" value="high"&gt;&lt;/param&gt;&lt;param name="allowFullScreen" value="true"&gt;&lt;/param&gt;&lt;!-- Fallback content --&gt;&lt;a href="http://www.youtube.com/watch?v=PIwCJOEdnyY"&gt;&lt;img alt="" src="http://img.youtube.com/vi/PIwCJOEdnyY/0.jpg" /&gt;YouTube
+Video&lt;/a&gt;&lt;/object&gt;&lt;/p&gt;
+&lt;p&gt;&lt;object type="application/x-shockwave-flash" data="http://www.youtube.com/v/EzlC1AABp3c" width="400" height="300"&gt;&lt;param name="movie" value="http://www.youtube.com/v/EzlC1AABp3c"&gt;&lt;/param&gt;&lt;param name="quality" value="high"&gt;&lt;/param&gt;&lt;param name="allowFullScreen" value="true"&gt;&lt;/param&gt;&lt;!-- Fallback content --&gt;&lt;a href="http://www.youtube.com/watch?v=EzlC1AABp3c"&gt;&lt;img alt="" src="http://img.youtube.com/vi/EzlC1AABp3c/0.jpg" /&gt;YouTube
+Video&lt;/a&gt;&lt;/object&gt;&lt;/p&gt;
+&lt;p&gt;この一年でだいぶ自分にあったライブのやり方が&lt;br /&gt;
+定まってきた気がします。&lt;/p&gt;
+&lt;p&gt;来年も色々試していきたいです&lt;br /&gt;
+それではよいお年を！&lt;/p&gt;</summary></entry><entry><title>あざまんしょー6の様子</title><link href="/%e3%81%82%e3%81%96%e3%81%be%e3%82%93%e3%81%97%e3%82%87%e3%83%bc6%e3%81%ae%e6%a7%98%e5%ad%90.html" rel="alternate"></link><updated>2011-12-14T00:30:00+01:00</updated><author><name>admin</name></author><id>tag:,2011-12-14:%e3%81%82%e3%81%96%e3%81%be%e3%82%93%e3%81%97%e3%82%87%e3%83%bc6%e3%81%ae%e6%a7%98%e5%ad%90.html</id><summary type="html">&lt;p&gt;アザマンショー6の僕のライブの様子を&lt;br /&gt;
+ebi1000さんが撮ってくれたのでアップしてみました&lt;/p&gt;
+&lt;p&gt;&lt;object type="application/x-shockwave-flash" data="http://www.youtube.com/v/PIwCJOEdnyY" width="400" height="300"&gt;&lt;param name="movie" value="http://www.youtube.com/v/PIwCJOEdnyY"&gt;&lt;/param&gt;&lt;param name="quality" value="high"&gt;&lt;/param&gt;&lt;param name="allowFullScreen" value="true"&gt;&lt;/param&gt;&lt;!-- Fallback content --&gt;&lt;a href="http://www.youtube.com/watch?v=PIwCJOEdnyY"&gt;&lt;img alt="" src="http://img.youtube.com/vi/PIwCJOEdnyY/0.jpg" /&gt;YouTube
+Video&lt;/a&gt;&lt;/object&gt;&lt;/p&gt;
+&lt;p&gt;&lt;object type="application/x-shockwave-flash" data="http://www.youtube.com/v/EzlC1AABp3c" width="400" height="300"&gt;&lt;param name="movie" value="http://www.youtube.com/v/EzlC1AABp3c"&gt;&lt;/param&gt;&lt;param name="quality" value="high"&gt;&lt;/param&gt;&lt;param name="allowFullScreen" value="true"&gt;&lt;/param&gt;&lt;!-- Fallback content --&gt;&lt;a href="http://www.youtube.com/watch?v=EzlC1AABp3c"&gt;&lt;img alt="" src="http://img.youtube.com/vi/EzlC1AABp3c/0.jpg" /&gt;YouTube
+Video&lt;/a&gt;&lt;/object&gt;&lt;/p&gt;
+&lt;p&gt;新しいセットは&lt;br /&gt;
+たまに数コマ音が飛んで拍がずれることはあるものの、&lt;br /&gt;
+ほぼ問題なく使えてたと思います。&lt;/p&gt;
+&lt;p&gt;苦労して前日夜中に調整したかいがあった…！&lt;/p&gt;</summary><category term="otherman"></category><category term="ライブ"></category></entry><entry><title>ワギャンランドのリミックス</title><link href="/%e3%83%af%e3%82%ae%e3%83%a3%e3%83%b3%e3%83%a9%e3%83%b3%e3%83%89%e3%81%ae%e3%83%aa%e3%83%9f%e3%83%83%e3%82%af%e3%82%b9.html" rel="alternate"></link><updated>2011-12-03T01:35:00+01:00</updated><author><name>admin</name></author><id>tag:,2011-12-03:%e3%83%af%e3%82%ae%e3%83%a3%e3%83%b3%e3%83%a9%e3%83%b3%e3%83%89%e3%81%ae%e3%83%aa%e3%83%9f%e3%83%83%e3%82%af%e3%82%b9.html</id><summary type="html">&lt;p&gt;ワギャンランド２の無敵の時の曲をリミックスしてみました&lt;/p&gt;
+&lt;p&gt;[soundcloud url="http://api.soundcloud.com/tracks/29549003"]&lt;/p&gt;
+&lt;p&gt;ぼくはワギャンランドと言ったら真っ先にこの原曲を思い出します&lt;/p&gt;
+&lt;p&gt;
+原曲はこちら↓
+
+&lt;script type="text/javascript" src="http://ext.nicovideo.jp/thumb_watch/sm11377740"&gt;&lt;/script&gt;
+
+
+&lt;noscript&gt;
+[【ニコニコ動画】【100分間耐久】ワギャンランド2　無敵BGM](http://www.nicovideo.jp/watch/sm11377740)
+
+&lt;/noscript&gt;</summary></entry><entry><title>2011/12/11は The Otherman Show 6 !!!!!</title><link href="/20111211%e3%81%af-the-otherman-show-6.html" rel="alternate"></link><updated>2011-12-03T00:24:00+01:00</updated><author><name>admin</name></author><id>tag:,2011-12-03:20111211%e3%81%af-the-otherman-show-6.html</id><summary type="html">&lt;p&gt;来週の日曜日はまたライブをやりますー  &lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="http://www.otherman-records.com/images/events/theothermanshow6.jpg" /&gt;&lt;br /&gt;
+&lt;a href="http://www.otherman-records.com/events"&gt;http://www.otherman-records.com/events&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;quote&gt;&lt;br /&gt;
+2011.12.11(sun) @shibuya acid panda cafe&lt;/p&gt;
+&lt;p&gt;14:00 - 20:00 \1,500 (1drink)&lt;/p&gt;
+&lt;p&gt;Lives&lt;/p&gt;
+&lt;p&gt;Missqulater&lt;/p&gt;
+&lt;p&gt;iserobin&lt;/p&gt;
+&lt;p&gt;Ca5&lt;/p&gt;
+&lt;p&gt;east breaks in thousand&lt;/p&gt;
+&lt;p&gt;storz&lt;/p&gt;
+&lt;p&gt;suesett&lt;/p&gt;
+&lt;p&gt;DJs&lt;/p&gt;
+&lt;p&gt;katana&lt;/p&gt;
+&lt;p&gt;hercelot&lt;/p&gt;
+&lt;p&gt;ina&lt;/p&gt;
+&lt;p&gt;nishikawacchi&lt;/p&gt;
+&lt;p&gt;othermoon&lt;/p&gt;
+&lt;p&gt;VJs&lt;br /&gt;
+&lt;quote&gt;&lt;/p&gt;
+&lt;p&gt;また acid panda cafeでやりますが、今度は渋谷です  &lt;/p&gt;
+&lt;p&gt;たぶん&lt;a href="http://blog.ca54makske.com/?p=7469"&gt;こんな&lt;/a&gt;ライブセットで今度は挑みます&lt;br /&gt;
+よろしく！&lt;/p&gt;</summary></entry><entry><title>iKaossilatorすごい</title><link href="/ikaossilator%e3%81%99%e3%81%94%e3%81%84.html" rel="alternate"></link><updated>2011-11-08T00:00:00+01:00</updated><author><name>admin</name></author><id>tag:,2011-11-08:ikaossilator%e3%81%99%e3%81%94%e3%81%84.html</id><summary type="html">&lt;p&gt;iPhone2台で同期させて使ってみました&lt;/p&gt;
+&lt;iframe width="420" height="315" src="http://www.youtube.com/embed/DnZro5waImg" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;単体でも作りがなかなか良いな―と思ってましたが、&lt;br /&gt;
+こうやって2台で同期させれるとなると夢が広がるきがしますね&lt;/p&gt;</summary><category term="iKaossilator"></category><category term="iPhone"></category></entry><entry><title>半手動ブレイクコアシリーズ その6</title><link href="/%e5%8d%8a%e6%89%8b%e5%8b%95%e3%83%96%e3%83%ac%e3%82%a4%e3%82%af%e3%82%b3%e3%82%a2%e3%82%b7%e3%83%aa%e3%83%bc%e3%82%ba-%e3%81%9d%e3%81%ae6.html" rel="alternate"></link><updated>2011-11-07T00:28:00+01:00</updated><author><name>admin</name></author><id>tag:,2011-11-07:%e5%8d%8a%e6%89%8b%e5%8b%95%e3%83%96%e3%83%ac%e3%82%a4%e3%82%af%e3%82%b3%e3%82%a2%e3%82%b7%e3%83%aa%e3%83%bc%e3%82%ba-%e3%81%9d%e3%81%ae6.html</id><summary type="html">&lt;p&gt;またライブセットをイチから作り直しました&lt;/p&gt;
+&lt;iframe width="420" height="315" src="http://www.youtube.com/embed/eQV9Sgek9MY" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;今回のテーマは&lt;br /&gt;
+&lt;br /&gt;
+&lt;strong&gt;ライブの準備が楽になるように&lt;/strong&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+というのも今までのセットはいつも準備が大変でした。&lt;br /&gt;
+&lt;br /&gt;
+だいぶ前の&lt;a href="http://youtu.be/WTe4o5Fv5bU"&gt;ライブセットver2&lt;/a&gt;の時は&lt;br /&gt;
+各曲のドラムの2小節分のを別々にwavに吐き出してやる必要がありました。&lt;br /&gt;
+しかもwavがかっちり2小節分の長さになってないと拍がずれるので&lt;br /&gt;
+たまに失敗して演奏できない曲がでてしまったり。。&lt;/p&gt;
+&lt;p&gt;んでこれを改良してドラムのサンプルを&lt;br /&gt;
+Liveに載せて8分音符ごとにセットして使うVer  &lt;/p&gt;
+&lt;p&gt;(&lt;a href="http://youtu.be/wNdTP61b3KA"&gt;コントローラーは違うけどやってることはこれにあたる&lt;/a&gt;)&lt;br /&gt;
+というのも２回くらい使ってみましたが、&lt;br /&gt;
+これはこれでLiveでの音のセットがすごく面倒&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+・・・という訳で今回のセットは&lt;br /&gt;
+なってる音をその場で2小節録音して使う仕様になってます。&lt;/p&gt;
+&lt;p&gt;右の赤いボタンでサンプルの録音開始  &lt;/p&gt;
+&lt;p&gt;左の赤いフェーダーは元の音⇔録音した音間のクロスフェードができるようになってます。&lt;br /&gt;
+2本あるのはそれぞれメロディとドラムのパート用に分けてあるためです。&lt;br /&gt;
+&lt;br /&gt;
+あとオマケでスクラッチもつけてみました&lt;br /&gt;
+が。。。やっぱりtouchoscの仕様のせいで精度がよろしくないので&lt;br /&gt;
+再生ピッチは段階的にちょっと変わる程度にしてます。&lt;br /&gt;
+&lt;br /&gt;
+録音のタイミングもmidiのクロック同期で&lt;br /&gt;
+クオンタイズがかかるようになってますが、&lt;br /&gt;
+mspのオーディオ録音/再生がそれなりにレイテンシがあるようで&lt;br /&gt;
+長く使ってるとたまにmidiのクロックに追いつかなくなったりします・・・&lt;br /&gt;
+マシンスペックがちょっと足りないかな。。&lt;br /&gt;
+だれかMacBookProをぼくにかってください。&lt;/p&gt;</summary><category term="live"></category><category term="max/msp"></category><category term="touchosc"></category></entry><entry><title>iPadのGriid試してみた</title><link href="/ipad%e3%81%aegriid%e8%a9%a6%e3%81%97%e3%81%a6%e3%81%bf%e3%81%9f.html" rel="alternate"></link><updated>2011-10-07T21:00:00+02:00</updated><author><name>admin</name></author><id>tag:,2011-10-07:ipad%e3%81%aegriid%e8%a9%a6%e3%81%97%e3%81%a6%e3%81%bf%e3%81%9f.html</id><summary type="html">&lt;p&gt;iPhoneで撮ったんで微妙ですが…  &lt;/p&gt;
+&lt;p&gt;&lt;object type="application/x-shockwave-flash" data="http://www.youtube.com/v/wNdTP61b3KA" width="400" height="300"&gt;&lt;param name="movie" value="http://www.youtube.com/v/wNdTP61b3KA"&gt;&lt;/param&gt;&lt;param name="quality" value="high"&gt;&lt;/param&gt;&lt;param name="allowFullScreen" value="true"&gt;&lt;/param&gt;&lt;!-- Fallback content --&gt;&lt;a href="http://www.youtube.com/watch?v=wNdTP61b3KA"&gt;&lt;img alt="" src="http://img.youtube.com/vi/wNdTP61b3KA/0.jpg" /&gt;YouTube
+Video&lt;/a&gt;&lt;/object&gt;&lt;/p&gt;
+&lt;p&gt;iPadでableton liveを操作出来るGriidというアプリをためしてみました。&lt;br /&gt;
+使い方は簡単で、&lt;/p&gt;
+&lt;p&gt;1.まずはApp StoreからGriidをDLし&lt;br /&gt;
+&lt;a href="http://itunes.apple.com/jp/app/griid/id385050894?mt=8"&gt;http://itunes.apple.com/jp/app/griid/id385050894?mt=8&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2.ここからGriidコネクターをDLし、立ち上げて&lt;br /&gt;
+&lt;a href="http://liine.net/griid/ja/support/"&gt;http://liine.net/griid/ja/support/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;3.ableton liveのmidiの設定でGriidのコントロールをONにして&lt;/p&gt;
+&lt;p&gt;4.あとはGriidをiPadで立ち上げて&lt;br /&gt;
+manual connect→ableton liveを立ち上げたmacのIPを入力して接続&lt;/p&gt;
+&lt;p&gt;…&lt;br /&gt;
+では繋がらなく…&lt;/p&gt;
+&lt;p&gt;エラーをよく見るとGriidのコネクターが古いと言われるんで  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://liine.net/en/support/"&gt;本家英語版のサポートページ&lt;/a&gt;を確認してみると最新版がありました&lt;br /&gt;
+(日本語版のページ何とかしろよ！&lt;/p&gt;
+&lt;p&gt;最新版のコネクターを入れると問題なくつながりました。&lt;/p&gt;
+&lt;p&gt;で、肝心の使い心地はというと&lt;br /&gt;
+立ち上げ直後は表示が遅れたりするんですが、&lt;br /&gt;
+少し経つとそれもなくなり&lt;br /&gt;
+反応もよく、使い勝手も良さそうでした&lt;/p&gt;
+&lt;p&gt;何よりこの情報量と派手な見た目がいいかんじ&lt;/p&gt;
+&lt;p&gt;ただ、各セルのトリガーが出来るだけなんで、&lt;br /&gt;
+今回再生させているような&lt;br /&gt;
+フォロワーアクションでループさせてるような&lt;br /&gt;
+プロジェクトを鳴らすと途中で止められなくなります&lt;br /&gt;
+(後で気づいたんですが空きのセルを最下部におけば良かったです)&lt;/p&gt;
+&lt;p&gt;今回の動画ではわかりにくいですが、&lt;br /&gt;
+ちゃんとそれぞれのセル内の再生進捗も&lt;br /&gt;
+わかるようにはなってたはずなんで&lt;br /&gt;
+それぞれのセルにもう少し長いフレーズをいれて&lt;br /&gt;
+ミックスしたりするのに向いているのかもしれません&lt;/p&gt;</summary><category term="iPad"></category><category term="iPhone"></category><category term="live"></category></entry><entry><title>touchoscのencoderがイマイチ</title><link href="/touchosc%e3%81%aeencoder%e3%81%8c%e3%82%a4%e3%83%9e%e3%82%a4%e3%83%81.html" rel="alternate"></link><updated>2011-09-08T00:00:00+02:00</updated><author><name>admin</name></author><id>tag:,2011-09-08:touchosc%e3%81%aeencoder%e3%81%8c%e3%82%a4%e3%83%9e%e3%82%a4%e3%83%81.html</id><summary type="html">&lt;p&gt;カスタマイズ性やレスポンスがなかなかよいので  &lt;/p&gt;
+&lt;p&gt;ライブでよくiPad版の&lt;a href="http://hexler.net/software/touchosc"&gt;touchosc&lt;/a&gt;を使うんですが、  &lt;/p&gt;
+&lt;p&gt;最近（・・・といっても1,2ヶ月前？）のアップデートで追加されたコントローラーの精度がちょっと微妙。&lt;/p&gt;
+&lt;p&gt;&lt;object type="application/x-shockwave-flash" data="http://www.youtube.com/v/0-040A5PxSI" width="400" height="300"&gt;&lt;param name="movie" value="http://www.youtube.com/v/0-040A5PxSI"&gt;&lt;/param&gt;&lt;param name="quality" value="high"&gt;&lt;/param&gt;&lt;param name="allowFullScreen" value="true"&gt;&lt;/param&gt;&lt;!-- Fallback content --&gt;&lt;a href="http://www.youtube.com/watch?v=0-040A5PxSI"&gt;&lt;img alt="" src="http://img.youtube.com/vi/0-040A5PxSI/0.jpg" /&gt;YouTube
+Video&lt;/a&gt;&lt;/object&gt;&lt;/p&gt;
+&lt;p&gt;適当に取った動画なんでわかりにくいかもしれないですが、&lt;br /&gt;
+外側の青い円がencoder  &lt;/p&gt;
+&lt;p&gt;内側の赤い円はrotaryで、こっちはencoderの入力値を累積した結果を表しています&lt;/p&gt;
+&lt;p&gt;encoderをスクラッチに使えないかなーと思ってこんな風に試してみたんですが、&lt;br /&gt;
+回転が速ければ早いほど累積した値が溜まるのが早い・・・とはならず、&lt;br /&gt;
+また遅すぎる場合だと全然値送ってくれなかったりするので、  &lt;/p&gt;
+&lt;p&gt;回転する速さによって１回転あたりに送られる値の量が違ってきてしまってます。&lt;/p&gt;
+&lt;p&gt;一般的なロータリーエンコーダーってこんな精度でいいのか・・？？  &lt;/p&gt;
+&lt;p&gt;これだとスクラッチするようなパッチを組んでもなんちゃってな感じでしかつくれないですね。。&lt;/p&gt;
+&lt;p&gt;・・・まあ作っちゃってる人はすでにいたりするんですが  &lt;/p&gt;
+&lt;iframe width="560" height="345" src="http://www.youtube.com/embed/V5K-0GcA5pw" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;なんかほかにうまい使いかたないかなーと模索中&lt;/p&gt;</summary><category term="max/msp"></category><category term="touchosc"></category></entry><entry><title>新曲リリース&amp;blogプチリニューアル</title><link href="/%e6%96%b0%e6%9b%b2%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9blog%e3%83%97%e3%83%81%e3%83%aa%e3%83%8b%e3%83%a5%e3%83%bc%e3%82%a2%e3%83%ab.html" rel="alternate"></link><updated>2011-09-04T01:50:00+02:00</updated><author><name>admin</name></author><id>tag:,2011-09-04:%e6%96%b0%e6%9b%b2%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9blog%e3%83%97%e3%83%81%e3%83%aa%e3%83%8b%e3%83%a5%e3%83%bc%e3%82%a2%e3%83%ab.html</id><summary type="html">&lt;p&gt;新曲リリースしました！&lt;br /&gt;
+いつもよりちょっと遅い曲です&lt;br /&gt;
+&lt;a href="http://www.otherman-records.com/releases/OTMN024"&gt;[OTMN024] grayscale | Otherman
+Records&lt;/a&gt;&lt;br /&gt;
+&lt;img alt="" src="http://www.archive.org/download/OTMN024/folder.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;前回のコミケで先行で売っていたCDの曲です。&lt;br /&gt;
+3曲目にebi1000さんリミックスも入ってます！&lt;/p&gt;
+&lt;p&gt;それとあわせてブログもなんとなくリニューアルしました。なんとなく&lt;/p&gt;</summary><category term="otherman"></category></entry><entry><title>コミケ二日目に出ます！ (東地区 イ-28 b)</title><link href="/%e3%82%b3%e3%83%9f%e3%82%b1%e4%ba%8c%e6%97%a5%e7%9b%ae%e3%81%ab%e5%87%ba%e3%81%be%e3%81%99%ef%bc%81-%e6%9d%b1%e5%9c%b0%e5%8c%ba-%e3%82%a4-28-b.html" rel="alternate"></link><updated>2011-08-12T23:18:00+02:00</updated><author><name>admin</name></author><id>tag:,2011-08-12:%e3%82%b3%e3%83%9f%e3%82%b1%e4%ba%8c%e6%97%a5%e7%9b%ae%e3%81%ab%e5%87%ba%e3%81%be%e3%81%99%ef%bc%81-%e6%9d%b1%e5%9c%b0%e5%8c%ba-%e3%82%a4-28-b.html</id><summary type="html">&lt;p&gt;ebi1000さんのブースに&lt;br /&gt;
+ぼくのCDも置かせてもらうことになりました！&lt;/p&gt;
+&lt;p&gt;場所はこちらを参照&lt;br /&gt;
+http://t.co/hwyjZUT&lt;/p&gt;
+&lt;p&gt;今回持っていくCDは、&lt;br /&gt;
+まだリリースしてない新曲となってます&lt;br /&gt;
+まだCD焼いてすらいません！&lt;br /&gt;
+これからやります！実質徹夜です かーっ！&lt;/p&gt;</summary></entry><entry><title>8/7はあざまんしょーC・a・5!</title><link href="/87%e3%81%af%e3%81%82%e3%81%96%e3%81%be%e3%82%93%e3%81%97%e3%82%87%e3%83%bcc%e3%83%bba%e3%83%bb5.html" rel="alternate"></link><updated>2011-07-15T00:00:00+02:00</updated><author><name>admin</name></author><id>tag:,2011-07-15:87%e3%81%af%e3%81%82%e3%81%96%e3%81%be%e3%82%93%e3%81%97%e3%82%87%e3%83%bcc%e3%83%bba%e3%83%bb5.html</id><summary type="html">&lt;p&gt;&lt;a href="http://www.otherman-records.com/events"&gt;http://www.otherman-records.com/events&lt;/a&gt;&lt;br /&gt;
+&lt;img alt="" src="http://www.otherman-records.com/images/events/theothermanshow5.png" /&gt;&lt;/p&gt;
+&lt;p&gt;またライブやります！あざまんしょー５です&lt;br /&gt;
+自由が丘のアシパンです！&lt;/p&gt;
+&lt;p&gt;今回はいつもの個人プレイにくわえて特別枠で&lt;br /&gt;
+east breaks in thousand, suesett　と３人で合同ユニットやります！&lt;/p&gt;
+&lt;p&gt;さーて今度はなにやろうかなぁ&lt;/p&gt;</summary></entry><entry><title>M3出てました &amp; 5/14にライブやります</title><link href="/m3%e5%87%ba%e3%81%a6%e3%81%be%e3%81%97%e3%81%9f-514%e3%81%ab%e3%83%a9%e3%82%a4%e3%83%96%e3%82%84%e3%82%8a%e3%81%be%e3%81%99.html" rel="alternate"></link><updated>2011-05-01T23:49:00+02:00</updated><author><name>admin</name></author><id>tag:,2011-05-01:m3%e5%87%ba%e3%81%a6%e3%81%be%e3%81%97%e3%81%9f-514%e3%81%ab%e3%83%a9%e3%82%a4%e3%83%96%e3%82%84%e3%82%8a%e3%81%be%e3%81%99.html</id><summary type="html">&lt;h3&gt;M3でてました&lt;/h3&gt;
+&lt;p&gt;準備がギリギリになってしまって告知すっかり忘れてましたが、&lt;br /&gt;
+5/1のM3参加していました！&lt;br /&gt;
+&lt;br /&gt;
+M3は終わっちゃいましたが、曲自体は下記のサイトで視聴できます&lt;br /&gt;
+&lt;a href="http://nkrn.bandcamp.com/album/killer-9-nie-killer-nine-4"&gt;http://nkrn.bandcamp.com/album/killer-9-nie-killer-nine-4&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;5/14にライブやります&lt;/h3&gt;
+&lt;p&gt;2011/5/14(土)に早稲田の茶箱でライブやります！&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.otherman-records.com/events"&gt;http://www.otherman-records.com/events&lt;/a&gt;&lt;br /&gt;
+&lt;img alt="" src="http://www.otherman-records.com/images/events/theothermanshow4.png" /&gt;&lt;/p&gt;
+&lt;p&gt;まだ何も準備してない！やばい！&lt;/p&gt;</summary><category term="otherman"></category></entry><entry><title>半手動ブレイクコア3</title><link href="/%e5%8d%8a%e6%89%8b%e5%8b%95%e3%83%96%e3%83%ac%e3%82%a4%e3%82%af%e3%82%b3%e3%82%a23.html" rel="alternate"></link><updated>2011-03-07T01:40:00+01:00</updated><author><name>admin</name></author><id>tag:,2011-03-07:%e5%8d%8a%e6%89%8b%e5%8b%95%e3%83%96%e3%83%ac%e3%82%a4%e3%82%af%e3%82%b3%e3%82%a23.html</id><summary type="html">&lt;p&gt;バージョン3はまたpadKontrolでの操作に戻しました。&lt;br /&gt;
+やっぱりボタンを押す感じが良いので。。。&lt;/p&gt;
+&lt;p&gt;ver3  &lt;/p&gt;
+&lt;iframe title="YouTube video player" width="480" height="390" src="http://www.youtube.com/embed/b3Bqs3-0QOk" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;(以下旧バージョン)&lt;br /&gt;
+ver2&lt;br /&gt;
+&lt;a href="http://blog.ca54makske.com/?p=428"&gt;http://blog.ca54makske.com/?p=428&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ver1&lt;br /&gt;
+&lt;a href="http://blog.ca54makske.com/?p=370"&gt;http://blog.ca54makske.com/?p=370&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+今回のバージョンのは地味に操作体系を変更しています。  &lt;/p&gt;
+&lt;p&gt;KorgNativeMode（については&lt;a href="http://nativemode.blog95.fc2.com/blog-entry-5.html"&gt;このへん&lt;/a&gt;でわかるかな。。。）で動かすような作りにしたため、  &lt;/p&gt;
+&lt;p&gt;通常のmidiコントローラーとしての動きよりも複雑なことができるようになっています。&lt;/p&gt;
+&lt;p&gt;例えばここでシーケンスに合わせてボタンが光る　なんてのは&lt;br /&gt;
+普通のmidiコンとして使用してると無理です。&lt;/p&gt;
+&lt;p&gt;あとはノブの隣についてるボタン等&lt;br /&gt;
+設定にしか使われないボタンもコントローラとして割り当ててます。&lt;br /&gt;
+これも通常モードでは無理です。  &lt;/p&gt;
+&lt;p&gt;（そもそも設定にしか使わないボタンってちょっともったいなくないですかね。。。。）&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+パッチをつくり際には下記を~~パｋ~~参考にしました&lt;br /&gt;
+&lt;a href="http://kpkproject.twoday.net/stories/3362636/#comments"&gt;http://kpkproject.twoday.net/stories/3362636/#comments&lt;br /&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ここのPadkontrol-Cera-01 ってパッチです。&lt;br /&gt;
+このパッチを動かすとりあえずNativeModeでの起動と&lt;br /&gt;
+ボタンの点滅を制御することができます。&lt;br /&gt;
+(動かすには
+&lt;a href="http://www.maxobjects.com/?v=objects&amp;amp;id_objet=812&amp;amp;PHPSESSID=0573c1d51ddd951209daf2abad869178"&gt;bit2int&lt;/a&gt;っていうオブジェクトも必要です)&lt;/p&gt;</summary><category term="max/msp"></category></entry><entry><title>[colorEP]</title><link href="/colorep.html" rel="alternate"></link><updated>2011-02-23T00:31:00+01:00</updated><author><name>admin</name></author><id>tag:,2011-02-23:colorep.html</id><summary type="html">&lt;p&gt;9in1と順番が前後しちゃいましたが  &lt;/p&gt;
+&lt;p&gt;色をテーマに３人で曲を作り合う＋リミックスまでやったEPを先月リリースしましたー&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="http://www.archive.org/download/OTMN010/folder.jpg" /&gt;&lt;br /&gt;
+color EP[  &lt;/p&gt;
+&lt;p&gt;http://www.otherman-records.com/releases/OTMN010](http://www.otherman-records.com/releases/OTMN010)&lt;/p&gt;
+&lt;p&gt;構想からリリースまで&lt;br /&gt;
+なんだかんだで半年くらいかけてしまった渾身の作！ですｗ&lt;/p&gt;</summary><category term="otherman"></category></entry><entry><title>[9in1]古い曲まとめて出しました</title><link href="/9in1%e5%8f%a4%e3%81%84%e6%9b%b2%e3%81%be%e3%81%a8%e3%82%81%e3%81%a6%e5%87%ba%e3%81%97%e3%81%be%e3%81%97%e3%81%9f.html" rel="alternate"></link><updated>2011-02-23T00:13:00+01:00</updated><author><name>admin</name></author><id>tag:,2011-02-23:9in1%e5%8f%a4%e3%81%84%e6%9b%b2%e3%81%be%e3%81%a8%e3%82%81%e3%81%a6%e5%87%ba%e3%81%97%e3%81%be%e3%81%97%e3%81%9f.html</id><summary type="html">&lt;p&gt;ふるーい曲をまとめてりりーすしました&lt;br /&gt;
+OthermanRecordsで試聴・DLできます&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="http://ia700403.us.archive.org/5/items/OTMN017/9in1.png" /&gt;&lt;br /&gt;
+9in1 (Ca5 classics)&lt;br /&gt;
+&lt;a href="http://www.otherman-records.com/releases/OTMN017"&gt;http://www.otherman-records.com/releases/OTMN017&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;多分ネット上にUPしたことない曲はなかったと思います。&lt;br /&gt;
+全部がいしゅつ。&lt;br /&gt;
+ただし、あまりにもマスタリングが酷かったので、&lt;br /&gt;
+大体の曲はマスタリングし直してあります。&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+思いつくままにコメントを  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;StartingSong　→ forget-me-notのリミックス&lt;br /&gt;
+929　→　ライブで時間余って困ったからつなぎに作った曲&lt;br /&gt;
+Sentence of death　→　略すとAV的な&lt;br /&gt;
+NNNesterK　→　この頃からmagical8bitplug多用&lt;br /&gt;
+Crazy Frog Race　→ マルチネに出したような・・・&lt;br /&gt;
+Neww　→　全然曲名がおもいつかんかった&lt;br /&gt;
+DrunkDrummer　→　やっとFLに慣れ始めた頃&lt;br /&gt;
+Snow　→　modやってる時につくった古い曲&lt;br /&gt;
+forget-me-not　→　もっと古い  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;まだ古い曲たくさんあるんでそのうち続編を・・・&lt;/p&gt;</summary><category term="otherman"></category></entry><entry><title>2010年の活動まとめ</title><link href="/2010%e5%b9%b4%e3%81%ae%e6%b4%bb%e5%8b%95%e3%81%be%e3%81%a8%e3%82%81.html" rel="alternate"></link><updated>2010-12-28T14:02:00+01:00</updated><author><name>admin</name></author><id>tag:,2010-12-28:2010%e5%b9%b4%e3%81%ae%e6%b4%bb%e5%8b%95%e3%81%be%e3%81%a8%e3%82%81.html</id><summary type="html">&lt;p&gt;いつのまにかラーブロ化してしまったこのブログですが&lt;br /&gt;
+いちおう音楽ネタもやってんすよ　ってことで&lt;br /&gt;
+今年やったことをまとめてみました&lt;/p&gt;
+&lt;h3&gt;2010 2/7&lt;/h3&gt;
+&lt;p&gt;The Otherman show&lt;br /&gt;
+&lt;img alt="" src="http://www.otherman-records.com/images/flyer20100207.jpg" /&gt;&lt;br /&gt;
+今年の初ライブ。&lt;br /&gt;
+この１曲目のをかけたりかけなかったり&lt;br /&gt;
+&lt;a href="http://www.otherman-records.com/releases/OTMN001"&gt;The Otherman
+Showcase&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;2010 2/28&lt;/h3&gt;
+&lt;p&gt;jitterいじり&lt;br /&gt;
+&lt;a href="http://blog.ca54makske.com/?p=209"&gt;ドラムループをカメラで制御&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;object width="640" height="390"&gt;&lt;param name="movie" value="http://www.youtube.com/v/QG3ROJmSb1c&amp;amp;hl=ja_JP&amp;amp;feature=player_embedded&amp;amp;version=3"&gt;&lt;/param&gt;&lt;param name="allowFullScreen" value="true"&gt;&lt;/param&gt;&lt;param name="allowScriptAccess" value="always"&gt;&lt;/param&gt;&lt;embed src="http://www.youtube.com/v/QG3ROJmSb1c&amp;amp;hl=ja_JP&amp;amp;feature=player_embedded&amp;amp;version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="640" height="390"&gt;&lt;/embed&gt;&lt;/object&gt;&lt;br /&gt;
+カメラの入力でドラムパターンを制御してみました&lt;/p&gt;
+&lt;h3&gt;2010 5/5&lt;/h3&gt;
+&lt;p&gt;
+M3に曲を出しました 920  
+[贄 killer 9 (nie killer nine)
+\#2](http://nkrn.bandcamp.com/album/killer-9-nie-killer-nine-2)  
+実はこの曲の古いバージョンをニコニコに昔うｐしてます  
+(リリース版のほうはちゃんと音質UPしてます)
+
+&lt;script type="text/javascript" src="http://ext.nicovideo.jp/thumb_watch/nm3620864"&gt;&lt;/script&gt;
+
+
+&lt;noscript&gt;
+[【ニコニコ動画】くにおくんのアレ](http://www.nicovideo.jp/watch/nm3620864)
+
+&lt;/noscript&gt;
+### 2010 6/17
+
+vol4とのコンピに
+
+songs 4 the man -\#50  
+[songs 4 the man](http://www.otherman-records.com/releases/VL4OTMN_001)
+
+### 2010 6/22
+
+ドラムループのシャッフルパッチを作りました  
+[半手動ブレイクコア？](http://blog.ca54makske.com/?p=370)  
+
+&lt;object width="640" height="390"&gt;&lt;param name="movie" value="http://www.youtube.com/v/Xd4Zn7Qg3WE&amp;amp;hl=ja_JP&amp;amp;feature=player_embedded&amp;amp;version=3"&gt;&lt;/param&gt;&lt;param name="allowFullScreen" value="true"&gt;&lt;/param&gt;&lt;param name="allowScriptAccess" value="always"&gt;&lt;/param&gt;&lt;embed src="http://www.youtube.com/v/Xd4Zn7Qg3WE&amp;amp;hl=ja_JP&amp;amp;feature=player_embedded&amp;amp;version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="640" height="390"&gt;&lt;/embed&gt;&lt;/object&gt;  
+padKontrolでドラムのループをテンポ同期しつつシャッフルできます
+
+### 2010 7/4
+
+The Otherman show \#2  
+![](http://www.otherman-records.com/images/event20100704.jpg)  
+6/22に作ったパッチを手直ししてライブでお披露目
+
+### 2010 10/30
+
+2度目のM3にでました mgmn  
+[贄 killer 9 (nie killer nine)
+\#3](http://nkrn.bandcamp.com/album/killer-9-nie-killer-nine-3)  
+ロックマンのステージセレクト曲のリミックス
+
+### 2010 12/5
+
+The Otherman show \#3  
+![](http://www.otherman-records.com/images/event20101205.gif)
+
+&lt;object width="480" height="385"&gt;&lt;param name="movie" value="http://www.youtube.com/v/mqHvTV-PvZA?fs=1&amp;amp;hl=ja_JP"&gt;&lt;/param&gt;&lt;param name="allowFullScreen" value="true"&gt;&lt;/param&gt;&lt;param name="allowscriptaccess" value="always"&gt;&lt;/param&gt;&lt;embed src="http://www.youtube.com/v/mqHvTV-PvZA?fs=1&amp;amp;hl=ja_JP" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"&gt;&lt;/embed&gt;&lt;/object&gt;  
+こんな感じでライブやりました。iPad
+
+### 2010 12/16
+
+[max+iPad+touchosc=ブレイクコアア](http://blog.ca54makske.com/?p=428)  
+
+&lt;object width="640" height="390"&gt;&lt;param name="movie" value="http://www.youtube.com/v/WTe4o5Fv5bU&amp;amp;hl=ja_JP&amp;amp;feature=player_embedded&amp;amp;version=3"&gt;&lt;/param&gt;&lt;param name="allowFullScreen" value="true"&gt;&lt;/param&gt;&lt;param name="allowScriptAccess" value="always"&gt;&lt;/param&gt;&lt;embed src="http://www.youtube.com/v/WTe4o5Fv5bU&amp;amp;hl=ja_JP&amp;amp;feature=player_embedded&amp;amp;version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="640" height="390"&gt;&lt;/embed&gt;&lt;/object&gt;  
+ライブで使ったセットを公開してみました  
+コレがあれば誰でも同じライブが出来ます
+
+### 2010 12/25
+
+&lt;p&gt;
+メリークリスマス  
+
+&lt;script type="text/javascript" src="http://ext.nicovideo.jp/thumb_watch/nm13111610"&gt;&lt;/script&gt;
+
+
+&lt;noscript&gt;
+[【ニコニコ動画】メリークリスマス](http://www.nicovideo.jp/watch/nm13111610)
+
+&lt;/noscript&gt;
+来年ももうちょっと色々やろうと思います  
+どうぞよろしく</summary><category term="max/msp"></category><category term="otherman"></category></entry><entry><title>max+iPad+touchosc=ブレイクコア</title><link href="/maxipadtouchosc%e3%83%96%e3%83%ac%e3%82%a4%e3%82%af%e3%82%b3%e3%82%a2.html" rel="alternate"></link><updated>2010-12-16T00:49:00+01:00</updated><author><name>admin</name></author><id>tag:,2010-12-16:maxipadtouchosc%e3%83%96%e3%83%ac%e3%82%a4%e3%82%af%e3%82%b3%e3%82%a2.html</id><summary type="html">&lt;p&gt;今日はラーメン・・・ではなくてamenな話です。&lt;br /&gt;
+この前のライブで使ったセットを紹介します&lt;/p&gt;
+&lt;p&gt;&lt;object width="480" height="385"&gt;&lt;param name="movie" value="http://www.youtube.com/v/WTe4o5Fv5bU?fs=1&amp;amp;hl=ja_JP"&gt;&lt;/param&gt;&lt;param name="allowFullScreen" value="true"&gt;&lt;/param&gt;&lt;param name="allowscriptaccess" value="always"&gt;&lt;/param&gt;&lt;embed src="http://www.youtube.com/v/WTe4o5Fv5bU?fs=1&amp;amp;hl=ja_JP" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"&gt;&lt;/embed&gt;&lt;/object&gt;&lt;/p&gt;
+&lt;p&gt;iPadのtouchoscというソフトでインターフェースを作って  &lt;/p&gt;
+&lt;p&gt;wifi経由でmacbook上のmax/mspのパッチを操作してドラムループをシャッフルして演奏してます。&lt;/p&gt;
+&lt;p&gt;青いくるくる回ってるのがドラムループの再生位置を示しています。  &lt;/p&gt;
+&lt;p&gt;あとは、逆再生スイッチやピッチ変更・リトリガ・各サンプルの長さ変更　ってのを&lt;br /&gt;
+真ん中のコントローラでやってます。&lt;/p&gt;
+&lt;p&gt;前にこんなpadKONTROLで操作する方も作ってますが&lt;br /&gt;
+こいつのグレードアップ版　てかんじです。  &lt;/p&gt;
+&lt;p&gt;&lt;object width="480" height="385"&gt;&lt;param name="movie" value="http://www.youtube.com/v/Xd4Zn7Qg3WE?fs=1&amp;amp;hl=ja_JP"&gt;&lt;/param&gt;&lt;param name="allowFullScreen" value="true"&gt;&lt;/param&gt;&lt;param name="allowscriptaccess" value="always"&gt;&lt;/param&gt;&lt;embed src="http://www.youtube.com/v/Xd4Zn7Qg3WE?fs=1&amp;amp;hl=ja_JP" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"&gt;&lt;/embed&gt;&lt;/object&gt;&lt;/p&gt;
+&lt;p&gt;padKONTROL版だとドラムループの再生位置がどこまで進んだかが  &lt;/p&gt;
+&lt;p&gt;視覚的にフィードバックする方法が無い（正確にはやれなくはないがめんどくさい。。）&lt;br /&gt;
+ので、今回のは簡単につくれるtouchosc版をつくりこんでました。&lt;/p&gt;
+&lt;p&gt;touchoscだと、[iPad]→[max/msp]の制御も[max/msp]→[iPad]の制御も&lt;br /&gt;
+同じような感じで oscのメッセージを送ってやれば実現できるので、&lt;br /&gt;
+割と直感的につくり込むことができました。&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+これでより　元ネタのこいつに操作系がちかくなりました。  &lt;/p&gt;
+&lt;p&gt;&lt;object width="640" height="390"&gt;&lt;param name="movie" value="http://www.youtube.com/v/9OW5WF5lJG8&amp;amp;rel=0&amp;amp;hl=en_US&amp;amp;feature=player_embedded&amp;amp;version=3"&gt;&lt;/param&gt;&lt;param name="allowFullScreen" value="true"&gt;&lt;/param&gt;&lt;param name="allowScriptAccess" value="always"&gt;&lt;/param&gt;&lt;embed src="http://www.youtube.com/v/9OW5WF5lJG8&amp;amp;rel=0&amp;amp;hl=en_US&amp;amp;feature=player_embedded&amp;amp;version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="640" height="390"&gt;&lt;/embed&gt;&lt;/object&gt;&lt;/p&gt;
+&lt;p&gt;なんかもっと新しいアイディアを盛り込みたいです　できれば。&lt;/p&gt;</summary><category term="iPad"></category><category term="max/msp"></category><category term="touchosc"></category></entry><entry><title>【NKRN】M3に出ます！</title><link href="/%e3%80%90nkrn%e3%80%91m3%e3%81%ab%e5%87%ba%e3%81%be%e3%81%99%ef%bc%81.html" rel="alternate"></link><updated>2010-10-30T10:07:00+02:00</updated><author><name>admin</name></author><id>tag:,2010-10-30:%e3%80%90nkrn%e3%80%91m3%e3%81%ab%e5%87%ba%e3%81%be%e3%81%99%ef%bc%81.html</id><summary type="html">&lt;p&gt;明日のM3で曲出します！&lt;br /&gt;
+http://www.m3net.jp/&lt;/p&gt;
+&lt;p&gt;サークル名はNKRN&lt;br /&gt;
+2Fの「カ049」です&lt;br /&gt;
+http://www.nkrn.net/&lt;/p&gt;
+&lt;p&gt;もしかしたらここにしかない特典もあるかも？&lt;br /&gt;
+是非是非おこしください&lt;/p&gt;</summary><category term="NKRN"></category><category term="otherman"></category></entry><entry><title>今日は14時から The Otherman Show#2</title><link href="/%e4%bb%8a%e6%97%a5%e3%81%af14%e6%99%82%e3%81%8b%e3%82%89-the-otherman-show2.html" rel="alternate"></link><updated>2010-07-04T00:39:00+02:00</updated><author><name>admin</name></author><id>tag:,2010-07-04:%e4%bb%8a%e6%97%a5%e3%81%af14%e6%99%82%e3%81%8b%e3%82%89-the-otherman-show2.html</id><summary type="html">&lt;p&gt;えー　まだまだ準備中でありますが&lt;br /&gt;
+7/4 14時は自由が丘のアシッドパンダカフェにぜひぜひ起こし下さい！&lt;/p&gt;
+&lt;p&gt;地図（クリックで拡大）:  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://tweetphoto.com/30531207"&gt;&lt;img alt="" src="http://cdn.cloudfiles.mosso.com/c54112/x2_1d1de87" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;外観（クリックで拡大）:
+2Fにあるので上を向いて歩かないときっと見つからないです  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://tweetphoto.com/30531193"&gt;&lt;img alt="" src="http://cdn.cloudfiles.mosso.com/c54112/x2_1d1de79" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;タイムテーブル:&lt;br /&gt;
+&lt;quote&gt;&lt;br /&gt;
+14:00-14:10 ina&lt;br /&gt;
+14:10-14:55 hara&lt;br /&gt;
+14:55-15:25 Ca5&lt;br /&gt;
+15:25-16:10 othermoon&lt;br /&gt;
+16:10-16:40 KTMユ&lt;br /&gt;
+16:40-16:50 あざまゆ&lt;br /&gt;
+16:50-17:10 ina&lt;br /&gt;
+17:10-17:40 syem&lt;br /&gt;
+17:40-18:00 suesett&lt;br /&gt;
+18:00-18:30 miii&lt;br /&gt;
+18:30-19:00 east breaks in thousand&lt;br /&gt;
+&lt;/quote&gt;&lt;/p&gt;
+&lt;p&gt;ちなみに明日はこんなライブセットでやります  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://tweetphoto.com/30484087"&gt;&lt;img alt="" src="http://cdn.cloudfiles.mosso.com/c54112/x2_1d12677" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ではでは&lt;/p&gt;</summary><category term="otherman"></category></entry><entry><title>半手動ブレイクコア？</title><link href="/%e5%8d%8a%e6%89%8b%e5%8b%95%e3%83%96%e3%83%ac%e3%82%a4%e3%82%af%e3%82%b3%e3%82%a2%ef%bc%9f.html" rel="alternate"></link><updated>2010-06-22T23:50:00+02:00</updated><author><name>admin</name></author><id>tag:,2010-06-22:%e5%8d%8a%e6%89%8b%e5%8b%95%e3%83%96%e3%83%ac%e3%82%a4%e3%82%af%e3%82%b3%e3%82%a2%ef%bc%9f.html</id><summary type="html">&lt;p&gt;たまにはラーメン以外のことも書きます。&lt;/p&gt;
+&lt;p&gt;ドラムループをリアルタイムにシャッフルできたら楽しいだろうなーと思って&lt;br /&gt;
+こんなmax/mspのパッチをつくってみました&lt;/p&gt;
+&lt;p&gt;&lt;object width="480" height="385"&gt;&lt;param name="movie" value="http://www.youtube.com/v/Xd4Zn7Qg3WE&amp;amp;hl=ja_JP&amp;amp;fs=1&amp;amp;"&gt;&lt;/param&gt;&lt;param name="allowFullScreen" value="true"&gt;&lt;/param&gt;&lt;param name="allowscriptaccess" value="always"&gt;&lt;/param&gt;&lt;embed src="http://www.youtube.com/v/Xd4Zn7Qg3WE&amp;amp;hl=ja_JP&amp;amp;fs=1&amp;amp;" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"&gt;&lt;/embed&gt;&lt;/object&gt;&lt;/p&gt;
+&lt;p&gt;padKontrolの16個のボタンに、&lt;br /&gt;
+それぞれ16当分したドラムループの再生位置を自動で割り当てています。&lt;br /&gt;
+テンポと同期をとりながら押されたボタンに応じて再生位置を決めるので&lt;br /&gt;
+適当に押してもそれなりに演奏しているように聞こえます。&lt;/p&gt;
+&lt;p&gt;おまけで左のpadに、ピッチベンドと逆再生スイッチをつけてみてます。&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+まー&lt;br /&gt;
+こいつをパクってみたんですけどね。  &lt;/p&gt;
+&lt;p&gt;&lt;object width="640" height="385"&gt;&lt;param name="movie" value="http://www.youtube.com/v/9OW5WF5lJG8&amp;amp;rel=0&amp;amp;color1=0xb1b1b1&amp;amp;color2=0xd0d0d0&amp;amp;hl=en_US&amp;amp;feature=player_embedded&amp;amp;fs=1"&gt;&lt;/param&gt;&lt;param name="allowFullScreen" value="true"&gt;&lt;/param&gt;&lt;param name="allowScriptAccess" value="always"&gt;&lt;/param&gt;&lt;embed src="http://www.youtube.com/v/9OW5WF5lJG8&amp;amp;rel=0&amp;amp;color1=0xb1b1b1&amp;amp;color2=0xd0d0d0&amp;amp;hl=en_US&amp;amp;feature=player_embedded&amp;amp;fs=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="640" height="385"&gt;&lt;/embed&gt;&lt;/object&gt;&lt;/p&gt;
+&lt;p&gt;まだまだ僕のは劣化コピーレベルなので&lt;br /&gt;
+もうちょっと工夫が必要そうです。&lt;/p&gt;
+&lt;p&gt;7/4のライブでお披露目できるかなぁ&lt;/p&gt;</summary><category term="amen"></category><category term="breakcore"></category><category term="max/msp"></category></entry><entry><title>ドラムループをカメラで制御</title><link href="/%e3%83%89%e3%83%a9%e3%83%a0%e3%83%ab%e3%83%bc%e3%83%97%e3%82%92%e3%82%ab%e3%83%a1%e3%83%a9%e3%81%a7%e5%88%b6%e5%be%a1.html" rel="alternate"></link><updated>2010-02-28T19:25:00+01:00</updated><author><name>admin</name></author><id>tag:,2010-02-28:%e3%83%89%e3%83%a9%e3%83%a0%e3%83%ab%e3%83%bc%e3%83%97%e3%82%92%e3%82%ab%e3%83%a1%e3%83%a9%e3%81%a7%e5%88%b6%e5%be%a1.html</id><summary type="html">&lt;p&gt;初めてjitterいじってみました。&lt;/p&gt;
+&lt;p&gt;とはいえ映像編集の知識なんて何も無いので、&lt;/p&gt;
+&lt;p&gt;とりあえずカメラの入力をコントローラー的に使おう！というわけでこんなものを作成。  &lt;/p&gt;
+&lt;p&gt;&lt;object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="560" height="340" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"&gt;&lt;param name="allowFullScreen" value="true"&gt;&lt;/param&gt;&lt;param name="allowscriptaccess" value="always"&gt;&lt;/param&gt;&lt;param name="src" value="http://www.youtube.com/v/QG3ROJmSb1c&amp;amp;hl=ja_JP&amp;amp;fs=1&amp;amp;"&gt;&lt;/param&gt;&lt;param name="allowfullscreen" value="true"&gt;&lt;/param&gt;&lt;embed type="application/x-shockwave-flash" width="560" height="340" src="http://www.youtube.com/v/QG3ROJmSb1c&amp;amp;hl=ja_JP&amp;amp;fs=1&amp;amp;" allowscriptaccess="always" allowfullscreen="true"&gt;&lt;/embed&gt;&lt;/object&gt;&lt;br /&gt;
+webカメラで1px×1pxの大きさで映像を取り込み、&lt;/p&gt;
+&lt;p&gt;その色の数値を、この前つくったドラムループシャッフル再生パッチのダイヤルに突っ込んでみました。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;赤成分が逆再生が発生する確立&lt;/li&gt;
+&lt;li&gt;翠成分が再生位置のシャッフルが発生する確立&lt;/li&gt;
+&lt;li&gt;青成分がグリッジノイズっぽい音が出る確立&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;をそれぞれ決めます。  &lt;/p&gt;
+&lt;p&gt;ちょっとカメラが下過ぎて操作が見づらいかもしれないですね。&lt;/p&gt;
+&lt;p&gt;後半はiPhoneのQuickColorsというアプリで単色の画面を作って&lt;/p&gt;
+&lt;p&gt;カメラに映しています。  &lt;/p&gt;
+&lt;p&gt;jitterいじるよりもこの動画をまとめるほうがめんどくさかった。。&lt;/p&gt;
+&lt;p&gt;デジカメで動画をとりつつ、GarageBandで音を内部録音。&lt;/p&gt;
+&lt;p&gt;これをGarageBand内で動画と音のタイミングを合わせて結合して、&lt;/p&gt;
+&lt;p&gt;iMovieで必要な部分だけをカットしてyoutubeへアップロード・・・&lt;/p&gt;
+&lt;p&gt;iMovieの動画読み込みの仕方が一癖あるような気がするのは僕だけだろうか。&lt;/p&gt;</summary><category term="jitter"></category><category term="mac"></category><category term="max/msp"></category></entry><entry><title>テレビでブレイクコア！っぽいの</title><link href="/%e3%83%86%e3%83%ac%e3%83%93%e3%81%a7%e3%83%96%e3%83%ac%e3%82%a4%e3%82%af%e3%82%b3%e3%82%a2%ef%bc%81%e3%81%a3%e3%81%bd%e3%81%84%e3%81%ae.html" rel="alternate"></link><updated>2010-02-25T23:28:00+01:00</updated><author><name>admin</name></author><id>tag:,2010-02-25:%e3%83%86%e3%83%ac%e3%83%93%e3%81%a7%e3%83%96%e3%83%ac%e3%82%a4%e3%82%af%e3%82%b3%e3%82%a2%ef%bc%81%e3%81%a3%e3%81%bd%e3%81%84%e3%81%ae.html</id><summary type="html">&lt;p&gt;今年のメディア芸術祭で個人的に一番よかったなぁと思った作品はこれです  &lt;/p&gt;
+&lt;p&gt;&lt;object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="344" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"&gt;&lt;param name="allowFullScreen" value="true"&gt;&lt;/param&gt;&lt;param name="allowscriptaccess" value="always"&gt;&lt;/param&gt;&lt;param name="src" value="http://www.youtube.com/v/rDwvWMgF3_U&amp;amp;hl=ja_JP&amp;amp;fs=1&amp;amp;"&gt;&lt;/param&gt;&lt;param name="allowfullscreen" value="true"&gt;&lt;/param&gt;&lt;embed type="application/x-shockwave-flash" width="425" height="344" src="http://www.youtube.com/v/rDwvWMgF3_U&amp;amp;hl=ja_JP&amp;amp;fs=1&amp;amp;" allowscriptaccess="always" allowfullscreen="true"&gt;&lt;/embed&gt;&lt;/object&gt;&lt;/p&gt;
+&lt;p&gt;音声出力→テレビの映像→電磁波経由で演奏者の体を伝って音が出てるそうです。&lt;br /&gt;
+この発想も凄いんですが、&lt;br /&gt;
+パフォーマンスがまたいいなと思いました。&lt;br /&gt;
+暗闇でギラギラ光るブラウン管を操って奏でるブレイクコア…&lt;br /&gt;
+うおおおかっけえええ&lt;/p&gt;
+&lt;p&gt;この方去年もメディア芸術祭で作品を出されていて、&lt;br /&gt;
+ICCでのライブも見に行ったんですがこれもまた面白かった  &lt;/p&gt;
+&lt;p&gt;&lt;object width="425" height="344"&gt;&lt;param name="movie" value="http://www.youtube.com/v/GVOUnmGvLmo&amp;amp;hl=ja_JP&amp;amp;fs=1&amp;amp;"&gt;&lt;/param&gt;&lt;param name="allowFullScreen" value="true"&gt;&lt;/param&gt;&lt;param name="allowscriptaccess" value="always"&gt;&lt;/param&gt;&lt;embed src="http://www.youtube.com/v/GVOUnmGvLmo&amp;amp;hl=ja_JP&amp;amp;fs=1&amp;amp;" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"&gt;&lt;/embed&gt;&lt;/object&gt;&lt;br /&gt;
+昔のでかいテープレコーダーを改造して&lt;br /&gt;
+タイミングを制御したりスクラッチをしてます&lt;br /&gt;
+これもかっこいい&lt;/p&gt;</summary><category term="breakcore"></category></entry><entry><title>2/7はライブです</title><link href="/27%e3%81%af%e3%83%a9%e3%82%a4%e3%83%96%e3%81%a7%e3%81%99.html" rel="alternate"></link><updated>2010-01-31T23:22:00+01:00</updated><author><name>admin</name></author><id>tag:,2010-01-31:27%e3%81%af%e3%83%a9%e3%82%a4%e3%83%96%e3%81%a7%e3%81%99.html</id><summary type="html">&lt;p&gt;しつこいようですが2/7(日)はライブです&lt;br /&gt;
+公式サイト:&lt;br /&gt;
+&lt;a href="http://www.otherman-records.com/index.html"&gt;http://www.otherman-records.com/index.html&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;ぼくは一切楽器を使わず打ち込みだけで曲を作ってる（＝楽器弾けない）ので、&lt;br /&gt;
+実はライブやるときは毎回すごく悩みます。&lt;br /&gt;
+　曲が完成してるのにこれ以上何やったらいいの？　　と。。&lt;br /&gt;
+曲流すだけならそこに人はいらないんです。  &lt;/p&gt;
+&lt;p&gt;ライブをやるからには、その場でしか聞けない要素が無いとダメだと思ってます。&lt;br /&gt;
+なので、自作曲流し＋その場で思いつきの音弄り&lt;br /&gt;
+みたいな感じに大体落ちつています。&lt;br /&gt;
+そんなライブを何度かやってみて気づいたんですが&lt;br /&gt;
+完全な自作曲よりリミックスの方が音弄りが楽しい。&lt;br /&gt;
+自分が今まで勝手にリミックスしてた曲は、&lt;br /&gt;
+原曲に強く気に入ったフレーズがある曲ばかりなので&lt;br /&gt;
+その場で予想外な音の出方がすると、なんだか楽しいんですよね。&lt;br /&gt;
+という訳で今回はたぶんネタ多めで。&lt;br /&gt;
+あ、もちろんオリジナルの曲も流しますよ。&lt;/p&gt;</summary></entry><entry><title>【ライブ告知】 The Otherman show 【2/7】</title><link href="/%e3%80%90%e3%83%a9%e3%82%a4%e3%83%96%e5%91%8a%e7%9f%a5%e3%80%91-the-otherman-show-%e3%80%9027%e3%80%91.html" rel="alternate"></link><updated>2010-01-16T18:54:00+01:00</updated><author><name>admin</name></author><id>tag:,2010-01-16:%e3%80%90%e3%83%a9%e3%82%a4%e3%83%96%e5%91%8a%e7%9f%a5%e3%80%91-the-otherman-show-%e3%80%9027%e3%80%91.html</id><summary type="html">&lt;p&gt;twitterでは自動で毎朝告知させてますが、&lt;br /&gt;
+2/7にライブやります！&lt;br /&gt;
+The Otherman Show&lt;br /&gt;
+2010.02.07 (SUN) 14:00 - 18:00 1,000yen&lt;br /&gt;
+at 自由が丘 Acid Panda Cafe&lt;br /&gt;
+&lt;a href="http://www.otherman-records.com/index.html"&gt;http://www.otherman-records.com/index.html&lt;/a&gt;&lt;br /&gt;
+&lt;img alt="" src="http://hemog.cocolog-nifty.com/flyer2010.jpg" /&gt;&lt;br /&gt;
+場所はココ！  &lt;/p&gt;
+&lt;iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.co.jp/maps?f=q&amp;amp;source=s_q&amp;amp;hl=ja&amp;amp;geocode=&amp;amp;q=%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%98+Acid+Panda+Cafe&amp;amp;sll=35.608058,139.669849&amp;amp;sspn=0.001184,0.001808&amp;amp;brcurrent=3,0x6018f51ffaabe6af:0xcf08054efa6a55fa,0&amp;amp;ie=UTF8&amp;amp;hq=Acid+Panda+Cafe&amp;amp;hnear=%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%98%E9%A7%85%EF%BC%88%E6%9D%B1%E4%BA%AC%EF%BC%89&amp;amp;ll=35.607968,139.669766&amp;amp;spn=0.006295,0.006295&amp;amp;output=embed"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;small&gt;&lt;a href="http://maps.google.co.jp/maps?f=q&amp;amp;source=embed&amp;amp;hl=ja&amp;amp;geocode=&amp;amp;q=%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%98+Acid+Panda+Cafe&amp;amp;sll=35.608058,139.669849&amp;amp;sspn=0.001184,0.001808&amp;amp;brcurrent=3,0x6018f51ffaabe6af:0xcf08054efa6a55fa,0&amp;amp;ie=UTF8&amp;amp;hq=Acid+Panda+Cafe&amp;amp;hnear=%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%98%E9%A7%85%EF%BC%88%E6%9D%B1%E4%BA%AC%EF%BC%89&amp;amp;ll=35.607968,139.669766&amp;amp;spn=0.006295,0.006295"&gt;大きな地図で見る&lt;/a&gt;&lt;/small&gt;&lt;br /&gt;
+ちなみにまだ準備が整ってません&lt;br /&gt;
+まぁなんとかなる。。&lt;/p&gt;</summary></entry><entry><title>Nocturn</title><link href="/nocturn.html" rel="alternate"></link><updated>2008-06-21T13:39:00+02:00</updated><author><name>admin</name></author><id>tag:,2008-06-21:nocturn.html</id><summary type="html">&lt;div&gt;
+
+これもう発売されてたんだなー
+
+&lt;/div&gt;
+
+&lt;p&gt;http://www.mi7.co.jp/products/novation/nocturn.php&lt;br /&gt;
+すごく気になるコントローラー&lt;/p&gt;</summary></entry><entry><title>LiveCutとかGlitch</title><link href="/livecut%e3%81%a8%e3%81%8bglitch.html" rel="alternate"></link><updated>2008-06-01T20:21:00+02:00</updated><author><name>admin</name></author><id>tag:,2008-06-01:livecut%e3%81%a8%e3%81%8bglitch.html</id><summary type="html">&lt;p&gt;MacでGlitchが使えないからどうしよう。。と思って探してたら&lt;br /&gt;
+Macにも対応している強力なグリッチノイズ発生プラグインみっけ&lt;br /&gt;
+&lt;a href="http://mdsp.smartelectronix.com/2005/07/livecut.php"&gt;http://mdsp.smartelectronix.com/2005/07/livecut.php&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Glitchと違ってちとパラメーターはわかりにくいですが、&lt;br /&gt;
+これもなかなか強力なプラグインですね&lt;/p&gt;
+&lt;p&gt;ちなみにGlitchはこちら&lt;a href="http://illformed.org/blog/glitch/"&gt;&lt;br /&gt;
+http://illformed.org/blog/glitch/&lt;/a&gt;&lt;/p&gt;</summary></entry><entry><title>DSとマックをDSMIでつなげてみる</title><link href="/ds%e3%81%a8%e3%83%9e%e3%83%83%e3%82%af%e3%82%92dsmi%e3%81%a7%e3%81%a4%e3%81%aa%e3%81%92%e3%81%a6%e3%81%bf%e3%82%8b.html" rel="alternate"></link><updated>2008-06-01T14:12:00+02:00</updated><author><name>admin</name></author><id>tag:,2008-06-01:ds%e3%81%a8%e3%83%9e%e3%83%83%e3%82%af%e3%82%92dsmi%e3%81%a7%e3%81%a4%e3%81%aa%e3%81%92%e3%81%a6%e3%81%bf%e3%82%8b.html</id><summary type="html">&lt;p&gt;といってもまぁ、ここをもろ参考にしただけなんだが。。&lt;br /&gt;
+&lt;a href="http://dsmidiwifi.tobw.net/index.php?cat_id=1"&gt;http://max.iamas.ac.jp/2061/?p=400&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;何ができるかというと、&lt;br /&gt;
+DSをmidiコントローラーとして使うことができます。&lt;br /&gt;
+DSのタッチパネルをぐにゅぐにゅすると音もぐにゅぐにゅ。。。なんてことも&lt;br /&gt;
+設定次第で何でもできるようになりますね&lt;/p&gt;
+&lt;p&gt;そんな夢のソフトDSMIはこちら&lt;br /&gt;
+http://dsmidiwifi.tobw.net/index.php?cat_id=1&lt;/p&gt;
+&lt;p&gt;ちとあんまり使わない設定で戸惑ったところを抜粋。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&lt;br /&gt;
+&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;MacのWi-Fi設定&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;・Ethernetでのインターネット接続を設定&lt;br /&gt;
+ （普段の設定で構わないが、AirMacでのインターネット接続は不可）  &lt;/p&gt;
+&lt;p&gt;（スタンドアローンなら、IPを手入力にして、アドレスを10.0.0.1などに設定）&lt;br /&gt;
+ ・以下のように設定して、インターネット共有を開始&lt;br /&gt;
+ 　- 共有する接続経路：内蔵Ethernet&lt;br /&gt;
+ 　- 相手のコンピュータが使用するポート：AirMac&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;これやってる間は、AirMacがアクセスポイントみたいなモードになるんで、&lt;br /&gt;
+AirMacを通してネットすることができなくなるんで注意&lt;/p&gt;
+&lt;p&gt;あ、それと地味に設定戸惑ったのはDS側の無線LAN設定。&lt;br /&gt;
+Wi-fi対戦可能ソフトが無いと設定できないってところがPSPとはちがうところですな&lt;/p&gt;</summary></entry><entry><title>coreKrave終了！</title><link href="/corekrave%e7%b5%82%e4%ba%86%ef%bc%81.html" rel="alternate"></link><updated>2008-04-09T01:00:00+02:00</updated><author><name>admin</name></author><id>tag:,2008-04-09:corekrave%e7%b5%82%e4%ba%86%ef%bc%81.html</id><summary type="html">&lt;p&gt;お疲れ様でした！&lt;br /&gt;
+だいぶ失敗してしまいましたが。。&lt;br /&gt;
+dust君がかなりかっこよかったです&lt;/p&gt;
+&lt;p&gt;demoCDは1曲目が新曲（曲名はまだ無い）で、&lt;br /&gt;
+他はすでに公開してる曲となってます&lt;/p&gt;</summary></entry><entry><title>coreKrave (4/6)</title><link href="/corekrave-46.html" rel="alternate"></link><updated>2008-03-29T16:38:00+01:00</updated><author><name>admin</name></author><id>tag:,2008-03-29:corekrave-46.html</id><summary type="html">&lt;p&gt;&lt;span class="mt-enclosure mt-enclosure-image"
+style="display: inline;"&gt;&lt;img alt="flyer20080406.jpg" src="http://ca5z.info/blog/images/flyer20080406.jpg" /&gt;&lt;/span&gt;&lt;br /&gt;
+coreKrave 参加するよー&lt;/p&gt;
+&lt;p&gt;•公式サイト　&lt;br /&gt;
+&lt;a href="http://corekrave.info/blog"&gt;http://corekrave.info/blog&lt;/a&gt;&lt;br /&gt;
+•なんでも交換 - お知らせします！&lt;br /&gt;
+&lt;a href="http://koukan.yahoo.co.jp/jp/classified/ac-331455"&gt;http://koukan.yahoo.co.jp/jp/classified/ac-331455&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;coreKrave@早稲田茶箱&lt;br /&gt;
+&lt;a href="http://www.sabaco-cafe.net/"&gt;http://www.sabaco-cafe.net/&lt;/a&gt;&lt;br /&gt;
+4/6（日）15:00〜21:00&lt;br /&gt;
+adv : 1,000yen&lt;br /&gt;
+door: 1,500yen&lt;/p&gt;
+&lt;p&gt;:::LIVE&lt;/p&gt;
+&lt;p&gt;Ca5 　←これ俺ね&lt;br /&gt;
+Dust-c&lt;br /&gt;
+あざまゆ（iserobin＋othermoon）（un:corekrave）&lt;br /&gt;
+iserobin(hemog/maltine)&lt;/p&gt;
+&lt;p&gt;:::DJ&lt;/p&gt;
+&lt;p&gt;ina&lt;br /&gt;
+Jack-Knife（瓦レコード）&lt;br /&gt;
+othermoon（coreKrave）&lt;br /&gt;
+DJ wild party（赤線企画）&lt;br /&gt;
+ソポイスキー(hemog)&lt;br /&gt;
+とまと（maltine records）&lt;/p&gt;
+&lt;p&gt;:::VJ&lt;br /&gt;
+ROBA&lt;br /&gt;
+syntax  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;フライヤー持ってきていただけるともれなく500円OFFになります！&lt;br /&gt;
+このへんでゲットできます&lt;/p&gt;
+&lt;p&gt;渋谷  &lt;/p&gt;
+&lt;p&gt;・GUHROOVY  &lt;/p&gt;
+&lt;p&gt;・ワルシャワ  &lt;/p&gt;
+&lt;p&gt;・MODULE  &lt;/p&gt;
+&lt;p&gt;・DeSeO  &lt;/p&gt;
+&lt;p&gt;・乙&lt;/p&gt;
+&lt;p&gt;新宿  &lt;/p&gt;
+&lt;p&gt;・Marz&lt;/p&gt;
+&lt;p&gt;六本木  &lt;/p&gt;
+&lt;p&gt;・CUBE  &lt;/p&gt;
+&lt;p&gt;・SUPERDELUXE&lt;/p&gt;
+&lt;p&gt;中野  &lt;/p&gt;
+&lt;p&gt;・Heavy Sick Zero&lt;/p&gt;</summary></entry></feed>

@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>ca5blog</title><link href="/" rel="alternate"></link><link href="/feeds/wei-fen-lei.atom.xml" rel="self"></link><id>/</id><updated>2015-05-03T21:30:00+02:00</updated><entry><title>【ライブ告知 6/20】Unexpected Downpour 03 #UnDo03</title><link href="/undo03.html" rel="alternate"></link><updated>2015-05-03T21:30:00+02:00</updated><author><name>admin</name></author><id>tag:,2015-05-03:undo03.html</id><summary type="html">&lt;p&gt;こんなイベントに出させていただくことになりました！&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://tweetvite.com/event/UnDo03"&gt;http://tweetvite.com/event/UnDo03&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Unexpected Downpour 03&lt;/p&gt;
+&lt;p&gt;2015/06/20 (Sat) 14:00 ～ 20:00&lt;br /&gt;
+ 中野 Heavysick ZERO&lt;/p&gt;
+&lt;p&gt;Discount(Tweetvite Yes)：1500yen(1D)&lt;br /&gt;
+ Door：2000yen(1D)&lt;/p&gt;
+&lt;p&gt;Main Floor Guests&lt;/p&gt;
+&lt;p&gt;TAK666(Cradle to Grave)&lt;br /&gt;
+ Othermoon(OthermanRecords)&lt;br /&gt;
+ Subsettler(DJ c_tnc_c VS trydelta)(和光Rave!! (DJ c_tnc_c)
+FRENZY.NET / DefDistortion (trydelta))&lt;/p&gt;
+&lt;p&gt;Lounge Floor Guests&lt;/p&gt;
+&lt;p&gt;Hyuji(RTTF Records)&lt;br /&gt;
+ Ayatsugu_Otowa(Digital Cyber Fragments)&lt;br /&gt;
+ Ca5(OthermanRecords)&lt;br /&gt;
+ mayrock &amp;amp; Burutti(Jandereisis Productions)&lt;br /&gt;
+ AKI_ &amp;amp; れんげ電子(VGM Ghetto / FRENZY.NET(AKI_)
+市ノ宮電音工房(れんげ電子))&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;いろんなジャンルが入り混じる楽しそうなイベントです&lt;br /&gt;
+6/20はぜひ中野のHeavysick ZEROへお立ち寄りください～&lt;/p&gt;</summary></entry><entry><title>LogbarのRingでAbletonLiveの操作をしてみた【告知つき】</title><link href="/ringabletonlive.html" rel="alternate"></link><updated>2015-01-06T00:21:00+01:00</updated><author><name>admin</name></author><id>tag:,2015-01-06:ringabletonlive.html</id><summary type="html">&lt;p&gt;ちょっと音量小さいですが、&lt;br /&gt;
+LogbarのRingが届いたのでこんなものを作ってみました。  &lt;/p&gt;
+&lt;iframe src="//www.youtube.com/embed/tstlJWH_m54" width="420" height="315" frameborder="0" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;RingのジェスチャーでAbletonLiveのスタートボタンを押して音声を再生しています。&lt;br /&gt;
+とりあえずで作ったのでちょっと回りくどい構成でこんなことになってます&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Ring --http--&gt; webサーバ(画面左側のソース) --osc--&gt;
+max/msp(画面右側) --midi--&gt; AbletonLive&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1&gt;告知&lt;/h1&gt;
+&lt;p&gt;1/31(土), 2/1(日)にオンラインイベント『OthermanRadioshow』にて、&lt;br /&gt;
+今回つくったRingの仕組みもちょっと使ったライブを公開します！&lt;br /&gt;
+是非見てみてください！&lt;br /&gt;
+&lt;a href="http://5th.otherman-records.com/radio/"&gt;http://5th.otherman-records.com/radio/&lt;/a&gt;&lt;/p&gt;</summary></entry><entry><title>2014年の活動まとめ</title><link href="/2014.html" rel="alternate"></link><updated>2014-12-31T00:56:00+01:00</updated><author><name>admin</name></author><id>tag:,2014-12-31:2014.html</id><summary type="html">&lt;p&gt;2014年の活動をまとめてみました&lt;/p&gt;
+&lt;h2&gt;2014/1&lt;/h2&gt;
+&lt;p&gt;vdp4にてライブ  &lt;/p&gt;
+&lt;iframe src="https://www.mixcloud.com/widget/iframe/?feed=http%3A%2F%2Fwww.mixcloud.com%2Fca54makske%2Fca5-vdp4%2F&amp;amp;embed_uuid=35165546-1552-4701-8a67-4671072b1fb2&amp;amp;replace=0&amp;amp;hide_cover=1&amp;amp;embed_type=widget_standard&amp;amp;hide_tracklist=1" width="660" height="180" frameborder="0"&gt;&lt;/iframe&gt;
+
+&lt;div style="clear: both; height: 3px; width: 652px;"&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;&lt;a href="http://www.mixcloud.com/ca54makske/ca5-vdp4/?utm_source=widget&amp;amp;amp;utm_medium=web&amp;amp;amp;utm_campaign=base_links&amp;amp;amp;utm_term=resource_link"&gt;Ca5-vdp4&lt;/a&gt;
+by
+&lt;a href="http://www.mixcloud.com/ca54makske/?utm_source=widget&amp;amp;amp;utm_medium=web&amp;amp;amp;utm_campaign=base_links&amp;amp;amp;utm_term=profile_link"&gt;Ca5&lt;/a&gt;
+on
+&lt;a href="http://www.mixcloud.com/?utm_source=widget&amp;amp;utm_medium=web&amp;amp;utm_campaign=base_links&amp;amp;utm_term=homepage_link"&gt;Mixcloud&lt;/a&gt;&lt;/p&gt;
+&lt;div style="clear: both; height: 3px; width: 652px;"&gt;
+
+&lt;/div&gt;
+
+&lt;h2&gt;2014/4&lt;/h2&gt;
+&lt;p&gt;M3で下記のリリースをしました！&lt;/p&gt;
+&lt;h3&gt;CAPCORE vs NKRN&lt;/h3&gt;
+&lt;p&gt;capcom縛りのリミックスということで、ロックマンとストIIをミックスしてます  &lt;/p&gt;
+&lt;iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/145606009&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false" width="100%" height="166" frameborder="no" scrolling="no"&gt;&lt;/iframe&gt;
+
+&lt;h3&gt;TripleX -LemonsquashExtra01-&lt;/h3&gt;
+&lt;p&gt;FLの3xOSCりコンピに参加しました。&lt;br /&gt;
+ドラムサンプルも使うの控えたので個人的にはかなり難しかった。  &lt;/p&gt;
+&lt;iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/145605472&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false" width="100%" height="166" frameborder="no" scrolling="no"&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;2014/5&lt;/h2&gt;
+&lt;p&gt;サンクラにネタものをアップ  &lt;/p&gt;
+&lt;iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/149951755&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false" width="100%" height="166" frameborder="no" scrolling="no"&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;2014/6&lt;/h2&gt;
+&lt;p&gt;サンクラにネたものをアップ。&lt;br /&gt;
+だんだん使うネタが古くなってきました。  &lt;/p&gt;
+&lt;iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/155509600&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false" width="100%" height="166" frameborder="no" scrolling="no"&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;2014/8&lt;/h2&gt;
+&lt;h3&gt;Otherman Show X&lt;/h3&gt;
+&lt;p&gt;新生ユニット「ふぷほ」として参加してました。&lt;br /&gt;
+特に音源とかは公開してないです。&lt;br /&gt;
+&lt;a href="http://blog.ca54makske.com/blog/2014/08/05/othermanshow-x-was-done/"&gt;http://blog.ca54makske.com/blog/2014/08/05/othermanshow-x-was-done/&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;ネタもの&lt;/h3&gt;
+&lt;p&gt;お蔵入り直前の曲を救出アップ。&lt;br /&gt;
+お盆に合わせてみました。  &lt;/p&gt;
+&lt;iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/163397000&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false" width="100%" height="166" frameborder="no" scrolling="no"&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;2014/10&lt;/h2&gt;
+&lt;h3&gt;DIGITAL&lt;/h3&gt;
+&lt;p&gt;pitiful pip
+puppetから&lt;a href="http://pitifulpippuppet.jp/album/digital/download.html"&gt;DIGITAL&lt;/a&gt;をリリース。  &lt;/p&gt;
+&lt;iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/170199158&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false" width="100%" height="166" frameborder="no" scrolling="no"&gt;&lt;/iframe&gt;
+
+&lt;h3&gt;M3&lt;/h3&gt;
+&lt;p&gt;新アルバムの予告編をリリース。&lt;br /&gt;
+まだまだ製作中です。  &lt;/p&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/172576654&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;
+
+&lt;h3&gt;GBネタもの&lt;/h3&gt;
+&lt;p&gt;この辺りからLSDJを始めました  &lt;/p&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/174244601&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;2014/11&lt;/h2&gt;
+&lt;h3&gt;DMGRMXS&lt;/h3&gt;
+&lt;p&gt;全曲LSDJで作ったリミックス集をリリース  &lt;/p&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/176719908&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;
+
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/176719741&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;
+
+&lt;h3&gt;秋葉原メイカーズ倶楽部&lt;/h3&gt;
+&lt;p&gt;mograにてライブ  &lt;/p&gt;
+&lt;iframe width="660" height="180" src="https://www.mixcloud.com/widget/iframe/?feed=http%3A%2F%2Fwww.mixcloud.com%2Fca54makske%2Fca5%25E7%25A7%258B%25E8%2591%2589%25E5%258E%259F%25E3%2583%25A1%25E3%2582%25A4%25E3%2582%25AB%25E3%2583%25BC%25E3%2582%25BA%25E5%2580%25B6%25E6%25A5%25BD%25E9%2583%25A81124%2F&amp;amp;embed_uuid=df715ae9-ec0c-4c8b-84ac-c75ac1d8f36a&amp;amp;replace=0&amp;amp;hide_cover=1&amp;amp;embed_type=widget_standard&amp;amp;hide_tracklist=1" frameborder="0"&gt;&lt;/iframe&gt;
+
+&lt;div style="clear: both; height: 3px; width: 652px;"&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;&lt;a href="http://www.mixcloud.com/ca54makske/ca5%E7%A7%8B%E8%91%89%E5%8E%9F%E3%83%A1%E3%82%A4%E3%82%AB%E3%83%BC%E3%82%BA%E5%80%B6%E6%A5%BD%E9%83%A81124/?utm_source=widget&amp;amp;amp;utm_medium=web&amp;amp;amp;utm_campaign=base_links&amp;amp;amp;utm_term=resource_link"&gt;Ca5@秋葉原メイカーズ倶楽部(11/24)&lt;/a&gt;&lt;span&gt;
+by&lt;/span&gt;&lt;a href="http://www.mixcloud.com/ca54makske/?utm_source=widget&amp;amp;amp;utm_medium=web&amp;amp;amp;utm_campaign=base_links&amp;amp;amp;utm_term=profile_link"&gt;Ca5&lt;/a&gt;&lt;span&gt;
+on&lt;/span&gt;&lt;a href="http://www.mixcloud.com/?utm_source=widget&amp;amp;utm_medium=web&amp;amp;utm_campaign=base_links&amp;amp;utm_term=homepage_link"&gt;Mixcloud&lt;/a&gt;&lt;/p&gt;
+&lt;div style="clear: both; height: 3px; width: 652px;"&gt;
+
+&lt;/div&gt;
+
+&lt;h3&gt;GBネタもの&lt;/h3&gt;
+&lt;p&gt;MacBookAirのCMの曲の耳コピー版です。&lt;br /&gt;
+CMやってるうちに間に合ってよかった。  &lt;/p&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/179146496&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;2014/12&lt;/h2&gt;
+&lt;p&gt;つくしレコーズのEPに参加。&lt;br /&gt;
+B'zのあの曲のリミックスです。  &lt;/p&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/182756465&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;来年もよろしくお願いします。&lt;/p&gt;</summary></entry><entry><title>【ライブセット公開】秋葉原メイカーズ倶楽部おつかれさまでした #akimake 【mixcloud】</title><link href="/after-1124-akiba-mogra.html" rel="alternate"></link><updated>2014-11-26T01:14:00+01:00</updated><author><name>admin</name></author><id>tag:,2014-11-26:after-1124-akiba-mogra.html</id><summary type="html">&lt;p&gt;秋葉原メイカーズ倶楽部お疲れ様でした！&lt;br /&gt;
+&lt;a href="http://blog.ca54makske.com/blog/2014/11/11/1124-akiba-mogra/"&gt;http://blog.ca54makske.com/blog/2014/11/11/1124-akiba-mogra/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;途中で機材トラブルがあって色々動かなかったり聞き苦しい面があってすみませんでした&lt;/p&gt;
+&lt;p&gt;ライブの再現セットをmixcloudで公開しましたので良かったらお聞きくださいー  &lt;/p&gt;
+&lt;iframe src="//www.mixcloud.com/widget/iframe/?feed=http%3A%2F%2Fwww.mixcloud.com%2Fca54makske%2Fca5%25E7%25A7%258B%25E8%2591%2589%25E5%258E%259F%25E3%2583%25A1%25E3%2582%25A4%25E3%2582%25AB%25E3%2583%25BC%25E3%2582%25BA%25E5%2580%25B6%25E6%25A5%25BD%25E9%2583%25A81124%2F&amp;amp;embed_uuid=167e254b-6b97-4320-9fdb-1eae8e2ed587&amp;amp;replace=0&amp;amp;hide_cover=1&amp;amp;embed_type=widget_standard&amp;amp;hide_tracklist=1" width="660" height="180" frameborder="0"&gt;&lt;/iframe&gt;
+
+&lt;div style="clear: both; height: 3px; width: 652px;"&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;&lt;a href="http://www.mixcloud.com/ca54makske/ca5%E7%A7%8B%E8%91%89%E5%8E%9F%E3%83%A1%E3%82%A4%E3%82%AB%E3%83%BC%E3%82%BA%E5%80%B6%E6%A5%BD%E9%83%A81124/?utm_source=widget&amp;amp;amp;utm_medium=web&amp;amp;amp;utm_campaign=base_links&amp;amp;amp;utm_term=resource_link"&gt;Ca5@秋葉原メイカーズ倶楽部(11/24)&lt;/a&gt;
+by
+&lt;a href="http://www.mixcloud.com/ca54makske/?utm_source=widget&amp;amp;amp;utm_medium=web&amp;amp;amp;utm_campaign=base_links&amp;amp;amp;utm_term=profile_link"&gt;Ca5&lt;/a&gt;
+on
+&lt;a href="http://www.mixcloud.com/?utm_source=widget&amp;amp;utm_medium=web&amp;amp;utm_campaign=base_links&amp;amp;utm_term=homepage_link"&gt;Mixcloud&lt;/a&gt;&lt;/p&gt;</summary></entry><entry><title>【11/16】ゲームレジェンドに参加します！【3a】</title><link href="/2014gamelegend.html" rel="alternate"></link><updated>2014-11-13T23:02:00+01:00</updated><author><name>admin</name></author><id>tag:,2014-11-13:2014gamelegend.html</id><summary type="html">&lt;p&gt;今年も去年に引き続きゲームレジェンドというイベントで曲の頒布をします！&lt;/p&gt;
+&lt;p&gt;east breaks in thousandのブース[&lt;strong&gt;3a&lt;/strong&gt;]でお待ちしております&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.geocities.jp/zed_gamelegend/"&gt;http://www.geocities.jp/zed_gamelegend/&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;ゲームレジェンド21&lt;br /&gt;
+ 2014年11月16日（日）11：00～15：30&lt;br /&gt;
+ 川口市キュポ・ラ本館4階フレンディア（埼玉県川口市川口1-1-1）&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;今回 ebi1000, suesettと共同で初めてLSDJだけで作った曲をまとめて、&lt;br /&gt;
+こんなパッケージで頒布します！&lt;/p&gt;
+&lt;iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/176719741&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;visual=true" width="100%" height="450" frameborder="no" scrolling="no"&gt;&lt;/iframe&gt;
+
+&lt;iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/176719908&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;visual=true" width="100%" height="450" frameborder="no" scrolling="no"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;ゲームレジェンドにお越しの際は、ぜひお手にとって見てみてください！&lt;/p&gt;</summary></entry><entry><title>【11/24(祝)】秋葉原メイカーズ倶楽部に出演します【MOGRA】</title><link href="/1124-akiba-mogra.html" rel="alternate"></link><updated>2014-11-11T22:30:00+01:00</updated><author><name>admin</name></author><id>tag:,2014-11-11:1124-akiba-mogra.html</id><summary type="html">&lt;p&gt;11/24に久々にライブ出させてもらえることになりました！&lt;/p&gt;
+&lt;p&gt;Maker Faireの非公式アフターイベントです！&lt;/p&gt;
+&lt;p&gt;公式サイト:&lt;br /&gt;
+&lt;a href="http://akiba-maker-club.cs8.biz/"&gt;http://akiba-maker-club.cs8.biz/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Facebook:&lt;br /&gt;
+&lt;a href="https://www.facebook.com/events/580101025424284/"&gt;https://www.facebook.com/events/580101025424284/&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;(抜粋)&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #141823;"&gt;開催日時 :
+2014/11/&lt;/span&gt;&lt;wbr style="color: #141823;"&gt;&lt;/wbr&gt;&lt;span
+style="color: #141823;"&gt;24(月・祝)　18:00-22:00&lt;/span&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;span
+style="color: #141823;"&gt;※秋葉原MOGRA、初見の人はまず迷うので、ローソン&lt;/span&gt;&lt;wbr style="color: #141823;"&gt;&lt;/wbr&gt;&lt;span
+style="color: #141823;"&gt;秋葉原北口店あたりで #akimake
+で呼んでもらえれば1時間に1回ぐらい迎えに行きます&lt;/span&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #141823;"&gt;入場料 : 3000円(1ドリンク付き)&lt;/span&gt;&lt;br /&gt;
+&lt;span
+style="color: #141823;"&gt;受け付けで以下のものを提示した場合、500円割り引き&lt;/span&gt;&lt;wbr style="color: #141823;"&gt;&lt;/wbr&gt;&lt;span
+style="color: #141823;"&gt;します。詳しくはWEBページを&lt;/span&gt;&lt;br /&gt;
+&lt;span style="color: #141823;"&gt;Maker Fair Tokyo 2014
+落選通知メール&lt;/span&gt;&lt;br /&gt;
+&lt;span style="color: #141823;"&gt;Arduino, Raspberry Pi&lt;/span&gt;&lt;br /&gt;
+&lt;span style="color: #141823;"&gt;はんだゴテ&lt;/span&gt;&lt;br /&gt;
+&lt;span style="color: #141823;"&gt;LED&lt;/span&gt;&lt;br /&gt;
+&lt;span
+style="color: #141823;"&gt;プロジェクター&lt;/span&gt;&lt;span class="text_exposed_show" style="color: #141823;"&gt;&lt;br /&gt;
+ レーザー&lt;br /&gt;
+ コスプレ (小さい着替えテントあり)&lt;/p&gt;
+&lt;p&gt;企画趣旨 :  &lt;/p&gt;
+&lt;p&gt;メイカーとクラバーの溝を秋葉原MOGRAで縮めたい&lt;wbr&gt;&lt;/wbr&gt;！！そうすれば未来のクラブイベントはもっと面白くなる&lt;wbr&gt;&lt;/wbr&gt;はずだ！！！&lt;br /&gt;
+ そんな思いを元に11月24日（月・祝日） お台場で開催されるあのイベント
+の非公式アフタークラブイベントとして万を持して開催し&lt;wbr&gt;&lt;/wbr&gt;ます。&lt;/p&gt;
+&lt;p&gt;■DJ/LIVE:&lt;br /&gt;
+ DJ WILD PARTY&lt;br /&gt;
+ コバルト爆弾αΩ&lt;br /&gt;
+ TORIENA × きゅんくん × LuminouShare&lt;br /&gt;
+ Naohiro Yako (flapper3/Bunkai-Kei records)&lt;br /&gt;
+ Ca5 (OthermanRecords)&lt;br /&gt;
+ tomad (MaltineRecords)&lt;/p&gt;
+&lt;p&gt;■VJ／LJ:&lt;br /&gt;
+ VIDEO BOY&lt;br /&gt;
+ Web LJ System : ayafuji × VJひゃっほー  &lt;/p&gt;
+&lt;p&gt;※&lt;a href="http://l.facebook.com/l.php?u=http%3A%2F%2Fworks.ayafuji.com%2F&amp;amp;h=0AQHyKjXG&amp;amp;enc=AZNzNXkUr5WHGuwhrTdozW_gGSKYOTUEuugcy6_nJ4r5JPZ06wUvfde8Z_-q_UW6jfo&amp;amp;s=1"&gt;http://works.ayafuji.com/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;iPhone端末をシェイクすることで会場の照明を自由&lt;wbr&gt;&lt;/wbr&gt;に操作できるWEBLJ（ライティングジョッキー）シス&lt;wbr&gt;&lt;/wbr&gt;テムを担当するayafujiと、新進気鋭のVJひゃっ&lt;wbr&gt;&lt;/wbr&gt;ほーによる共演。&lt;br /&gt;
+ m7kenji (TORIENA × きゅんくん × LuminouShare 映像演出）&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;今回折角Makerっぽいイベントに呼んでいただいたので、  &lt;/p&gt;
+&lt;p&gt;機材の説明を挟んだり、修理間に合えば前に作った&lt;a href="http://blog.ca54makske.com/blog/2013/11/26/arduino-kaosspad/"&gt;これ&lt;/a&gt;も使おうかなと思ってます&lt;/p&gt;
+&lt;p&gt;\&amp;lt;iframe width="420" height="315"
+src="//www.youtube.com/embed/p5obKtVHaRE" frameborder="0"
+allowfullscreen&gt;\&amp;lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;ぜひ遊びに来てください！&lt;/p&gt;</summary></entry><entry><title>【2014 8/17】memory of the cartridge再販します 【コミケ 東レ32b】</title><link href="/%e3%80%902014-817%e3%80%91memory-of-the-cartridge%e5%86%8d%e8%b2%a9%e3%81%97%e3%81%be%e3%81%99-%e3%80%90%e3%82%b3%e3%83%9f%e3%82%b1-%e6%9d%b1%e3%83%ac32b%e3%80%91.html" rel="alternate"></link><updated>2014-08-16T22:02:00+02:00</updated><author><name>admin</name></author><id>tag:,2014-08-16:%e3%80%902014-817%e3%80%91memory-of-the-cartridge%e5%86%8d%e8%b2%a9%e3%81%97%e3%81%be%e3%81%99-%e3%80%90%e3%82%b3%e3%83%9f%e3%82%b1-%e6%9d%b1%e3%83%ac32b%e3%80%91.html</id><summary type="html">&lt;p&gt;明日 8/17 east breaks in thousand (@ebi1000)のブース[東レ32b]&lt;br /&gt;
+にて、&lt;br /&gt;
+memory of the cartridgeのCDR版を再販します！&lt;/p&gt;
+&lt;p&gt;
+&lt;center&gt;
+[![](https://farm4.staticflickr.com/3879/14932155925_a649b9d0c4_b.jpg)](http://www.flickr.com/photos/46200029@N06/14932155925/)
+
+&lt;/center&gt;
+
+去年のM3で売っていたものと一緒です。  
+webリリース版には無いボーナストラックもあるので、  
+気になった方は是非お立ち寄りください！
+
+&lt;/p&gt;</summary></entry><entry><title>FLとSMFとpython (準備編)</title><link href="/fl-smf-python.html" rel="alternate"></link><updated>2014-04-14T01:11:00+02:00</updated><author><name>admin</name></author><id>tag:,2014-04-14:fl-smf-python.html</id><summary type="html">&lt;p&gt;FLで作った曲のBPMに合わせてごにょごにょする処理を自前で作りたくて色々試そうとしてます。&lt;/p&gt;
+&lt;p&gt;とりあえず思いついた方法が&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;FLで曲のwavとmidiを書き出す&lt;/li&gt;
+&lt;li&gt;wavとmidiをpythonのスクリプトで読み込んでごにょごにょ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;というわけでまず準備編&lt;/p&gt;
+&lt;h2&gt;1. FLでmidiを吐き出す&lt;/h2&gt;
+&lt;p&gt;FLでこんなプロジェクトを用意&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://firestorage.jp/download/12b13e190a604e9dcd90ff34cb7d4287f95418e5"&gt;bpmtest.zip&lt;/p&gt;
+&lt;p&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[flickr id="13820505455" thumbnail="small_320" overlay="true"
+size="original" group="" align="none"]&lt;/p&gt;
+&lt;p&gt;2小節分のドラムループを4回ループ。3小節目からBPM変更のパターンが入って、5-6小節目中でBPMを140→54.013へ一気に下げる。&lt;/p&gt;
+&lt;p&gt;これのmidiを吐き出すには、まず&lt;/p&gt;
+&lt;p&gt;TOOLS &gt; Macros &gt; prepare for export&lt;/p&gt;
+&lt;p&gt;でmidiファイル出力に必要な適合化処理を実行する必要があります。&lt;/p&gt;
+&lt;p&gt;(これやらないと空のmidiファイルしか出来ない&lt;/p&gt;
+&lt;p&gt;で、こんなmidiファイルが出来る&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://firestorage.jp/download/3fbc6a9cda4e58488abcfa6f0659aa980742f540"&gt;bpmtest.mid&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;2. midiファイルをpythonのスクリプトで解析する&lt;/h2&gt;
+&lt;p&gt;midiの解析にpython-midiを使う&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/vishnubob/python-midi"&gt;https://github.com/vishnubob/python-midi&lt;/p&gt;
+&lt;p&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;pipのindexに入ってるみたいですが、&lt;/p&gt;
+&lt;p&gt;自分の環境だとうまくインストールできなかったのでgitのREADME通りの手順でソースからインストール。&lt;/p&gt;
+&lt;p&gt;すると mididump.py
+というサンプルスクリプトも一緒にインストールされるので試してみる。&lt;/p&gt;
+&lt;dl&gt;
+&lt;dt&gt;[bash]&lt;/dt&gt;
+&lt;dt&gt;\$ mididump.py ./bpmtest.mid | less&lt;/dt&gt;
+&lt;dt&gt;midi.Pattern(format=1, resolution=96, tracks=\&lt;/dt&gt;
+&lt;dt&gt;[midi.Track(\&lt;/dt&gt;
+&lt;dt&gt;[midi.TimeSignatureEvent(tick=0, data=[4, 2, 24, 8]),&lt;/dt&gt;
+&lt;dt&gt;midi.EndOfTrackEvent(tick=0, data=[])]),&lt;/dt&gt;
+&lt;dt&gt;midi.Track(\&lt;/dt&gt;
+&lt;dt&gt;[midi.SetTempoEvent(tick=0, data=[16, 243, 60]),&lt;/dt&gt;
+&lt;dt&gt;midi.SetTempoEvent(tick=0, data=[6, 138, 27]),&lt;/dt&gt;
+&lt;dt&gt;midi.SetTempoEvent(tick=768, data=[6, 138, 27]),&lt;/dt&gt;
+&lt;dt&gt;midi.SetTempoEvent(tick=768, data=[6, 254, 136]),&lt;/dt&gt;
+&lt;dt&gt;midi.SetTempoEvent(tick=24, data=[7, 111, 252]),&lt;/dt&gt;
+&lt;dt&gt;midi.SetTempoEvent(tick=24, data=[7, 211, 193]),&lt;/dt&gt;
+&lt;dt&gt;midi.SetTempoEvent(tick=24, data=[8, 14, 176]),&lt;/dt&gt;
+&lt;dt&gt;midi.SetTempoEvent(tick=24, data=[8, 109, 233]),&lt;/dt&gt;
+&lt;dt&gt;midi.SetTempoEvent(tick=24, data=[8, 190, 72]),&lt;/dt&gt;
+&lt;dt&gt;midi.SetTempoEvent(tick=24, data=[9, 73, 112]),&lt;/dt&gt;
+&lt;dt&gt;midi.SetTempoEvent(tick=24, data=[9, 215, 214]),&lt;/dt&gt;
+&lt;dt&gt;midi.SetTempoEvent(tick=24, data=[10, 103, 106]),&lt;/dt&gt;
+&lt;dt&gt;midi.SetTempoEvent(tick=24, data=[10, 226, 237]),&lt;/dt&gt;
+&lt;dt&gt;midi.SetTempoEvent(tick=24, data=[11, 126, 229]),&lt;/dt&gt;
+&lt;dt&gt;midi.SetTempoEvent(tick=24, data=[12, 22, 109]),&lt;/dt&gt;
+&lt;dt&gt;midi.SetTempoEvent(tick=24, data=[12, 241, 204]),&lt;/dt&gt;
+&lt;dt&gt;midi.SetTempoEvent(tick=24, data=[13, 208, 171]),&lt;/dt&gt;
+&lt;dt&gt;midi.SetTempoEvent(tick=24, data=[14, 207, 174]),&lt;/dt&gt;
+&lt;dt&gt;midi.SetTempoEvent(tick=24, data=[16, 30, 101]),&lt;/dt&gt;
+&lt;dt&gt;midi.SetTempoEvent(tick=24, data=[16, 243, 60]),&lt;/dt&gt;
+&lt;dt&gt;midi.EndOfTrackEvent(tick=0, data=[])]),&lt;/dt&gt;
+&lt;dt&gt;midi.Track(\&lt;/dt&gt;
+&lt;dt&gt;[midi.TrackNameEvent(tick=0, text='Sampler (MIDI)', data=[83, 97, 109,&lt;/dt&gt;
+&lt;dt&gt;112, 108, 101, 114, 32, 40, 77, 73, 68, 73, 41]),&lt;/dt&gt;
+&lt;dt&gt;midi.ControlChangeEvent(tick=0, channel=0, data=[10, 64]),&lt;/dt&gt;
+&lt;dt&gt;midi.ControlChangeEvent(tick=0, channel=0, data=[7, 100]),&lt;/dt&gt;
+&lt;dt&gt;midi.PitchWheelEvent(tick=0, channel=0, data=[0, 64]),&lt;/dt&gt;
+&lt;dd&gt;&lt;/dd&gt;
+&lt;dd&gt;[/bash]&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;p&gt;これだけだとあんまり良くわからないので&lt;/p&gt;
+&lt;p&gt;こんなサイトを参考に&lt;a href="http://www2s.biglobe.ne.jp/~yyagi/material/smfspec.html"&gt;http://www2s.biglobe.ne.jp/~yyagi/material/smfspec.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;以下引用&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;SMFの実際&lt;/p&gt;
+&lt;p&gt;テンポ120で、四分音符でドレ、全音符でミを鳴らすSMF。&lt;/p&gt;
+&lt;p&gt;ランニングステータスが多用されていることに注意。
+また、ランニングステータスの効果を高めるために、 ノートオフとして 9n
+kk 00 (ベロシティゼロでノートオン) を使用している。&lt;/p&gt;
+&lt;p&gt;000000 4D 54 68 64 00 00 00 06 00 01 00 02 00 30 4D 54 /
+MThd.........0MT&lt;/p&gt;
+&lt;p&gt;000010 72 6B 00 00 00 0B 00 FF 51 03 07 A1 20 00 FF 2F /
+rk......Q....../&lt;/p&gt;
+&lt;p&gt;000020 00 4D 54 72 6B 00 00 00 18 00 90 3C 7F 30 3C 00 /
+.MTrk.....・0.0&gt;..@..0@.../&lt;/p&gt;
+&lt;p&gt;000040 00 / .&lt;/p&gt;
+&lt;p&gt;ヘッダ&lt;/p&gt;
+&lt;p&gt;4D 54 68 64 "MThd"&lt;/p&gt;
+&lt;p&gt;00 00 00 06 ブロック長(6)&lt;/p&gt;
+&lt;p&gt;00 01 フォーマット(1)&lt;/p&gt;
+&lt;p&gt;00 02 トラック数(2)&lt;/p&gt;
+&lt;p&gt;00 30 四分音符の分解能(0x30=48)&lt;/p&gt;
+&lt;p&gt;トラック1のデータ (Conductor Track)&lt;/p&gt;
+&lt;p&gt;4D 54 72 6B "MTrk"&lt;/p&gt;
+&lt;p&gt;00 00 00 0B ブロック長(0x0B=11)&lt;/p&gt;
+&lt;p&gt;00 FF 51 03 07 A1 20 テンポ(120)&lt;/p&gt;
+&lt;p&gt;00 FF 2F 00 トラックエンド&lt;/p&gt;
+&lt;p&gt;トラック2のデータ (演奏トラックその1)&lt;/p&gt;
+&lt;p&gt;4D 54 72 6B "MTrk"&lt;/p&gt;
+&lt;p&gt;00 00 00 18 ブロック長(0x18=24)&lt;/p&gt;
+&lt;p&gt;00 90 3C 7F ベロシティ127でノート3Cをノートオン&lt;/p&gt;
+&lt;p&gt;30 3C 00 48tick後、ノート3Cをノートオフ&lt;/p&gt;
+&lt;p&gt;00 3E 7F 直後に、ベロシティ127でノート3Eをノートオン&lt;/p&gt;
+&lt;p&gt;30 3E 00 48tick後、ノート3Eをノートオフ&lt;/p&gt;
+&lt;p&gt;00 40 7F 直後に、ベロシティ127でノート40をノートオン&lt;/p&gt;
+&lt;p&gt;81 40 40 00 192tick後、ノート40をノートオフ&lt;/p&gt;
+&lt;p&gt;00 FF 2F 00 トラックエンド&lt;/p&gt;
+&lt;p&gt;FF 51 03 tttttt : テンポ設定 (単位は μsec / MIDI 四分音符)&lt;/p&gt;
+&lt;p&gt;このイベントでテンポ変更を指示する。&lt;/p&gt;
+&lt;p&gt;tttttt (3byte) には、四分音符の長さをマイクロ秒 (μsec)
+で表したものを格納する。&lt;/p&gt;
+&lt;p&gt;例えば、BPM=120 (1分あたり四分音符が120個)の場合、 四分音符の長さは 60
+x 106 / 120 = 500,000 (μsec)。
+これを16進にすると0x07A120。従って、メタイベントは&lt;/p&gt;
+&lt;p&gt;FF 51 03 07 A1 20&lt;/p&gt;
+&lt;p&gt;となる。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;/引用終わり&lt;/p&gt;
+&lt;p&gt;・・・ということなのでSetTempoEventの部分をみてみると&lt;br /&gt;
+[bash][midi.SetTempoEvent(tick=0, data=[16, 243, 60]),&lt;br /&gt;
+midi.SetTempoEvent(tick=0, data=[6, 138, 27]),&lt;br /&gt;
+midi.SetTempoEvent(tick=768, data=[6, 138, 27]),&lt;br /&gt;
+midi.SetTempoEvent(tick=768, data=[6, 254, 136]),&lt;br /&gt;
+midi.SetTempoEvent(tick=24, data=[7, 111, 252]),&lt;br /&gt;
+midi.SetTempoEvent(tick=24, data=[7, 211, 193]),&lt;br /&gt;
+midi.SetTempoEvent(tick=24, data=[8, 14, 176]),&lt;br /&gt;
+midi.SetTempoEvent(tick=24, data=[8, 109, 233]),&lt;br /&gt;
+midi.SetTempoEvent(tick=24, data=[8, 190, 72]),&lt;br /&gt;
+midi.SetTempoEvent(tick=24, data=[9, 73, 112]),&lt;br /&gt;
+midi.SetTempoEvent(tick=24, data=[9, 215, 214]),&lt;br /&gt;
+midi.SetTempoEvent(tick=24, data=[10, 103, 106]),&lt;br /&gt;
+midi.SetTempoEvent(tick=24, data=[10, 226, 237]),&lt;br /&gt;
+midi.SetTempoEvent(tick=24, data=[11, 126, 229]),&lt;br /&gt;
+midi.SetTempoEvent(tick=24, data=[12, 22, 109]),&lt;br /&gt;
+midi.SetTempoEvent(tick=24, data=[12, 241, 204]),&lt;br /&gt;
+midi.SetTempoEvent(tick=24, data=[13, 208, 171]),&lt;br /&gt;
+midi.SetTempoEvent(tick=24, data=[14, 207, 174]),&lt;br /&gt;
+midi.SetTempoEvent(tick=24, data=[16, 30, 101]),&lt;br /&gt;
+midi.SetTempoEvent(tick=24, data=[16, 243, 60]),&lt;br /&gt;
+midi.EndOfTrackEvent(tick=0, data=[])]),[/bash]&lt;/p&gt;
+&lt;p&gt;BPMはdataの部分の数値を3byteの数値と見れば良い&lt;br /&gt;
+data=[6, 138, 27]の場合は&lt;br /&gt;
+[bash]&lt;br /&gt;
+27 + 256\^1 * 138 + 256\^2 * 6 = 428571(μsec)→4分音符の長さ&lt;br /&gt;
+BPM = 60000000 / 428571 = 140.00014000014 ≒ 140&lt;br /&gt;
+[/bash]&lt;br /&gt;
+となる&lt;/p&gt;
+&lt;p&gt;1.
+BPMを54.012に設定(プロジェクト最後のBPMをとりあえず最初につけてしまっている？)&lt;br /&gt;
+2. BPMを140に設定 (1.からtick=0差なのですぐにこのBPMが適用される)&lt;br /&gt;
+3. 2小節後(tick=96*4*2=768)にBPMを140に設定&lt;br /&gt;
+4. 2小節後にBPMを130.896に設定&lt;br /&gt;
+5. 以下16分音符ごとの間隔でBPMを54.012へ下げていく&lt;/p&gt;
+&lt;p&gt;となっているのがわかりますね。&lt;br /&gt;
+あとはこれを元にごにょごにょやるだけ。&lt;br /&gt;
+気が向いたら続きを書きます。&lt;/p&gt;</summary><category term="FL"></category><category term="midi"></category><category term="python"></category></entry><entry><title>動画投稿テスト</title><link href="/%e5%8b%95%e7%94%bb%e6%8a%95%e7%a8%bf%e3%83%86%e3%82%b9%e3%83%88.html" rel="alternate"></link><updated>2011-09-07T12:54:00+02:00</updated><author><name>admin</name></author><id>tag:,2011-09-07:%e5%8b%95%e7%94%bb%e6%8a%95%e7%a8%bf%e3%83%86%e3%82%b9%e3%83%88.html</id><summary type="html">&lt;p&gt;ひるめし  &lt;/p&gt;
+&lt;p&gt;&lt;object type="application/x-shockwave-flash" data="http://www.youtube.com/v/BMe1b_wFABg" width="400" height="300"&gt;&lt;param name="movie" value="http://www.youtube.com/v/BMe1b_wFABg"&gt;&lt;/param&gt;&lt;param name="quality" value="high"&gt;&lt;/param&gt;&lt;param name="allowFullScreen" value="true"&gt;&lt;/param&gt;&lt;!-- Fallback content --&gt;&lt;a href="http://www.youtube.com/watch?v=BMe1b_wFABg"&gt;&lt;img alt="" src="http://img.youtube.com/vi/BMe1b_wFABg/0.jpg" /&gt;YouTube
+Video&lt;/a&gt;&lt;/object&gt;&lt;/p&gt;</summary></entry><entry><title>曲リスト</title><link href="/%e6%9b%b2%e3%83%aa%e3%82%b9%e3%83%88.html" rel="alternate"></link><updated>2010-03-07T11:43:00+01:00</updated><author><name>admin</name></author><id>tag:,2010-03-07:%e6%9b%b2%e3%83%aa%e3%82%b9%e3%83%88.html</id><summary type="html">&lt;p&gt;曲リスト作りました。&lt;br /&gt;
+右上の[music]タブから飛べるようになってます。&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://blog.ca54makske.com/?page_id=231"&gt;http://blog.ca54makske.com/?page_id=231&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;古い曲がweb上では行方不明だったりするので&lt;br /&gt;
+近日中にうｐしようかとおもいます&lt;/p&gt;</summary></entry><entry><title>tumblr(2010/3/7)</title><link href="/tumblr201037.html" rel="alternate"></link><updated>2010-03-07T10:57:00+01:00</updated><author><name>admin</name></author><id>tag:,2010-03-07:tumblr201037.html</id><summary type="html">&lt;p&gt;更新ネタが無いのでtumblrでも。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;-iPadの&lt;/strong&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://ca5.tumblr.com/post/362137392/nidomi-talkabout-yamkei-reblogparade"&gt;http://ca5.tumblr.com/post/362137392/nidomi-talkabout-yamkei-reblogparade&lt;/a&gt;&lt;br /&gt;
+&lt;img alt="" src="http://28.media.tumblr.com/tumblr_kx0magKpKz1qzy1g2o1_400.jpg" /&gt;&lt;br /&gt;
+iPadでこういうソフト出るんだろうなぁ。&lt;br /&gt;
+現物見たことなんてもちろんまだないですが、&lt;br /&gt;
+あの大きさはコントローラとして良いサイズなきがします  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;-コントローラ&lt;/strong&gt;&lt;br /&gt;
+&lt;a href="http://ca5.tumblr.com/post/348170534/dtmn-midi-picnome"&gt;http://ca5.tumblr.com/post/348170534/dtmn-midi-picnome&lt;/a&gt;&lt;br /&gt;
+&lt;img alt="" src="http://30.media.tumblr.com/tumblr_kwoeo74CTQ1qzk5g0o1_250.jpg" /&gt;&lt;br /&gt;
+64ボタンのmidiコントローラ&lt;br /&gt;
+最近こういうボタンの多いモノに弱い  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;-mixiは&lt;/strong&gt;&lt;br /&gt;
+&lt;a href="http://ca5.tumblr.com/post/411256858/mixi-twitter-2"&gt;http://ca5.tumblr.com/post/411256858/mixi-twitter-2&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;mixiは糞の見せ合い。&lt;br /&gt;
+ twitterは糞の垂れ流し。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;-ふぁっく&lt;/strong&gt;&lt;br /&gt;
+&lt;a href="http://ca5.tumblr.com/post/419763024/mnky-hustler4life-goodmorning"&gt;http://ca5.tumblr.com/post/419763024/mnky-hustler4life-goodmorning&lt;/a&gt;&lt;br /&gt;
+&lt;img alt="" src="http://29.media.tumblr.com/tumblr_krd47vrfaV1qzxzwwo1_400.jpg" /&gt;&lt;br /&gt;
+ふぁっくふぁっく&lt;/p&gt;</summary></entry><entry><title>mixi連動も再設定</title><link href="/mixi%e9%80%a3%e5%8b%95%e3%82%82%e5%86%8d%e8%a8%ad%e5%ae%9a.html" rel="alternate"></link><updated>2010-02-21T04:40:00+01:00</updated><author><name>admin</name></author><id>tag:,2010-02-21:mixi%e9%80%a3%e5%8b%95%e3%82%82%e5%86%8d%e8%a8%ad%e5%ae%9a.html</id><summary type="html">&lt;p&gt;なんかアクセス少ないと思ったら、&lt;br /&gt;
+新しいこっちのblogをmixiと連動させるのわすれてました。&lt;/p&gt;
+&lt;p&gt;今日からちゃんとリスティングされるはず・・・&lt;/p&gt;</summary></entry><entry><title>max/mspでドラムループいじり</title><link href="/maxmsp%e3%81%a7%e3%83%89%e3%83%a9%e3%83%a0%e3%83%ab%e3%83%bc%e3%83%97%e3%81%84%e3%81%98%e3%82%8a.html" rel="alternate"></link><updated>2010-02-20T20:40:00+01:00</updated><author><name>admin</name></author><id>tag:,2010-02-20:maxmsp%e3%81%a7%e3%83%89%e3%83%a9%e3%83%a0%e3%83%ab%e3%83%bc%e3%83%97%e3%81%84%e3%81%98%e3%82%8a.html</id><summary type="html">&lt;p&gt;休日の生産性をあげるべく&lt;br /&gt;
+とりあえずいじってできた音はここにまとめてみることにします。&lt;/p&gt;
+&lt;p&gt;今日はmax/mspでドラムループをいじってみました。  &lt;/p&gt;
+&lt;p&gt;&lt;object id="scPlayer" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="400" height="330" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"&gt;&lt;param name="quality" value="high"&gt;&lt;/param&gt;&lt;param name="bgcolor" value="#FFFFFF"&gt;&lt;/param&gt;&lt;param name="flashVars" value="thumb=http://content.screencast.com/users/Ca5/folders/Jing/media/b467d096-2a7d-47ef-8eda-71a7bbb01801/FirstFrame.jpg&amp;amp;containerwidth=802&amp;amp;containerheight=672&amp;amp;content=http://content.screencast.com/users/Ca5/folders/Jing/media/b467d096-2a7d-47ef-8eda-71a7bbb01801/00000003.swf"&gt;&lt;/param&gt;&lt;param name="allowFullScreen" value="true"&gt;&lt;/param&gt;&lt;param name="scale" value="showall"&gt;&lt;/param&gt;&lt;param name="allowScriptAccess" value="always"&gt;&lt;/param&gt;&lt;param name="base" value="http://content.screencast.com/users/Ca5/folders/Jing/media/b467d096-2a7d-47ef-8eda-71a7bbb01801/"&gt;&lt;/param&gt;&lt;param name="src" value="http://content.screencast.com/users/Ca5/folders/Jing/media/b467d096-2a7d-47ef-8eda-71a7bbb01801/jingswfplayer.swf"&gt;&lt;/param&gt;&lt;param name="flashvars" value="thumb=http://content.screencast.com/users/Ca5/folders/Jing/media/b467d096-2a7d-47ef-8eda-71a7bbb01801/FirstFrame.jpg&amp;amp;containerwidth=802&amp;amp;containerheight=672&amp;amp;content=http://content.screencast.com/users/Ca5/folders/Jing/media/b467d096-2a7d-47ef-8eda-71a7bbb01801/00000003.swf"&gt;&lt;/param&gt;&lt;param name="allowfullscreen" value="true"&gt;&lt;/param&gt;&lt;embed id="scPlayer" type="application/x-shockwave-flash" width="400" height="330" src="http://content.screencast.com/users/Ca5/folders/Jing/media/b467d096-2a7d-47ef-8eda-71a7bbb01801/jingswfplayer.swf" base="http://content.screencast.com/users/Ca5/folders/Jing/media/b467d096-2a7d-47ef-8eda-71a7bbb01801/" allowscriptaccess="always" scale="showall" allowfullscreen="true" flashvars="thumb=http://content.screencast.com/users/Ca5/folders/Jing/media/b467d096-2a7d-47ef-8eda-71a7bbb01801/FirstFrame.jpg&amp;amp;containerwidth=802&amp;amp;containerheight=672&amp;amp;content=http://content.screencast.com/users/Ca5/folders/Jing/media/b467d096-2a7d-47ef-8eda-71a7bbb01801/00000003.swf" bgcolor="#FFFFFF" quality="high"&gt;&lt;/embed&gt;&lt;/object&gt;&lt;/p&gt;
+&lt;p&gt;ドラムループを16分割して、&lt;br /&gt;
+テンポ同期と乱数でループのパラメータをいじっています。&lt;/p&gt;
+&lt;p&gt;右のダイヤルは、グリッジノイズっぽいループの発生率&lt;br /&gt;
+真ん中のダイヤルは、ランダムな再生位置の発生率&lt;br /&gt;
+左のダイヤルは、逆再生の発生率&lt;/p&gt;
+&lt;p&gt;とりあえず今日はここまで。&lt;/p&gt;</summary></entry><entry><title>Tumblr連携テスト February 14th</title><link href="/tumblr%e9%80%a3%e6%90%ba%e3%83%86%e3%82%b9%e3%83%88-february-14th-2.html" rel="alternate"></link><updated>2010-02-14T01:02:00+01:00</updated><author><name>admin</name></author><id>tag:,2010-02-14:tumblr%e9%80%a3%e6%90%ba%e3%83%86%e3%82%b9%e3%83%88-february-14th-2.html</id><summary type="html">&lt;p&gt;+--------------------------------------+--------------------------------------+
+| &lt;a href="#"&gt;&lt;img alt="tumblr (feed                      | &amp;lt;div class=&amp;quot;lifestream_label&amp;quot;&amp;gt;       |
+| #1)" src="http://blog.ca54makske.com/wp-" title="| | | content/plugins/lifestream/extension | Published . | | s/tumblr/icon.png" /&gt;&lt;/a&gt;               |                                      |
+|                                      | &lt;/div&gt;                               |
++--------------------------------------+--------------------------------------+&lt;/p&gt;</summary></entry><entry><title>Flickr経由で</title><link href="/flickr%e7%b5%8c%e7%94%b1%e3%81%a7.html" rel="alternate"></link><updated>2010-02-14T00:36:00+01:00</updated><author><name>admin</name></author><id>tag:,2010-02-14:flickr%e7%b5%8c%e7%94%b1%e3%81%a7.html</id><summary type="html">&lt;div style="float: right; margin-left: 10px; margin-bottom: 10px;"&gt;
+
+[![](http://farm3.static.flickr.com/2744/4353161627_31f500d407_m.jpg)](http://www.flickr.com/photos/46200029@N06/4353161627/ "photo sharing")  
+
+&lt;span style="font-size: 0.9em; margin-top: 0px;"&gt;  
+[Flickr経由で](http://www.flickr.com/photos/46200029@N06/4353161627/)  
+
+Originally uploaded by
+[ca54makske](http://www.flickr.com/people/46200029@N06/)  
+&lt;/span&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;投稿テスト&lt;br /&gt;
+写真付きの記事はflickr経由だとお手軽な上に&lt;br /&gt;
+容量もあまり気にしなくていいすね  &lt;/p&gt;</summary></entry><entry><title>wordpressに移行</title><link href="/wordpress%e3%81%ab%e7%a7%bb%e8%a1%8c.html" rel="alternate"></link><updated>2010-02-13T22:30:00+01:00</updated><author><name>admin</name></author><id>tag:,2010-02-13:wordpress%e3%81%ab%e7%a7%bb%e8%a1%8c.html</id><summary type="html">&lt;p&gt;MovableType飽きたのでwordpressにしてみました。&lt;/p&gt;
+&lt;p&gt;なんか色々調べてきっちりURL変更の伴わない移行もやってみようと思いましたが&lt;/p&gt;
+&lt;p&gt;めんどくさくてやめました。&lt;/p&gt;
+&lt;p&gt;そもそもここそんなにあくせすねえし。&lt;/p&gt;
+&lt;p&gt;というわけでリンクはってる方いらしたら変更よろしくお願いします。&lt;/p&gt;</summary><category term="wordpress"></category></entry><entry><title>2009/10/9のDashboard</title><link href="/2009109%e3%81%aedashboard.html" rel="alternate"></link><updated>2009-10-10T12:43:00+02:00</updated><author><name>admin</name></author><id>tag:,2009-10-10:2009109%e3%81%aedashboard.html</id><summary type="html">&lt;p&gt;-Lego Guitar&lt;br /&gt;
+&lt;a href="http://ca5.tumblr.com/post/208844327/nobon-lego-guitar-8-via-lispark"&gt;http://ca5.tumblr.com/post/208844327/nobon-lego-guitar-8-via-lispark&lt;/a&gt;&lt;br /&gt;
+&lt;img alt="" src="http://20.media.tumblr.com/tumblr_kr99euK9bH1qzkwgro1_400.jpg" /&gt;&lt;br /&gt;
+かっけー&lt;br /&gt;
+-「BGM Fox」&lt;br /&gt;
+&lt;a href="http://ca5.tumblr.com/post/208844744/yaruo-mozilla-re-mix"&gt;http://ca5.tumblr.com/post/208844744/yaruo-mozilla-re-mix&lt;/a&gt;&lt;br /&gt;
+&gt;「BGM
+Fox」は、FirefoxのサイドバーにYouTubeとニコニコ動画のコントロール機能を与えてくれるアドオンで、&lt;br /&gt;
+&gt;このアドオンをインストールしておけば、作業用BGMの検索から再生、&lt;br /&gt;
+&gt;プレイリストへの追加による連続再生などが簡単に行えるようになります。&lt;br /&gt;
+これはすごいアドオン。。。&lt;br /&gt;
+-今日の作業用BGM 8bit-Operator  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://ca5.tumblr.com/post/208840595/zenalbatross-8bitoperators-out-now-at"&gt;http://ca5.tumblr.com/post/208840595/zenalbatross-8bitoperators-out-now-at&lt;/a&gt;&lt;/p&gt;</summary></entry><entry><title>移転します</title><link href="/%e7%a7%bb%e8%bb%a2%e3%81%97%e3%81%be%e3%81%99.html" rel="alternate"></link><updated>2009-10-02T23:40:00+02:00</updated><author><name>admin</name></author><id>tag:,2009-10-02:%e7%a7%bb%e8%bb%a2%e3%81%97%e3%81%be%e3%81%99.html</id><summary type="html">&lt;p&gt;blog書かなくなって早一年&lt;br /&gt;
+誰かみてるかどうかすらよくわかりませんが、&lt;br /&gt;
+ドメインをｶｶｯと変更します&lt;/p&gt;
+&lt;p&gt;旧:&lt;a href="http://ca5z.info/"&gt;http://ca5z.info/&lt;/a&gt;&lt;br /&gt;
+新:&lt;a href="http://ca54makske.com/"&gt;http://ca54makske.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;それでは&lt;/p&gt;</summary></entry><entry><title>EasyH10</title><link href="/easyh10.html" rel="alternate"></link><updated>2008-10-26T10:22:00+01:00</updated><author><name>admin</name></author><id>tag:,2008-10-26:easyh10.html</id><summary type="html">&lt;div&gt;
+
+macでH10Jrを使う時のメモ
+
+&lt;/div&gt;
+
+&lt;p&gt;http://www.iriver.co.jp/community/column.php?H10,community,116&lt;/p&gt;
+&lt;div&gt;
+
+EasyH10のcocoaGUI版をさがす
+
+&lt;/div&gt;</summary></entry><entry><title>Protein[DS]</title><link href="/proteinds.html" rel="alternate"></link><updated>2008-06-01T23:27:00+02:00</updated><author><name>admin</name></author><id>tag:,2008-06-01:proteinds.html</id><summary type="html">&lt;p&gt;&lt;a href="http://picasaweb.google.co.jp/ca54makske/Blog/photo#5206919232015255506"&gt;&lt;img alt="" src="http://lh6.ggpht.com/ca54makske/SEKxdD5rR9I/AAAAAAAABFU/WlsIeVSmaT8/s400/img-0043.jpg" /&gt;&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://gorgull.googlepages.com/home2"&gt;http://gorgull.googlepages.com/home2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;DSMIのページにリンクが貼ってあるんですが、&lt;br /&gt;
+ProteinDSというwavのスクラッチができるソフトがあったんですね&lt;/p&gt;
+&lt;p&gt;Wavファイルを２つ読み込ませて、片方を再生しながらもう片方をスクラッチ・・・&lt;br /&gt;
+とか&lt;/p&gt;
+&lt;p&gt;１発ネタをサンプラーのように再生させることができます。&lt;/p&gt;
+&lt;p&gt;あとびっくりしたのが、スクラッチにローファイエフェクトをかけることもできる上に、&lt;br /&gt;
+マイクの音声にエフェクトをかますことまでできてしまいます&lt;/p&gt;
+&lt;p&gt;これは。。。。。&lt;/p&gt;
+&lt;p&gt;ただ、使うときは　ProteinDSのフォルダをSDのルートに入れて起動してやってください&lt;br /&gt;
+どうやらディレクトリ構造が狂うとうまく起動できないようになっとるようですわ&lt;/p&gt;</summary></entry><entry><title>ファミカセ展とSexy</title><link href="/%e3%83%95%e3%82%a1%e3%83%9f%e3%82%ab%e3%82%bb%e5%b1%95%e3%81%a8sexy.html" rel="alternate"></link><updated>2008-05-18T00:18:00+02:00</updated><author><name>admin</name></author><id>tag:,2008-05-18:%e3%83%95%e3%82%a1%e3%83%9f%e3%82%ab%e3%82%bb%e5%b1%95%e3%81%a8sexy.html</id><summary type="html">&lt;p&gt;ファミカセ展いってきました&lt;br /&gt;
+&lt;a href="http://famicase.com/"&gt;http://famicase.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;METEORの店の中でやってるイベントなので&lt;br /&gt;
+そんなにたくさん展示されているもんでは無いんですが、&lt;br /&gt;
+パロディ有り、シュールなネタ有りなファミカセをモチーフにした展示はなかなか面白かったです&lt;br /&gt;
+俺も１個作ってみようかな。。。&lt;/p&gt;
+&lt;p&gt;んで視聴したSexy-SynthesizerのCDを衝動買い&lt;br /&gt;
+&lt;a href="http://www.sexy-synthesizer.com/"&gt;http://www.sexy-synthesizer.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;これ見てなんかこの病院のサイト思い出した&lt;br /&gt;
+&lt;a href="http://www.aiseikai.or.jp/"&gt;http://www.aiseikai.or.jp/&lt;/a&gt;&lt;/p&gt;</summary></entry><entry><title>直りんテスト</title><link href="/%e7%9b%b4%e3%82%8a%e3%82%93%e3%83%86%e3%82%b9%e3%83%88.html" rel="alternate"></link><updated>2008-05-14T00:06:00+02:00</updated><author><name>admin</name></author><id>tag:,2008-05-14:%e7%9b%b4%e3%82%8a%e3%82%93%e3%83%86%e3%82%b9%e3%83%88.html</id><summary type="html">&lt;p&gt;&lt;img alt="" src="http://lh3.ggpht.com/ca54makske/SCag9XmnbDI/AAAAAAAAA0o/UTpVZz-VPHo/s144/img370.jpg" /&gt;&lt;br /&gt;
+&lt;img alt="" src="http://lh3.ggpht.com/ca54makske/SCZPxWifZEI/AAAAAAAAACs/c43ZlebxEbs/s144/img124.jpg" /&gt;&lt;/p&gt;</summary></entry><entry><title>カメラシリーズ</title><link href="/%e3%82%ab%e3%83%a1%e3%83%a9%e3%82%b7%e3%83%aa%e3%83%bc%e3%82%ba.html" rel="alternate"></link><updated>2008-05-11T23:44:00+02:00</updated><author><name>admin</name></author><id>tag:,2008-05-11:%e3%82%ab%e3%83%a1%e3%83%a9%e3%82%b7%e3%83%aa%e3%83%bc%e3%82%ba.html</id><summary type="html">&lt;p&gt;デジカメ探してたらこんな面白いサイトを見つけました&lt;br /&gt;
+&lt;a href="http://www.jcii-cameramuseum.jp/kids/shurui/"&gt;http://www.jcii-cameramuseum.jp/kids/shurui/&lt;/a&gt;&lt;br /&gt;
+子供向けの解説みたいですが、結構マニアックなもんで&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.jcii-cameramuseum.jp/kids/shurui/shurui02-04spy.html"&gt;http://www.jcii-cameramuseum.jp/kids/shurui/shurui02-04spy.html&lt;/a&gt;&lt;br /&gt;
+このスパイカメラシリーズなんてちょっとわくわくしますね&lt;/p&gt;</summary></entry><entry><title>ウダー</title><link href="/%e3%82%a6%e3%83%80%e3%83%bc.html" rel="alternate"></link><updated>2008-05-11T08:46:00+02:00</updated><author><name>admin</name></author><id>tag:,2008-05-11:%e3%82%a6%e3%83%80%e3%83%bc.html</id><summary type="html">&lt;p&gt;という楽器を作った方がいるそうで&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://uda.la/htmls/g-douga.html"&gt;http://uda.la/htmls/g-douga.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;２個目の演奏動画はちょっとわくわくします&lt;/p&gt;</summary></entry><entry><title>DSとEzFlashV導入</title><link href="/ds%e3%81%a8ezflashv%e5%b0%8e%e5%85%a5.html" rel="alternate"></link><updated>2008-04-29T23:23:00+02:00</updated><author><name>admin</name></author><id>tag:,2008-04-29:ds%e3%81%a8ezflashv%e5%b0%8e%e5%85%a5.html</id><summary type="html">&lt;p&gt;&lt;span class="mt-enclosure mt-enclosure-image"
+style="display: inline;"&gt;&lt;img alt="ds-nitrotracker.jpg" src="http://ca5z.info/blog/ds-nitrotracker.jpg" /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;マジコンついでにDS本体も買ってしまいました \^o\^&lt;/p&gt;
+&lt;div&gt;
+
+&lt;/div&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;・EzFlashV導入メモ&lt;br /&gt;
+1.まずはまとめサイトから&lt;br /&gt;
+&lt;a href="http://dswiki.7mc.org/wiki.cgi?page=EZ-Flash+V"&gt;http://dswiki.7mc.org/wiki.cgi?page=EZ-Flash+V&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ローダーとやらのファームウェアみたいのをアップグレードします。&lt;br /&gt;
+「Rを押しながら起動」ってのがミソ&lt;/p&gt;
+&lt;p&gt;2.DLDI Patcherとやらを入手&lt;a href="http://r4ds-magicom.seesaa.net/article/53859294.html"&gt;&lt;br /&gt;
+http://r4ds-magicom.seesaa.net/article/53859294.html&lt;/a&gt;&lt;br /&gt;
+---以下勝手に抜粋---&lt;br /&gt;
+DLDIパッチの当て方&lt;br /&gt;
+【dlditool-win32-gui.zip】をダウンロードする&lt;br /&gt;
+&lt;a href="http://chishm.drunkencoders.com/DLDI/index.html#patchers"&gt;http://chishm.drunkencoders.com/DLDI/index.html#patchers&lt;/a&gt;&lt;br /&gt;
+各マジコンのDLDIパッチをダウンロードする－R4DS【r4tf.dldi】&lt;br /&gt;
+&lt;a href="http://chishm.drunkencoders.com/DLDI/index.html#patches"&gt;http://chishm.drunkencoders.com/DLDI/index.html#patches&lt;/a&gt;&lt;br /&gt;
+------&lt;br /&gt;
+これはR4用の説明ですが、&lt;br /&gt;
+DLDIパッチをEzFlash用のものに置き換えるだけでやり方は一緒&lt;/p&gt;
+&lt;p&gt;どうやら毎回.ndsファイルにはパッチをあてにゃならんようですね&lt;/p&gt;
+&lt;p&gt;〜とりあえずいろいろいれてみた〜&lt;br /&gt;
+・まずはお約束のnesDS&lt;a href="http://dswiki.7mc.org/wiki.cgi?page=nesDS"&gt;&lt;br /&gt;
+http://dswiki.7mc.org/wiki.cgi?page=nesDS&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;・PDAという言葉に釣られてDSOrganizeも入れてみた&lt;a href="http://www.dragonminded.com/?loc=ndsdev/DSOrganize"&gt;&lt;br /&gt;
+http://www.dragonminded.com/?loc=ndsdev/DSOrganize&lt;/a&gt;&lt;br /&gt;
+なんか無線LANの設定が対応してないらしくWEBブラウザが試せない&lt;/p&gt;
+&lt;p&gt;・NitroTracker&lt;a href="http://kishiwada.orz.hm/game/nitrotracker/"&gt;&lt;br /&gt;
+http://kishiwada.orz.hm/game/nitrotracker/&lt;/a&gt;&lt;br /&gt;
+写真のとおりばっちり動いてくれました&lt;br /&gt;
+これはつかえるかもしれん \^q\^&lt;/p&gt;
+&lt;p&gt;・まだ入れてないけどこんなのも&lt;a href="http://dsmidiwifi.tobw.net/index.php?cat_id=0"&gt;&lt;br /&gt;
+http://dsmidiwifi.tobw.net/index.php?cat_id=0&lt;/a&gt;&lt;br /&gt;
+DSをMidiコントローラーとして使えるようです&lt;br /&gt;
+近いうちにためしてみます&lt;br /&gt;
+これはライブでつかえるかもしれん \^q\^&lt;/p&gt;</summary></entry><entry><title>mac キーボード周りメモ</title><link href="/mac-%e3%82%ad%e3%83%bc%e3%83%9c%e3%83%bc%e3%83%89%e5%91%a8%e3%82%8a%e3%83%a1%e3%83%a2.html" rel="alternate"></link><updated>2008-03-30T07:40:00+02:00</updated><author><name>admin</name></author><id>tag:,2008-03-30:mac-%e3%82%ad%e3%83%bc%e3%83%9c%e3%83%bc%e3%83%89%e5%91%a8%e3%82%8a%e3%83%a1%e3%83%a2.html</id><summary type="html">&lt;p&gt;mac-win間でsynergy使ったりHHKBLite使ったりするときのメモ&lt;/p&gt;
+&lt;!--more--&gt;
+
+&lt;p&gt;•日本語化&lt;br /&gt;
+Synergy wiki - 日本語化パッチ&lt;a href="http://wiki.nothing.sh/page/memo/Synergy"&gt;&lt;br /&gt;
+http://wiki.nothing.sh/page/memo/Synergy&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;斜に - 日本語化パッチ&lt;a href="http://naname.jp/index.php?Synergy"&gt;&lt;br /&gt;
+http://naname.jp/index.php?Synergy&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;どっちを入れたかは忘れたけど、日本語配列のキーボードを使うならあった方が良い&lt;br /&gt;
+英語キーボードだったら必要ないかな。。。&lt;/p&gt;
+&lt;p&gt;•キー配列&lt;br /&gt;
+回り道日記 - Synergy で Win をサーバ、MacBook
+をクライアントにした場合の問題&lt;a href="http://suga.parfe.jp/td/index.cgi?date=20080108"&gt;http://suga.parfe.jp/td/index.cgi?date=20080108&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;WindowsキーボードをMacで使う&lt;br /&gt;
+&lt;a href="http://msyk.net/macos/winkeyboard/"&gt;http://msyk.net/macos/winkeyboard/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;このパッチを使って、キーボードの設定を「PS/2J」にしてやらないと、&lt;br /&gt;
+英語キーボードであっても記号などの位置が刻印とずれてしまう模様。&lt;/p&gt;
+&lt;p&gt;ただ、キーボードを直にさしてやると「U.S.」の設定でいけるようなので&lt;br /&gt;
+これはSynergyのみの問題かな&lt;/p&gt;
+&lt;p&gt;•Windowsでキーボードを英語キーボードに変える&lt;br /&gt;
+Vector - キーボード切り替えツール&lt;br /&gt;
+&lt;a href="http://www.vector.co.jp/soft/winnt/util/se394832.html"&gt;http://www.vector.co.jp/soft/winnt/util/se394832.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;初期設定で日本語キーボードにしていて、後で英語キーボードに変える時や&lt;br /&gt;
+その逆にも使える。&lt;br /&gt;
+どうやらレジストリを書き換えて再起動する必要があるようだ&lt;/p&gt;</summary></entry></feed>
