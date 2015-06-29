@@ -14,8 +14,7 @@ HEMISHINKU  (\#2 symmetric - Ca5)
 [![](http://upup.bz/j/my99726dkuYt8_Y6ihJ5aJ2.gif)](http://pitifulpippuppet.web.fc2.com/album/hemishinku/download.html)
 
 <http://pitifulpippuppet.web.fc2.com/album/hemishinku/download.html>  
-[soundcloud url="http://api.soundcloud.com/tracks/97849765" params=""
-width=" 100%" height="166" iframe="true" /]
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/97849765&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 今回はテーマがだいぶとんがっていて、
 

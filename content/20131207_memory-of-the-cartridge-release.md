@@ -14,12 +14,8 @@ Slug: memory-of-the-cartridge-release
 http://www.otherman-records.com/releases/OTMN051](http://www.otherman-records.com/releases/OTMN051)
 
 試聴版  
-[soundcloud url="https://api.soundcloud.com/tracks/82757708"
-params="color=ff6600&auto\_play=false&show\_artwork=true" width="100%"
-height="166" iframe="true" /]  
-[soundcloud url="https://api.soundcloud.com/tracks/123533102"
-params="color=ff6600&auto\_play=false&show\_artwork=true" width="100%"
-height="166" iframe="true" /]  
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/82757708&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/123533102&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 そろそろsoundcloudの容量がいっぱいなので全部載せるのはとりあえずあきらめました。。
 
