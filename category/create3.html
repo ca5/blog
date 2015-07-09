@@ -9,6 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 
+    <link href="http://ca5.github.io/blog/images/favicon.ico" rel="icon">
 
 
     <meta name="author" content="Ca5" />
@@ -49,18 +50,18 @@ ca5blog            </a>
         </div>
         <div class="collapse navbar-collapse navbar-ex1-collapse">
             <ul class="nav navbar-nav">
-                        <li class="active">
-                            <a href="http://ca5.github.io/blog/category/create.html">Create</a>
-                        </li>
-                        <li >
-                            <a href="http://ca5.github.io/blog/category/event.html">Event</a>
-                        </li>
-                        <li >
-                            <a href="http://ca5.github.io/blog/category/other.html">Other</a>
-                        </li>
-                        <li >
-                            <a href="http://ca5.github.io/blog/category/release.html">Release</a>
-                        </li>
+                                    <li >
+                                        <a href="http://ca5.github.io/blog/category/release.html">Release</a>
+                                    </li>
+                                    <li >
+                                        <a href="http://ca5.github.io/blog/category/event.html">Event</a>
+                                    </li>
+                                    <li class="active">
+                                        <a href="http://ca5.github.io/blog/category/create.html">Create</a>
+                                    </li>
+                                    <li >
+                                        <a href="http://ca5.github.io/blog/category/other.html">Other</a>
+                                    </li>
             </ul>
             <ul class="nav navbar-nav navbar-right">
               <li><a href="http://ca5.github.io/blog/archives.html"><i class="fa fa-th-list"></i><span class="icon-label">Archives</span></a></li>
@@ -76,250 +77,141 @@ ca5blog            </a>
         <div class="col-sm-9">
 
             <article>
-                <h2><a href="http://ca5.github.io/blog/2013/07/30/after-otmn8/">【Live音源公開】あざまんしょー8お疲れ様でした #アザマンショー</a></h2>
-                <div class="summary"><p>おつかれさまでしたー　ということで<br />
-ライブの元音源公開です。</p>
-<iframe width="480" height="480" src="//www.mixcloud.com/widget/iframe/?feed=http%3A%2F%2Fwww.mixcloud.com%2Fca54makske%2Fca5-otmn8%2F&amp;embed_uuid=4e76e03a-b61f-4e4a-984a-d7aded3d7930&amp;stylecolor=&amp;embed_type=widget_standard" frameborder="0"></iframe>
-
-<div style="clear:both; height:3px; width:472px;">
-
-</div>
-
-<p><a href="http://www.mixcloud.com/ca54makske/ca5-otmn8/?utm_source=widget&amp;utm_medium=web&amp;utm_campaign=base_links&amp;utm_term=resource_link">Ca5-otmn8</a><span>
-by</span><a href="http://www.mixcloud.com/ca54makske/?utm_source=widget&amp;utm_medium=web&amp;utm_campaign=base_links&amp;utm_term=profile_link">Ca5</a><span>
-on</span><a href="http://www.mixcloud.com/?utm_source=widget&amp;utm_medium=web&amp;utm_campaign=base_links&amp;utm_term=homepage_link">Mixcloud</a></p>
-<div style="clear:both; height:3px;">
-
-</div>
-
-<p>-おまけ-<br />
-当日配った「Ca5のわけあリミックス」のトラックリストはこちら</p>
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/61113618&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
-
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/65097747&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
-
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/69554196&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
-
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/85618646&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
-
-<p>またいつかどこかでくばるかもしれません</p>
-                    <a class="btn btn-default btn-xs" href="http://ca5.github.io/blog/2013/07/30/after-otmn8/">more ...</a>
+                <h2><a href="http://ca5.github.io/blog/2014/05/11/androiddebian-kit-pyaudio2/">Android端末と Debian kitと PyAudio(2)</a></h2>
+                <div class="summary"><p><a href="http://blog.ca54makske.com/blog/2014/05/04/androiddebian-kit-pyaudio/">前回</a>の続き</p>
+<p>ドコかの記事で、AndroidのOSをバージョンアップさせるとオーディオのドライバが変わるって記事を見かけたのと、  </p>
+<p>linux-on-androidプロジェクトでは<a href="https://www.youtube.com/watch?v=3_AiWoTjO78">オーディオ鳴ってるdemo</a>があったりするんでこれらを導入してみる</p>
+<h2>1.AndroidOSアップデート</h2>
+<p>初代GalaxyTabは公式では2.3.3までしかアップデート出来ないので、<br />
+CyanogenModというROMを焼いちゃいます。</p>
+<p>手順まとめるのめんどくさいから参考にしたサイトだけメモ</p>
+<h3>1-1. 2.3.3のカスタムROMにする</h3>
+<p>Cyanogenmod入れる前にまずは2.3.3のカスタムROMを焼く</p>
+<p>参考:  </p>
+<p><a href="http://paso-kon-seikatsu.cocolog-nifty.com/blog/2011/07/galaxy-tabgin-1.html">http://paso-kon-seikatsu.cocolog-nifty.com/blog/2011/07/galaxy-tabgin-1.html<br />
+</a></p>
+<p>romがリンク切れでなかなか見つからなかったけどここにあった  </p>
+<p><a href="http://www.ersinkoc.com/galaxy-tab-icin-android-2-3-3-gingerbread-kurmak-ve-root-yapmak/">http://www.ersinkoc.com/galaxy-tab-icin-android-2-3-3-gingerbread-kurmak-ve-root-yapmak/<br />
+</a></p>
+<h3>1-2. CyanogenModいれる</h3>
+<p>CyanogenModを導入。CM10まで上げていくとバージョンが4.1まで上がる</p>
+<p>参考:<br />
+<a href="http://cielsomer.blog.fc2.com/blog-entry-79.html">http://cielsomer.blog.fc2.com/blog-entry-79.html ...</a></p>
+                    <a class="btn btn-default btn-xs" href="http://ca5.github.io/blog/2014/05/11/androiddebian-kit-pyaudio2/">more ...</a>
                 </div>
             </article>
             <hr/>
             <article>
-                <h2><a href="http://ca5.github.io/blog/2013/07/17/【live音源公開】fl研究会お疲れさまでした fl研究会/">【LIVE音源公開】FL研究会お疲れさまでした　#FL研究会</a></h2>
-                <div class="summary"><h1>FL研究会</h1>
-<p>あまり告知できず当日を迎えてしまいましたが、7/15(月)はFL研究会
-@中野HeavySickZero でした！<br />
-同じソフトを使って曲を作っているはずなのに、<br />
-皆さんそれぞれ、使い方が個性的でとても面白かったです。</p>
-<p>この日自分の発表では<br />
-・macでFLを動かす方法(VirtualBox利用)<br />
-・Slicexとミキサーチャンネル分割<br />
-・midioutプラグイン + Glitchプラグインでエフェクト切り替え<br />
-あたりの説明をしました。</p>
-<p>3つめのGlitchのネタは実はyoutubeで見つけたもの丸パクリだったりします（てへ  </p>
-<iframe width="560" height="315" src="//www.youtube.com/embed/oYQzKEyJGXA" frameborder="0" allowfullscreen></iframe>
-
-<p>Glitch使うとどうしても、「いかにもGlitch使ってます！」って音になるのがいやだなー<br />
-と思ってる方はこれを試してみてはどうでしょうか？<br />
-エフェクトの種類やかかるタイミングをピンポイントに設定してやるだけでも<br />
-だいぶ変わってくると思います。</p>
-<h1>おまけ</h1>
-<p>この日のLiveに使った音源をアップしてみました  </p>
-<p>Live中に録音したものではないので、当日にアドリブでかけてたエフェクトはかかってないです  </p>
-<iframe width="480" height="480" src="//www.mixcloud.com/widget/iframe/?feed=http%3A%2F%2Fwww.mixcloud.com%2Fca54makske%2Flivefl%25E7%25A0%2594%25E7%25A9%25B6%25E4%25BC%259A2013715-ca5%2F&amp;embed_uuid=50efc11b-3363-4ded-a9bc-5fc61b47ac7d&amp;stylecolor=&amp;embed_type=widget_standard" frameborder="0"></iframe>
-
-<div style="clear:both; height:3px; width:472px;">
-
-</div>
-
-<p><a href="http://www.mixcloud.com/ca54makske/livefl%E7%A0%94%E7%A9%B6%E4%BC%9A2013715-ca5/?utm_source=widget&amp;utm_medium=web&amp;utm_campaign=base_links&amp;utm_term=resource_link">Live@FL研究会(2013/7/15) -
-Ca5</a><span>
-by</span><a href="http://www.mixcloud.com/ca54makske/?utm_source=widget&amp;utm_medium=web&amp;utm_campaign=base_links&amp;utm_term=profile_link">Ca5</a><span>
-on</span><a href="http://www.mixcloud.com/?utm_source=widget&amp;utm_medium=web&amp;utm_campaign=base_links&amp;utm_term=homepage_link">Mixcloud</a></p>
-<div style="clear:both; height:3px;">
-
-</div>
-
-<p>曲のURL一覧<br />
-http://pitifulpippuppet.web.fc2.com/album/hemishinku/download.html ...</p>
-                    <a class="btn btn-default btn-xs" href="http://ca5.github.io/blog/2013/07/17/【live音源公開】fl研究会お疲れさまでした fl研究会/">more ...</a>
+                <h2><a href="http://ca5.github.io/blog/2014/05/04/androiddebian-kit-pyaudio/">Android端末と Debian kitと PyAudio</a></h2>
+                <div class="summary"><p>家に使ってないAndroid端末があったんで、<br />
+Debian化してpython入れて音出せるかどうか試してみました。<br />
+結論から言うと全然うまくいかないんですが。</p>
+<p>対象端末:<br />
+・Galaxy Tab(SC-01C)<br />
+→ 中古で購入した時点ですでに JK2 FroyoのRoot化ROMが焼いてあったっぽい<br />
+　→ バージョンは2.2 Froyo</p>
+<h2>Debianのinstall</h2>
+<p>この記事を参考に、Debian kitを使ってDebianを入れます<br />
+<a href="http://gihyo.jp/admin/serial/01/ubuntu-recipe/0256?page=3">http://gihyo.jp/admin/serial/01/ubuntu-recipe/0256?page=3<br />
+</a><br />
+Debian入れると言っても完全にOS焼きなおすんじゃなくて、<br />
+chrootな環境が出来上がるだけってもののようです。</p>
+<p>基本的にはAndroid端末にDebian
+kitと何か端末シミュレータをいれて上記の記事にそってインストールしていっただけ。  </p>
+<p>OSが入って、debコマンドで環境起動したら、その後の作業が楽になるようにssh
+serverを入れておきます</p>
+<p>[bash]<br />
+apt-get install openssh-server<br />
+[/bash]</p>
+<p>その後の作業は外部からこの端末にsshして色々いじっていく</p>
+<h2>pythonとかpyenvとか</h2>
+<p>pyenv入れる前に以下をapt-get installしておく<br />
+参考：<a href="https://github.com/yyuu/pyenv/wiki/Common-build-problems">https://github.com/yyuu/pyenv ...</a></p>
+                    <a class="btn btn-default btn-xs" href="http://ca5.github.io/blog/2014/05/04/androiddebian-kit-pyaudio/">more ...</a>
                 </div>
             </article>
             <hr/>
             <article>
-                <h2><a href="http://ca5.github.io/blog/2013/04/03/live-set-demo/">Live set DEMO動画投稿しました</a></h2>
-                <div class="summary"><p>しばらくライブの予定がないんですが、久々にライブセット広げて動画とってみました。  </p>
-<p>ライブのセット自体は<a href="http://www.youtube.com/watch?v=ck2LWPL8soE">前に動画とったもの</a>と同じ仕様です。<br />
-久々すぎて起動の仕方忘れてえらい苦労しました</p>
-<iframe width="640" height="360" src="http://www.youtube.com/embed/PrIYCSweC1w?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
-
-<p>後半調子に乗ってエフェクトかけすぎてますが気にしない！  </p>
-<p>こんなライブ見てみたいって方いらしたら是非是非ライブのブッキングお待ちしております。</p>
-                    <a class="btn btn-default btn-xs" href="http://ca5.github.io/blog/2013/04/03/live-set-demo/">more ...</a>
-                </div>
-            </article>
-            <hr/>
-            <article>
-                <h2><a href="http://ca5.github.io/blog/2012/11/11/othermanshowfirejam2012の動画全員分アップロードしました/">othermanshow@firejam2012の動画全員分アップロードしました</a></h2>
-                <div class="summary"><p>firejam2012でのothermanクルー全員分の動画をアップロードしましたー</p>
-<p>URL一覧はこちら<br />
-<a href="http://blog.otherman-records.com/post/35474757069/firejam2012">http://blog.otherman-records.com/post/35474757069/firejam2012</a></p>
-<blockquote>
-<p>miii<br />
- http://blog.otherman-records.com/post/35474237634/miii-live-firejam2012</p>
-<p>storz  </p>
-<p>http://blog.otherman-records.com/post/35474277697/storz-live-firejam2012</p>
-<p>suesett  </p>
-<p>http://blog.otherman-records.com/post/35474318212/suesett-live-firejam2012</p>
-<p>nishikawacchi  </p>
-<p>http://blog.otherman-records.com/post/35474338628/nishikawacchi-dj-firejam2012</p>
-<p>Ca5<br />
- http://blog.otherman-records.com/post/35474349089/ca5-live-firejam2012</p>
-<p>ebi1000 ...</p></blockquote>
-                    <a class="btn btn-default btn-xs" href="http://ca5.github.io/blog/2012/11/11/othermanshowfirejam2012の動画全員分アップロードしました/">more ...</a>
-                </div>
-            </article>
-            <hr/>
-            <article>
-                <h2><a href="http://ca5.github.io/blog/2012/09/06/firejam2012の動画/">firejam2012の動画</a></h2>
-                <div class="summary"><p>もう１週間以上すぎてしまいましたがfirejamお疲れ様でした！<br />
-以下は自分のライブの様子です  </p>
-<iframe width="420" height="315" src="http://www.youtube.com/embed/4qJNfEFd_xc" frameborder="0" allowfullscreen></iframe>
-
-<p>たまに左に手かざしているように見えますが、  </p>
-<p>その先にはkinectが設置してあって、KAOSSPADのエフェクトがかかるようになってます。</p>
-                    <a class="btn btn-default btn-xs" href="http://ca5.github.io/blog/2012/09/06/firejam2012の動画/">more ...</a>
-                </div>
-            </article>
-            <hr/>
-            <article>
-                <h2><a href="http://ca5.github.io/blog/2012/05/18/動画アップしましたm3-2012-othermanshow7/">動画アップしました(M3-2012, Othermanshow#7)</a></h2>
-                <div class="summary"><p>あざまんしょー７のライブの様子<br />
-いせさんが取ってくれました！  </p>
-<iframe width="560" height="315" src="http://www.youtube.com/embed/6HlDEzDdl_E" frameborder="0" allowfullscreen></iframe>
-
-<p>
-あとM3で出した曲のサンプルの長いバージョンをニコニコにアップしておきました。
-
-<script type="text/javascript" src="http://ext.nicovideo.jp/thumb_watch/nm17854060"></script>
-
-
-<noscript>
-[【ニコニコ動画】ふたりのボカロ(ふたりの天使remix)](http://www.nicovideo.jp/watch/nm17854060)
-
-</noscript>
-                    <a class="btn btn-default btn-xs" href="http://ca5.github.io/blog/2012/05/18/動画アップしましたm3-2012-othermanshow7/">more ...</a>
-                </div>
-            </article>
-            <hr/>
-            <article>
-                <h2><a href="http://ca5.github.io/blog/2012/05/14/きのうのライブセット公開/">きのうのライブセット公開</a></h2>
-                <div class="summary"><p>あざまんしょー７おつかれさまでした  </p>
-<p>ホントはライブ前にこういうの準備しておきたかったんですが間に合わず・・・<br />
-ライブセットの様子をを久々に動画に撮っておきました</p>
-<iframe width="560" height="315" src="http://www.youtube.com/embed/ck2LWPL8soE" frameborder="0" allowfullscreen></iframe>
-
-<p><a href="http://blog.ca54makske.com/?p=7469">前回のセット</a>のコアなところはそのままで、<br />
-リトリガなどのエフェクトを付け足してあります。<br />
-あざまんしょー７ではこのセット +
-<a href="http://blog.ca54makske.com/?p=442">kinectのセット</a>を使ってました。</p>
-<p>これでもうドラムのスライスが合わないような曲のときでも  </p>
-<p>ライブ中やることがなくて手持ち無沙汰・・・なんてこともなくなって個人的にはだいぶ満足です</p>
-                    <a class="btn btn-default btn-xs" href="http://ca5.github.io/blog/2012/05/14/きのうのライブセット公開/">more ...</a>
-                </div>
-            </article>
-            <hr/>
-            <article>
-                <h2><a href="http://ca5.github.io/blog/2012/05/02/macosx-lionで複数の音声入出力を扱うmaxmsp/">MacOSX Lionで複数の音声入出力を扱う(max/msp)</a></h2>
-                <div class="summary"><p>・・・のにずいぶんはまったのでメモ。</p>
-<p>自分のライブセットは、<br />
-AbletonLive -[Soundflower 16ch]→ max/msp -[Audio
-I/Oあるいは内蔵音声出力]→ スピーカー<br />
-という構成になっているので、今まで(〜MacOSX
-SnowLeopard)はこんな風に設定してました。</p>
-<p>（※以下出力に「内蔵音声出力」を使った場合、で説明します）<br />
-[flickr id="6989532404" thumbnail="original" overlay="true"
+                <h2><a href="http://ca5.github.io/blog/2014/04/14/fl-smf-python/">FLとSMFとpython (準備編)</a></h2>
+                <div class="summary"><p>FLで作った曲のBPMに合わせてごにょごにょする処理を自前で作りたくて色々試そうとしてます。</p>
+<p>とりあえず思いついた方法が</p>
+<ul>
+<li>FLで曲のwavとmidiを書き出す</li>
+<li>wavとmidiをpythonのスクリプトで読み込んでごにょごにょ</li>
+</ul>
+<p>というわけでまず準備編</p>
+<h2>1. FLでmidiを吐き出す</h2>
+<p>FLでこんなプロジェクトを用意</p>
+<p><a href="http://firestorage.jp/download/12b13e190a604e9dcd90ff34cb7d4287f95418e5">bpmtest.zip</p>
+<p></a></p>
+<p>[flickr id="13820505455" thumbnail="small_320" overlay="true"
 size="original" group="" align="none"]</p>
-<p>ところがOSがLionになってからはこれと同じ設定で音出してくれず。。。<br />
-どっかのメモで見つけたんですがこんな風にしないと駄目だそうです。</p>
-<h3>1.Audio MIDI設定で新しい「機器セット」を作る</h3>
-<p>下記の図みたいな感じで、新しくセットを作った中で<br />
-使いたいオーディオドライバを選択しておきます。<br />
-[flickr id="7135615821" thumbnail="medium" overlay="true"
-size ...</p>
-                    <a class="btn btn-default btn-xs" href="http://ca5.github.io/blog/2012/05/02/macosx-lionで複数の音声入出力を扱うmaxmsp/">more ...</a>
+<p>2小節分のドラムループを4回ループ。3小節目からBPM変更のパターンが入って、5-6小節目中でBPMを140→54.013へ一気に下げる。</p>
+<p>これのmidiを吐き出すには、まず</p>
+<p>TOOLS > Macros > prepare for export</p>
+<p>でmidiファイル出力に必要な適合化処理を実行する必要があります。</p>
+<p>(これやらないと空のmidiファイルしか出来ない</p>
+<p>で、こんなmidiファイルが出来る</p>
+<p><a href="http://firestorage.jp/download/3fbc6a9cda4e58488abcfa6f0659aa980742f540">bpmtest.mid</a></p>
+<h2>2. midiファイルをpythonのスクリプトで解析する</h2>
+<p>midiの解析にpython-midiを使う</p>
+<p><a href="https://github.com/vishnubob/python-midi">https://github.com/vishnubob/python-midi</p>
+<p></a></p>
+<p>pipのindexに入ってるみたいですが、</p>
+<p>自分の環境だとうまくインストールできなかったのでgitのREADME通りの手順でソースからインストール ...</p>
+                    <a class="btn btn-default btn-xs" href="http://ca5.github.io/blog/2014/04/14/fl-smf-python/">more ...</a>
                 </div>
             </article>
             <hr/>
             <article>
-                <h2><a href="http://ca5.github.io/blog/2012/02/05/liveのmidiクロックタイプに気をつけろ/">LiveのMIDIクロックタイプに気をつけろ</a></h2>
-                <div class="summary"><p>ドプマンショーおつかれさまでした</p>
-<p>ぼくのライブセットはAbleton Live → max/mspと<br />
-midi同期をさせて音の操作をするようになってるんですが、  </p>
-<p>たまに処理が重くなって音が飛んだ時に、midi同期のクロックとのタイミングがずれてしまうことがあって、<br />
-以前あざまんしょー６では<br />
-ライブ中にたまにタイミングを直して・・・とやってました<br />
-<br />
-<br />
-ところがこの前のドプマンショーでは  </p>
-<p>なかなかクロックが合わず何度か修正しながらやらなきゃならないことになってしまってました。<br />
-<br />
-<br />
-<br />
-<br />
-うーんこれはどうにかできないものか・・・<br />
-と思ってLiveのmidiの仕様について調べてるとこんな記事をみつけました<br />
-<br />
-ableton Liveと外部電子楽器の同期について (以下抜粋)<br />
-<a href="http://shop.plaza.rakuten.co.jp/dj/diary/detail/201008170000/%20">http://shop.plaza.rakuten.co.jp/dj/diary/detail/201008170000/<br />
-</a>  </p>
-<blockquote>
-<p>マニュアルによると....</p>
-<p></p>
-Songモード  </p>
-<p>Liveの再生位置が変わるたびにMIDIソング位置ポインタ(SPP)とコンティニューメッセージが送信されます。</p>
-<p>Patternモード  </p>
-<p>スタートメッセージのみ使用し、次にスタートする小節に合わせて送信されます。  </p>
-<p>MIDIスレーブがSPP(ソングポジションポインタ)メッセージを無視するようならPatternモードを使用します。</p>
-<p>ableton LiveのデフォルトではSONGモードになっていました。</p>
-<p>ELECTRIBE
-Sはクリック出し用でパターンモードで使っているのですが、ELECTRIBE
-Sの説明書を見たところSPPメッセージは受けないとのこと。</p>
-<p>なるほど、Ableton
-LiveのMIDIクロックをパターンモードにすればよいというわけですね。</p>
-</blockquote>
-<p>自分が作ったパッチはSPPでの同期は対応してないので<br />
-Patternモードに変えて試してみました ...</p>
-                    <a class="btn btn-default btn-xs" href="http://ca5.github.io/blog/2012/02/05/liveのmidiクロックタイプに気をつけろ/">more ...</a>
+                <h2><a href="http://ca5.github.io/blog/2014/03/21/fl-studio-11-0-4-on-macosx/">FL Studio 11.0.4 on MacOSX</a></h2>
+                <div class="summary"><p>前に<a href="http://blog.ca54makske.com/blog/2014/01/09/il-remote%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F/">この記事書いた時に</a>IL-remoteのためにFLをアップデート(FL
+Studio 11.0.4)してたんですが、<br />
+このアップデートのお陰で、MacBookにインストールしている<a href="http://www.image-line.com/documents/news.php?entry_id=1378290309">FL Studio MacOS
+X
+Beta</a>(これ書いてる時点では最新版が11.0.2)でプロジェクトファイルを開けなくなってしまいました。</p>
+<p>~~<strong>そもそも0.2っつーマイナーバージョンアップでプロジェクトファイルの互換性失うのってどうなんだよ？</strong>~~  </p>
+<p>・・・という話は置いておいて、MacBookに最新版のFLをちゃんと入れられたのでやり方を簡単に書いておきます。</p>
+<h2>必要なもの</h2>
+<ul>
+<li>FL Studio 11.0.4 インストーラ</li>
+<li>FLRegkey.Reg (ユーザーページで発行)</li>
+<li><a href="http://www.codeweavers.com/products/">CrossOver</a></li>
+</ul>
+<p>公式で配布されているベータ版のFL Studio
+MacOSXの実体はOSXネイティブなアプリではなくて<br />
+CrossOverでラッピングしたものになってます。<br />
+なので今回はCrossOverを使って自力でFLをインストールします</p>
+<h2>インストール手順</h2>
+<p>・・・といってもそんなに書くこともあまり無かったりしますが<br />
+手順としてはこう</p>
+<ol>
+<li>CrossOverをインストール</li>
+<li>FLのインストーラを起動(CrossOverが立ち上がってインストーラを起動しようとする)</li>
+<li>FLをインストールしたボトル(CrossOverの仮想マシン?)のレジストリエディタを起動してFLRegKey.Regを登録 ...</li></ol>
+                    <a class="btn btn-default btn-xs" href="http://ca5.github.io/blog/2014/03/21/fl-studio-11-0-4-on-macosx/">more ...</a>
                 </div>
             </article>
             <hr/>
             <article>
-                <h2><a href="http://ca5.github.io/blog/2011/12/28/2011まとめ/">2011まとめ</a></h2>
-                <div class="summary"><p>2011年オレオレ年表</p>
-<h1>colorEP リリース(1/30)</h1>
-<p><img alt="" src="http://www.archive.org/download/OTMN010/folder.jpg" /><br />
-<a href="http://www.otherman-records.com/releases/OTMN010">http://www.otherman-records.com/releases/OTMN010<br />
-</a></p>
-<h1>9in1 リリース(2/20)</h1>
-<p><img alt="" src="http://ia700403.us.archive.org/5/items/OTMN017/9in1.png" /><br />
-<a href="http://www.otherman-records.com/releases/OTMN017">http://www.otherman-records.com/releases/OTMN017<br />
-</a></p>
-<h1>M3(5/1)</h1>
-<p>今もここで一部視聴ができます<br />
-<a href="http://nkrn.bandcamp.com/album/killer-9-nie-killer-nine-4">http://nkrn.bandcamp.com/album/killer-9-nie-killer-nine-4</a><br />
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/27076022&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe></p>
-<h1>あざまんしょー #4(5/11)</h1>
-<p>多分写真ない</p>
-<h1>あざまんしょー #5(8/7)</h1>
-<p>映像もない！</p>
-<h1>grayscale リリース(9/3)</h1>
-<p><img alt="" src="http://www.archive.org/download/OTMN024/folder.jpg" /><br />
-<a href="http://www.otherman-records.com/releases/OTMN024">http://www.otherman-records.com/releases ...</a></p>
-                    <a class="btn btn-default btn-xs" href="http://ca5.github.io/blog/2011/12/28/2011まとめ/">more ...</a>
+                <h2><a href="http://ca5.github.io/blog/2014/01/16/after-vdp4/">【ライブ音源】VolDope4おつかれさまでした</a></h2>
+                <div class="summary"><p>VolDope4お疲れさまでした<br />
+ライブの再現音源をまたmixcloudで公開しました</p>
+<iframe width="660" height="180" src="//www.mixcloud.com/widget/iframe/?feed=http%3A%2F%2Fwww.mixcloud.com%2Fca54makske%2Fca5-vdp4%2F&amp;embed_type=widget_standard&amp;embed_uuid=e311e3a7-404b-4581-8815-f675a946f71b&amp;hide_tracklist=1&amp;hide_cover=1" frameborder="0"></iframe>
+
+<div style="clear: both; height: 3px; width: 652px;">
+
+</div>
+
+<p><a href="http://www.mixcloud.com/ca54makske/ca5-vdp4/?utm_source=widget&amp;amp;utm_medium=web&amp;amp;utm_campaign=base_links&amp;amp;utm_term=resource_link">Ca5-vdp4</a><span>
+by</span><a href="http://www.mixcloud.com/ca54makske/?utm_source=widget&amp;amp;utm_medium=web&amp;amp;utm_campaign=base_links&amp;amp;utm_term=profile_link">Ca5</a><span>
+on</span><a href="http://www.mixcloud.com/?utm_source=widget&amp;utm_medium=web&amp;utm_campaign=base_links&amp;utm_term=homepage_link">Mixcloud</a></p>
+<div style="clear: both; height: 3px; width: 652px;">
+
+</div>
+
+<p>今回のセットは40分なのでちょっと長めです</p>
+                    <a class="btn btn-default btn-xs" href="http://ca5.github.io/blog/2014/01/16/after-vdp4/">more ...</a>
                 </div>
             </article>
             <hr/>
@@ -341,6 +233,20 @@ Patternモードに変えて試してみました ...</p>
                             href="http://ca5.github.io/blog/category/create6.html">6</a></li>
                     <li class=""><a
                             href="http://ca5.github.io/blog/category/create7.html">7</a></li>
+                    <li class=""><a
+                            href="http://ca5.github.io/blog/category/create8.html">8</a></li>
+                    <li class=""><a
+                            href="http://ca5.github.io/blog/category/create9.html">9</a></li>
+                    <li class=""><a
+                            href="http://ca5.github.io/blog/category/create10.html">10</a></li>
+                    <li class=""><a
+                            href="http://ca5.github.io/blog/category/create11.html">11</a></li>
+                    <li class=""><a
+                            href="http://ca5.github.io/blog/category/create12.html">12</a></li>
+                    <li class=""><a
+                            href="http://ca5.github.io/blog/category/create13.html">13</a></li>
+                    <li class=""><a
+                            href="http://ca5.github.io/blog/category/create14.html">14</a></li>
                 <li class="next"><a
                         href="http://ca5.github.io/blog/category/create4.html">&raquo;</a></li>
         </ul>
@@ -352,8 +258,8 @@ Patternモードに変えて試してみました ...</p>
     <ul class="list-group list-group-flush">
             <li class="list-group-item"><h4><i class="fa fa-home fa-lg"></i><span class="icon-label">Social</span></h4>
               <ul class="list-group" id="social">
-                <li class="list-group-item"><a href="#"><i class="fa fa-you-can-add-links-in-your-config-file-square fa-lg"></i> You can add links in your config file</a></li>
-                <li class="list-group-item"><a href="#"><i class="fa fa-another-social-link-square fa-lg"></i> Another social link</a></li>
+                <li class="list-group-item"><a href="https://twitter.com/Ca5"><i class="fa fa-twitter-square fa-lg"></i> Twitter</a></li>
+                <li class="list-group-item"><a href="https://www.facebook.com/ca54makske"><i class="fa fa-facebook-square fa-lg"></i> Facebook</a></li>
               </ul>
             </li>
 
@@ -362,8 +268,8 @@ Patternモードに変えて試してみました ...</p>
             <li class="list-group-item"><a href="http://ca5.github.io/blog/"><h4><i class="fa fa-tags fa-lg"></i><span class="icon-label">Tags</span></h4></a>
                 <ul class="list-group " id="tags">
                     <li class="list-group-item tag-1">
-                        <a href="http://ca5.github.io/blog/tag/ramen.html">
-                            ラーメン
+                        <a href="http://ca5.github.io/blog/tag/maxmsp.html">
+                            max/msp
                         </a>
                     </li>
                     <li class="list-group-item tag-1">
@@ -372,8 +278,13 @@ Patternモードに変えて試してみました ...</p>
                         </a>
                     </li>
                     <li class="list-group-item tag-1">
-                        <a href="http://ca5.github.io/blog/tag/otherman.html">
-                            otherman
+                        <a href="http://ca5.github.io/blog/tag/live.html">
+                            live
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-1">
+                        <a href="http://ca5.github.io/blog/tag/ramen.html">
+                            ラーメン
                         </a>
                     </li>
                     <li class="list-group-item tag-1">
@@ -382,58 +293,13 @@ Patternモードに変えて試してみました ...</p>
                         </a>
                     </li>
                     <li class="list-group-item tag-1">
-                        <a href="http://ca5.github.io/blog/tag/maxmsp.html">
-                            max/msp
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-1">
-                        <a href="http://ca5.github.io/blog/tag/live.html">
-                            live
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-1">
                         <a href="http://ca5.github.io/blog/tag/chiptune.html">
                             chiptune
                         </a>
                     </li>
-                    <li class="list-group-item tag-2">
-                        <a href="http://ca5.github.io/blog/tag/iphone.html">
-                            iPhone
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-2">
-                        <a href="http://ca5.github.io/blog/tag/suitsu.html">
-                            スイーツ
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-2">
-                        <a href="http://ca5.github.io/blog/tag/kahue.html">
-                            カフェ
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-2">
-                        <a href="http://ca5.github.io/blog/tag/remix.html">
-                            remix
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-2">
-                        <a href="http://ca5.github.io/blog/tag/hanbaga.html">
-                            ハンバーガー
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-2">
-                        <a href="http://ca5.github.io/blog/tag/m3.html">
-                            M3
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-2">
-                        <a href="http://ca5.github.io/blog/tag/mac.html">
-                            mac
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-2">
-                        <a href="http://ca5.github.io/blog/tag/touchosc.html">
-                            touchosc
+                    <li class="list-group-item tag-1">
+                        <a href="http://ca5.github.io/blog/tag/otherman.html">
+                            otherman
                         </a>
                     </li>
                     <li class="list-group-item tag-2">
@@ -442,8 +308,33 @@ Patternモードに変えて試してみました ...</p>
                         </a>
                     </li>
                     <li class="list-group-item tag-2">
-                        <a href="http://ca5.github.io/blog/tag/nkrn.html">
-                            NKRN
+                        <a href="http://ca5.github.io/blog/tag/mac.html">
+                            mac
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-2">
+                        <a href="http://ca5.github.io/blog/tag/kahue.html">
+                            カフェ
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-2">
+                        <a href="http://ca5.github.io/blog/tag/iphone.html">
+                            iPhone
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-2">
+                        <a href="http://ca5.github.io/blog/tag/touchosc.html">
+                            touchosc
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-2">
+                        <a href="http://ca5.github.io/blog/tag/hanbaga.html">
+                            ハンバーガー
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-2">
+                        <a href="http://ca5.github.io/blog/tag/remix.html">
+                            remix
                         </a>
                     </li>
                     <li class="list-group-item tag-2">
@@ -456,9 +347,64 @@ Patternモードに変えて試してみました ...</p>
                             FL
                         </a>
                     </li>
+                    <li class="list-group-item tag-2">
+                        <a href="http://ca5.github.io/blog/tag/suitsu.html">
+                            スイーツ
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-2">
+                        <a href="http://ca5.github.io/blog/tag/m3.html">
+                            M3
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-2">
+                        <a href="http://ca5.github.io/blog/tag/nkrn.html">
+                            NKRN
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-3">
+                        <a href="http://ca5.github.io/blog/tag/lu-xing.html">
+                            旅行
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-3">
+                        <a href="http://ca5.github.io/blog/tag/dopeup.html">
+                            dopeup
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-3">
+                        <a href="http://ca5.github.io/blog/tag/ba.html">
+                            バー
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-3">
+                        <a href="http://ca5.github.io/blog/tag/debian.html">
+                            debian
+                        </a>
+                    </li>
                     <li class="list-group-item tag-3">
                         <a href="http://ca5.github.io/blog/tag/mashup.html">
                             mashup
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-3">
+                        <a href="http://ca5.github.io/blog/tag/pitiful-pip-puppet.html">
+                            pitiful pip puppet
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-3">
+                        <a href="http://ca5.github.io/blog/tag/liu-ben-mu.html">
+                            六本木
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-3">
+                        <a href="http://ca5.github.io/blog/tag/keki.html">
+                            ケーキ
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-3">
+                        <a href="http://ca5.github.io/blog/tag/er-lang.html">
+                            二郎
                         </a>
                     </li>
                     <li class="list-group-item tag-3">
@@ -467,8 +413,48 @@ Patternモードに変えて試してみました ...</p>
                         </a>
                     </li>
                     <li class="list-group-item tag-3">
+                        <a href="http://ca5.github.io/blog/tag/lsdj.html">
+                            LSDJ
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-3">
+                        <a href="http://ca5.github.io/blog/tag/raibu.html">
+                            ライブ
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-3">
+                        <a href="http://ca5.github.io/blog/tag/midi.html">
+                            midi
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-3">
+                        <a href="http://ca5.github.io/blog/tag/tailiao-li.html">
+                            タイ料理
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-3">
+                        <a href="http://ca5.github.io/blog/tag/kinect.html">
+                            kinect
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-3">
+                        <a href="http://ca5.github.io/blog/tag/arduino.html">
+                            arduino
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-3">
+                        <a href="http://ca5.github.io/blog/tag/he-guo-zi.html">
+                            和菓子
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-3">
                         <a href="http://ca5.github.io/blog/tag/python.html">
                             python
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-3">
+                        <a href="http://ca5.github.io/blog/tag/ohao-mishao-ki.html">
+                            お好み焼き
                         </a>
                     </li>
                     <li class="list-group-item tag-3">
@@ -482,58 +468,8 @@ Patternモードに変えて試してみました ...</p>
                         </a>
                     </li>
                     <li class="list-group-item tag-3">
-                        <a href="http://ca5.github.io/blog/tag/arduino.html">
-                            arduino
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-3">
-                        <a href="http://ca5.github.io/blog/tag/lu-xing.html">
-                            旅行
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-3">
-                        <a href="http://ca5.github.io/blog/tag/keki.html">
-                            ケーキ
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-3">
-                        <a href="http://ca5.github.io/blog/tag/rayou.html">
-                            ラー油
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-3">
-                        <a href="http://ca5.github.io/blog/tag/he-guo-zi.html">
-                            和菓子
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-3">
-                        <a href="http://ca5.github.io/blog/tag/raibu.html">
-                            ライブ
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-3">
-                        <a href="http://ca5.github.io/blog/tag/liu-ben-mu.html">
-                            六本木
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-3">
-                        <a href="http://ca5.github.io/blog/tag/tailiao-li.html">
-                            タイ料理
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-3">
-                        <a href="http://ca5.github.io/blog/tag/debian.html">
-                            debian
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-3">
-                        <a href="http://ca5.github.io/blog/tag/ohao-mishao-ki.html">
-                            お好み焼き
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-3">
-                        <a href="http://ca5.github.io/blog/tag/android.html">
-                            android
+                        <a href="http://ca5.github.io/blog/tag/tsukemian.html">
+                            つけ麺
                         </a>
                     </li>
                     <li class="list-group-item tag-3">
@@ -542,98 +478,13 @@ Patternモードに変えて試してみました ...</p>
                         </a>
                     </li>
                     <li class="list-group-item tag-3">
-                        <a href="http://ca5.github.io/blog/tag/midi.html">
-                            midi
+                        <a href="http://ca5.github.io/blog/tag/rayou.html">
+                            ラー油
                         </a>
                     </li>
                     <li class="list-group-item tag-3">
-                        <a href="http://ca5.github.io/blog/tag/er-lang.html">
-                            二郎
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-3">
-                        <a href="http://ca5.github.io/blog/tag/ba.html">
-                            バー
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-3">
-                        <a href="http://ca5.github.io/blog/tag/pitiful-pip-puppet.html">
-                            pitiful pip puppet
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-3">
-                        <a href="http://ca5.github.io/blog/tag/lsdj.html">
-                            LSDJ
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-3">
-                        <a href="http://ca5.github.io/blog/tag/dopeup.html">
-                            dopeup
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-3">
-                        <a href="http://ca5.github.io/blog/tag/kinect.html">
-                            kinect
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-3">
-                        <a href="http://ca5.github.io/blog/tag/tsukemian.html">
-                            つけ麺
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://ca5.github.io/blog/tag/music.html">
-                            music
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://ca5.github.io/blog/tag/iamas.html">
-                            IAMAS
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://ca5.github.io/blog/tag/wu-fan-tian.html">
-                            五反田
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://ca5.github.io/blog/tag/shikensa.html">
-                            シーケンサ
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://ca5.github.io/blog/tag/blipfestival.html">
-                            blipfestival
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://ca5.github.io/blog/tag/windowslivemesh.html">
-                            WindowsLiveMesh
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://ca5.github.io/blog/tag/wen-ju.html">
-                            文具
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://ca5.github.io/blog/tag/jitter.html">
-                            jitter
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://ca5.github.io/blog/tag/lion.html">
-                            lion
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://ca5.github.io/blog/tag/electronica.html">
-                            electronica
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://ca5.github.io/blog/tag/osc.html">
-                            osc
+                        <a href="http://ca5.github.io/blog/tag/android.html">
+                            android
                         </a>
                     </li>
                     <li class="list-group-item tag-4">
@@ -642,33 +493,8 @@ Patternモードに変えて試してみました ...</p>
                         </a>
                     </li>
                     <li class="list-group-item tag-4">
-                        <a href="http://ca5.github.io/blog/tag/nsf.html">
-                            nsf
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://ca5.github.io/blog/tag/beatmania.html">
-                            beatmania
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://ca5.github.io/blog/tag/supaidama.html">
-                            スパイダーマ
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://ca5.github.io/blog/tag/ubuntu.html">
-                            ubuntu
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://ca5.github.io/blog/tag/korotsuke.html">
-                            コロッケ
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://ca5.github.io/blog/tag/karemian.html">
-                            カレー麺
+                        <a href="http://ca5.github.io/blog/tag/tun-kimuchi.html">
+                            豚キムチ
                         </a>
                     </li>
                     <li class="list-group-item tag-4">
@@ -677,83 +503,8 @@ Patternモードに変えて試してみました ...</p>
                         </a>
                     </li>
                     <li class="list-group-item tag-4">
-                        <a href="http://ca5.github.io/blog/tag/ring.html">
-                            Ring
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://ca5.github.io/blog/tag/he-shi.html">
-                            和食
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://ca5.github.io/blog/tag/renoise.html">
-                            renoise
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://ca5.github.io/blog/tag/biru.html">
-                            ビール
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://ca5.github.io/blog/tag/yoyo.html">
-                            ヨーヨー
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
                         <a href="http://ca5.github.io/blog/tag/pankeki.html">
                             パンケーキ
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://ca5.github.io/blog/tag/midines.html">
-                            MIDINES
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://ca5.github.io/blog/tag/ming-ci.html">
-                            名詞
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://ca5.github.io/blog/tag/ranchi.html">
-                            ランチ
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://ca5.github.io/blog/tag/8081netlabel.html">
-                            8081netlabel
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://ca5.github.io/blog/tag/tuan-zi.html">
-                            団子
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://ca5.github.io/blog/tag/fu-shi-shan.html">
-                            富士山
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://ca5.github.io/blog/tag/amen.html">
-                            amen
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://ca5.github.io/blog/tag/joypad.html">
-                            joypad
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://ca5.github.io/blog/tag/lua.html">
-                            Lua
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://ca5.github.io/blog/tag/shirasujing.html">
-                            しらす丼
                         </a>
                     </li>
                     <li class="list-group-item tag-4">
@@ -762,18 +513,18 @@ Patternモードに変えて試してみました ...</p>
                         </a>
                     </li>
                     <li class="list-group-item tag-4">
-                        <a href="http://ca5.github.io/blog/tag/komike.html">
-                            コミケ
+                        <a href="http://ca5.github.io/blog/tag/lion.html">
+                            lion
                         </a>
                     </li>
                     <li class="list-group-item tag-4">
-                        <a href="http://ca5.github.io/blog/tag/gapao.html">
-                            ガパオ
+                        <a href="http://ca5.github.io/blog/tag/blipfestival.html">
+                            blipfestival
                         </a>
                     </li>
                     <li class="list-group-item tag-4">
-                        <a href="http://ca5.github.io/blog/tag/azialiao-li.html">
-                            アジア料理
+                        <a href="http://ca5.github.io/blog/tag/beatmania.html">
+                            beatmania
                         </a>
                     </li>
                     <li class="list-group-item tag-4">
@@ -782,33 +533,33 @@ Patternモードに変えて試してみました ...</p>
                         </a>
                     </li>
                     <li class="list-group-item tag-4">
-                        <a href="http://ca5.github.io/blog/tag/oth.html">
-                            oth
+                        <a href="http://ca5.github.io/blog/tag/gamepad.html">
+                            gamepad
                         </a>
                     </li>
                     <li class="list-group-item tag-4">
-                        <a href="http://ca5.github.io/blog/tag/zhong-hua.html">
-                            中華
+                        <a href="http://ca5.github.io/blog/tag/midines.html">
+                            MIDINES
                         </a>
                     </li>
                     <li class="list-group-item tag-4">
-                        <a href="http://ca5.github.io/blog/tag/soundcloud.html">
-                            soundcloud
+                        <a href="http://ca5.github.io/blog/tag/amen.html">
+                            amen
                         </a>
                     </li>
                     <li class="list-group-item tag-4">
-                        <a href="http://ca5.github.io/blog/tag/katsupumian.html">
-                            カップ麺
+                        <a href="http://ca5.github.io/blog/tag/korotsuke.html">
+                            コロッケ
                         </a>
                     </li>
                     <li class="list-group-item tag-4">
-                        <a href="http://ca5.github.io/blog/tag/bo.html">
-                            柏
+                        <a href="http://ca5.github.io/blog/tag/wei-cheng.html">
+                            味噌
                         </a>
                     </li>
                     <li class="list-group-item tag-4">
-                        <a href="http://ca5.github.io/blog/tag/qiao-mai.html">
-                            蕎麦
+                        <a href="http://ca5.github.io/blog/tag/supaidama.html">
+                            スパイダーマ
                         </a>
                     </li>
                     <li class="list-group-item tag-4">
@@ -817,23 +568,38 @@ Patternモードに変えて試してみました ...</p>
                         </a>
                     </li>
                     <li class="list-group-item tag-4">
-                        <a href="http://ca5.github.io/blog/tag/niu-tan.html">
-                            牛タン
+                        <a href="http://ca5.github.io/blog/tag/fu-shi-shan.html">
+                            富士山
                         </a>
                     </li>
                     <li class="list-group-item tag-4">
-                        <a href="http://ca5.github.io/blog/tag/gamepad.html">
-                            gamepad
+                        <a href="http://ca5.github.io/blog/tag/windowslivemesh.html">
+                            WindowsLiveMesh
                         </a>
                     </li>
                     <li class="list-group-item tag-4">
-                        <a href="http://ca5.github.io/blog/tag/donatsu.html">
-                            ドーナツ
+                        <a href="http://ca5.github.io/blog/tag/karemian.html">
+                            カレー麺
                         </a>
                     </li>
                     <li class="list-group-item tag-4">
-                        <a href="http://ca5.github.io/blog/tag/tun-kimuchi.html">
-                            豚キムチ
+                        <a href="http://ca5.github.io/blog/tag/bo.html">
+                            柏
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/shikensa.html">
+                            シーケンサ
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/katsupumian.html">
+                            カップ麺
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/yoyo.html">
+                            ヨーヨー
                         </a>
                     </li>
                     <li class="list-group-item tag-4">
@@ -842,8 +608,78 @@ Patternモードに変えて試してみました ...</p>
                         </a>
                     </li>
                     <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/8081netlabel.html">
+                            8081netlabel
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/iamas.html">
+                            IAMAS
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
                         <a href="http://ca5.github.io/blog/tag/xi-di-wa.html">
                             西荻窪
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/donatsu.html">
+                            ドーナツ
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/he-shi.html">
+                            和食
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/ubuntu.html">
+                            ubuntu
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/ring.html">
+                            Ring
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/niu-tan.html">
+                            牛タン
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/ming-ci.html">
+                            名詞
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/wu-fan-tian.html">
+                            五反田
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/oth.html">
+                            oth
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/lua.html">
+                            Lua
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/ranchi.html">
+                            ランチ
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/soundcloud.html">
+                            soundcloud
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/electronica.html">
+                            electronica
                         </a>
                     </li>
                     <li class="list-group-item tag-4">
@@ -852,13 +688,83 @@ Patternモードに変えて試してみました ...</p>
                         </a>
                     </li>
                     <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/osc.html">
+                            osc
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/komike.html">
+                            コミケ
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/zhong-hua.html">
+                            中華
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/joypad.html">
+                            joypad
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/music.html">
+                            music
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/gapao.html">
+                            ガパオ
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/nsf.html">
+                            nsf
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/qiao-mai.html">
+                            蕎麦
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/tuan-zi.html">
+                            団子
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/biru.html">
+                            ビール
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
                         <a href="http://ca5.github.io/blog/tag/ilremote.html">
                             ILRemote
                         </a>
                     </li>
                     <li class="list-group-item tag-4">
-                        <a href="http://ca5.github.io/blog/tag/wei-cheng.html">
-                            味噌
+                        <a href="http://ca5.github.io/blog/tag/shirasujing.html">
+                            しらす丼
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/azialiao-li.html">
+                            アジア料理
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/wen-ju.html">
+                            文具
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/renoise.html">
+                            renoise
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://ca5.github.io/blog/tag/jitter.html">
+                            jitter
                         </a>
                     </li>
                 </ul>
@@ -866,23 +772,8 @@ Patternモードに変えて試してみました ...</p>
     <li class="list-group-item"><h4><i class="fa fa-external-link-square fa-lg"></i><span class="icon-label">Links</span></h4>
       <ul class="list-group" id="links">
         <li class="list-group-item">
-            <a href="http://getpelican.com/" target="_blank">
-                Pelican
-            </a>
-        </li>
-        <li class="list-group-item">
-            <a href="http://python.org/" target="_blank">
-                Python.org
-            </a>
-        </li>
-        <li class="list-group-item">
-            <a href="http://jinja.pocoo.org/" target="_blank">
-                Jinja2
-            </a>
-        </li>
-        <li class="list-group-item">
-            <a href="#" target="_blank">
-                You can modify those links in your config file
+            <a href="http://ca5.me" target="_blank">
+                Ca5
             </a>
         </li>
       </ul>
@@ -913,6 +804,7 @@ Patternモードに変えて試してみました ...</p>
 <!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
 <script src="http://ca5.github.io/blog/theme/js/respond.min.js"></script>
 
+    <script src="http://ca5.github.io/blog/theme/js/bodypadding.js"></script>
 
 </body>
 </html>
