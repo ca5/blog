@@ -4,6 +4,9 @@
 
 <section class="well well-sm">
     <ul class="list-group list-group-flush">
+        {% include 'includes/twitter_timeline.html' %}
+        {% include 'includes/links.html' %}
+
         {% if SOCIAL %}
             <li class="list-group-item"><h4><i class="fa fa-home fa-lg"></i><span class="icon-label">Social</span></h4>
               <ul class="list-group" id="social">
@@ -19,6 +22,7 @@
               </ul>
             </li>
         {% endif %}
+        {% include 'includes/github.html' %}
 
         {% if DISPLAY_RECENT_POSTS_ON_SIDEBAR %}
             {% if RECENT_POST_COUNT is not defined %}
@@ -69,9 +73,6 @@
                 </ul>
             </li>
         {% endif %}
-        {% include 'includes/github.html' %}
-        {% include 'includes/twitter_timeline.html' %}
-        {% include 'includes/links.html' %}
     </ul>
 </section>
 

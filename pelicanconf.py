@@ -22,11 +22,13 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Ca5', 'http://ca5.me'),)
+LINKS = (('Ca5', 'http://ca5.me'),
+         ('Discography', 'http://ca5.me/discography'))
 
 # Social widget
 SOCIAL = (('Twitter', 'https://twitter.com/Ca5'),
-          ('Facebook', 'https://www.facebook.com/ca54makske'),)
+          ('Facebook', 'https://www.facebook.com/ca54makske'),
+          ('Soundcloud', 'https://soundcloud.com/ca54makske'))
 
 DEFAULT_PAGINATION = 5
 
@@ -42,12 +44,15 @@ BANNER = 'images/banner.png'
 FAVICON = 'images/favicon.ico'
 SITE_LOGO = 'images/logo.png'
 TWITTER_USERNAME = 'Ca5'
+TWITTER_WIDGET_ID = '619183516178190337'
+GITHUB_USER = 'ca5'
 ORDERD_CATEGORIES = [
     'release',
     'event',
     'create',
     'other'
     ]
+USE_PAGER = True
 
 
 # Plugin
