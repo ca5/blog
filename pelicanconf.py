@@ -34,7 +34,26 @@ DEFAULT_PAGINATION = 5
 #RELATIVE_URLS = True
 
 THEME = './themes/default'
+
+#TOP_CATEGORY = []
+
+STATIC_PATHS = ['images']
+BANNER = 'images/banner.png'
+FAVICON = 'images/favicon.ico'
+SITE_LOGO = 'images/logo.png'
+TWITTER_USERNAME = 'Ca5'
+ORDERD_CATEGORIES = [
+    'release',
+    'event',
+    'create',
+    'other'
+    ]
+
+
+# Plugin
 PLUGIN_PATHS = ["plugins", "./pelican/plugins"]
+
+## Plugin-Sitemap
 PLUGINS = ['sitemap',]
 SITEMAP = {
     'format': 'xml',
