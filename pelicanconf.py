@@ -39,7 +39,7 @@ THEME = './themes/default'
 
 #TOP_CATEGORY = []
 
-STATIC_PATHS = ['images']
+STATIC_PATHS = ['images', 'CNAME']
 BANNER = 'images/banner.png'
 FAVICON = 'images/favicon.ico'
 SITE_LOGO = 'images/logo.png'
