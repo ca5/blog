@@ -4,3374 +4,3374 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>http://ca5.github.io/blog/</loc>
-<lastmod>2015-07-11T00:35:15-00:00</lastmod>
+<loc>http://blog.ca5.me/</loc>
+<lastmod>2015-07-11T01:05:59-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/archives.html</loc>
-<lastmod>2015-07-11T00:35:15-00:00</lastmod>
+<loc>http://blog.ca5.me/archives.html</loc>
+<lastmod>2015-07-11T01:05:59-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tags.html</loc>
-<lastmod>2015-07-11T00:35:15-00:00</lastmod>
+<loc>http://blog.ca5.me/tags.html</loc>
+<lastmod>2015-07-11T01:05:59-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/categories.html</loc>
-<lastmod>2015-07-11T00:35:15-00:00</lastmod>
+<loc>http://blog.ca5.me/categories.html</loc>
+<lastmod>2015-07-11T01:05:59-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2015/06/20/maxpatch/</loc>
+<loc>http://blog.ca5.me/2015/06/20/maxpatch/</loc>
 <lastmod>2015-06-20T01:40:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2015/05/11/chip-juke-bros/</loc>
+<loc>http://blog.ca5.me/2015/05/11/chip-juke-bros/</loc>
 <lastmod>2015-05-11T22:41:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2015/05/03/undo03/</loc>
+<loc>http://blog.ca5.me/2015/05/03/undo03/</loc>
 <lastmod>2015-05-03T21:30:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2015/04/15/m32015426/</loc>
+<loc>http://blog.ca5.me/2015/04/15/m32015426/</loc>
 <lastmod>2015-04-15T21:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2015/03/28/water-music/</loc>
+<loc>http://blog.ca5.me/2015/03/28/water-music/</loc>
 <lastmod>2015-03-28T22:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2015/03/17/after-otmn11/</loc>
+<loc>http://blog.ca5.me/2015/03/17/after-otmn11/</loc>
 <lastmod>2015-03-17T22:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2015/02/19/robolabo/</loc>
+<loc>http://blog.ca5.me/2015/02/19/robolabo/</loc>
 <lastmod>2015-02-19T00:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2015/02/12/the-otherman-show-xi/</loc>
+<loc>http://blog.ca5.me/2015/02/12/the-otherman-show-xi/</loc>
 <lastmod>2015-02-12T00:43:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2015/02/06/logbar-ring-kaosspad/</loc>
+<loc>http://blog.ca5.me/2015/02/06/logbar-ring-kaosspad/</loc>
 <lastmod>2015-02-06T00:34:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2015/02/02/the-otherman-radio-show-2/</loc>
+<loc>http://blog.ca5.me/2015/02/02/the-otherman-radio-show-2/</loc>
 <lastmod>2015-02-02T00:11:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2015/01/30/the-otherman-radio-show/</loc>
+<loc>http://blog.ca5.me/2015/01/30/the-otherman-radio-show/</loc>
 <lastmod>2015-01-30T00:03:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2015/01/06/ringabletonlive/</loc>
+<loc>http://blog.ca5.me/2015/01/06/ringabletonlive/</loc>
 <lastmod>2015-01-06T00:21:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2014/12/31/2014/</loc>
+<loc>http://blog.ca5.me/2014/12/31/2014/</loc>
 <lastmod>2014-12-31T00:56:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2014/12/23/tuxuep6/</loc>
+<loc>http://blog.ca5.me/2014/12/23/tuxuep6/</loc>
 <lastmod>2014-12-23T22:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2014/11/26/after-1124-akiba-mogra/</loc>
+<loc>http://blog.ca5.me/2014/11/26/after-1124-akiba-mogra/</loc>
 <lastmod>2014-11-26T01:14:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2014/11/22/mft2014/</loc>
+<loc>http://blog.ca5.me/2014/11/22/mft2014/</loc>
 <lastmod>2014-11-22T22:23:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2014/11/13/2014gamelegend/</loc>
+<loc>http://blog.ca5.me/2014/11/13/2014gamelegend/</loc>
 <lastmod>2014-11-13T23:02:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2014/11/11/1124-akiba-mogra/</loc>
+<loc>http://blog.ca5.me/2014/11/11/1124-akiba-mogra/</loc>
 <lastmod>2014-11-11T22:30:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2014/11/03/dystopia-demo/</loc>
+<loc>http://blog.ca5.me/2014/11/03/dystopia-demo/</loc>
 <lastmod>2014-11-03T22:30:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2014/10/17/2014m3autumn/</loc>
+<loc>http://blog.ca5.me/2014/10/17/2014m3autumn/</loc>
 <lastmod>2014-10-17T23:58:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2014/10/03/dialup-surfer/</loc>
+<loc>http://blog.ca5.me/2014/10/03/dialup-surfer/</loc>
 <lastmod>2014-10-03T00:16:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2014/09/19/webmusichackathon/</loc>
+<loc>http://blog.ca5.me/2014/09/19/webmusichackathon/</loc>
 <lastmod>2014-09-19T00:11:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2014/08/16/【2014-817】memory-of-the-cartridge再販します-【コミケ-東レ32b】/</loc>
+<loc>http://blog.ca5.me/2014/08/16/【2014-817】memory-of-the-cartridge再販します-【コミケ-東レ32b】/</loc>
 <lastmod>2014-08-16T22:02:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2014/08/06/renoisehelloworld/</loc>
+<loc>http://blog.ca5.me/2014/08/06/renoisehelloworld/</loc>
 <lastmod>2014-08-06T02:07:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2014/08/05/othermanshow-x-was-done/</loc>
+<loc>http://blog.ca5.me/2014/08/05/othermanshow-x-was-done/</loc>
 <lastmod>2014-08-05T01:08:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2014/08/01/82あざまんショーに出ます/</loc>
+<loc>http://blog.ca5.me/2014/08/01/82あざまんショーに出ます/</loc>
 <lastmod>2014-08-01T08:49:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2014/07/05/arashi-no-sugao/</loc>
+<loc>http://blog.ca5.me/2014/07/05/arashi-no-sugao/</loc>
 <lastmod>2014-07-05T22:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2014/05/17/robinson/</loc>
+<loc>http://blog.ca5.me/2014/05/17/robinson/</loc>
 <lastmod>2014-05-17T22:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2014/05/11/androiddebian-kit-pyaudio2/</loc>
+<loc>http://blog.ca5.me/2014/05/11/androiddebian-kit-pyaudio2/</loc>
 <lastmod>2014-05-11T22:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2014/05/04/androiddebian-kit-pyaudio/</loc>
+<loc>http://blog.ca5.me/2014/05/04/androiddebian-kit-pyaudio/</loc>
 <lastmod>2014-05-04T22:30:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2014/04/20/m3-nkrn-201404/</loc>
+<loc>http://blog.ca5.me/2014/04/20/m3-nkrn-201404/</loc>
 <lastmod>2014-04-20T23:38:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2014/04/14/fl-smf-python/</loc>
+<loc>http://blog.ca5.me/2014/04/14/fl-smf-python/</loc>
 <lastmod>2014-04-14T01:11:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2014/03/21/fl-studio-11-0-4-on-macosx/</loc>
+<loc>http://blog.ca5.me/2014/03/21/fl-studio-11-0-4-on-macosx/</loc>
 <lastmod>2014-03-21T00:50:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2014/01/16/after-vdp4/</loc>
+<loc>http://blog.ca5.me/2014/01/16/after-vdp4/</loc>
 <lastmod>2014-01-16T23:38:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2014/01/09/il-remote使ってみた/</loc>
+<loc>http://blog.ca5.me/2014/01/09/il-remote使ってみた/</loc>
 <lastmod>2014-01-09T00:33:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2014/01/08/【113】今年最初のライブ-vdp4/</loc>
+<loc>http://blog.ca5.me/2014/01/08/【113】今年最初のライブ-vdp4/</loc>
 <lastmod>2014-01-08T22:38:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2013/12/30/end-of2013/</loc>
+<loc>http://blog.ca5.me/2013/12/30/end-of2013/</loc>
 <lastmod>2013-12-30T22:30:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2013/12/18/voldope4/</loc>
+<loc>http://blog.ca5.me/2013/12/18/voldope4/</loc>
 <lastmod>2013-12-18T22:30:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2013/12/10/after-otmn9/</loc>
+<loc>http://blog.ca5.me/2013/12/10/after-otmn9/</loc>
 <lastmod>2013-12-10T01:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2013/12/07/memory-of-the-cartridge-release/</loc>
+<loc>http://blog.ca5.me/2013/12/07/memory-of-the-cartridge-release/</loc>
 <lastmod>2013-12-07T00:30:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2013/12/02/othm9/</loc>
+<loc>http://blog.ca5.me/2013/12/02/othm9/</loc>
 <lastmod>2013-12-02T23:32:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2013/11/26/arduino-kaosspad/</loc>
+<loc>http://blog.ca5.me/2013/11/26/arduino-kaosspad/</loc>
 <lastmod>2013-11-26T01:36:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2013/11/24/【新曲】only-lonely-holy-story【クリスマスネタ】/</loc>
+<loc>http://blog.ca5.me/2013/11/24/【新曲】only-lonely-holy-story【クリスマスネタ】/</loc>
 <lastmod>2013-11-24T22:40:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2013/11/16/othermanrecords-9/</loc>
+<loc>http://blog.ca5.me/2013/11/16/othermanrecords-9/</loc>
 <lastmod>2013-11-16T22:45:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2013/11/11/max5-maxduino/</loc>
+<loc>http://blog.ca5.me/2013/11/11/max5-maxduino/</loc>
 <lastmod>2013-11-11T01:18:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2013/11/09/gamelegend/</loc>
+<loc>http://blog.ca5.me/2013/11/09/gamelegend/</loc>
 <lastmod>2013-11-09T00:19:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2013/10/20/m3-2013-autumn/</loc>
+<loc>http://blog.ca5.me/2013/10/20/m3-2013-autumn/</loc>
 <lastmod>2013-10-20T23:55:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2013/10/14/【新曲】summer-shower-monster-tale/</loc>
+<loc>http://blog.ca5.me/2013/10/14/【新曲】summer-shower-monster-tale/</loc>
 <lastmod>2013-10-14T22:30:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2013/09/03/lsep/</loc>
+<loc>http://blog.ca5.me/2013/09/03/lsep/</loc>
 <lastmod>2013-09-03T22:30:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2013/07/30/after-otmn8/</loc>
+<loc>http://blog.ca5.me/2013/07/30/after-otmn8/</loc>
 <lastmod>2013-07-30T22:30:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2013/07/17/【live音源公開】fl研究会お疲れさまでした fl研究会/</loc>
+<loc>http://blog.ca5.me/2013/07/17/【live音源公開】fl研究会お疲れさまでした fl研究会/</loc>
 <lastmod>2013-07-17T01:37:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2013/06/22/新曲リリース-symmetric-pitiful-pip-puppet/</loc>
+<loc>http://blog.ca5.me/2013/06/22/新曲リリース-symmetric-pitiful-pip-puppet/</loc>
 <lastmod>2013-06-22T00:17:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2013/06/20/【イベント告知】715-fl研究会-中野heavysickzero-【fl研究会】/</loc>
+<loc>http://blog.ca5.me/2013/06/20/【イベント告知】715-fl研究会-中野heavysickzero-【fl研究会】/</loc>
 <lastmod>2013-06-20T22:30:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2013/06/19/【ライブ告知】2013727 othermanshow-8/</loc>
+<loc>http://blog.ca5.me/2013/06/19/【ライブ告知】2013727 othermanshow-8/</loc>
 <lastmod>2013-06-19T22:30:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2013/04/28/明日m3に出ます!429-第二展示場1fえ-30a/</loc>
+<loc>http://blog.ca5.me/2013/04/28/明日m3に出ます!429-第二展示場1fえ-30a/</loc>
 <lastmod>2013-04-28T22:45:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2013/04/22/deep-blue/</loc>
+<loc>http://blog.ca5.me/2013/04/22/deep-blue/</loc>
 <lastmod>2013-04-22T00:40:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2013/04/20/m3に出ます429-第二展示場1fえ-30a/</loc>
+<loc>http://blog.ca5.me/2013/04/20/m3に出ます429-第二展示場1fえ-30a/</loc>
 <lastmod>2013-04-20T23:30:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2013/04/03/live-set-demo/</loc>
+<loc>http://blog.ca5.me/2013/04/03/live-set-demo/</loc>
 <lastmod>2013-04-03T01:46:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2013/03/31/春よ/</loc>
+<loc>http://blog.ca5.me/2013/03/31/春よ/</loc>
 <lastmod>2013-03-31T00:30:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2013/03/12/demo-memory-of-the-cartridge/</loc>
+<loc>http://blog.ca5.me/2013/03/12/demo-memory-of-the-cartridge/</loc>
 <lastmod>2013-03-12T00:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2013/01/01/新年早々新曲でましたsteel-wool-pitiful-pip-puppet/</loc>
+<loc>http://blog.ca5.me/2013/01/01/新年早々新曲でましたsteel-wool-pitiful-pip-puppet/</loc>
 <lastmod>2013-01-01T00:45:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2012/12/25/新曲リリースwhite-illumination-nsf版もあるよ/</loc>
+<loc>http://blog.ca5.me/2012/12/25/新曲リリースwhite-illumination-nsf版もあるよ/</loc>
 <lastmod>2012-12-25T23:45:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2012/12/02/人間発電所のリミックス/</loc>
+<loc>http://blog.ca5.me/2012/12/02/人間発電所のリミックス/</loc>
 <lastmod>2012-12-02T00:34:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2012/11/11/othermanshowfirejam2012の動画全員分アップロードしました/</loc>
+<loc>http://blog.ca5.me/2012/11/11/othermanshowfirejam2012の動画全員分アップロードしました/</loc>
 <lastmod>2012-11-11T19:10:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2012/10/29/きみとぼくと/</loc>
+<loc>http://blog.ca5.me/2012/10/29/きみとぼくと/</loc>
 <lastmod>2012-10-29T00:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2012/09/26/chipbreakgentleman/</loc>
+<loc>http://blog.ca5.me/2012/09/26/chipbreakgentleman/</loc>
 <lastmod>2012-09-26T00:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2012/09/06/firejam2012の動画/</loc>
+<loc>http://blog.ca5.me/2012/09/06/firejam2012の動画/</loc>
 <lastmod>2012-09-06T23:59:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2012/08/23/ロックマン3オープニングのリミックス/</loc>
+<loc>http://blog.ca5.me/2012/08/23/ロックマン3オープニングのリミックス/</loc>
 <lastmod>2012-08-23T00:39:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2012/08/14/コミケで曲出しました!デモ版公開/</loc>
+<loc>http://blog.ca5.me/2012/08/14/コミケで曲出しました!デモ版公開/</loc>
 <lastmod>2012-08-14T00:15:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2012/08/09/コミケで曲出します!2-811-西地区-さ-25b/</loc>
+<loc>http://blog.ca5.me/2012/08/09/コミケで曲出します!2-811-西地区-さ-25b/</loc>
 <lastmod>2012-08-09T23:25:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2012/08/08/コミケで曲出します!811-西地区-さ-25b/</loc>
+<loc>http://blog.ca5.me/2012/08/08/コミケで曲出します!811-西地区-さ-25b/</loc>
 <lastmod>2012-08-08T23:29:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2012/07/31/リミックス出ました/</loc>
+<loc>http://blog.ca5.me/2012/07/31/リミックス出ました/</loc>
 <lastmod>2012-07-31T22:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2012/07/23/8242526-firejam-2012/</loc>
+<loc>http://blog.ca5.me/2012/07/23/8242526-firejam-2012/</loc>
 <lastmod>2012-07-23T22:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2012/07/22/729-江ノレイブ-2/</loc>
+<loc>http://blog.ca5.me/2012/07/22/729-江ノレイブ-2/</loc>
 <lastmod>2012-07-22T23:48:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2012/05/18/動画アップしましたm3-2012-othermanshow7/</loc>
+<loc>http://blog.ca5.me/2012/05/18/動画アップしましたm3-2012-othermanshow7/</loc>
 <lastmod>2012-05-18T22:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2012/05/14/きのうのライブセット公開/</loc>
+<loc>http://blog.ca5.me/2012/05/14/きのうのライブセット公開/</loc>
 <lastmod>2012-05-14T22:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2012/05/13/あざまんしょー7/</loc>
+<loc>http://blog.ca5.me/2012/05/13/あざまんしょー7/</loc>
 <lastmod>2012-05-13T02:21:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2012/05/02/macosx-lionで複数の音声入出力を扱うmaxmsp/</loc>
+<loc>http://blog.ca5.me/2012/05/02/macosx-lionで複数の音声入出力を扱うmaxmsp/</loc>
 <lastmod>2012-05-02T23:52:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2012/05/02/430のm3の曲のサンプル/</loc>
+<loc>http://blog.ca5.me/2012/05/02/430のm3の曲のサンプル/</loc>
 <lastmod>2012-05-02T00:40:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2012/04/29/明日430m3でます/</loc>
+<loc>http://blog.ca5.me/2012/04/29/明日430m3でます/</loc>
 <lastmod>2012-04-29T16:35:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2012/04/04/【ライブ告知】proxy-vol-2【428】/</loc>
+<loc>http://blog.ca5.me/2012/04/04/【ライブ告知】proxy-vol-2【428】/</loc>
 <lastmod>2012-04-04T00:43:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2012/02/19/ドプマン後のsoundcloudリリースまとめ/</loc>
+<loc>http://blog.ca5.me/2012/02/19/ドプマン後のsoundcloudリリースまとめ/</loc>
 <lastmod>2012-02-19T22:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2012/02/05/liveのmidiクロックタイプに気をつけろ/</loc>
+<loc>http://blog.ca5.me/2012/02/05/liveのmidiクロックタイプに気をつけろ/</loc>
 <lastmod>2012-02-05T23:42:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2012/02/04/今日24はドプマンショーです! dopeman_show/</loc>
+<loc>http://blog.ca5.me/2012/02/04/今日24はドプマンショーです! dopeman_show/</loc>
 <lastmod>2012-02-04T00:37:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2012/01/21/次のらいぶはnakano-heavysick-zeroでドプマンショー-dopeman_show/</loc>
+<loc>http://blog.ca5.me/2012/01/21/次のらいぶはnakano-heavysick-zeroでドプマンショー-dopeman_show/</loc>
 <lastmod>2012-01-21T23:41:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2011/12/28/2011まとめ/</loc>
+<loc>http://blog.ca5.me/2011/12/28/2011まとめ/</loc>
 <lastmod>2011-12-28T22:44:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2011/12/19/airkaosspad/</loc>
+<loc>http://blog.ca5.me/2011/12/19/airkaosspad/</loc>
 <lastmod>2011-12-19T21:53:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2011/12/14/あざまんしょー6の様子/</loc>
+<loc>http://blog.ca5.me/2011/12/14/あざまんしょー6の様子/</loc>
 <lastmod>2011-12-14T00:30:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2011/12/03/ワギャンランドのリミックス/</loc>
+<loc>http://blog.ca5.me/2011/12/03/ワギャンランドのリミックス/</loc>
 <lastmod>2011-12-03T01:35:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2011/12/03/20111211は-the-otherman-show-6/</loc>
+<loc>http://blog.ca5.me/2011/12/03/20111211は-the-otherman-show-6/</loc>
 <lastmod>2011-12-03T00:24:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2011/11/08/ikaossilatorすごい/</loc>
+<loc>http://blog.ca5.me/2011/11/08/ikaossilatorすごい/</loc>
 <lastmod>2011-11-08T00:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2011/11/07/半手動ブレイクコアシリーズ-その6/</loc>
+<loc>http://blog.ca5.me/2011/11/07/半手動ブレイクコアシリーズ-その6/</loc>
 <lastmod>2011-11-07T00:28:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2011/11/03/nkrnに出した曲のdemo版/</loc>
+<loc>http://blog.ca5.me/2011/11/03/nkrnに出した曲のdemo版/</loc>
 <lastmod>2011-11-03T23:16:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2011/10/29/1030-m3にでます試聴盤出ました/</loc>
+<loc>http://blog.ca5.me/2011/10/29/1030-m3にでます試聴盤出ました/</loc>
 <lastmod>2011-10-29T11:35:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2011/10/27/1030-m3にでます/</loc>
+<loc>http://blog.ca5.me/2011/10/27/1030-m3にでます/</loc>
 <lastmod>2011-10-27T07:50:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2011/10/25/blipfestival-tokyo-2011よかった/</loc>
+<loc>http://blog.ca5.me/2011/10/25/blipfestival-tokyo-2011よかった/</loc>
 <lastmod>2011-10-25T00:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2011/10/16/修理に出したpcが帰って来ました/</loc>
+<loc>http://blog.ca5.me/2011/10/16/修理に出したpcが帰って来ました/</loc>
 <lastmod>2011-10-16T02:13:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2011/10/07/ipadのgriid試してみた/</loc>
+<loc>http://blog.ca5.me/2011/10/07/ipadのgriid試してみた/</loc>
 <lastmod>2011-10-07T21:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2011/10/03/macbookのバッテリー交換/</loc>
+<loc>http://blog.ca5.me/2011/10/03/macbookのバッテリー交換/</loc>
 <lastmod>2011-10-03T22:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2011/09/27/9in1をsoundcloudへup/</loc>
+<loc>http://blog.ca5.me/2011/09/27/9in1をsoundcloudへup/</loc>
 <lastmod>2011-09-27T00:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2011/09/25/バックアップは大事/</loc>
+<loc>http://blog.ca5.me/2011/09/25/バックアップは大事/</loc>
 <lastmod>2011-09-25T02:45:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2011/09/23/iphoneをjoypadに/</loc>
+<loc>http://blog.ca5.me/2011/09/23/iphoneをjoypadに/</loc>
 <lastmod>2011-09-23T13:24:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2011/09/19/パパパパパイン/</loc>
+<loc>http://blog.ca5.me/2011/09/19/パパパパパイン/</loc>
 <lastmod>2011-09-19T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2011/09/19/ラーメンのとやま つけ麺/</loc>
+<loc>http://blog.ca5.me/2011/09/19/ラーメンのとやま つけ麺/</loc>
 <lastmod>2011-09-19T00:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2011/09/18/macosのupdate/</loc>
+<loc>http://blog.ca5.me/2011/09/18/macosのupdate/</loc>
 <lastmod>2011-09-18T00:10:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2011/09/15/frydays-フィッシュバーガー/</loc>
+<loc>http://blog.ca5.me/2011/09/15/frydays-フィッシュバーガー/</loc>
 <lastmod>2011-09-15T07:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2011/09/13/eightbitbeats面白い/</loc>
+<loc>http://blog.ca5.me/2011/09/13/eightbitbeats面白い/</loc>
 <lastmod>2011-09-13T00:28:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2011/09/11/8-bit-music-generator/</loc>
+<loc>http://blog.ca5.me/2011/09/11/8-bit-music-generator/</loc>
 <lastmod>2011-09-11T00:20:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2011/09/09/麺屋武蔵-虎嘯こしょう/</loc>
+<loc>http://blog.ca5.me/2011/09/09/麺屋武蔵-虎嘯こしょう/</loc>
 <lastmod>2011-09-09T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2011/09/08/touchoscのencoderがイマイチ/</loc>
+<loc>http://blog.ca5.me/2011/09/08/touchoscのencoderがイマイチ/</loc>
 <lastmod>2011-09-08T00:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2011/09/07/動画投稿テスト/</loc>
+<loc>http://blog.ca5.me/2011/09/07/動画投稿テスト/</loc>
 <lastmod>2011-09-07T12:54:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2011/09/06/midines/</loc>
+<loc>http://blog.ca5.me/2011/09/06/midines/</loc>
 <lastmod>2011-09-06T00:02:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2011/09/05/いまさらだけどビーマニポケットってよくね?/</loc>
+<loc>http://blog.ca5.me/2011/09/05/いまさらだけどビーマニポケットってよくね?/</loc>
 <lastmod>2011-09-05T00:47:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2011/09/04/新曲リリースblogプチリニューアル/</loc>
+<loc>http://blog.ca5.me/2011/09/04/新曲リリースblogプチリニューアル/</loc>
 <lastmod>2011-09-04T01:50:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2011/08/12/コミケ二日目に出ます!-東地区-イ-28-b/</loc>
+<loc>http://blog.ca5.me/2011/08/12/コミケ二日目に出ます!-東地区-イ-28-b/</loc>
 <lastmod>2011-08-12T23:18:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2011/08/07/あざまんしょー5/</loc>
+<loc>http://blog.ca5.me/2011/08/07/あざまんしょー5/</loc>
 <lastmod>2011-08-07T01:39:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2011/07/15/87はあざまんしょーc・a・5/</loc>
+<loc>http://blog.ca5.me/2011/07/15/87はあざまんしょーc・a・5/</loc>
 <lastmod>2011-07-15T00:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2011/05/01/m3出てました-514にライブやります/</loc>
+<loc>http://blog.ca5.me/2011/05/01/m3出てました-514にライブやります/</loc>
 <lastmod>2011-05-01T23:49:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2011/04/18/ipadで動くmidiコンパッチ公開/</loc>
+<loc>http://blog.ca5.me/2011/04/18/ipadで動くmidiコンパッチ公開/</loc>
 <lastmod>2011-04-18T01:09:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2011/04/04/mixiの日記閲覧スクリプト/</loc>
+<loc>http://blog.ca5.me/2011/04/04/mixiの日記閲覧スクリプト/</loc>
 <lastmod>2011-04-04T01:12:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2011/03/07/半手動ブレイクコア3/</loc>
+<loc>http://blog.ca5.me/2011/03/07/半手動ブレイクコア3/</loc>
 <lastmod>2011-03-07T01:40:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2011/02/23/colorep/</loc>
+<loc>http://blog.ca5.me/2011/02/23/colorep/</loc>
 <lastmod>2011-02-23T00:31:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2011/02/23/9in1古い曲まとめて出しました/</loc>
+<loc>http://blog.ca5.me/2011/02/23/9in1古い曲まとめて出しました/</loc>
 <lastmod>2011-02-23T00:13:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2011/01/30/kinectkaosspad/</loc>
+<loc>http://blog.ca5.me/2011/01/30/kinectkaosspad/</loc>
 <lastmod>2011-01-30T19:56:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/12/28/2010年の活動まとめ/</loc>
+<loc>http://blog.ca5.me/2010/12/28/2010年の活動まとめ/</loc>
 <lastmod>2010-12-28T14:02:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/12/16/maxipadtouchoscブレイクコア/</loc>
+<loc>http://blog.ca5.me/2010/12/16/maxipadtouchoscブレイクコア/</loc>
 <lastmod>2010-12-16T00:49:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/11/12/六本木-天鳳/</loc>
+<loc>http://blog.ca5.me/2010/11/12/六本木-天鳳/</loc>
 <lastmod>2010-11-12T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/11/11/西荻窪-青葉/</loc>
+<loc>http://blog.ca5.me/2010/11/11/西荻窪-青葉/</loc>
 <lastmod>2010-11-11T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/11/10/マックのチキンのやつ/</loc>
+<loc>http://blog.ca5.me/2010/11/10/マックのチキンのやつ/</loc>
 <lastmod>2010-11-10T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/11/09/吉祥寺-ぐくつ草/</loc>
+<loc>http://blog.ca5.me/2010/11/09/吉祥寺-ぐくつ草/</loc>
 <lastmod>2010-11-09T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/11/09/恵比寿-zero1-ガッツリラーメン/</loc>
+<loc>http://blog.ca5.me/2010/11/09/恵比寿-zero1-ガッツリラーメン/</loc>
 <lastmod>2010-11-09T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/11/08/六本木-美健食道/</loc>
+<loc>http://blog.ca5.me/2010/11/08/六本木-美健食道/</loc>
 <lastmod>2010-11-08T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/11/07/吉野家-キムチクッパ/</loc>
+<loc>http://blog.ca5.me/2010/11/07/吉野家-キムチクッパ/</loc>
 <lastmod>2010-11-07T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/10/30/【nkrn】m3に出ます!/</loc>
+<loc>http://blog.ca5.me/2010/10/30/【nkrn】m3に出ます!/</loc>
 <lastmod>2010-10-30T10:07:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/09/26/吉祥寺-momen-カップケーキ/</loc>
+<loc>http://blog.ca5.me/2010/09/26/吉祥寺-momen-カップケーキ/</loc>
 <lastmod>2010-09-26T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/09/25/六本木-大勝軒/</loc>
+<loc>http://blog.ca5.me/2010/09/25/六本木-大勝軒/</loc>
 <lastmod>2010-09-25T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/09/24/西荻窪-ちょもらんま酒場/</loc>
+<loc>http://blog.ca5.me/2010/09/24/西荻窪-ちょもらんま酒場/</loc>
 <lastmod>2010-09-24T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/09/22/焼きそば弁当-あんかけ/</loc>
+<loc>http://blog.ca5.me/2010/09/22/焼きそば弁当-あんかけ/</loc>
 <lastmod>2010-09-22T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/09/21/吉祥寺-レピキュリアン/</loc>
+<loc>http://blog.ca5.me/2010/09/21/吉祥寺-レピキュリアン/</loc>
 <lastmod>2010-09-21T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/09/20/三軒茶屋-クルム・サイアム/</loc>
+<loc>http://blog.ca5.me/2010/09/20/三軒茶屋-クルム・サイアム/</loc>
 <lastmod>2010-09-20T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/09/19/吉祥寺-武蔵屋餃子房/</loc>
+<loc>http://blog.ca5.me/2010/09/19/吉祥寺-武蔵屋餃子房/</loc>
 <lastmod>2010-09-19T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/09/18/六本木-ザボン/</loc>
+<loc>http://blog.ca5.me/2010/09/18/六本木-ザボン/</loc>
 <lastmod>2010-09-18T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/09/17/横須賀-ネイビーバーガー/</loc>
+<loc>http://blog.ca5.me/2010/09/17/横須賀-ネイビーバーガー/</loc>
 <lastmod>2010-09-17T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/09/16/六本木-歌舞伎屋/</loc>
+<loc>http://blog.ca5.me/2010/09/16/六本木-歌舞伎屋/</loc>
 <lastmod>2010-09-16T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/09/15/戸越銀座-ばってん/</loc>
+<loc>http://blog.ca5.me/2010/09/15/戸越銀座-ばってん/</loc>
 <lastmod>2010-09-15T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/08/04/富士登山/</loc>
+<loc>http://blog.ca5.me/2010/08/04/富士登山/</loc>
 <lastmod>2010-08-04T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/07/31/ラーメン二郎-関内店/</loc>
+<loc>http://blog.ca5.me/2010/07/31/ラーメン二郎-関内店/</loc>
 <lastmod>2010-07-31T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/07/30/しらす丼/</loc>
+<loc>http://blog.ca5.me/2010/07/30/しらす丼/</loc>
 <lastmod>2010-07-30T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/07/29/海の詩/</loc>
+<loc>http://blog.ca5.me/2010/07/29/海の詩/</loc>
 <lastmod>2010-07-29T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/07/28/もんじゃ-能登/</loc>
+<loc>http://blog.ca5.me/2010/07/28/もんじゃ-能登/</loc>
 <lastmod>2010-07-28T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/07/23/rバーガー-プルコギバーガー/</loc>
+<loc>http://blog.ca5.me/2010/07/23/rバーガー-プルコギバーガー/</loc>
 <lastmod>2010-07-23T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/07/22/バクダン屋-つけ麺/</loc>
+<loc>http://blog.ca5.me/2010/07/22/バクダン屋-つけ麺/</loc>
 <lastmod>2010-07-22T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/07/21/麻布茶房-葛餅/</loc>
+<loc>http://blog.ca5.me/2010/07/21/麻布茶房-葛餅/</loc>
 <lastmod>2010-07-21T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/07/13/千成ラーメン-ネギラーメン/</loc>
+<loc>http://blog.ca5.me/2010/07/13/千成ラーメン-ネギラーメン/</loc>
 <lastmod>2010-07-13T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/07/12/渕-カレーラーメン/</loc>
+<loc>http://blog.ca5.me/2010/07/12/渕-カレーラーメン/</loc>
 <lastmod>2010-07-12T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/07/07/渕-つけ麺/</loc>
+<loc>http://blog.ca5.me/2010/07/07/渕-つけ麺/</loc>
 <lastmod>2010-07-07T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/07/06/実之和-カキフライ定食/</loc>
+<loc>http://blog.ca5.me/2010/07/06/実之和-カキフライ定食/</loc>
 <lastmod>2010-07-06T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/07/05/ラーメン-能登山-海老ラーメン/</loc>
+<loc>http://blog.ca5.me/2010/07/05/ラーメン-能登山-海老ラーメン/</loc>
 <lastmod>2010-07-05T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/07/04/お好み焼き-hona/</loc>
+<loc>http://blog.ca5.me/2010/07/04/お好み焼き-hona/</loc>
 <lastmod>2010-07-04T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/07/04/今日は14時から-the-otherman-show2/</loc>
+<loc>http://blog.ca5.me/2010/07/04/今日は14時から-the-otherman-show2/</loc>
 <lastmod>2010-07-04T00:39:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/07/03/モンスーンカフェ/</loc>
+<loc>http://blog.ca5.me/2010/07/03/モンスーンカフェ/</loc>
 <lastmod>2010-07-03T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/07/02/ソルト&レモン/</loc>
+<loc>http://blog.ca5.me/2010/07/02/ソルト&レモン/</loc>
 <lastmod>2010-07-02T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/06/30/餃子とビール/</loc>
+<loc>http://blog.ca5.me/2010/06/30/餃子とビール/</loc>
 <lastmod>2010-06-30T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/06/29/高校生以下お断りカフェ/</loc>
+<loc>http://blog.ca5.me/2010/06/29/高校生以下お断りカフェ/</loc>
 <lastmod>2010-06-29T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/06/28/ヨーヨー買った/</loc>
+<loc>http://blog.ca5.me/2010/06/28/ヨーヨー買った/</loc>
 <lastmod>2010-06-28T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/06/25/二郎-野猿街道2/</loc>
+<loc>http://blog.ca5.me/2010/06/25/二郎-野猿街道2/</loc>
 <lastmod>2010-06-25T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/06/24/牛タン定食/</loc>
+<loc>http://blog.ca5.me/2010/06/24/牛タン定食/</loc>
 <lastmod>2010-06-24T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/06/22/半手動ブレイクコア?/</loc>
+<loc>http://blog.ca5.me/2010/06/22/半手動ブレイクコア?/</loc>
 <lastmod>2010-06-22T23:50:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/06/20/モスのラー油バーガー/</loc>
+<loc>http://blog.ca5.me/2010/06/20/モスのラー油バーガー/</loc>
 <lastmod>2010-06-20T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/06/16/signifiant-signifie/</loc>
+<loc>http://blog.ca5.me/2010/06/16/signifiant-signifie/</loc>
 <lastmod>2010-06-16T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/06/15/ほの字-でご飯マシマシ/</loc>
+<loc>http://blog.ca5.me/2010/06/15/ほの字-でご飯マシマシ/</loc>
 <lastmod>2010-06-15T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/06/14/マハカラ-うれしいプリン/</loc>
+<loc>http://blog.ca5.me/2010/06/14/マハカラ-うれしいプリン/</loc>
 <lastmod>2010-06-14T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/06/13/私このパイキライなのよね/</loc>
+<loc>http://blog.ca5.me/2010/06/13/私このパイキライなのよね/</loc>
 <lastmod>2010-06-13T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/06/12/スカイツリー/</loc>
+<loc>http://blog.ca5.me/2010/06/12/スカイツリー/</loc>
 <lastmod>2010-06-12T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/06/10/アンティロミィ-焼きカレー/</loc>
+<loc>http://blog.ca5.me/2010/06/10/アンティロミィ-焼きカレー/</loc>
 <lastmod>2010-06-10T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/06/09/一風堂-からか麺/</loc>
+<loc>http://blog.ca5.me/2010/06/09/一風堂-からか麺/</loc>
 <lastmod>2010-06-09T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/06/08/minicardsがやってきた/</loc>
+<loc>http://blog.ca5.me/2010/06/08/minicardsがやってきた/</loc>
 <lastmod>2010-06-08T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/06/07/どん底/</loc>
+<loc>http://blog.ca5.me/2010/06/07/どん底/</loc>
 <lastmod>2010-06-07T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/06/05/コメダコーヒー-シロノワール/</loc>
+<loc>http://blog.ca5.me/2010/06/05/コメダコーヒー-シロノワール/</loc>
 <lastmod>2010-06-05T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/06/03/ラーメン-伊達/</loc>
+<loc>http://blog.ca5.me/2010/06/03/ラーメン-伊達/</loc>
 <lastmod>2010-06-03T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/06/02/にんにくラー油/</loc>
+<loc>http://blog.ca5.me/2010/06/02/にんにくラー油/</loc>
 <lastmod>2010-06-02T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/06/01/実之和の定食がバージョンアップ/</loc>
+<loc>http://blog.ca5.me/2010/06/01/実之和の定食がバージョンアップ/</loc>
 <lastmod>2010-06-01T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/05/30/バンコク-鶏ご飯/</loc>
+<loc>http://blog.ca5.me/2010/05/30/バンコク-鶏ご飯/</loc>
 <lastmod>2010-05-30T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/05/29/コロッケ/</loc>
+<loc>http://blog.ca5.me/2010/05/29/コロッケ/</loc>
 <lastmod>2010-05-29T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/05/28/松江城/</loc>
+<loc>http://blog.ca5.me/2010/05/28/松江城/</loc>
 <lastmod>2010-05-28T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/05/27/出雲蕎麦/</loc>
+<loc>http://blog.ca5.me/2010/05/27/出雲蕎麦/</loc>
 <lastmod>2010-05-27T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/05/26/出雲大社/</loc>
+<loc>http://blog.ca5.me/2010/05/26/出雲大社/</loc>
 <lastmod>2010-05-26T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/05/25/わらび餅粉/</loc>
+<loc>http://blog.ca5.me/2010/05/25/わらび餅粉/</loc>
 <lastmod>2010-05-25T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/05/24/ラーメン二郎-藤沢店/</loc>
+<loc>http://blog.ca5.me/2010/05/24/ラーメン二郎-藤沢店/</loc>
 <lastmod>2010-05-24T00:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/05/23/原宿餃子瘻/</loc>
+<loc>http://blog.ca5.me/2010/05/23/原宿餃子瘻/</loc>
 <lastmod>2010-05-23T00:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/05/22/88/</loc>
+<loc>http://blog.ca5.me/2010/05/22/88/</loc>
 <lastmod>2010-05-22T00:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/05/21/一見さんお断りなお店/</loc>
+<loc>http://blog.ca5.me/2010/05/21/一見さんお断りなお店/</loc>
 <lastmod>2010-05-21T00:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/05/20/やすべえ/</loc>
+<loc>http://blog.ca5.me/2010/05/20/やすべえ/</loc>
 <lastmod>2010-05-20T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/05/19/ファミコンカフェ/</loc>
+<loc>http://blog.ca5.me/2010/05/19/ファミコンカフェ/</loc>
 <lastmod>2010-05-19T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/05/18/ラーメン大戦争-まっち棒/</loc>
+<loc>http://blog.ca5.me/2010/05/18/ラーメン大戦争-まっち棒/</loc>
 <lastmod>2010-05-18T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/05/17/阿夫利のつけ麺/</loc>
+<loc>http://blog.ca5.me/2010/05/17/阿夫利のつけ麺/</loc>
 <lastmod>2010-05-17T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/05/16/miravile-impact/</loc>
+<loc>http://blog.ca5.me/2010/05/16/miravile-impact/</loc>
 <lastmod>2010-05-16T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/05/15/揚げパン/</loc>
+<loc>http://blog.ca5.me/2010/05/15/揚げパン/</loc>
 <lastmod>2010-05-15T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/05/14/パンケーキ食べ放題/</loc>
+<loc>http://blog.ca5.me/2010/05/14/パンケーキ食べ放題/</loc>
 <lastmod>2010-05-14T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/05/13/麺づくり2/</loc>
+<loc>http://blog.ca5.me/2010/05/13/麺づくり2/</loc>
 <lastmod>2010-05-13T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/05/12/demel-ザッハトルテ/</loc>
+<loc>http://blog.ca5.me/2010/05/12/demel-ザッハトルテ/</loc>
 <lastmod>2010-05-12T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/05/11/the-great-burger/</loc>
+<loc>http://blog.ca5.me/2010/05/11/the-great-burger/</loc>
 <lastmod>2010-05-11T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/05/10/九州じゃんがら/</loc>
+<loc>http://blog.ca5.me/2010/05/10/九州じゃんがら/</loc>
 <lastmod>2010-05-10T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/05/09/バンコクでタイ料理/</loc>
+<loc>http://blog.ca5.me/2010/05/09/バンコクでタイ料理/</loc>
 <lastmod>2010-05-09T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/05/08/ラー油対決/</loc>
+<loc>http://blog.ca5.me/2010/05/08/ラー油対決/</loc>
 <lastmod>2010-05-08T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/05/07/やきじろう/</loc>
+<loc>http://blog.ca5.me/2010/05/07/やきじろう/</loc>
 <lastmod>2010-05-07T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/05/06/麺づくり/</loc>
+<loc>http://blog.ca5.me/2010/05/06/麺づくり/</loc>
 <lastmod>2010-05-06T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/05/05/ロックマン/</loc>
+<loc>http://blog.ca5.me/2010/05/05/ロックマン/</loc>
 <lastmod>2010-05-05T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/05/04/湯もち本舗-ちもと/</loc>
+<loc>http://blog.ca5.me/2010/05/04/湯もち本舗-ちもと/</loc>
 <lastmod>2010-05-04T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/03/31/銀かつ亭/</loc>
+<loc>http://blog.ca5.me/2010/03/31/銀かつ亭/</loc>
 <lastmod>2010-03-31T23:15:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/03/26/modopocket/</loc>
+<loc>http://blog.ca5.me/2010/03/26/modopocket/</loc>
 <lastmod>2010-03-26T17:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/03/25/太陽の恵み味-太陽のトマト麺/</loc>
+<loc>http://blog.ca5.me/2010/03/25/太陽の恵み味-太陽のトマト麺/</loc>
 <lastmod>2010-03-25T08:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/03/24/二郎-池袋店/</loc>
+<loc>http://blog.ca5.me/2010/03/24/二郎-池袋店/</loc>
 <lastmod>2010-03-24T08:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/03/23/ラーメン-のとやま/</loc>
+<loc>http://blog.ca5.me/2010/03/23/ラーメン-のとやま/</loc>
 <lastmod>2010-03-23T08:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/03/22/ラーメン-おさふね/</loc>
+<loc>http://blog.ca5.me/2010/03/22/ラーメン-おさふね/</loc>
 <lastmod>2010-03-22T11:43:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/03/21/二郎-歌舞伎町店/</loc>
+<loc>http://blog.ca5.me/2010/03/21/二郎-歌舞伎町店/</loc>
 <lastmod>2010-03-21T17:30:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/03/07/曲リスト/</loc>
+<loc>http://blog.ca5.me/2010/03/07/曲リスト/</loc>
 <lastmod>2010-03-07T11:43:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/03/07/tumblr201037/</loc>
+<loc>http://blog.ca5.me/2010/03/07/tumblr201037/</loc>
 <lastmod>2010-03-07T10:57:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/03/06/discography/</loc>
+<loc>http://blog.ca5.me/2010/03/06/discography/</loc>
 <lastmod>2010-03-06T20:59:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/03/04/フロレスタ/</loc>
+<loc>http://blog.ca5.me/2010/03/04/フロレスタ/</loc>
 <lastmod>2010-03-04T06:40:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/03/02/朴葉味噌/</loc>
+<loc>http://blog.ca5.me/2010/03/02/朴葉味噌/</loc>
 <lastmod>2010-03-02T08:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/03/01/六本木ヒルズ-テンイッポウ/</loc>
+<loc>http://blog.ca5.me/2010/03/01/六本木ヒルズ-テンイッポウ/</loc>
 <lastmod>2010-03-01T08:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/02/28/ドラムループをカメラで制御/</loc>
+<loc>http://blog.ca5.me/2010/02/28/ドラムループをカメラで制御/</loc>
 <lastmod>2010-02-28T19:25:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/02/28/現代美術館でベトナムコーヒー/</loc>
+<loc>http://blog.ca5.me/2010/02/28/現代美術館でベトナムコーヒー/</loc>
 <lastmod>2010-02-28T18:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/02/27/cyber-arts-japan/</loc>
+<loc>http://blog.ca5.me/2010/02/27/cyber-arts-japan/</loc>
 <lastmod>2010-02-27T19:20:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/02/26/六本木-イマカツ/</loc>
+<loc>http://blog.ca5.me/2010/02/26/六本木-イマカツ/</loc>
 <lastmod>2010-02-26T08:03:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/02/25/テレビでブレイクコア!っぽいの/</loc>
+<loc>http://blog.ca5.me/2010/02/25/テレビでブレイクコア!っぽいの/</loc>
 <lastmod>2010-02-25T23:28:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/02/23/弾丸大垣ツアー/</loc>
+<loc>http://blog.ca5.me/2010/02/23/弾丸大垣ツアー/</loc>
 <lastmod>2010-02-23T08:36:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/02/23/afuri-阿夫利/</loc>
+<loc>http://blog.ca5.me/2010/02/23/afuri-阿夫利/</loc>
 <lastmod>2010-02-23T08:20:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/02/21/mixi連動も再設定/</loc>
+<loc>http://blog.ca5.me/2010/02/21/mixi連動も再設定/</loc>
 <lastmod>2010-02-21T04:40:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/02/20/maxmspでドラムループいじり/</loc>
+<loc>http://blog.ca5.me/2010/02/20/maxmspでドラムループいじり/</loc>
 <lastmod>2010-02-20T20:40:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/02/15/上越国際スキー場/</loc>
+<loc>http://blog.ca5.me/2010/02/15/上越国際スキー場/</loc>
 <lastmod>2010-02-15T08:51:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/02/14/tumblr連携テスト-february-14th-2/</loc>
+<loc>http://blog.ca5.me/2010/02/14/tumblr連携テスト-february-14th-2/</loc>
 <lastmod>2010-02-14T01:02:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/02/14/flickr経由で/</loc>
+<loc>http://blog.ca5.me/2010/02/14/flickr経由で/</loc>
 <lastmod>2010-02-14T00:36:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/02/14/tumblr連携テスト-february-14th/</loc>
+<loc>http://blog.ca5.me/2010/02/14/tumblr連携テスト-february-14th/</loc>
 <lastmod>2010-02-14T00:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/02/13/iphone対応/</loc>
+<loc>http://blog.ca5.me/2010/02/13/iphone対応/</loc>
 <lastmod>2010-02-13T23:56:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/02/13/twitter連携-2/</loc>
+<loc>http://blog.ca5.me/2010/02/13/twitter連携-2/</loc>
 <lastmod>2010-02-13T23:01:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/02/13/wordpressに移行/</loc>
+<loc>http://blog.ca5.me/2010/02/13/wordpressに移行/</loc>
 <lastmod>2010-02-13T22:30:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/01/31/27はライブです/</loc>
+<loc>http://blog.ca5.me/2010/01/31/27はライブです/</loc>
 <lastmod>2010-01-31T23:22:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/01/30/はらロール/</loc>
+<loc>http://blog.ca5.me/2010/01/30/はらロール/</loc>
 <lastmod>2010-01-30T17:14:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/01/30/角ふじ/</loc>
+<loc>http://blog.ca5.me/2010/01/30/角ふじ/</loc>
 <lastmod>2010-01-30T16:20:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/01/16/【ライブ告知】-the-otherman-show-【27】/</loc>
+<loc>http://blog.ca5.me/2010/01/16/【ライブ告知】-the-otherman-show-【27】/</loc>
 <lastmod>2010-01-16T18:54:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/01/10/米屋の生栗蒸し羊羹/</loc>
+<loc>http://blog.ca5.me/2010/01/10/米屋の生栗蒸し羊羹/</loc>
 <lastmod>2010-01-10T22:59:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/01/05/ホワイトイルミネーション/</loc>
+<loc>http://blog.ca5.me/2010/01/05/ホワイトイルミネーション/</loc>
 <lastmod>2010-01-05T13:48:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/01/04/初破壊/</loc>
+<loc>http://blog.ca5.me/2010/01/04/初破壊/</loc>
 <lastmod>2010-01-04T13:06:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/01/04/カカっとバックアッポ/</loc>
+<loc>http://blog.ca5.me/2010/01/04/カカっとバックアッポ/</loc>
 <lastmod>2010-01-04T12:24:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/01/03/2010の/</loc>
+<loc>http://blog.ca5.me/2010/01/03/2010の/</loc>
 <lastmod>2010-01-03T03:55:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2010/01/01/あけましておめでとうございます/</loc>
+<loc>http://blog.ca5.me/2010/01/01/あけましておめでとうございます/</loc>
 <lastmod>2010-01-01T00:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2009/12/26/投稿系サービスの使い分け/</loc>
+<loc>http://blog.ca5.me/2009/12/26/投稿系サービスの使い分け/</loc>
 <lastmod>2009-12-26T21:05:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2009/12/25/西武遊園地/</loc>
+<loc>http://blog.ca5.me/2009/12/25/西武遊園地/</loc>
 <lastmod>2009-12-25T23:07:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2009/12/23/はなやしき/</loc>
+<loc>http://blog.ca5.me/2009/12/23/はなやしき/</loc>
 <lastmod>2009-12-23T03:20:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2009/12/19/実験教室と/</loc>
+<loc>http://blog.ca5.me/2009/12/19/実験教室と/</loc>
 <lastmod>2009-12-19T06:23:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2009/12/16/スパイダーマ/</loc>
+<loc>http://blog.ca5.me/2009/12/16/スパイダーマ/</loc>
 <lastmod>2009-12-16T12:17:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2009/12/14/blogpress導入/</loc>
+<loc>http://blog.ca5.me/2009/12/14/blogpress導入/</loc>
 <lastmod>2009-12-14T14:24:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2009/12/14/iphone購入/</loc>
+<loc>http://blog.ca5.me/2009/12/14/iphone購入/</loc>
 <lastmod>2009-12-14T01:28:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2009/12/10/エリクサーちょうだい/</loc>
+<loc>http://blog.ca5.me/2009/12/10/エリクサーちょうだい/</loc>
 <lastmod>2009-12-10T09:20:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2009/12/09/twitter連携/</loc>
+<loc>http://blog.ca5.me/2009/12/09/twitter連携/</loc>
 <lastmod>2009-12-09T07:20:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2009/12/06/スパイダーマの予備知識/</loc>
+<loc>http://blog.ca5.me/2009/12/06/スパイダーマの予備知識/</loc>
 <lastmod>2009-12-06T23:09:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2009/12/06/iphone予約/</loc>
+<loc>http://blog.ca5.me/2009/12/06/iphone予約/</loc>
 <lastmod>2009-12-06T21:40:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2009/12/03/lamy/</loc>
+<loc>http://blog.ca5.me/2009/12/03/lamy/</loc>
 <lastmod>2009-12-03T23:52:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2009/12/02/ひまつぶし/</loc>
+<loc>http://blog.ca5.me/2009/12/02/ひまつぶし/</loc>
 <lastmod>2009-12-02T13:20:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2009/12/02/しんでしまうとはなさけない/</loc>
+<loc>http://blog.ca5.me/2009/12/02/しんでしまうとはなさけない/</loc>
 <lastmod>2009-12-02T09:20:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2009/11/30/謎の技術/</loc>
+<loc>http://blog.ca5.me/2009/11/30/謎の技術/</loc>
 <lastmod>2009-11-30T00:12:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2009/11/29/新宿御苑で紅葉/</loc>
+<loc>http://blog.ca5.me/2009/11/29/新宿御苑で紅葉/</loc>
 <lastmod>2009-11-29T22:40:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2009/11/28/五反田 グラフトン/</loc>
+<loc>http://blog.ca5.me/2009/11/28/五反田 グラフトン/</loc>
 <lastmod>2009-11-28T23:40:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2009/11/27/二郎 新宿小滝橋店/</loc>
+<loc>http://blog.ca5.me/2009/11/27/二郎 新宿小滝橋店/</loc>
 <lastmod>2009-11-27T20:14:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2009/11/27/さくらmtmailpackでメールで投稿出来るブログづくり/</loc>
+<loc>http://blog.ca5.me/2009/11/27/さくらmtmailpackでメールで投稿出来るブログづくり/</loc>
 <lastmod>2009-11-27T00:07:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2009/11/26/ヒルズのイルミネーション/</loc>
+<loc>http://blog.ca5.me/2009/11/26/ヒルズのイルミネーション/</loc>
 <lastmod>2009-11-26T23:44:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2009/11/26/メール投稿テスト3/</loc>
+<loc>http://blog.ca5.me/2009/11/26/メール投稿テスト3/</loc>
 <lastmod>2009-11-26T09:20:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2009/11/26/めーるで/</loc>
+<loc>http://blog.ca5.me/2009/11/26/めーるで/</loc>
 <lastmod>2009-11-26T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2009/11/26/目からasience/</loc>
+<loc>http://blog.ca5.me/2009/11/26/目からasience/</loc>
 <lastmod>2009-11-26T00:42:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2009/11/23/びっくりカメラ殺人事件/</loc>
+<loc>http://blog.ca5.me/2009/11/23/びっくりカメラ殺人事件/</loc>
 <lastmod>2009-11-23T23:27:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2009/11/21/pcを見るときは部屋を明るくして離れてみてね/</loc>
+<loc>http://blog.ca5.me/2009/11/21/pcを見るときは部屋を明るくして離れてみてね/</loc>
 <lastmod>2009-11-21T11:17:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2009/11/20/世の中矛盾だらけ/</loc>
+<loc>http://blog.ca5.me/2009/11/20/世の中矛盾だらけ/</loc>
 <lastmod>2009-11-20T00:09:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2009/11/19/ケーブル萌え/</loc>
+<loc>http://blog.ca5.me/2009/11/19/ケーブル萌え/</loc>
 <lastmod>2009-11-19T00:58:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2009/11/16/gifアニメシリーズ/</loc>
+<loc>http://blog.ca5.me/2009/11/16/gifアニメシリーズ/</loc>
 <lastmod>2009-11-16T23:14:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2009/11/15/日本からブラジルまで貫通させた穴に石を落とし/</loc>
+<loc>http://blog.ca5.me/2009/11/15/日本からブラジルまで貫通させた穴に石を落とし/</loc>
 <lastmod>2009-11-15T21:49:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2009/11/15/久々に/</loc>
+<loc>http://blog.ca5.me/2009/11/15/久々に/</loc>
 <lastmod>2009-11-15T11:39:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2009/10/10/2009109のdashboard/</loc>
+<loc>http://blog.ca5.me/2009/10/10/2009109のdashboard/</loc>
 <lastmod>2009-10-10T12:43:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2009/10/10/2009108のdashboard/</loc>
+<loc>http://blog.ca5.me/2009/10/10/2009108のdashboard/</loc>
 <lastmod>2009-10-10T12:33:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2009/10/08/2009107のdashboard/</loc>
+<loc>http://blog.ca5.me/2009/10/08/2009107のdashboard/</loc>
 <lastmod>2009-10-08T00:42:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2009/10/07/2009106のdashboard/</loc>
+<loc>http://blog.ca5.me/2009/10/07/2009106のdashboard/</loc>
 <lastmod>2009-10-07T06:58:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2009/10/05/2009105のdashboard/</loc>
+<loc>http://blog.ca5.me/2009/10/05/2009105のdashboard/</loc>
 <lastmod>2009-10-05T23:54:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2009/10/05/2009104のdashboard/</loc>
+<loc>http://blog.ca5.me/2009/10/05/2009104のdashboard/</loc>
 <lastmod>2009-10-05T00:16:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2009/10/02/移転します/</loc>
+<loc>http://blog.ca5.me/2009/10/02/移転します/</loc>
 <lastmod>2009-10-02T23:40:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2008/11/17/mac使ってるとだんだん重くなるんだよね/</loc>
+<loc>http://blog.ca5.me/2008/11/17/mac使ってるとだんだん重くなるんだよね/</loc>
 <lastmod>2008-11-17T00:47:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2008/11/16/easypim-for-jpmobile/</loc>
+<loc>http://blog.ca5.me/2008/11/16/easypim-for-jpmobile/</loc>
 <lastmod>2008-11-16T00:17:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2008/11/15/wikiを入れてみた/</loc>
+<loc>http://blog.ca5.me/2008/11/15/wikiを入れてみた/</loc>
 <lastmod>2008-11-15T07:11:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2008/11/15/touchdiamond/</loc>
+<loc>http://blog.ca5.me/2008/11/15/touchdiamond/</loc>
 <lastmod>2008-11-15T07:07:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2008/10/26/easyh10/</loc>
+<loc>http://blog.ca5.me/2008/10/26/easyh10/</loc>
 <lastmod>2008-10-26T10:22:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2008/09/02/マイリスト-ごめん、なんか非公開になってた‐ニ/</loc>
+<loc>http://blog.ca5.me/2008/09/02/マイリスト-ごめん、なんか非公開になってた‐ニ/</loc>
 <lastmod>2008-09-02T23:14:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2008/07/31/ds-10きました/</loc>
+<loc>http://blog.ca5.me/2008/07/31/ds-10きました/</loc>
 <lastmod>2008-07-31T00:31:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2008/07/28/これぞ中二病の恐ろしさよ/</loc>
+<loc>http://blog.ca5.me/2008/07/28/これぞ中二病の恐ろしさよ/</loc>
 <lastmod>2008-07-28T23:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2008/07/21/ds用音楽ソフトまとめ/</loc>
+<loc>http://blog.ca5.me/2008/07/21/ds用音楽ソフトまとめ/</loc>
 <lastmod>2008-07-21T21:56:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2008/07/21/毎日のアレ/</loc>
+<loc>http://blog.ca5.me/2008/07/21/毎日のアレ/</loc>
 <lastmod>2008-07-21T21:28:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2008/07/09/pacemaker/</loc>
+<loc>http://blog.ca5.me/2008/07/09/pacemaker/</loc>
 <lastmod>2008-07-09T23:24:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2008/07/01/aptanaでadobeair/</loc>
+<loc>http://blog.ca5.me/2008/07/01/aptanaでadobeair/</loc>
 <lastmod>2008-07-01T22:31:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2008/06/27/今日はここまで-nicopodcast/</loc>
+<loc>http://blog.ca5.me/2008/06/27/今日はここまで-nicopodcast/</loc>
 <lastmod>2008-06-27T00:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2008/06/26/h-264対応ffmpeg-をunixで/</loc>
+<loc>http://blog.ca5.me/2008/06/26/h-264対応ffmpeg-をunixで/</loc>
 <lastmod>2008-06-26T23:33:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2008/06/26/phpでニコニコ動画をダウンロードする方法/</loc>
+<loc>http://blog.ca5.me/2008/06/26/phpでニコニコ動画をダウンロードする方法/</loc>
 <lastmod>2008-06-26T23:07:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2008/06/26/ポッドキャステング用のrss-2-0の書き方/</loc>
+<loc>http://blog.ca5.me/2008/06/26/ポッドキャステング用のrss-2-0の書き方/</loc>
 <lastmod>2008-06-26T22:48:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2008/06/24/magpierss-を使ってみようと・・・/</loc>
+<loc>http://blog.ca5.me/2008/06/24/magpierss-を使ってみようと・・・/</loc>
 <lastmod>2008-06-24T23:03:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2008/06/22/plaggerインスコめも/</loc>
+<loc>http://blog.ca5.me/2008/06/22/plaggerインスコめも/</loc>
 <lastmod>2008-06-22T02:03:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2008/06/21/nocturn/</loc>
+<loc>http://blog.ca5.me/2008/06/21/nocturn/</loc>
 <lastmod>2008-06-21T13:39:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2008/06/21/一人で盛り上がろう!/</loc>
+<loc>http://blog.ca5.me/2008/06/21/一人で盛り上がろう!/</loc>
 <lastmod>2008-06-21T13:04:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2008/06/21/make-japan/</loc>
+<loc>http://blog.ca5.me/2008/06/21/make-japan/</loc>
 <lastmod>2008-06-21T10:14:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2008/06/16/twitter-board-ウィジェット/</loc>
+<loc>http://blog.ca5.me/2008/06/16/twitter-board-ウィジェット/</loc>
 <lastmod>2008-06-16T00:54:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2008/06/15/980円/</loc>
+<loc>http://blog.ca5.me/2008/06/15/980円/</loc>
 <lastmod>2008-06-15T16:23:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2008/06/15/iphone予約殺到/</loc>
+<loc>http://blog.ca5.me/2008/06/15/iphone予約殺到/</loc>
 <lastmod>2008-06-15T15:14:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2008/06/15/bz-の-ultra-pleasure-のcm/</loc>
+<loc>http://blog.ca5.me/2008/06/15/bz-の-ultra-pleasure-のcm/</loc>
 <lastmod>2008-06-15T14:30:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2008/06/14/にこにこハードノイズ/</loc>
+<loc>http://blog.ca5.me/2008/06/14/にこにこハードノイズ/</loc>
 <lastmod>2008-06-14T23:29:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2008/06/12/おぶけやしき/</loc>
+<loc>http://blog.ca5.me/2008/06/12/おぶけやしき/</loc>
 <lastmod>2008-06-12T00:25:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2008/06/01/proteinds/</loc>
+<loc>http://blog.ca5.me/2008/06/01/proteinds/</loc>
 <lastmod>2008-06-01T23:27:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2008/06/01/ikuzoは大変なものを/</loc>
+<loc>http://blog.ca5.me/2008/06/01/ikuzoは大変なものを/</loc>
 <lastmod>2008-06-01T22:53:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2008/06/01/livecutとかglitch/</loc>
+<loc>http://blog.ca5.me/2008/06/01/livecutとかglitch/</loc>
 <lastmod>2008-06-01T20:21:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2008/06/01/dsとマックをdsmiでつなげてみる/</loc>
+<loc>http://blog.ca5.me/2008/06/01/dsとマックをdsmiでつなげてみる/</loc>
 <lastmod>2008-06-01T14:12:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2008/05/31/ま た w i l l c o m か/</loc>
+<loc>http://blog.ca5.me/2008/05/31/ま た w i l l c o m か/</loc>
 <lastmod>2008-05-31T16:26:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2008/05/24/カットアップうめええ/</loc>
+<loc>http://blog.ca5.me/2008/05/24/カットアップうめええ/</loc>
 <lastmod>2008-05-24T15:27:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2008/05/19/今日から/</loc>
+<loc>http://blog.ca5.me/2008/05/19/今日から/</loc>
 <lastmod>2008-05-19T07:20:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2008/05/18/ファミカセ展とsexy/</loc>
+<loc>http://blog.ca5.me/2008/05/18/ファミカセ展とsexy/</loc>
 <lastmod>2008-05-18T00:18:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2008/05/14/直りんテスト/</loc>
+<loc>http://blog.ca5.me/2008/05/14/直りんテスト/</loc>
 <lastmod>2008-05-14T00:06:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2008/05/13/彼女に見切られるngポイント4/</loc>
+<loc>http://blog.ca5.me/2008/05/13/彼女に見切られるngポイント4/</loc>
 <lastmod>2008-05-13T00:20:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2008/05/13/巨大nesコン/</loc>
+<loc>http://blog.ca5.me/2008/05/13/巨大nesコン/</loc>
 <lastmod>2008-05-13T00:17:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2008/05/13/ズィパーング/</loc>
+<loc>http://blog.ca5.me/2008/05/13/ズィパーング/</loc>
 <lastmod>2008-05-13T00:13:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2008/05/11/カメラシリーズ/</loc>
+<loc>http://blog.ca5.me/2008/05/11/カメラシリーズ/</loc>
 <lastmod>2008-05-11T23:44:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2008/05/11/picasaつかってみた/</loc>
+<loc>http://blog.ca5.me/2008/05/11/picasaつかってみた/</loc>
 <lastmod>2008-05-11T18:54:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2008/05/11/ウダー/</loc>
+<loc>http://blog.ca5.me/2008/05/11/ウダー/</loc>
 <lastmod>2008-05-11T08:46:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2008/05/11/とうほうのアレ/</loc>
+<loc>http://blog.ca5.me/2008/05/11/とうほうのアレ/</loc>
 <lastmod>2008-05-11T00:03:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2008/05/09/ルービックキューブというか。。/</loc>
+<loc>http://blog.ca5.me/2008/05/09/ルービックキューブというか。。/</loc>
 <lastmod>2008-05-09T06:31:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2008/05/09/超絶タイピング/</loc>
+<loc>http://blog.ca5.me/2008/05/09/超絶タイピング/</loc>
 <lastmod>2008-05-09T06:26:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2008/05/01/dsでmac/</loc>
+<loc>http://blog.ca5.me/2008/05/01/dsでmac/</loc>
 <lastmod>2008-05-01T23:57:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2008/04/29/dsとezflashv導入/</loc>
+<loc>http://blog.ca5.me/2008/04/29/dsとezflashv導入/</loc>
 <lastmod>2008-04-29T23:23:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2008/04/28/tenori-on予約開始だそうで/</loc>
+<loc>http://blog.ca5.me/2008/04/28/tenori-on予約開始だそうで/</loc>
 <lastmod>2008-04-28T15:23:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2008/04/28/sr400を価格-comで見ていたら・・・/</loc>
+<loc>http://blog.ca5.me/2008/04/28/sr400を価格-comで見ていたら・・・/</loc>
 <lastmod>2008-04-28T15:19:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2008/04/27/原付レース/</loc>
+<loc>http://blog.ca5.me/2008/04/27/原付レース/</loc>
 <lastmod>2008-04-27T22:28:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2008/04/15/macとsakuraとscreen/</loc>
+<loc>http://blog.ca5.me/2008/04/15/macとsakuraとscreen/</loc>
 <lastmod>2008-04-15T23:50:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2008/04/13/内回り編/</loc>
+<loc>http://blog.ca5.me/2008/04/13/内回り編/</loc>
 <lastmod>2008-04-13T12:45:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2008/04/12/モンスター/</loc>
+<loc>http://blog.ca5.me/2008/04/12/モンスター/</loc>
 <lastmod>2008-04-12T10:43:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2008/04/09/famicom jr/</loc>
+<loc>http://blog.ca5.me/2008/04/09/famicom jr/</loc>
 <lastmod>2008-04-09T01:04:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2008/04/09/corekrave終了!/</loc>
+<loc>http://blog.ca5.me/2008/04/09/corekrave終了!/</loc>
 <lastmod>2008-04-09T01:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2008/03/30/tvstv/</loc>
+<loc>http://blog.ca5.me/2008/03/30/tvstv/</loc>
 <lastmod>2008-03-30T09:15:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2008/03/30/mac-キーボード周りメモ/</loc>
+<loc>http://blog.ca5.me/2008/03/30/mac-キーボード周りメモ/</loc>
 <lastmod>2008-03-30T07:40:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2008/03/29/corekrave-46/</loc>
+<loc>http://blog.ca5.me/2008/03/29/corekrave-46/</loc>
 <lastmod>2008-03-29T16:38:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2008/03/28/ダイナミックパブリシングあきらめた/</loc>
+<loc>http://blog.ca5.me/2008/03/28/ダイナミックパブリシングあきらめた/</loc>
 <lastmod>2008-03-28T18:23:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2008/03/24/ダイナミックなんちゃら/</loc>
+<loc>http://blog.ca5.me/2008/03/24/ダイナミックなんちゃら/</loc>
 <lastmod>2008-03-24T01:03:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/2008/03/23/とりあえずインスコ完了/</loc>
+<loc>http://blog.ca5.me/2008/03/23/とりあえずインスコ完了/</loc>
 <lastmod>2008-03-23T00:19:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/category/create.html</loc>
+<loc>http://blog.ca5.me/category/create.html</loc>
 <lastmod>2015-06-20T01:40:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/category/event.html</loc>
+<loc>http://blog.ca5.me/category/event.html</loc>
 <lastmod>2015-05-03T21:30:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/category/other.html</loc>
+<loc>http://blog.ca5.me/category/other.html</loc>
 <lastmod>2011-10-25T00:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/category/release.html</loc>
+<loc>http://blog.ca5.me/category/release.html</loc>
 <lastmod>2015-05-11T22:41:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/webaudio.html</loc>
+<loc>http://blog.ca5.me/tag/webaudio.html</loc>
 <lastmod>2014-09-19T00:11:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/iamas.html</loc>
+<loc>http://blog.ca5.me/tag/iamas.html</loc>
 <lastmod>2010-02-23T08:36:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/jitter.html</loc>
+<loc>http://blog.ca5.me/tag/jitter.html</loc>
 <lastmod>2010-02-28T19:25:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/webmidi.html</loc>
+<loc>http://blog.ca5.me/tag/webmidi.html</loc>
 <lastmod>2014-09-19T00:11:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/niu-tan.html</loc>
+<loc>http://blog.ca5.me/tag/niu-tan.html</loc>
 <lastmod>2010-06-24T09:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/hai.html</loc>
+<loc>http://blog.ca5.me/tag/hai.html</loc>
 <lastmod>2010-07-29T09:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/arduino.html</loc>
+<loc>http://blog.ca5.me/tag/arduino.html</loc>
 <lastmod>2013-12-02T23:32:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/lsdj.html</loc>
+<loc>http://blog.ca5.me/tag/lsdj.html</loc>
 <lastmod>2015-05-11T22:41:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/kinect.html</loc>
+<loc>http://blog.ca5.me/tag/kinect.html</loc>
 <lastmod>2012-09-06T23:59:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/wei-cheng.html</loc>
+<loc>http://blog.ca5.me/tag/wei-cheng.html</loc>
 <lastmod>2010-03-02T08:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/chipbreak.html</loc>
+<loc>http://blog.ca5.me/tag/chipbreak.html</loc>
 <lastmod>2015-03-28T22:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/yoyo.html</loc>
+<loc>http://blog.ca5.me/tag/yoyo.html</loc>
 <lastmod>2010-06-28T09:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/8081netlabel.html</loc>
+<loc>http://blog.ca5.me/tag/8081netlabel.html</loc>
 <lastmod>2013-10-14T22:30:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/hanbaga.html</loc>
+<loc>http://blog.ca5.me/tag/hanbaga.html</loc>
 <lastmod>2011-09-15T07:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/korotsuke.html</loc>
+<loc>http://blog.ca5.me/tag/korotsuke.html</loc>
 <lastmod>2010-05-29T09:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/python.html</loc>
+<loc>http://blog.ca5.me/tag/python.html</loc>
 <lastmod>2014-05-04T22:30:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/he-shi.html</loc>
+<loc>http://blog.ca5.me/tag/he-shi.html</loc>
 <lastmod>2010-03-02T08:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/he-guo-zi.html</loc>
+<loc>http://blog.ca5.me/tag/he-guo-zi.html</loc>
 <lastmod>2010-07-21T09:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/nsf.html</loc>
+<loc>http://blog.ca5.me/tag/nsf.html</loc>
 <lastmod>2012-12-25T23:45:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/nkrn.html</loc>
+<loc>http://blog.ca5.me/tag/nkrn.html</loc>
 <lastmod>2015-04-15T21:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/ramen.html</loc>
+<loc>http://blog.ca5.me/tag/ramen.html</loc>
 <lastmod>2011-09-19T09:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/komike.html</loc>
+<loc>http://blog.ca5.me/tag/komike.html</loc>
 <lastmod>2012-08-08T23:29:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/midines.html</loc>
+<loc>http://blog.ca5.me/tag/midines.html</loc>
 <lastmod>2011-09-06T00:02:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/dopeup.html</loc>
+<loc>http://blog.ca5.me/tag/dopeup.html</loc>
 <lastmod>2014-01-16T23:38:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/jiao-zi.html</loc>
+<loc>http://blog.ca5.me/tag/jiao-zi.html</loc>
 <lastmod>2010-09-24T09:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/azialiao-li.html</loc>
+<loc>http://blog.ca5.me/tag/azialiao-li.html</loc>
 <lastmod>2010-07-03T09:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/keki.html</loc>
+<loc>http://blog.ca5.me/tag/keki.html</loc>
 <lastmod>2010-09-26T09:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/pitiful-pip-puppet.html</loc>
+<loc>http://blog.ca5.me/tag/pitiful-pip-puppet.html</loc>
 <lastmod>2014-10-03T00:16:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/zhong-hua.html</loc>
+<loc>http://blog.ca5.me/tag/zhong-hua.html</loc>
 <lastmod>2010-03-01T08:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/suitsu.html</loc>
+<loc>http://blog.ca5.me/tag/suitsu.html</loc>
 <lastmod>2010-06-10T09:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/shao-rou.html</loc>
+<loc>http://blog.ca5.me/tag/shao-rou.html</loc>
 <lastmod>2010-06-24T09:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/windowslivemesh.html</loc>
+<loc>http://blog.ca5.me/tag/windowslivemesh.html</loc>
 <lastmod>2011-09-25T02:45:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/lion.html</loc>
+<loc>http://blog.ca5.me/tag/lion.html</loc>
 <lastmod>2012-05-02T23:52:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/shirasujing.html</loc>
+<loc>http://blog.ca5.me/tag/shirasujing.html</loc>
 <lastmod>2010-07-30T09:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/xi-di-wa.html</loc>
+<loc>http://blog.ca5.me/tag/xi-di-wa.html</loc>
 <lastmod>2011-09-19T09:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/supaidama.html</loc>
+<loc>http://blog.ca5.me/tag/supaidama.html</loc>
 <lastmod>2009-12-16T12:17:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/osc.html</loc>
+<loc>http://blog.ca5.me/tag/osc.html</loc>
 <lastmod>2013-11-11T01:18:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/wu-fan-tian.html</loc>
+<loc>http://blog.ca5.me/tag/wu-fan-tian.html</loc>
 <lastmod>2009-11-28T23:40:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/raibu.html</loc>
+<loc>http://blog.ca5.me/tag/raibu.html</loc>
 <lastmod>2014-08-01T08:49:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/gapao.html</loc>
+<loc>http://blog.ca5.me/tag/gapao.html</loc>
 <lastmod>2010-07-03T09:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/kahue.html</loc>
+<loc>http://blog.ca5.me/tag/kahue.html</loc>
 <lastmod>2010-11-09T09:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/electronica.html</loc>
+<loc>http://blog.ca5.me/tag/electronica.html</loc>
 <lastmod>2013-06-22T00:17:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/biru.html</loc>
+<loc>http://blog.ca5.me/tag/biru.html</loc>
 <lastmod>2010-06-30T09:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/wen-ju.html</loc>
+<loc>http://blog.ca5.me/tag/wen-ju.html</loc>
 <lastmod>2010-01-04T13:06:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/lua.html</loc>
+<loc>http://blog.ca5.me/tag/lua.html</loc>
 <lastmod>2014-08-06T02:07:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/donatsu.html</loc>
+<loc>http://blog.ca5.me/tag/donatsu.html</loc>
 <lastmod>2010-03-04T06:40:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/katsupumian.html</loc>
+<loc>http://blog.ca5.me/tag/katsupumian.html</loc>
 <lastmod>2010-09-22T09:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/ba.html</loc>
+<loc>http://blog.ca5.me/tag/ba.html</loc>
 <lastmod>2010-06-07T09:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/amen.html</loc>
+<loc>http://blog.ca5.me/tag/amen.html</loc>
 <lastmod>2010-06-22T23:50:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/ilremote.html</loc>
+<loc>http://blog.ca5.me/tag/ilremote.html</loc>
 <lastmod>2014-01-09T00:33:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/bo.html</loc>
+<loc>http://blog.ca5.me/tag/bo.html</loc>
 <lastmod>2010-01-30T16:20:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/beatmania.html</loc>
+<loc>http://blog.ca5.me/tag/beatmania.html</loc>
 <lastmod>2011-09-05T00:47:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/ubuntu.html</loc>
+<loc>http://blog.ca5.me/tag/ubuntu.html</loc>
 <lastmod>2014-05-11T22:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/soundcloud.html</loc>
+<loc>http://blog.ca5.me/tag/soundcloud.html</loc>
 <lastmod>2011-09-27T00:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/shikensa.html</loc>
+<loc>http://blog.ca5.me/tag/shikensa.html</loc>
 <lastmod>2011-09-13T00:28:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/tsukemian.html</loc>
+<loc>http://blog.ca5.me/tag/tsukemian.html</loc>
 <lastmod>2010-09-25T09:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/minicards.html</loc>
+<loc>http://blog.ca5.me/tag/minicards.html</loc>
 <lastmod>2010-06-08T09:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/ohao-mishao-ki.html</loc>
+<loc>http://blog.ca5.me/tag/ohao-mishao-ki.html</loc>
 <lastmod>2010-07-28T09:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/midi.html</loc>
+<loc>http://blog.ca5.me/tag/midi.html</loc>
 <lastmod>2014-04-14T01:11:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/pyaudio.html</loc>
+<loc>http://blog.ca5.me/tag/pyaudio.html</loc>
 <lastmod>2014-05-11T22:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/tun-kimuchi.html</loc>
+<loc>http://blog.ca5.me/tag/tun-kimuchi.html</loc>
 <lastmod>2010-06-01T09:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/fu-shi-shan.html</loc>
+<loc>http://blog.ca5.me/tag/fu-shi-shan.html</loc>
 <lastmod>2010-08-04T09:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/tuan-zi.html</loc>
+<loc>http://blog.ca5.me/tag/tuan-zi.html</loc>
 <lastmod>2010-06-12T09:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/karemian.html</loc>
+<loc>http://blog.ca5.me/tag/karemian.html</loc>
 <lastmod>2010-06-01T09:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/blipfestival.html</loc>
+<loc>http://blog.ca5.me/tag/blipfestival.html</loc>
 <lastmod>2011-10-25T00:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/kakihurai.html</loc>
+<loc>http://blog.ca5.me/tag/kakihurai.html</loc>
 <lastmod>2010-07-06T09:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/chiptune.html</loc>
+<loc>http://blog.ca5.me/tag/chiptune.html</loc>
 <lastmod>2015-05-11T22:41:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/gamepad.html</loc>
+<loc>http://blog.ca5.me/tag/gamepad.html</loc>
 <lastmod>2011-09-23T13:24:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/maxmsp.html</loc>
+<loc>http://blog.ca5.me/tag/maxmsp.html</loc>
 <lastmod>2015-06-20T01:40:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/lu-xing.html</loc>
+<loc>http://blog.ca5.me/tag/lu-xing.html</loc>
 <lastmod>2010-05-28T09:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/qiao-mai.html</loc>
+<loc>http://blog.ca5.me/tag/qiao-mai.html</loc>
 <lastmod>2010-05-27T09:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/linux.html</loc>
+<loc>http://blog.ca5.me/tag/linux.html</loc>
 <lastmod>2014-05-11T22:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/ring.html</loc>
+<loc>http://blog.ca5.me/tag/ring.html</loc>
 <lastmod>2015-02-06T00:34:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/ranchi.html</loc>
+<loc>http://blog.ca5.me/tag/ranchi.html</loc>
 <lastmod>2010-06-15T09:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/tailiao-li.html</loc>
+<loc>http://blog.ca5.me/tag/tailiao-li.html</loc>
 <lastmod>2010-09-20T09:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/debian.html</loc>
+<loc>http://blog.ca5.me/tag/debian.html</loc>
 <lastmod>2014-05-11T22:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/live.html</loc>
+<loc>http://blog.ca5.me/tag/live.html</loc>
 <lastmod>2014-08-05T01:08:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/hai-xian.html</loc>
+<loc>http://blog.ca5.me/tag/hai-xian.html</loc>
 <lastmod>2010-07-30T09:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/wordpress.html</loc>
+<loc>http://blog.ca5.me/tag/wordpress.html</loc>
 <lastmod>2010-02-13T23:56:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/iphone.html</loc>
+<loc>http://blog.ca5.me/tag/iphone.html</loc>
 <lastmod>2011-12-19T21:53:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/m3.html</loc>
+<loc>http://blog.ca5.me/tag/m3.html</loc>
 <lastmod>2015-04-15T21:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/music.html</loc>
+<loc>http://blog.ca5.me/tag/music.html</loc>
 <lastmod>2014-09-19T00:11:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/ming-ci.html</loc>
+<loc>http://blog.ca5.me/tag/ming-ci.html</loc>
 <lastmod>2010-06-08T09:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/oth.html</loc>
+<loc>http://blog.ca5.me/tag/oth.html</loc>
 <lastmod>2013-12-02T23:32:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/renoise.html</loc>
+<loc>http://blog.ca5.me/tag/renoise.html</loc>
 <lastmod>2014-08-06T02:07:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/pankeki.html</loc>
+<loc>http://blog.ca5.me/tag/pankeki.html</loc>
 <lastmod>2010-05-14T09:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/vol4.html</loc>
+<loc>http://blog.ca5.me/tag/vol4.html</loc>
 <lastmod>2014-01-16T23:38:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/joypad.html</loc>
+<loc>http://blog.ca5.me/tag/joypad.html</loc>
 <lastmod>2011-09-23T13:24:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/xin-su.html</loc>
+<loc>http://blog.ca5.me/tag/xin-su.html</loc>
 <lastmod>2009-11-27T20:14:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/ipad.html</loc>
+<loc>http://blog.ca5.me/tag/ipad.html</loc>
 <lastmod>2014-08-01T08:49:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/deng-shan.html</loc>
+<loc>http://blog.ca5.me/tag/deng-shan.html</loc>
 <lastmod>2010-08-04T09:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/famitracker.html</loc>
+<loc>http://blog.ca5.me/tag/famitracker.html</loc>
 <lastmod>2012-12-25T23:45:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/er-lang.html</loc>
+<loc>http://blog.ca5.me/tag/er-lang.html</loc>
 <lastmod>2010-07-31T09:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/gemureziendo.html</loc>
+<loc>http://blog.ca5.me/tag/gemureziendo.html</loc>
 <lastmod>2013-11-09T00:19:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/kamera.html</loc>
+<loc>http://blog.ca5.me/tag/kamera.html</loc>
 <lastmod>2010-03-26T17:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/rayou.html</loc>
+<loc>http://blog.ca5.me/tag/rayou.html</loc>
 <lastmod>2010-06-20T09:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/otherman.html</loc>
+<loc>http://blog.ca5.me/tag/otherman.html</loc>
 <lastmod>2015-02-12T00:43:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/websocket.html</loc>
+<loc>http://blog.ca5.me/tag/websocket.html</loc>
 <lastmod>2011-09-13T00:28:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/nodejs.html</loc>
+<loc>http://blog.ca5.me/tag/nodejs.html</loc>
 <lastmod>2011-09-13T00:28:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/nerdcore.html</loc>
+<loc>http://blog.ca5.me/tag/nerdcore.html</loc>
 <lastmod>2014-12-23T22:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/kohi.html</loc>
+<loc>http://blog.ca5.me/tag/kohi.html</loc>
 <lastmod>2010-11-09T09:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/shi-zhi-he.html</loc>
+<loc>http://blog.ca5.me/tag/shi-zhi-he.html</loc>
 <lastmod>2010-07-06T09:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/crossover.html</loc>
+<loc>http://blog.ca5.me/tag/crossover.html</loc>
 <lastmod>2014-03-21T00:50:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/liu-ben-mu.html</loc>
+<loc>http://blog.ca5.me/tag/liu-ben-mu.html</loc>
 <lastmod>2011-09-09T09:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/kare.html</loc>
+<loc>http://blog.ca5.me/tag/kare.html</loc>
 <lastmod>2010-09-20T09:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/mft2014.html</loc>
+<loc>http://blog.ca5.me/tag/mft2014.html</loc>
 <lastmod>2014-11-22T22:23:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/katsu.html</loc>
+<loc>http://blog.ca5.me/tag/katsu.html</loc>
 <lastmod>2010-03-31T23:15:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/cheng-tian-shan.html</loc>
+<loc>http://blog.ca5.me/tag/cheng-tian-shan.html</loc>
 <lastmod>2010-01-10T22:59:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/liao-li.html</loc>
+<loc>http://blog.ca5.me/tag/liao-li.html</loc>
 <lastmod>2010-06-13T09:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/mashup.html</loc>
+<loc>http://blog.ca5.me/tag/mashup.html</loc>
 <lastmod>2014-12-23T22:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/android.html</loc>
+<loc>http://blog.ca5.me/tag/android.html</loc>
 <lastmod>2014-05-11T22:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/pan.html</loc>
+<loc>http://blog.ca5.me/tag/pan.html</loc>
 <lastmod>2010-06-16T09:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/yang-gepan.html</loc>
+<loc>http://blog.ca5.me/tag/yang-gepan.html</loc>
 <lastmod>2010-05-15T09:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/ge-bing.html</loc>
+<loc>http://blog.ca5.me/tag/ge-bing.html</loc>
 <lastmod>2010-07-21T09:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/monziya.html</loc>
+<loc>http://blog.ca5.me/tag/monziya.html</loc>
 <lastmod>2010-07-28T09:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/mac.html</loc>
+<loc>http://blog.ca5.me/tag/mac.html</loc>
 <lastmod>2014-03-21T00:50:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/ikaossilator.html</loc>
+<loc>http://blog.ca5.me/tag/ikaossilator.html</loc>
 <lastmod>2011-11-08T00:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/fl.html</loc>
+<loc>http://blog.ca5.me/tag/fl.html</loc>
 <lastmod>2014-04-14T01:11:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/macbook.html</loc>
+<loc>http://blog.ca5.me/tag/macbook.html</loc>
 <lastmod>2011-10-03T22:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/remix.html</loc>
+<loc>http://blog.ca5.me/tag/remix.html</loc>
 <lastmod>2015-03-28T22:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/breakcore.html</loc>
+<loc>http://blog.ca5.me/tag/breakcore.html</loc>
 <lastmod>2015-03-28T22:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/windows.html</loc>
+<loc>http://blog.ca5.me/tag/windows.html</loc>
 <lastmod>2011-09-25T02:45:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/teng-ze.html</loc>
+<loc>http://blog.ca5.me/tag/teng-ze.html</loc>
 <lastmod>2011-09-19T00:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/udon.html</loc>
+<loc>http://blog.ca5.me/tag/udon.html</loc>
 <lastmod>2010-05-13T09:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/sunobodo.html</loc>
+<loc>http://blog.ca5.me/tag/sunobodo.html</loc>
 <lastmod>2010-02-15T08:51:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/biao-can-dao.html</loc>
+<loc>http://blog.ca5.me/tag/biao-can-dao.html</loc>
 <lastmod>2010-01-30T17:14:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/tag/touchosc.html</loc>
+<loc>http://blog.ca5.me/tag/touchosc.html</loc>
 <lastmod>2014-08-05T01:08:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://ca5.github.io/blog/author/ca5.html</loc>
+<loc>http://blog.ca5.me/author/ca5.html</loc>
 <lastmod>2015-06-20T01:40:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
