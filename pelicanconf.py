@@ -59,7 +59,7 @@ USE_PAGER = True
 PLUGIN_PATHS = ["plugins", "./pelican/plugins"]
 
 ## Plugin-Sitemap
-PLUGINS = ['sitemap',]
+PLUGINS = ['sitemap','sns']
 SITEMAP = {
     'format': 'xml',
     'priorities': {
