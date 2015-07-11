@@ -5,29 +5,36 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://blog.ca5.me/</loc>
-<lastmod>2015-07-11T18:50:46-00:00</lastmod>
+<lastmod>2015-07-11T23:30:43-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://blog.ca5.me/archives.html</loc>
-<lastmod>2015-07-11T18:50:46-00:00</lastmod>
+<lastmod>2015-07-11T23:30:43-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://blog.ca5.me/tags.html</loc>
-<lastmod>2015-07-11T18:50:46-00:00</lastmod>
+<lastmod>2015-07-11T23:30:43-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://blog.ca5.me/categories.html</loc>
-<lastmod>2015-07-11T18:50:46-00:00</lastmod>
+<lastmod>2015-07-11T23:30:43-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://blog.ca5.me/2015/07/11/akiparty2015/</loc>
+<lastmod>2015-07-11T23:30:00+09:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -2469,7 +2476,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://blog.ca5.me/category/event.html</loc>
-<lastmod>2015-05-03T21:30:00+09:00</lastmod>
+<lastmod>2015-07-11T23:30:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -3029,7 +3036,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://blog.ca5.me/tag/live.html</loc>
-<lastmod>2014-08-05T01:08:00+09:00</lastmod>
+<lastmod>2015-07-11T23:30:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -3386,7 +3393,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://blog.ca5.me/author/ca5.html</loc>
-<lastmod>2015-07-11T19:00:00+09:00</lastmod>
+<lastmod>2015-07-11T23:30:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
