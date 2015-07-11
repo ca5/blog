@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>ca5blog</title><link href="http://blog.ca5.me/" rel="alternate"></link><link href="http://blog.ca5.me/feeds/create.atom.xml" rel="self"></link><id>http://blog.ca5.me/</id><updated>2015-06-20T01:40:00+09:00</updated><entry><title>いまさらmaxのパッチを公開しました</title><link href="http://blog.ca5.me/2015/06/20/maxpatch/" rel="alternate"></link><updated>2015-06-20T01:40:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2015-06-20:2015/06/20/maxpatch/</id><summary type="html">&lt;p&gt;今更ですけど、ぼくが3年くらいライブで使ってるパッチを公開することにしました。&lt;br /&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>ca5blog</title><link href="http://blog.ca5.me/" rel="alternate"></link><link href="http://blog.ca5.me/feeds/create.atom.xml" rel="self"></link><id>http://blog.ca5.me/</id><updated>2015-07-11T19:00:00+09:00</updated><entry><title>blogのリニューアル</title><link href="http://blog.ca5.me/2015/07/11/renewal/" rel="alternate"></link><updated>2015-07-11T19:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2015-07-11:2015/07/11/renewal/</id><summary type="html">&lt;p&gt;ブログをリニューアルしました。&lt;br /&gt;
+まだ古い方は残ってますが、そのうちこっちにリダイレクトかける設定いれます。  &lt;/p&gt;
+&lt;p&gt;今までwordpress+レン鯖だったのをやめて、&lt;br /&gt;
+pelican + github pagesって構成にしてみました。&lt;br /&gt;
+最新のpostをtweetするプラグインが見つからなくて自作したりしてます。&lt;br /&gt;
+気が向いたら公開するかもしれません。&lt;/p&gt;</summary><category term="python"></category><category term="pelican"></category></entry><entry><title>いまさらmaxのパッチを公開しました</title><link href="http://blog.ca5.me/2015/06/20/maxpatch/" rel="alternate"></link><updated>2015-06-20T01:40:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2015-06-20:2015/06/20/maxpatch/</id><summary type="html">&lt;p&gt;今更ですけど、ぼくが3年くらいライブで使ってるパッチを公開することにしました。&lt;br /&gt;
 Max5 + &lt;a href="http://cnmat.berkeley.edu/patch/4029"&gt;OSC-Route&lt;/a&gt;
 で動かすことを前提に作ってます。&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://github.com/ca5/slice8"&gt;https://github.com/ca5/slice8&lt;br /&gt;
