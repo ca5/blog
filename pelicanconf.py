@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
+import os
 
 AUTHOR = u'Ca5'
 SITENAME = u'ca5blog'
@@ -73,3 +74,10 @@ SITEMAP = {
         'pages': 'monthly'
     }
 }
+
+## Plugin-Sns
+TWITTER_CONSUMER_KEY=os.environ['TWITTER_CONSUMER_KEY']
+TWITTER_CONSUMER_SECRET=os.environ['TWITTER_CONSUMER_SECRET']
+TWITTER_TOKEN_KEY=os.environ['TWITTER_TOKEN_KEY']
+TWITTER_TOKEN_SECRET=os.environ['TWITTER_TOKEN_SECRET']
+
