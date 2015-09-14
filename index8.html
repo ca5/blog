@@ -83,6 +83,38 @@ ca5blog            </a>
         <div class="col-sm-9">
 
             <article>
+                <h2><a href="http://blog.ca5.me/2014/04/14/fl-smf-python/">FLとSMFとpython (準備編)</a></h2>
+                <div class="summary"><p>FLで作った曲のBPMに合わせてごにょごにょする処理を自前で作りたくて色々試そうとしてます。</p>
+<p>とりあえず思いついた方法が</p>
+<ul>
+<li>FLで曲のwavとmidiを書き出す</li>
+<li>wavとmidiをpythonのスクリプトで読み込んでごにょごにょ</li>
+</ul>
+<p>というわけでまず準備編</p>
+<h2>1. FLでmidiを吐き出す</h2>
+<p>FLでこんなプロジェクトを用意</p>
+<p><a href="http://firestorage.jp/download/12b13e190a604e9dcd90ff34cb7d4287f95418e5">bpmtest.zip</p>
+<p></a></p>
+<p>[flickr id="13820505455" thumbnail="small_320" overlay="true"
+size="original" group="" align="none"]</p>
+<p>2小節分のドラムループを4回ループ。3小節目からBPM変更のパターンが入って、5-6小節目中でBPMを140→54.013へ一気に下げる。</p>
+<p>これのmidiを吐き出すには、まず</p>
+<p>TOOLS > Macros > prepare for export</p>
+<p>でmidiファイル出力に必要な適合化処理を実行する必要があります。</p>
+<p>(これやらないと空のmidiファイルしか出来ない</p>
+<p>で、こんなmidiファイルが出来る</p>
+<p><a href="http://firestorage.jp/download/3fbc6a9cda4e58488abcfa6f0659aa980742f540">bpmtest.mid</a></p>
+<h2>2. midiファイルをpythonのスクリプトで解析する</h2>
+<p>midiの解析にpython-midiを使う</p>
+<p><a href="https://github.com/vishnubob/python-midi">https://github.com/vishnubob/python-midi</p>
+<p></a></p>
+<p>pipのindexに入ってるみたいですが、</p>
+<p>自分の環境だとうまくインストールできなかったのでgitのREADME通りの手順でソースからインストール ...</p>
+                    <a class="btn btn-default btn-xs" href="http://blog.ca5.me/2014/04/14/fl-smf-python/">more ...</a>
+                </div>
+            </article>
+            <hr/>
+            <article>
                 <h2><a href="http://blog.ca5.me/2014/03/21/fl-studio-11-0-4-on-macosx/">FL Studio 11.0.4 on MacOSX</a></h2>
                 <div class="summary"><p>前に<a href="http://blog.ca54makske.com/blog/2014/01/09/il-remote%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F/">この記事書いた時に</a>IL-remoteのためにFLをアップデート(FL
 Studio 11.0.4)してたんですが、<br />
@@ -183,25 +215,6 @@ Remoteでミキサーの画面をいじろうとしても、FL上でミキサー
                 </div>
             </article>
             <hr/>
-            <article>
-                <h2><a href="http://blog.ca5.me/2013/12/30/end-of2013/">2013年まとめ</a></h2>
-                <div class="summary"><p>今年の活動まとめ</p>
-<h2>■リリース一覧</h2>
-<p>上から新しい順に<br />
-<strong>-Only Lonely Holy Story(Only Holy Story remix)</strong>  </p>
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/121528815&amp;color=ff6600&amp;auto_play=false&amp;show_artwork=true" frameborder="no" scrolling="no" width="100%" height="166"></iframe>
-
-<p><strong>-Memory of the Cartridge</strong><br />
-[<img alt="" src="http://www.otherman-records.com/images/releases/OTMN051.jpg" />  </p>
-<p>http://www.otherman-records.com/releases/OTMN051](http://www.otherman-records.com/releases/OTMN051)</p>
-<p><strong>-Monster Tale</strong>(#12 Summer Shores/Ca5)<br />
-[<img alt="" src="http://8081netlabel.ru/img2/va013.png" />  </p>
-<p>http://8081netlabel.ru/news/8081_va013_monster_tale/2013-10-13-117](http://8081netlabel.ru/news/8081_va013_monster_tale/2013-10-13-117)</p>
-<p><strong>-Last Summer EP</strong>(#2 Suikawari ...</p>
-                    <a class="btn btn-default btn-xs" href="http://blog.ca5.me/2013/12/30/end-of2013/">more ...</a>
-                </div>
-            </article>
-            <hr/>
 
         <ul class="pager">
                 <li class="previous"><a href="http://blog.ca5.me/index7.html">&larr; Newer</a></li>
@@ -256,18 +269,13 @@ Remoteでミキサーの画面をいじろうとしても、FL上でミキサー
             <li class="list-group-item"><a href="http://blog.ca5.me/"><h4><i class="fa fa-tags fa-lg"></i><span class="icon-label">Tags</span></h4></a>
                 <ul class="list-group " id="tags">
                     <li class="list-group-item tag-1">
-                        <a href="http://blog.ca5.me/tag/chiptune.html">
-                            chiptune
+                        <a href="http://blog.ca5.me/tag/chipbreak.html">
+                            chipbreak
                         </a>
                     </li>
                     <li class="list-group-item tag-1">
-                        <a href="http://blog.ca5.me/tag/live.html">
-                            live
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-1">
-                        <a href="http://blog.ca5.me/tag/ramen.html">
-                            ラーメン
+                        <a href="http://blog.ca5.me/tag/maxmsp.html">
+                            max/msp
                         </a>
                     </li>
                     <li class="list-group-item tag-1">
@@ -276,8 +284,13 @@ Remoteでミキサーの画面をいじろうとしても、FL上でミキサー
                         </a>
                     </li>
                     <li class="list-group-item tag-1">
-                        <a href="http://blog.ca5.me/tag/chipbreak.html">
-                            chipbreak
+                        <a href="http://blog.ca5.me/tag/live.html">
+                            live
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-1">
+                        <a href="http://blog.ca5.me/tag/chiptune.html">
+                            chiptune
                         </a>
                     </li>
                     <li class="list-group-item tag-1">
@@ -286,48 +299,8 @@ Remoteでミキサーの画面をいじろうとしても、FL上でミキサー
                         </a>
                     </li>
                     <li class="list-group-item tag-1">
-                        <a href="http://blog.ca5.me/tag/maxmsp.html">
-                            max/msp
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-2">
-                        <a href="http://blog.ca5.me/tag/hanbaga.html">
-                            ハンバーガー
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-2">
-                        <a href="http://blog.ca5.me/tag/nkrn.html">
-                            NKRN
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-2">
-                        <a href="http://blog.ca5.me/tag/m3.html">
-                            M3
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-2">
-                        <a href="http://blog.ca5.me/tag/suitsu.html">
-                            スイーツ
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-2">
-                        <a href="http://blog.ca5.me/tag/touchosc.html">
-                            touchosc
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-2">
-                        <a href="http://blog.ca5.me/tag/iphone.html">
-                            iPhone
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-2">
-                        <a href="http://blog.ca5.me/tag/jiao-zi.html">
-                            餃子
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-2">
-                        <a href="http://blog.ca5.me/tag/mac.html">
-                            mac
+                        <a href="http://blog.ca5.me/tag/ramen.html">
+                            ラーメン
                         </a>
                     </li>
                     <li class="list-group-item tag-2">
@@ -336,13 +309,53 @@ Remoteでミキサーの画面をいじろうとしても、FL上でミキサー
                         </a>
                     </li>
                     <li class="list-group-item tag-2">
+                        <a href="http://blog.ca5.me/tag/ipad.html">
+                            iPad
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-2">
+                        <a href="http://blog.ca5.me/tag/nkrn.html">
+                            NKRN
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-2">
+                        <a href="http://blog.ca5.me/tag/touchosc.html">
+                            touchosc
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-2">
+                        <a href="http://blog.ca5.me/tag/m3.html">
+                            M3
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-2">
+                        <a href="http://blog.ca5.me/tag/mac.html">
+                            mac
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-2">
+                        <a href="http://blog.ca5.me/tag/suitsu.html">
+                            スイーツ
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-2">
                         <a href="http://blog.ca5.me/tag/fl.html">
                             FL
                         </a>
                     </li>
                     <li class="list-group-item tag-2">
-                        <a href="http://blog.ca5.me/tag/ipad.html">
-                            iPad
+                        <a href="http://blog.ca5.me/tag/jiao-zi.html">
+                            餃子
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-2">
+                        <a href="http://blog.ca5.me/tag/hanbaga.html">
+                            ハンバーガー
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-2">
+                        <a href="http://blog.ca5.me/tag/iphone.html">
+                            iPhone
                         </a>
                     </li>
                     <li class="list-group-item tag-2">
@@ -351,63 +364,8 @@ Remoteでミキサーの画面をいじろうとしても、FL上でミキサー
                         </a>
                     </li>
                     <li class="list-group-item tag-3">
-                        <a href="http://blog.ca5.me/tag/dopeup.html">
-                            dopeup
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-3">
-                        <a href="http://blog.ca5.me/tag/pitiful-pip-puppet.html">
-                            pitiful pip puppet
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-3">
-                        <a href="http://blog.ca5.me/tag/android.html">
-                            android
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-3">
-                        <a href="http://blog.ca5.me/tag/mashup.html">
-                            mashup
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-3">
-                        <a href="http://blog.ca5.me/tag/arduino.html">
-                            arduino
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-3">
-                        <a href="http://blog.ca5.me/tag/python.html">
-                            python
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-3">
-                        <a href="http://blog.ca5.me/tag/rayou.html">
-                            ラー油
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-3">
-                        <a href="http://blog.ca5.me/tag/ohao-mishao-ki.html">
-                            お好み焼き
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-3">
-                        <a href="http://blog.ca5.me/tag/midi.html">
-                            midi
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-3">
-                        <a href="http://blog.ca5.me/tag/pyaudio.html">
-                            PyAudio
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-3">
-                        <a href="http://blog.ca5.me/tag/wordpress.html">
-                            wordpress
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-3">
-                        <a href="http://blog.ca5.me/tag/keki.html">
-                            ケーキ
+                        <a href="http://blog.ca5.me/tag/tsukemian.html">
+                            つけ麺
                         </a>
                     </li>
                     <li class="list-group-item tag-3">
@@ -416,13 +374,28 @@ Remoteでミキサーの画面をいじろうとしても、FL上でミキサー
                         </a>
                     </li>
                     <li class="list-group-item tag-3">
-                        <a href="http://blog.ca5.me/tag/he-guo-zi.html">
-                            和菓子
+                        <a href="http://blog.ca5.me/tag/ba.html">
+                            バー
                         </a>
                     </li>
                     <li class="list-group-item tag-3">
-                        <a href="http://blog.ca5.me/tag/debian.html">
-                            debian
+                        <a href="http://blog.ca5.me/tag/liu-ben-mu.html">
+                            六本木
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-3">
+                        <a href="http://blog.ca5.me/tag/pyaudio.html">
+                            PyAudio
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-3">
+                        <a href="http://blog.ca5.me/tag/rayou.html">
+                            ラー油
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-3">
+                        <a href="http://blog.ca5.me/tag/python.html">
+                            python
                         </a>
                     </li>
                     <li class="list-group-item tag-3">
@@ -431,38 +404,13 @@ Remoteでミキサーの画面をいじろうとしても、FL上でミキサー
                         </a>
                     </li>
                     <li class="list-group-item tag-3">
-                        <a href="http://blog.ca5.me/tag/kinect.html">
-                            kinect
+                        <a href="http://blog.ca5.me/tag/android.html">
+                            android
                         </a>
                     </li>
                     <li class="list-group-item tag-3">
-                        <a href="http://blog.ca5.me/tag/lu-xing.html">
-                            旅行
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-3">
-                        <a href="http://blog.ca5.me/tag/tailiao-li.html">
-                            タイ料理
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-3">
-                        <a href="http://blog.ca5.me/tag/tsukemian.html">
-                            つけ麺
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-3">
-                        <a href="http://blog.ca5.me/tag/ba.html">
-                            バー
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-3">
-                        <a href="http://blog.ca5.me/tag/lsdj.html">
-                            LSDJ
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-3">
-                        <a href="http://blog.ca5.me/tag/kohi.html">
-                            コーヒー
+                        <a href="http://blog.ca5.me/tag/dopeup.html">
+                            dopeup
                         </a>
                     </li>
                     <li class="list-group-item tag-3">
@@ -471,118 +419,73 @@ Remoteでミキサーの画面をいじろうとしても、FL上でミキサー
                         </a>
                     </li>
                     <li class="list-group-item tag-3">
-                        <a href="http://blog.ca5.me/tag/liu-ben-mu.html">
-                            六本木
+                        <a href="http://blog.ca5.me/tag/midi.html">
+                            midi
                         </a>
                     </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/biru.html">
-                            ビール
+                    <li class="list-group-item tag-3">
+                        <a href="http://blog.ca5.me/tag/lsdj.html">
+                            LSDJ
                         </a>
                     </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/qiao-mai.html">
-                            蕎麦
+                    <li class="list-group-item tag-3">
+                        <a href="http://blog.ca5.me/tag/tailiao-li.html">
+                            タイ料理
                         </a>
                     </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/wu-fan-tian.html">
-                            五反田
+                    <li class="list-group-item tag-3">
+                        <a href="http://blog.ca5.me/tag/he-guo-zi.html">
+                            和菓子
                         </a>
                     </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/soundcloud.html">
-                            soundcloud
+                    <li class="list-group-item tag-3">
+                        <a href="http://blog.ca5.me/tag/keki.html">
+                            ケーキ
                         </a>
                     </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/windowslivemesh.html">
-                            WindowsLiveMesh
+                    <li class="list-group-item tag-3">
+                        <a href="http://blog.ca5.me/tag/kinect.html">
+                            kinect
                         </a>
                     </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/music.html">
-                            music
+                    <li class="list-group-item tag-3">
+                        <a href="http://blog.ca5.me/tag/wordpress.html">
+                            wordpress
                         </a>
                     </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/supaidama.html">
-                            スパイダーマ
+                    <li class="list-group-item tag-3">
+                        <a href="http://blog.ca5.me/tag/arduino.html">
+                            arduino
                         </a>
                     </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/wen-ju.html">
-                            文具
+                    <li class="list-group-item tag-3">
+                        <a href="http://blog.ca5.me/tag/lu-xing.html">
+                            旅行
                         </a>
                     </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/xi-di-wa.html">
-                            西荻窪
+                    <li class="list-group-item tag-3">
+                        <a href="http://blog.ca5.me/tag/kohi.html">
+                            コーヒー
                         </a>
                     </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/hai.html">
-                            海
+                    <li class="list-group-item tag-3">
+                        <a href="http://blog.ca5.me/tag/ohao-mishao-ki.html">
+                            お好み焼き
                         </a>
                     </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/wei-cheng.html">
-                            味噌
+                    <li class="list-group-item tag-3">
+                        <a href="http://blog.ca5.me/tag/pitiful-pip-puppet.html">
+                            pitiful pip puppet
                         </a>
                     </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/amen.html">
-                            amen
+                    <li class="list-group-item tag-3">
+                        <a href="http://blog.ca5.me/tag/mashup.html">
+                            mashup
                         </a>
                     </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/yoyo.html">
-                            ヨーヨー
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/linux.html">
-                            linux
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/ring.html">
-                            Ring
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/azialiao-li.html">
-                            アジア料理
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/pelican.html">
-                            pelican
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/katsupumian.html">
-                            カップ麺
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/shao-rou.html">
-                            焼肉
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/nsf.html">
-                            nsf
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/oth.html">
-                            oth
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/niu-tan.html">
-                            牛タン
+                    <li class="list-group-item tag-3">
+                        <a href="http://blog.ca5.me/tag/debian.html">
+                            debian
                         </a>
                     </li>
                     <li class="list-group-item tag-4">
@@ -591,53 +494,13 @@ Remoteでミキサーの画面をいじろうとしても、FL上でミキサー
                         </a>
                     </li>
                     <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/joypad.html">
-                            joypad
+                        <a href="http://blog.ca5.me/tag/he-shi.html">
+                            和食
                         </a>
                     </li>
                     <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/gamepad.html">
-                            gamepad
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/midines.html">
-                            MIDINES
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/8081netlabel.html">
-                            8081netlabel
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/donatsu.html">
-                            ドーナツ
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/blipfestival.html">
-                            blipfestival
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/komike.html">
-                            コミケ
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/ilremote.html">
-                            ILRemote
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/fu-shi-shan.html">
-                            富士山
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/webmidi.html">
-                            webmidi
+                        <a href="http://blog.ca5.me/tag/katsupumian.html">
+                            カップ麺
                         </a>
                     </li>
                     <li class="list-group-item tag-4">
@@ -646,43 +509,18 @@ Remoteでミキサーの画面をいじろうとしても、FL上でミキサー
                         </a>
                     </li>
                     <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/tun-kimuchi.html">
-                            豚キムチ
+                        <a href="http://blog.ca5.me/tag/amen.html">
+                            amen
                         </a>
                     </li>
                     <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/beatmania.html">
-                            beatmania
+                        <a href="http://blog.ca5.me/tag/supaidama.html">
+                            スパイダーマ
                         </a>
                     </li>
                     <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/lua.html">
-                            Lua
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/ubuntu.html">
-                            ubuntu
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/electronica.html">
-                            electronica
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/jitter.html">
-                            jitter
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/ming-ci.html">
-                            名詞
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/he-shi.html">
-                            和食
+                        <a href="http://blog.ca5.me/tag/korotsuke.html">
+                            コロッケ
                         </a>
                     </li>
                     <li class="list-group-item tag-4">
@@ -691,8 +529,23 @@ Remoteでミキサーの画面をいじろうとしても、FL上でミキサー
                         </a>
                     </li>
                     <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/renoise.html">
-                            renoise
+                        <a href="http://blog.ca5.me/tag/osc.html">
+                            osc
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://blog.ca5.me/tag/webaudio.html">
+                            webaudio
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://blog.ca5.me/tag/hai.html">
+                            海
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://blog.ca5.me/tag/windowslivemesh.html">
+                            WindowsLiveMesh
                         </a>
                     </li>
                     <li class="list-group-item tag-4">
@@ -706,23 +559,23 @@ Remoteでミキサーの画面をいじろうとしても、FL上でミキサー
                         </a>
                     </li>
                     <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/webaudio.html">
-                            webaudio
+                        <a href="http://blog.ca5.me/tag/midines.html">
+                            MIDINES
                         </a>
                     </li>
                     <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/ranchi.html">
-                            ランチ
+                        <a href="http://blog.ca5.me/tag/fu-shi-shan.html">
+                            富士山
                         </a>
                     </li>
                     <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/zhong-hua.html">
-                            中華
+                        <a href="http://blog.ca5.me/tag/wei-cheng.html">
+                            味噌
                         </a>
                     </li>
                     <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/bo.html">
-                            柏
+                        <a href="http://blog.ca5.me/tag/linux.html">
+                            linux
                         </a>
                     </li>
                     <li class="list-group-item tag-4">
@@ -731,8 +584,83 @@ Remoteでミキサーの画面をいじろうとしても、FL上でミキサー
                         </a>
                     </li>
                     <li class="list-group-item tag-4">
+                        <a href="http://blog.ca5.me/tag/electronica.html">
+                            electronica
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://blog.ca5.me/tag/ring.html">
+                            Ring
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://blog.ca5.me/tag/donatsu.html">
+                            ドーナツ
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://blog.ca5.me/tag/komike.html">
+                            コミケ
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://blog.ca5.me/tag/webmidi.html">
+                            webmidi
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://blog.ca5.me/tag/8081netlabel.html">
+                            8081netlabel
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://blog.ca5.me/tag/lua.html">
+                            Lua
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://blog.ca5.me/tag/zhong-hua.html">
+                            中華
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://blog.ca5.me/tag/ming-ci.html">
+                            名詞
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
                         <a href="http://blog.ca5.me/tag/kakihurai.html">
                             カキフライ
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://blog.ca5.me/tag/shao-rou.html">
+                            焼肉
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://blog.ca5.me/tag/soundcloud.html">
+                            soundcloud
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://blog.ca5.me/tag/music.html">
+                            music
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://blog.ca5.me/tag/gamepad.html">
+                            gamepad
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://blog.ca5.me/tag/azialiao-li.html">
+                            アジア料理
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://blog.ca5.me/tag/niu-tan.html">
+                            牛タン
                         </a>
                     </li>
                     <li class="list-group-item tag-4">
@@ -741,8 +669,43 @@ Remoteでミキサーの画面をいじろうとしても、FL上でミキサー
                         </a>
                     </li>
                     <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/korotsuke.html">
-                            コロッケ
+                        <a href="http://blog.ca5.me/tag/blipfestival.html">
+                            blipfestival
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://blog.ca5.me/tag/wen-ju.html">
+                            文具
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://blog.ca5.me/tag/ilremote.html">
+                            ILRemote
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://blog.ca5.me/tag/nsf.html">
+                            nsf
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://blog.ca5.me/tag/renoise.html">
+                            renoise
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://blog.ca5.me/tag/beatmania.html">
+                            beatmania
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://blog.ca5.me/tag/bo.html">
+                            柏
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://blog.ca5.me/tag/wu-fan-tian.html">
+                            五反田
                         </a>
                     </li>
                     <li class="list-group-item tag-4">
@@ -751,8 +714,58 @@ Remoteでミキサーの画面をいじろうとしても、FL上でミキサー
                         </a>
                     </li>
                     <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/osc.html">
-                            osc
+                        <a href="http://blog.ca5.me/tag/jitter.html">
+                            jitter
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://blog.ca5.me/tag/biru.html">
+                            ビール
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://blog.ca5.me/tag/ranchi.html">
+                            ランチ
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://blog.ca5.me/tag/qiao-mai.html">
+                            蕎麦
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://blog.ca5.me/tag/xi-di-wa.html">
+                            西荻窪
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://blog.ca5.me/tag/tun-kimuchi.html">
+                            豚キムチ
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://blog.ca5.me/tag/oth.html">
+                            oth
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://blog.ca5.me/tag/ubuntu.html">
+                            ubuntu
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://blog.ca5.me/tag/pelican.html">
+                            pelican
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://blog.ca5.me/tag/joypad.html">
+                            joypad
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://blog.ca5.me/tag/yoyo.html">
+                            ヨーヨー
                         </a>
                     </li>
                 </ul>
