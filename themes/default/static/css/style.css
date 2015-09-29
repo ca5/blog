@@ -75,7 +75,7 @@ body {
 }
 
 a, a:hover {
-    color: inherit;
+    color: #060;
 }
 
 .entry-content a {
@@ -102,6 +102,17 @@ a, a:hover {
     max-width: 100%;
     height: auto;
 }
+
+.summary a {
+    text-decoration: none;
+    border-bottom: 1px dotted;
+}
+
+.summary a:hover {
+    text-decoration: none;
+    border-bottom: 1px solid;
+}
+
 
 
 .floatright, .align-right {
