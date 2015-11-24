@@ -5,29 +5,36 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://blog.ca5.me/</loc>
-<lastmod>2015-10-25T23:58:27-00:00</lastmod>
+<lastmod>2015-11-24T23:40:50-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://blog.ca5.me/archives.html</loc>
-<lastmod>2015-10-25T23:58:27-00:00</lastmod>
+<lastmod>2015-11-24T23:40:50-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://blog.ca5.me/tags.html</loc>
-<lastmod>2015-10-25T23:58:27-00:00</lastmod>
+<lastmod>2015-11-24T23:40:50-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://blog.ca5.me/categories.html</loc>
-<lastmod>2015-10-25T23:58:27-00:00</lastmod>
+<lastmod>2015-11-24T23:40:50-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://blog.ca5.me/2015/11/24/dystopia_on_sale/</loc>
+<lastmod>2015-11-24T23:30:00+09:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -2532,7 +2539,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://blog.ca5.me/category/release.html</loc>
-<lastmod>2015-10-20T22:00:00+09:00</lastmod>
+<lastmod>2015-11-24T23:30:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2610,6 +2617,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://blog.ca5.me/tag/chipbreak.html</loc>
 <lastmod>2015-10-20T22:00:00+09:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://blog.ca5.me/tag/donatsu.html</loc>
+<lastmod>2010-03-04T06:40:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2853,8 +2867,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://blog.ca5.me/tag/donatsu.html</loc>
-<lastmod>2010-03-04T06:40:00+09:00</lastmod>
+<loc>http://blog.ca5.me/tag/fuga.html</loc>
+<lastmod>2015-11-24T23:30:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -3016,6 +3030,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://blog.ca5.me/tag/gamepad.html</loc>
 <lastmod>2011-09-23T13:24:00+09:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://blog.ca5.me/tag/hoge.html</loc>
+<lastmod>2015-11-24T23:30:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -3435,7 +3456,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://blog.ca5.me/author/ca5.html</loc>
-<lastmod>2015-10-25T23:40:00+09:00</lastmod>
+<lastmod>2015-11-24T23:30:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
