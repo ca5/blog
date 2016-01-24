@@ -5,29 +5,36 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://blog.ca5.me/</loc>
-<lastmod>2016-01-12T00:43:47-00:00</lastmod>
+<lastmod>2016-01-24T21:03:09-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://blog.ca5.me/archives.html</loc>
-<lastmod>2016-01-12T00:43:47-00:00</lastmod>
+<lastmod>2016-01-24T21:03:09-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://blog.ca5.me/tags.html</loc>
-<lastmod>2016-01-12T00:43:47-00:00</lastmod>
+<lastmod>2016-01-24T21:03:09-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://blog.ca5.me/categories.html</loc>
-<lastmod>2016-01-12T00:43:47-00:00</lastmod>
+<lastmod>2016-01-24T21:03:09-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://blog.ca5.me/2016/01/24/gba4ios-lsdj/</loc>
+<lastmod>2016-01-24T21:00:00+09:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -2539,7 +2546,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://blog.ca5.me/category/create.html</loc>
-<lastmod>2015-12-31T20:00:00+09:00</lastmod>
+<lastmod>2016-01-24T21:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2616,7 +2623,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://blog.ca5.me/tag/lsdj.html</loc>
-<lastmod>2015-08-07T03:00:00+09:00</lastmod>
+<lastmod>2016-01-24T21:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2951,8 +2958,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://blog.ca5.me/tag/shikensa.html</loc>
-<lastmod>2011-09-13T00:28:00+09:00</lastmod>
+<loc>http://blog.ca5.me/tag/renoise.html</loc>
+<lastmod>2014-08-06T02:07:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -3175,8 +3182,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://blog.ca5.me/tag/renoise.html</loc>
-<lastmod>2014-08-06T02:07:00+09:00</lastmod>
+<loc>http://blog.ca5.me/tag/shikensa.html</loc>
+<lastmod>2011-09-13T00:28:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -3392,6 +3399,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://blog.ca5.me/tag/ios.html</loc>
+<lastmod>2016-01-24T21:00:00+09:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://blog.ca5.me/tag/mac.html</loc>
 <lastmod>2014-03-21T00:50:00+09:00</lastmod>
 <changefreq>daily</changefreq>
@@ -3477,7 +3491,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://blog.ca5.me/author/ca5.html</loc>
-<lastmod>2016-01-11T21:30:00+09:00</lastmod>
+<lastmod>2016-01-24T21:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
