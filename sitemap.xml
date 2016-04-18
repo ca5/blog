@@ -5,29 +5,36 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://blog.ca5.me/</loc>
-<lastmod>2016-03-09T00:48:34-00:00</lastmod>
+<lastmod>2016-04-19T00:02:06-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://blog.ca5.me/archives.html</loc>
-<lastmod>2016-03-09T00:48:34-00:00</lastmod>
+<lastmod>2016-04-19T00:02:06-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://blog.ca5.me/tags.html</loc>
-<lastmod>2016-03-09T00:48:34-00:00</lastmod>
+<lastmod>2016-04-19T00:02:06-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://blog.ca5.me/categories.html</loc>
-<lastmod>2016-03-09T00:48:34-00:00</lastmod>
+<lastmod>2016-04-19T00:02:06-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://blog.ca5.me/2016/04/18/2016M3-spring/</loc>
+<lastmod>2016-04-18T23:30:00+09:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -2574,7 +2581,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://blog.ca5.me/category/release.html</loc>
-<lastmod>2016-01-11T21:30:00+09:00</lastmod>
+<lastmod>2016-04-18T23:30:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2630,7 +2637,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://blog.ca5.me/tag/lsdj.html</loc>
-<lastmod>2016-01-24T21:00:00+09:00</lastmod>
+<lastmod>2016-04-18T23:30:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -3057,7 +3064,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://blog.ca5.me/tag/chiptune.html</loc>
-<lastmod>2016-03-09T00:00:00+09:00</lastmod>
+<lastmod>2016-04-18T23:30:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -3162,7 +3169,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://blog.ca5.me/tag/m3.html</loc>
-<lastmod>2015-04-15T21:00:00+09:00</lastmod>
+<lastmod>2016-04-18T23:30:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -3498,7 +3505,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://blog.ca5.me/author/ca5.html</loc>
-<lastmod>2016-03-09T00:00:00+09:00</lastmod>
+<lastmod>2016-04-18T23:30:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
