@@ -5,29 +5,36 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://blog.ca5.me/</loc>
-<lastmod>2016-05-22T01:13:49-00:00</lastmod>
+<lastmod>2016-06-04T21:52:39-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://blog.ca5.me/archives.html</loc>
-<lastmod>2016-05-22T01:13:49-00:00</lastmod>
+<lastmod>2016-06-04T21:52:39-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://blog.ca5.me/tags.html</loc>
-<lastmod>2016-05-22T01:13:49-00:00</lastmod>
+<lastmod>2016-06-04T21:52:39-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://blog.ca5.me/categories.html</loc>
-<lastmod>2016-05-22T01:13:49-00:00</lastmod>
+<lastmod>2016-06-04T21:52:39-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://blog.ca5.me/2016/06/04/back-to-the-8bit/</loc>
+<lastmod>2016-06-04T00:00:00+09:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -2588,7 +2595,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://blog.ca5.me/category/release.html</loc>
-<lastmod>2016-05-22T00:00:00+09:00</lastmod>
+<lastmod>2016-06-04T00:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2672,7 +2679,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://blog.ca5.me/tag/chipbreak.html</loc>
-<lastmod>2016-05-22T00:00:00+09:00</lastmod>
+<lastmod>2016-06-04T00:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -3126,6 +3133,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://blog.ca5.me/tag/esctrax.html</loc>
+<lastmod>2016-06-04T00:00:00+09:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://blog.ca5.me/tag/ring.html</loc>
 <lastmod>2015-02-06T00:34:00+09:00</lastmod>
 <changefreq>daily</changefreq>
@@ -3519,7 +3533,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://blog.ca5.me/author/ca5.html</loc>
-<lastmod>2016-05-22T00:00:00+09:00</lastmod>
+<lastmod>2016-06-04T00:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
