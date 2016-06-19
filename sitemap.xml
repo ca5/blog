@@ -5,29 +5,36 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://blog.ca5.me/</loc>
-<lastmod>2016-06-07T23:18:02-00:00</lastmod>
+<lastmod>2016-06-19T23:10:50-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://blog.ca5.me/archives.html</loc>
-<lastmod>2016-06-07T23:18:02-00:00</lastmod>
+<lastmod>2016-06-19T23:10:50-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://blog.ca5.me/tags.html</loc>
-<lastmod>2016-06-07T23:18:02-00:00</lastmod>
+<lastmod>2016-06-19T23:10:50-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://blog.ca5.me/categories.html</loc>
-<lastmod>2016-06-07T23:18:02-00:00</lastmod>
+<lastmod>2016-06-19T23:10:50-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://blog.ca5.me/2016/06/19/bulletn-tunes/</loc>
+<lastmod>2016-06-19T23:00:00+09:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -2602,7 +2609,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://blog.ca5.me/category/release.html</loc>
-<lastmod>2016-06-04T00:00:00+09:00</lastmod>
+<lastmod>2016-06-19T23:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2734,8 +2741,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://blog.ca5.me/tag/he-shi.html</loc>
-<lastmod>2010-03-02T08:00:00+09:00</lastmod>
+<loc>http://blog.ca5.me/tag/game.html</loc>
+<lastmod>2016-06-19T23:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -3141,7 +3148,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://blog.ca5.me/tag/esctrax.html</loc>
-<lastmod>2016-06-07T23:00:00+09:00</lastmod>
+<lastmod>2016-06-19T23:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -3490,6 +3497,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://blog.ca5.me/tag/he-shi.html</loc>
+<lastmod>2010-03-02T08:00:00+09:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://blog.ca5.me/tag/breakcore.html</loc>
 <lastmod>2016-01-11T21:30:00+09:00</lastmod>
 <changefreq>daily</changefreq>
@@ -3540,7 +3554,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://blog.ca5.me/author/ca5.html</loc>
-<lastmod>2016-06-07T23:00:00+09:00</lastmod>
+<lastmod>2016-06-19T23:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
