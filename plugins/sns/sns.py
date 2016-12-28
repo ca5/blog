@@ -63,21 +63,21 @@ class SnsGenerator(object):
                 api.PostUpdate(tweet)
             else:
                 print 'skip tweeting'
-
-            print 'are you sure to share?[Y/n]'
-            input_line = sys.stdin.readline().rstrip()
-            if input_line.lower() in ['y', 'yes']:
-                graph = facebook.GraphAPI(access_token=self.facebook_token)
-                attachment =  {
-                        'name': self.context['SITENAME'].encode('utf-8'),
-                        'link': (self.siteurl + '/' + latest_article_url).encode('utf-8'),
-                        'caption': latest_article.title.encode('utf-8'),
-                        'description': strip_tags(latest_article.content).encode('utf-8'),
-                        'picture': (self.siteurl + '/' + self.sitelogo).encode('utf-8')
-                    }
-                graph.put_wall_post(message=tweet.encode('utf-8'), attachment=attachment)
-            else:
-                print 'skip sharing'
+            #  
+            # print 'are you sure to share?[Y/n]'
+            # input_line = sys.stdin.readline().rstrip()
+            # if input_line.lower() in ['y', 'yes']:
+            #     graph = facebook.GraphAPI(access_token=self.facebook_token)
+            #     attachment =  {
+            #             'name': self.context['SITENAME'].encode('utf-8'),
+            #             'link': (self.siteurl + '/' + latest_article_url).encode('utf-8'),
+            #             'caption': latest_article.title.encode('utf-8'),
+            #             'description': strip_tags(latest_article.content).encode('utf-8'),
+            #             'picture': (self.siteurl + '/' + self.sitelogo).encode('utf-8')
+            #         }
+            #     graph.put_wall_post(message=tweet.encode('utf-8'), attachment=attachment)
+            # else:
+            #     print 'skip sharing'
 
 
 def get_generator(generators):
