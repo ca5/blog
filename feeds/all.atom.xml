@@ -1,5 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>ca5blog</title><link href="http://blog.ca5.me/" rel="alternate"></link><link href="http://blog.ca5.me/feeds/all.atom.xml" rel="self"></link><id>http://blog.ca5.me/</id><updated>2017-07-28T01:00:00+09:00</updated><entry><title>【Live】[8/5]Akiparty Tokyo/[8/6]THE DAY OF HARDCOREに出演します! #Akiparty #TDOH2017</title><link href="http://blog.ca5.me/2017/07/28/akiparty_tdoh/" rel="alternate"></link><updated>2017-07-28T01:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2017-07-28:2017/07/28/akiparty_tdoh/</id><summary type="html">&lt;p&gt;タイトルがクッソ長くなってしまいましたが、&lt;br /&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>ca5blog</title><link href="http://blog.ca5.me/" rel="alternate"></link><link href="http://blog.ca5.me/feeds/all.atom.xml" rel="self"></link><id>http://blog.ca5.me/</id><updated>2017-10-11T01:00:00+09:00</updated><entry><title>TOKYO BLOSCKS ハッカソンで入賞しました! #tbh2017</title><link href="http://blog.ca5.me/2017/10/11/tbh2017/" rel="alternate"></link><updated>2017-10-11T01:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2017-10-11:2017/10/11/tbh2017/</id><summary type="html">&lt;p&gt;2017/10/7, 8と2日間に渡って行われた&lt;br /&gt;
+TOKYO BLOCKS HACKATHON 2017 に参加し、&lt;br /&gt;
+めでたく優秀賞をいただきました。  &lt;/p&gt;
+&lt;p&gt;イベントの様子や自分の作品について書こうと思います。&lt;/p&gt;
+&lt;h2&gt;TOKYO BLOCKS HACKATHONとは&lt;/h2&gt;
+&lt;p&gt;ROLI社が発売するシャレオツなmidiコン,&lt;br /&gt;
+&lt;strong&gt;BLOCKS&lt;/strong&gt; や &lt;strong&gt;Seaboard Block&lt;/strong&gt; を弄り倒そう！というイベントでした&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Cw7WxMkdF8Q" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;イベント詳細:&lt;br /&gt;
+&lt;a href="http://blockshackathon.peatix.com/"&gt;http://blockshackathon.peatix.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;参加作品: &lt;br /&gt;
+&lt;a href="https://tokyoblockshackathon.devpost.com/submissions"&gt;https://tokyoblockshackathon.devpost.com/submissions&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ROLI BLOCKSについては自分も前から知ってはいて、&lt;br /&gt;
+こんなおしゃれなmidiコンでライブやれたらいいなーと思っていました。&lt;br /&gt;
+でも、こういう先鋭的なデバイスは当然初期投資が必要なのと&lt;br /&gt;
+いじってみた結果、思ってたの違う！となるリスクがありますね。  &lt;/p&gt;
+&lt;p&gt;自分も最近買った未来っぽいデバイスをお蔵入りにしてしまったという経験もあって購入は躊躇していたのですが、&lt;br /&gt;
+ROLI BLOCKS本体を借りてハックできるイベントがあるということを知り、参加に至りました。&lt;/p&gt;
+&lt;h2&gt;自分の作品&lt;/h2&gt;
+&lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/CqNoQa4ylDE" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;今回のハッカソンは、既存のプロジェクト持ち込みもOKとのことでしたので、&lt;br /&gt;
+自分が6年くらいライブで使っては改良を重ねている秘伝のタレを持ち込むことにしました。&lt;br /&gt;
+若干チート感がありますが、全部自分で作ったんで許してください。&lt;/p&gt;
+&lt;p&gt;作品の詳細については&lt;a href="https://devpost.com/software/blockslicr"&gt;こちら&lt;/a&gt;にも載せていますが、&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;オーディオ入力をBPMに合わせてリアルタイムにスライスし、再構築します。&lt;br /&gt;
+BLOCKSの表示機能を活用して、適当に触っても音の変化を楽しめるような作りにしました。  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;外周の白い光 ... 入力音そのままの再生位置&lt;/li&gt;
+&lt;li&gt;内側の緑の光 ... 現在鳴っている再生位置&lt;/li&gt;
+&lt;li&gt;左上のボタン(赤) ... 再生位置を揃える&lt;/li&gt;
+&lt;li&gt;右上のボタン(紫) ... looper + 再生速度変更&lt;/li&gt;
+&lt;li&gt;下のバー ... looper&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;というものです。&lt;br /&gt;
+自分のライブを見たことがある方からすると&lt;a href="https://youtu.be/s9p2xDY6Ipk"&gt;おなじみのやつ&lt;/a&gt;をBLOCKSでいい感じに動かしてやったぜ、といったかんじです。&lt;/p&gt;
+&lt;h2&gt;他の方の作品&lt;/h2&gt;
+&lt;p&gt;開発時間が短い割にかなり力作が多かったと感じました&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/nkJZkWbip1w" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Lifeゲームと音楽生成をくっつけたきれいな作品から。。。&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/PX1LjTewAos" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;じゃんけんできるゲームを作るチームもあったり&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/uibt6RQNWcs" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;ロボット操作しちゃったり&lt;/p&gt;
+&lt;p&gt;みんな同じBLOCKSを使っているのに、使い方が全然違って面白いですね。&lt;/p&gt;
+&lt;h2&gt;今後について&lt;/h2&gt;
+&lt;p&gt;今回作った作品の扱いをどうしようか正直迷ってます。&lt;br /&gt;
+BLOCKS対応する前までは、JUCEでVST化して売ろうかとも思ってたんですが&lt;br /&gt;
+ここまで色々実装してしまうと、結構先になりそうだし。。。。。&lt;br /&gt;
+あとは、売ってしまうとその後のサポートとかも厄介ですよね。&lt;br /&gt;
+このあたり何か知見のある方ご教示願いたいです。一応僕もプログラマーですけれども。&lt;/p&gt;
+&lt;h2&gt;おまけ&lt;/h2&gt;
+&lt;p&gt;なんだかんだ一番やりたかったのはこれかもしれない。
+&lt;blockquote class="twitter-tweet" data-lang="ja"&gt;&lt;p lang="ja" dir="ltr"&gt;一人でテンションあがってる &lt;a href="https://twitter.com/hashtag/tbh2017?src=hash&amp;amp;ref_src=twsrc%5Etfw"&gt;#tbh2017&lt;/a&gt; &lt;a href="https://t.co/e0gI7dlttJ"&gt;pic.twitter.com/e0gI7dlttJ&lt;/a&gt;&lt;/p&gt;&amp;mdash; かご (@Ca5) &lt;a href="https://twitter.com/Ca5/status/916665049661423617?ref_src=twsrc%5Etfw"&gt;2017年10月7日&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="//platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;&lt;/p&gt;</summary><category term="blocks"></category><category term="max/msp"></category></entry><entry><title>【Live】[8/5]Akiparty Tokyo/[8/6]THE DAY OF HARDCOREに出演します! #Akiparty #TDOH2017</title><link href="http://blog.ca5.me/2017/07/28/akiparty_tdoh/" rel="alternate"></link><updated>2017-07-28T01:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2017-07-28:2017/07/28/akiparty_tdoh/</id><summary type="html">&lt;p&gt;タイトルがクッソ長くなってしまいましたが、&lt;br /&gt;
 8/4, 8/5と2日連続でライブ出演がございます！&lt;/p&gt;
 &lt;h2&gt;8/5 Akiparty Tokyo 2017&lt;/h2&gt;
 &lt;p&gt;&lt;a href="http://club-mogra.jp/2017/08/05/3231/"&gt;(mogra) AKIPARTY TOKYO 2017&lt;/a&gt;&lt;/p&gt;

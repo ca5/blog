@@ -5,29 +5,36 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://blog.ca5.me/</loc>
-<lastmod>2017-07-28T01:23:09-00:00</lastmod>
+<lastmod>2017-10-11T00:50:37-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://blog.ca5.me/archives.html</loc>
-<lastmod>2017-07-28T01:23:09-00:00</lastmod>
+<lastmod>2017-10-11T00:50:37-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://blog.ca5.me/tags.html</loc>
-<lastmod>2017-07-28T01:23:09-00:00</lastmod>
+<lastmod>2017-10-11T00:50:37-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://blog.ca5.me/categories.html</loc>
-<lastmod>2017-07-28T01:23:09-00:00</lastmod>
+<lastmod>2017-10-11T00:50:37-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://blog.ca5.me/2017/10/11/tbh2017/</loc>
+<lastmod>2017-10-11T01:00:00+09:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -2637,7 +2644,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://blog.ca5.me/category/create.html</loc>
-<lastmod>2016-01-24T21:00:00+09:00</lastmod>
+<lastmod>2017-10-11T01:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2930,6 +2937,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://blog.ca5.me/tag/ge-bing.html</loc>
+<lastmod>2010-07-21T09:00:00+09:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://blog.ca5.me/tag/supaidama.html</loc>
 <lastmod>2009-12-16T12:17:00+09:00</lastmod>
 <changefreq>daily</changefreq>
@@ -3176,7 +3190,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://blog.ca5.me/tag/maxmsp.html</loc>
-<lastmod>2016-07-18T23:00:00+09:00</lastmod>
+<lastmod>2017-10-11T01:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -3252,8 +3266,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://blog.ca5.me/tag/wordpress.html</loc>
-<lastmod>2010-02-13T23:56:00+09:00</lastmod>
+<loc>http://blog.ca5.me/tag/music.html</loc>
+<lastmod>2014-09-19T00:11:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -3273,8 +3287,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://blog.ca5.me/tag/music.html</loc>
-<lastmod>2014-09-19T00:11:00+09:00</lastmod>
+<loc>http://blog.ca5.me/tag/wordpress.html</loc>
+<lastmod>2010-02-13T23:56:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -3497,8 +3511,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://blog.ca5.me/tag/ge-bing.html</loc>
-<lastmod>2010-07-21T09:00:00+09:00</lastmod>
+<loc>http://blog.ca5.me/tag/blocks.html</loc>
+<lastmod>2017-10-11T01:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -3610,7 +3624,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://blog.ca5.me/author/ca5.html</loc>
-<lastmod>2017-07-28T01:00:00+09:00</lastmod>
+<lastmod>2017-10-11T01:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
