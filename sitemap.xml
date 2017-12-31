@@ -5,29 +5,36 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://blog.ca5.me/</loc>
-<lastmod>2017-10-12T00:17:00-00:00</lastmod>
+<lastmod>2017-12-31T22:02:46-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://blog.ca5.me/archives.html</loc>
-<lastmod>2017-10-12T00:17:00-00:00</lastmod>
+<lastmod>2017-12-31T22:02:46-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://blog.ca5.me/tags.html</loc>
-<lastmod>2017-10-12T00:17:00-00:00</lastmod>
+<lastmod>2017-12-31T22:02:46-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://blog.ca5.me/categories.html</loc>
-<lastmod>2017-10-12T00:17:00-00:00</lastmod>
+<lastmod>2017-12-31T22:02:46-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://blog.ca5.me/2017/12/31/2017/</loc>
+<lastmod>2017-12-31T00:00:00+09:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -2665,7 +2672,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://blog.ca5.me/category/release.html</loc>
-<lastmod>2016-12-28T00:00:00+09:00</lastmod>
+<lastmod>2017-12-31T00:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2756,7 +2763,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://blog.ca5.me/tag/chipbreak.html</loc>
-<lastmod>2017-07-28T01:00:00+09:00</lastmod>
+<lastmod>2017-12-31T00:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -3169,7 +3176,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://blog.ca5.me/tag/chiptune.html</loc>
-<lastmod>2016-12-28T00:00:00+09:00</lastmod>
+<lastmod>2017-12-31T00:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -3484,7 +3491,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://blog.ca5.me/tag/mashup.html</loc>
-<lastmod>2016-12-28T00:00:00+09:00</lastmod>
+<lastmod>2017-12-31T00:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -3624,7 +3631,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://blog.ca5.me/author/ca5.html</loc>
-<lastmod>2017-10-11T01:00:00+09:00</lastmod>
+<lastmod>2017-12-31T00:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
