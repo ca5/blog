@@ -5,29 +5,36 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://blog.ca5.me/</loc>
-<lastmod>2018-08-03T20:45:42-00:00</lastmod>
+<lastmod>2018-09-10T22:42:19-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://blog.ca5.me/archives.html</loc>
-<lastmod>2018-08-03T20:45:42-00:00</lastmod>
+<lastmod>2018-09-10T22:42:19-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://blog.ca5.me/tags.html</loc>
-<lastmod>2018-08-03T20:45:42-00:00</lastmod>
+<lastmod>2018-09-10T22:42:19-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://blog.ca5.me/categories.html</loc>
-<lastmod>2018-08-03T20:45:42-00:00</lastmod>
+<lastmod>2018-09-10T22:42:19-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://blog.ca5.me/2018/09/23/ssknsessions/</loc>
+<lastmod>2018-09-23T21:00:00+09:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -2693,7 +2700,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://blog.ca5.me/category/event.html</loc>
-<lastmod>2018-08-03T21:00:00+09:00</lastmod>
+<lastmod>2018-09-23T21:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2707,7 +2714,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://blog.ca5.me/category/release.html</loc>
-<lastmod>2018-01-08T22:30:00+09:00</lastmod>
+<lastmod>2018-08-03T21:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2798,7 +2805,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://blog.ca5.me/tag/chipbreak.html</loc>
-<lastmod>2018-01-08T22:30:00+09:00</lastmod>
+<lastmod>2018-08-03T21:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -3211,7 +3218,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://blog.ca5.me/tag/chiptune.html</loc>
-<lastmod>2018-01-08T22:30:00+09:00</lastmod>
+<lastmod>2018-08-03T21:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -3295,7 +3302,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://blog.ca5.me/tag/live.html</loc>
-<lastmod>2018-08-03T21:00:00+09:00</lastmod>
+<lastmod>2018-09-23T21:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -3666,7 +3673,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://blog.ca5.me/author/ca5.html</loc>
-<lastmod>2018-08-03T21:00:00+09:00</lastmod>
+<lastmod>2018-09-23T21:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
