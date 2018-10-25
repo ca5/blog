@@ -1,5 +1,118 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>ca5blog</title><link href="http://blog.ca5.me/" rel="alternate"></link><link href="http://blog.ca5.me/feeds/create.atom.xml" rel="self"></link><id>http://blog.ca5.me/</id><updated>2017-10-11T01:00:00+09:00</updated><entry><title>TOKYO BLOCKS ハッカソンで入賞しました! #tbh2017</title><link href="http://blog.ca5.me/2017/10/11/tbh2017/" rel="alternate"></link><updated>2017-10-11T01:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2017-10-11:2017/10/11/tbh2017/</id><summary type="html">&lt;p&gt;2017/10/7, 8と2日間に渡って行われた&lt;br /&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>ca5blog</title><link href="http://blog.ca5.me/" rel="alternate"></link><link href="http://blog.ca5.me/feeds/create.atom.xml" rel="self"></link><id>http://blog.ca5.me/</id><updated>2018-10-26T00:00:00+09:00</updated><entry><title>TOKYO BLOCKS ハッカソンで入賞しました! #tbh2018</title><link href="http://blog.ca5.me/2018/10/26/tbh2018/" rel="alternate"></link><updated>2018-10-26T00:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2018-10-26:2018/10/26/tbh2018/</id><summary type="html">&lt;p&gt;2018/10/20, 21と2日間に渡って行われた&lt;br /&gt;
+TOKYO BLOCKS HACKATHON 2018 で3位に入賞しました！&lt;br /&gt;
+去年も参加してるのでどういうイベントか・・・という話は割愛&lt;br /&gt;
+参考: &lt;a href="http://blog.ca5.me/2017/10/11/tbh2017/"&gt;TOKYO BLOCKS ハッカソンで入賞しました! #tbh2017&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今回はebi1000と二人でチームとして参加して、&lt;br /&gt;
+こんな作品を開発しました。&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/NeZ7lz7fI8w" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;動画だけだとわかりにくいですが、&lt;br /&gt;
+これはシンセ・・・ではなくてエフェクターです。&lt;br /&gt;
+Max for Live用のオーディオエフェクターとして動くプラグインを開発しました。  &lt;/p&gt;
+&lt;p&gt;動画に出てない機能もありますが、&lt;br /&gt;
+機能としてはこんな感じです&lt;/p&gt;
+&lt;p&gt;https://devpost.com/software/loooper&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;オーディオ入力を1拍ずつ取り込んで表示し、 Lightpad blocksで指定した箇所のループ演奏を行います。&lt;/p&gt;
+&lt;p&gt;タッチのY座標 ・・・ ループ開始/終了位置(終了位置が開始位置より左にくると逆再生)
+タッチのX座標・・・ピッチの変更
+Lightpad blocksを横につなげると波形を複数台で表示・演奏することができます。
+さらに、Seaboadなどのmpe対応midiキーボードを接続することで、 ピッチの変化を鍵盤で行うことができます。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;一番今回の開発で悩んだのは、  &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Lightpad blocksを横につなげると波形を複数台で表示・演奏することができます。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;地味にここだったりします。&lt;br /&gt;
+BlocksのMax用公式オブジェクトはかなり直感的に使いやすいものになってはいるんですが、 &lt;br /&gt;
+どちらかというとMaxの仕様上やりにくくて。。。&lt;/p&gt;
+&lt;p&gt;blocksを複数接続すると、例えばこんな感じで接続情報をdictで取得できるんですが、、&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;{
+    &amp;quot;blocks&amp;quot; : [        {
+            &amp;quot;type&amp;quot; : &amp;quot;lightpad&amp;quot;,
+            &amp;quot;buttons&amp;quot; : 1,
+            &amp;quot;ledrowcount&amp;quot; : 0,
+            &amp;quot;statusledcount&amp;quot; : 0,
+            &amp;quot;index&amp;quot; : 0,
+            &amp;quot;order&amp;quot; : 1,
+            &amp;quot;uid&amp;quot; : &amp;quot;12345678&amp;quot;,
+            &amp;quot;batterylevel&amp;quot; : 100,
+            &amp;quot;width&amp;quot; : 2,
+            &amp;quot;height&amp;quot; : 2
+        }
+,       {
+            &amp;quot;type&amp;quot; : &amp;quot;lightpad&amp;quot;,
+            &amp;quot;buttons&amp;quot; : 1,
+            &amp;quot;ledrowcount&amp;quot; : 0,
+            &amp;quot;statusledcount&amp;quot; : 0,
+            &amp;quot;index&amp;quot; : 1,
+            &amp;quot;order&amp;quot; : 2,
+            &amp;quot;uid&amp;quot; : &amp;quot;23456789&amp;quot;,
+            &amp;quot;batterylevel&amp;quot; : 100,
+            &amp;quot;width&amp;quot; : 2,
+            &amp;quot;height&amp;quot; : 2
+        }
+ ],
+    &amp;quot;connections&amp;quot; : [       {
+            &amp;quot;index1&amp;quot; : 0,
+            &amp;quot;index2&amp;quot; : 1,
+            &amp;quot;uid1&amp;quot; : &amp;quot;12345678&amp;quot;,
+            &amp;quot;uid2&amp;quot; : &amp;quot;23456789&amp;quot;,
+            &amp;quot;edge1&amp;quot; : &amp;quot;west&amp;quot;,
+            &amp;quot;edge2&amp;quot; : &amp;quot;east&amp;quot;,
+            &amp;quot;edgeindex1&amp;quot; : 3,
+            &amp;quot;edgeindex2&amp;quot; : 2,
+            &amp;quot;portindex1&amp;quot; : 0,
+            &amp;quot;portindex2&amp;quot; : 1
+        }
+,       {
+            &amp;quot;index1&amp;quot; : 0,
+            &amp;quot;index2&amp;quot; : 1,
+            &amp;quot;uid1&amp;quot; : &amp;quot;12345678&amp;quot;,
+            &amp;quot;uid2&amp;quot; : &amp;quot;23456789&amp;quot;,
+            &amp;quot;edge1&amp;quot; : &amp;quot;west&amp;quot;,
+            &amp;quot;edge2&amp;quot; : &amp;quot;east&amp;quot;,
+            &amp;quot;edgeindex1&amp;quot; : 3,
+            &amp;quot;edgeindex2&amp;quot; : 2,
+            &amp;quot;portindex1&amp;quot; : 1,
+            &amp;quot;portindex2&amp;quot; : 0
+        }
+ ]
+}
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;この blocks.type == "lightpad" なものをカウント・・・&lt;br /&gt;
+といったような条件付きの演算がMaxだとすごくやりにくい。。&lt;br /&gt;
+結局一部でjsを使ってなんとかすることにしました。&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="kd"&gt;function&lt;/span&gt; &lt;span class="nx"&gt;blocks&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt; 
+&lt;span class="p"&gt;{&lt;/span&gt;
+    &lt;span class="nx"&gt;count&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+    &lt;span class="k"&gt;for&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nx"&gt;i&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt; &lt;span class="nx"&gt;i&lt;/span&gt;&lt;span class="o"&gt;&amp;lt;&lt;/span&gt;&lt;span class="nx"&gt;arguments&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;length&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt; &lt;span class="nx"&gt;i&lt;/span&gt;&lt;span class="o"&gt;++&lt;/span&gt;&lt;span class="p"&gt;){&lt;/span&gt;
+        &lt;span class="nx"&gt;d&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="k"&gt;new&lt;/span&gt; &lt;span class="nx"&gt;Dict&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nx"&gt;arguments&lt;/span&gt;&lt;span class="cp"&gt;[&lt;/span&gt;&lt;span class="nx"&gt;i&lt;/span&gt;&lt;span class="cp"&gt;]&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="nx"&gt;keys&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="nx"&gt;d&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;getkeys&lt;/span&gt;&lt;span class="p"&gt;();&lt;/span&gt;
+        &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nx"&gt;keys&lt;/span&gt; &lt;span class="o"&gt;!=&lt;/span&gt; &lt;span class="kc"&gt;null&lt;/span&gt;&lt;span class="p"&gt;){&lt;/span&gt;
+            &lt;span class="k"&gt;if&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nx"&gt;d&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;get&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;type&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="o"&gt;==&lt;/span&gt; &lt;span class="s2"&gt;&amp;quot;lightpad&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;){&lt;/span&gt;
+                &lt;span class="nx"&gt;count&lt;/span&gt;&lt;span class="o"&gt;++&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+            &lt;span class="p"&gt;}&lt;/span&gt;
+        &lt;span class="p"&gt;}&lt;/span&gt;
+    &lt;span class="p"&gt;}&lt;/span&gt;
+    &lt;span class="nx"&gt;outlet&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="nx"&gt;count&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;なんかもっとい方法ないんすかね。&lt;/p&gt;
+&lt;p&gt;あと、地味にハマったのが、&lt;br /&gt;
+僕がもともと持っていた初期型のLightPadBlockと、&lt;br /&gt;
+現行型(M)とで感圧の感度が全然ちがうってところです。&lt;br /&gt;
+もうここに関しては両方に対して調整かけるのはきついなと思って諦めました。&lt;br /&gt;
+さっきのdictにもLightPadBlocksのバージョン書いてないし。。もうムリ&lt;/p&gt;
+&lt;p&gt;と、開発のグチみたくなってしまいましたが、&lt;br /&gt;
+ちゃんと動きのあるものを作れたときの達成感は本当にいいものです。&lt;br /&gt;
+今後ライブでも使えるし。  &lt;/p&gt;
+&lt;p&gt;来年も開催されるようでしたら是非参加したいです！  &lt;/p&gt;</summary><category term="blocks"></category><category term="max/msp"></category></entry><entry><title>TOKYO BLOCKS ハッカソンで入賞しました! #tbh2017</title><link href="http://blog.ca5.me/2017/10/11/tbh2017/" rel="alternate"></link><updated>2017-10-11T01:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2017-10-11:2017/10/11/tbh2017/</id><summary type="html">&lt;p&gt;2017/10/7, 8と2日間に渡って行われた&lt;br /&gt;
 TOKYO BLOCKS HACKATHON 2017 に参加し、&lt;br /&gt;
 めでたく優秀賞をいただきました。  &lt;/p&gt;
 &lt;p&gt;イベントの様子や自分の作品について書こうと思います。&lt;/p&gt;
