@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>ca5blog</title><link href="http://blog.ca5.me/" rel="alternate"></link><link href="http://blog.ca5.me/feeds/all.atom.xml" rel="self"></link><id>http://blog.ca5.me/</id><updated>2018-12-31T00:00:00+09:00</updated><entry><title>2018年の活動まとめ</title><link href="http://blog.ca5.me/2018/12/31/2018/" rel="alternate"></link><updated>2018-12-31T00:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2018-12-31:2018/12/31/2018/</id><summary type="html">&lt;h2&gt;2018/1&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>ca5blog</title><link href="http://blog.ca5.me/" rel="alternate"></link><link href="http://blog.ca5.me/feeds/all.atom.xml" rel="self"></link><id>http://blog.ca5.me/</id><updated>2019-02-13T22:00:00+09:00</updated><entry><title>Pico Pico Panic! Vol.3のライブ映像と解説</title><link href="http://blog.ca5.me/2019/02/13/2P_PPP/" rel="alternate"></link><updated>2019-02-13T22:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2019-02-13:2019/02/13/2P_PPP/</id><summary type="html">&lt;p&gt;すっかり告知忘れてしまっていましたが、&lt;br /&gt;
+2/5(火)にチップチューンイベント 『Pico Pico Panic! Vol.3』に出演しました。&lt;br /&gt;
+その時のライブ映像を撮っていただいていたので公開します。  &lt;/p&gt;
+&lt;p&gt;撮影: 2Pcolorさん&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/KsGJGME_C_o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;よく、ライブで何やってるかわからないと言われるので、&lt;br /&gt;
+上の映像で自分が何をやっているか軽く解説します。&lt;/p&gt;
+&lt;h2&gt;構成図&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="2p_ppp_3_system" src="http://blog.ca5.me/images/20190214/system.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;GameBoyでの演奏&lt;/h2&gt;
+&lt;p&gt;冒頭の曲と3曲目はGameBoyAdvanceでLSDjで組んだ曲を流しています。&lt;br /&gt;
+GameBoyのoutputがMacBookに一旦入っているので、&lt;br /&gt;
+PS moveやLightpad Blockを使ってエフェクトをかけたりすることができてます。&lt;/p&gt;
+&lt;h2&gt;MacBookでの演奏&lt;/h2&gt;
+&lt;p&gt;中盤はほぼMacBookで曲をかけています。Ableton Liveで流してます。&lt;br /&gt;
+Max4Liveで作ったプラグインで、&lt;br /&gt;
+ドラムのパートだけLightpadBlockを使ってスライスできるようになっています。&lt;/p&gt;
+&lt;h2&gt;OP-Zでの演奏&lt;/h2&gt;
+&lt;p&gt;最後の曲だけOP-Zで作った曲をそのまま流しています。&lt;br /&gt;
+GameBoy同様一旦MacBookにアウトプットを通しているので&lt;br /&gt;
+ここでもエフェクトをかけたりすることができてます。
+&lt;/p&gt;</summary><category term="chiptune"></category><category term="chipbreak"></category><category term="mashup"></category></entry><entry><title>2018年の活動まとめ</title><link href="http://blog.ca5.me/2018/12/31/2018/" rel="alternate"></link><updated>2018-12-31T00:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2018-12-31:2018/12/31/2018/</id><summary type="html">&lt;h2&gt;2018/1&lt;/h2&gt;
 &lt;h3&gt;New Year Tracks 2018&lt;/h3&gt;
 &lt;p&gt;Sapporo Hardcore Channelの新年コンピに収録させていただきました！
 &lt;a href="https://shc.themedia.jp/posts/3500006"&gt;https://shc.themedia.jp/posts/3500006&lt;/a&gt;&lt;/p&gt;
