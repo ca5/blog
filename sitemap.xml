@@ -5,29 +5,36 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://blog.ca5.me/</loc>
-<lastmod>2019-02-14T23:06:53-00:00</lastmod>
+<lastmod>2019-04-29T22:10:01-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://blog.ca5.me/archives.html</loc>
-<lastmod>2019-02-14T23:06:53-00:00</lastmod>
+<lastmod>2019-04-29T22:10:01-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://blog.ca5.me/tags.html</loc>
-<lastmod>2019-02-14T23:06:53-00:00</lastmod>
+<lastmod>2019-04-29T22:10:01-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://blog.ca5.me/categories.html</loc>
-<lastmod>2019-02-14T23:06:53-00:00</lastmod>
+<lastmod>2019-04-29T22:10:01-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://blog.ca5.me/2019/04/29/CityEP/</loc>
+<lastmod>2019-04-29T22:00:00+09:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -2735,7 +2742,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://blog.ca5.me/category/release.html</loc>
-<lastmod>2018-12-31T00:00:00+09:00</lastmod>
+<lastmod>2019-04-29T22:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2826,7 +2833,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://blog.ca5.me/tag/chipbreak.html</loc>
-<lastmod>2019-02-13T22:00:00+09:00</lastmod>
+<lastmod>2019-04-29T22:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -3239,7 +3246,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://blog.ca5.me/tag/chiptune.html</loc>
-<lastmod>2019-02-13T22:00:00+09:00</lastmod>
+<lastmod>2019-04-29T22:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -3694,7 +3701,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://blog.ca5.me/author/ca5.html</loc>
-<lastmod>2019-02-13T22:00:00+09:00</lastmod>
+<lastmod>2019-04-29T22:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
