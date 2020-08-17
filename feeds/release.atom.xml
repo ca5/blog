@@ -1,5 +1,68 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>ca5blog</title><link href="http://blog.ca5.me/" rel="alternate"></link><link href="http://blog.ca5.me/feeds/release.atom.xml" rel="self"></link><id>http://blog.ca5.me/</id><updated>2019-07-20T23:00:00+09:00</updated><entry><title>【LIVE】2019/7,8,9月のライブ予定</title><link href="http://blog.ca5.me/2019/07/20/2019_summer_live/" rel="alternate"></link><updated>2019-07-20T23:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2019-07-20:2019/07/20/2019_summer_live/</id><summary type="html">&lt;p&gt;夏のライブ出演情報が出揃いましたので告知します!&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>ca5blog</title><link href="http://blog.ca5.me/" rel="alternate"></link><link href="http://blog.ca5.me/feeds/release.atom.xml" rel="self"></link><id>http://blog.ca5.me/</id><updated>2020-08-16T19:00:00+09:00</updated><entry><title>NeoTrellisで遊ぶ</title><link href="http://blog.ca5.me/2020/08/16/neotrellis/" rel="alternate"></link><updated>2020-08-16T19:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2020-08-16:2020/08/16/neotrellis/</id><summary type="html">&lt;p&gt;my new gear... が増えたので&lt;br /&gt;
+備忘録的に久々にブログにまとめました&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.adafruit.com/product/3938"&gt;https://www.adafruit.com/product/3938&lt;/a&gt;&lt;br /&gt;
+最近教えてもらった NeoTrellis が結構いけてそうだったので衝動買いしてしまいました。&lt;br /&gt;
+あまり正体はよくわかってないんですが、最初からボタンやらイヤホンジャックが付いてるTeensy互換ボード、ってところでしょうか?&lt;br /&gt;
+以下使ってみたメモ&lt;/p&gt;
+&lt;h2&gt;マニュアル&lt;/h2&gt;
+&lt;p&gt;まずここがこのキットのマニュアル全てっぽいです&lt;br /&gt;
+最初ここ見てなくて色々つまずいた&lt;br /&gt;
+&lt;a href="https://learn.adafruit.com/adafruit-neotrellis-m4/overview"&gt;https://learn.adafruit.com/adafruit-neotrellis-m4/overview&lt;/a&gt;  &lt;/p&gt;
+&lt;h2&gt;組み立て&lt;/h2&gt;
+&lt;p&gt;全部ここに書いてます。&lt;br /&gt;
+&lt;a href="https://learn.adafruit.com/adafruit-neotrellis-m4/assembly"&gt;https://learn.adafruit.com/adafruit-neotrellis-m4/assembly&lt;/a&gt;&lt;br /&gt;
+・・・が、ネジは裏から入れるのがおすすめです。&lt;br /&gt;
+上から入れると、裏に貼るゴムの高さが足りなくて滑り止めになってくれませんでした。&lt;br /&gt;
+自分が頼んだときの部品の問題かもしれないですが。&lt;/p&gt;
+&lt;h2&gt;ブートローダーの更新&lt;/h2&gt;
+&lt;p&gt;ここのとおりに進めます&lt;br /&gt;
+&lt;a href="https://learn.adafruit.com/adafruit-neotrellis-m4/update-the-uf2-bootloader"&gt;https://learn.adafruit.com/adafruit-neotrellis-m4/update-the-uf2-bootloader&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ブートローダー自体はここからDL&lt;br /&gt;
+&lt;a href="https://circuitpython.org/board/trellis_m4_express/"&gt;https://circuitpython.org/board/trellis_m4_express/&lt;/a&gt; &lt;/p&gt;
+&lt;h2&gt;ボードマネージャ&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://learn.adafruit.com/adafruit-metro-m4-express-featuring-atsamd51/using-with-arduino-ide"&gt;https://learn.adafruit.com/adafruit-metro-m4-express-featuring-atsamd51/using-with-arduino-ide&lt;/a&gt;  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Arduino SAMD Boards&lt;/li&gt;
+&lt;li&gt;Adafruit SAMD Boards&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;の2つを入れる必要があるようです。&lt;br /&gt;
+下の方だけでいいのかと思ってた。&lt;/p&gt;
+&lt;h2&gt;サンプルプログラム(SamplePlayer)のインストール&lt;/h2&gt;
+&lt;p&gt;サンプルプログラムののSamplePlayer... ってややこしいですね。  &lt;/p&gt;
+&lt;p&gt;本家サイト&lt;br /&gt;
+&lt;a href="https://www.adafruit.com/product/3938"&gt;https://www.adafruit.com/product/3938&lt;/a&gt;   &lt;/p&gt;
+&lt;p&gt;本家サイトにはリンクが一つだけあって、&lt;br /&gt;
+リンク先はgithubでフォークされたレポジトリが一つ。&lt;br /&gt;
+&lt;a href="https://github.com/adafruit/Audio"&gt;https://github.com/adafruit/Audio&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;README.mdの一番最後に&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;To install, use the Arduino Library Manager
+and search for &amp;#39;Audio - Adafruit Fork&amp;#39; and install the library
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;と書いてあるんで、&lt;br /&gt;
+Arduinoを開いて
+&lt;code&gt;ライブラリマネージャー -&amp;gt; 検索フォームに'Audio - Adafruit Fork'と入れてインストール&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;・・・という流れでインストールすればOK&lt;br /&gt;
+別なプロジェクトでTeensy触っててよかった。&lt;br /&gt;
+そっちの話は別な記事で書きます。&lt;/p&gt;
+&lt;p&gt;ここまで行ったら、&lt;br /&gt;
+&lt;code&gt;スケッチ例 -&amp;gt; Audio - Adafruit Fork -&amp;gt; SamplePlayer&lt;/code&gt;&lt;br /&gt;
+でサンプルプログラムを呼び出して書き込み ...&lt;/p&gt;
+&lt;p&gt;... ではライブラリが足りなくて、&lt;br /&gt;
+追加で下記のライブラリを入れました。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Adafruit Keypad&lt;/li&gt;
+&lt;li&gt;Adafruit DMA neopixel library&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="ja" dir="ltr"&gt;やっとライブラリのサンプルプログラムが動いた &lt;a href="https://t.co/4FswpBSM6C"&gt;pic.twitter.com/4FswpBSM6C&lt;/a&gt;&lt;/p&gt;&amp;mdash; かご (@Ca5) &lt;a href="https://twitter.com/Ca5/status/1295006836744048641?ref_src=twsrc%5Etfw"&gt;August 16, 2020&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;で一応音がちゃんと出るんですが、&lt;br /&gt;
+ボタンが光らないんですよね。。。&lt;br /&gt;
+これは NeopixelっていうLEDリボンを外付けしたときに光らせるものだったのかな。。互換性があるのかと思ったが。。  &lt;/p&gt;
+&lt;p&gt;もうちょっと色々いじってみます。&lt;/p&gt;</summary><category term="chiptune"></category><category term="chipbreak"></category></entry><entry><title>【LIVE】2019/7,8,9月のライブ予定</title><link href="http://blog.ca5.me/2019/07/20/2019_summer_live/" rel="alternate"></link><updated>2019-07-20T23:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2019-07-20:2019/07/20/2019_summer_live/</id><summary type="html">&lt;p&gt;夏のライブ出演情報が出揃いましたので告知します!&lt;/p&gt;
 &lt;h2&gt;2019/7/27 Technique Vol.102 (ふぷほ出演)&lt;/h2&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;Technique Vol. 102  
 2019/7/27(sat)@BE-WAVE 18:00-23:00 2000yen/1D 
