@@ -93,6 +93,56 @@ ca5blog            </a>
         <div class="col-sm-9">
 
             <article>
+                <h2><a href="http://blog.ca5.me/2015/02/06/logbar-ring-kaosspad/">logbarのRingでkaosspadのコントロール</a></h2>
+                <div class="summary"><p><a href="http://logbar.jp/ring/ja/developer/">logbarのRing</a>面白いんですが、<br />
+まだSDKとかがなくて正直やれることが少ないかなといった印象です。</p>
+<p>SDKがなくても最初から、  </p>
+<p>1ジェスチャーにつき1httpリクエストを投げられる機能が標準で付いているので<br />
+ある程度色んな物を操作できるんですが、  </p>
+<p>エフェクター操作をこれでやろうと思うとどうしてもワンテンポずれた挙動になってしまう。。。</p>
+<p>・・・というわけで、ちょっと別な操作法を考えてみました。  </p>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/RIszxzo9Zco" frameborder="0" allowfullscreen></iframe>
+
+<p>ジェスチャー入力後、指の上下でエフェクトON/OFFを切り替えています。  </p>
+<p>これはRing標準の音量コントロールを無理やり使ってこんな操作を実現しています。</p>
+<ol>
+<li>iPhoneで一定の音を出力(今回はtonetableを使いました)</li>
+<li>1.の音量をRingで変化させてmax/mspへ入力</li>
+<li>max/msp側で音量に応じたmidiメッセージをkaosspadへ送る</li>
+</ol>
+<p>かなりシンプルなmax/mspのパッチでこんな操作が一応実現できます。</p>
+<p>ただ欲を言うとやっぱりy軸だけじゃなくてx軸も取りたい・・・・  </p>
+<p>というわけで、Ringの開発担当の方、SDKのリリース是非是非よろしくお願いしまーす</p>
+                    <a class="btn btn-default btn-xs" href="http://blog.ca5.me/2015/02/06/logbar-ring-kaosspad/">more ...</a>
+                </div>
+            </article>
+            <hr/>
+            <article>
+                <h2><a href="http://blog.ca5.me/2015/02/02/the-otherman-radio-show-2/">The Otherman Radio Show お疲れさまでした</a></h2>
+                <div class="summary"><p>The Otherman Radio Showお疲れさまでした！</p>
+<p>配信した宅録動画アップしておきましたので、見れなかった方も是非みてみてください！</p>
+<p>動画:  </p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pxfMYbWIgI8" frameborder="0" allowfullscreen></iframe>
+
+<p>音声のみ:  </p>
+<iframe width="660" height="180" src="https://www.mixcloud.com/widget/iframe/?feed=http%3A%2F%2Fwww.mixcloud.com%2Fca54makske%2Fca5the-otherman-radio-show%2F&amp;embed_uuid=66e769d9-cc74-49c5-808d-e0171ac869c4&amp;replace=0&amp;hide_cover=1&amp;embed_type=widget_standard&amp;hide_tracklist=1" frameborder="0"></iframe>
+
+<div style="clear: both; height: 3px; width: 652px;">
+
+</div>
+
+<p><a href="http://www.mixcloud.com/ca54makske/ca5the-otherman-radio-show/?utm_source=widget&amp;amp;utm_medium=web&amp;amp;utm_campaign=base_links&amp;amp;utm_term=resource_link">Ca5@The Otherman Radio
+Show</a><span>
+by</span><a href="http://www.mixcloud.com/ca54makske/?utm_source=widget&amp;amp;utm_medium=web&amp;amp;utm_campaign=base_links&amp;amp;utm_term=profile_link">Ca5</a><span>
+on</span><a href="http://www.mixcloud.com/?utm_source=widget&amp;utm_medium=web&amp;utm_campaign=base_links&amp;utm_term=homepage_link">Mixcloud</a></p>
+<div style="clear: both; height: 3px; width: 652px;">
+
+</div>
+                    <a class="btn btn-default btn-xs" href="http://blog.ca5.me/2015/02/02/the-otherman-radio-show-2/">more ...</a>
+                </div>
+            </article>
+            <hr/>
+            <article>
                 <h2><a href="http://blog.ca5.me/2015/01/30/the-otherman-radio-show/">【オンラインイベント】1/31, 2/1はThe Otherman Radio Show</a></h2>
                 <div class="summary"><p>1/31, 2/1に OthermanRecords 5周年を記念したオンラインイベント<br />
 The Otherman Radio Showが開催されます<br />
@@ -186,42 +236,6 @@ on
                 </div>
             </article>
             <hr/>
-            <article>
-                <h2><a href="http://blog.ca5.me/2014/12/23/tuxuep6/">【新曲リリース】つくしEP6</a></h2>
-                <div class="summary"><p>つくしレコーズのつくしEP6へ参加させていただきました！</p>
-<p><a href="http://tuxurecords.tumblr.com/post/105860816816/ep6">http://tuxurecords.tumblr.com/post/105860816816/ep6<br />
-</a><br />
-EP全体の試聴版<br />
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/182603892&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe></p>
-<p>自分の曲の試聴版<br />
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/182756465&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe></p>
-<p>ネタもの盛りだくさんの楽しいEPです<br />
-是非聞いてみてください！</p>
-                    <a class="btn btn-default btn-xs" href="http://blog.ca5.me/2014/12/23/tuxuep6/">more ...</a>
-                </div>
-            </article>
-            <hr/>
-            <article>
-                <h2><a href="http://blog.ca5.me/2014/11/26/after-1124-akiba-mogra/">【ライブセット公開】秋葉原メイカーズ倶楽部おつかれさまでした #akimake 【mixcloud】</a></h2>
-                <div class="summary"><p>秋葉原メイカーズ倶楽部お疲れ様でした！<br />
-<a href="http://blog.ca54makske.com/blog/2014/11/11/1124-akiba-mogra/">http://blog.ca54makske.com/blog/2014/11/11/1124-akiba-mogra/</a></p>
-<p>途中で機材トラブルがあって色々動かなかったり聞き苦しい面があってすみませんでした</p>
-<p>ライブの再現セットをmixcloudで公開しましたので良かったらお聞きくださいー  </p>
-<iframe src="//www.mixcloud.com/widget/iframe/?feed=http%3A%2F%2Fwww.mixcloud.com%2Fca54makske%2Fca5%25E7%25A7%258B%25E8%2591%2589%25E5%258E%259F%25E3%2583%25A1%25E3%2582%25A4%25E3%2582%25AB%25E3%2583%25BC%25E3%2582%25BA%25E5%2580%25B6%25E6%25A5%25BD%25E9%2583%25A81124%2F&amp;embed_uuid=167e254b-6b97-4320-9fdb-1eae8e2ed587&amp;replace=0&amp;hide_cover=1&amp;embed_type=widget_standard&amp;hide_tracklist=1" width="660" height="180" frameborder="0"></iframe>
-
-<div style="clear: both; height: 3px; width: 652px;">
-
-</div>
-
-<p><a href="http://www.mixcloud.com/ca54makske/ca5%E7%A7%8B%E8%91%89%E5%8E%9F%E3%83%A1%E3%82%A4%E3%82%AB%E3%83%BC%E3%82%BA%E5%80%B6%E6%A5%BD%E9%83%A81124/?utm_source=widget&amp;amp;utm_medium=web&amp;amp;utm_campaign=base_links&amp;amp;utm_term=resource_link">Ca5@秋葉原メイカーズ倶楽部(11/24)</a>
-by
-<a href="http://www.mixcloud.com/ca54makske/?utm_source=widget&amp;amp;utm_medium=web&amp;amp;utm_campaign=base_links&amp;amp;utm_term=profile_link">Ca5</a>
-on
-<a href="http://www.mixcloud.com/?utm_source=widget&amp;utm_medium=web&amp;utm_campaign=base_links&amp;utm_term=homepage_link">Mixcloud</a></p>
-                    <a class="btn btn-default btn-xs" href="http://blog.ca5.me/2014/11/26/after-1124-akiba-mogra/">more ...</a>
-                </div>
-            </article>
-            <hr/>
 
         <ul class="pager">
                 <li class="previous"><a href="http://blog.ca5.me/index10.html">&larr; Newer</a></li>
@@ -286,13 +300,18 @@ on
                         </a>
                     </li>
                     <li class="list-group-item tag-1">
+                        <a href="http://blog.ca5.me/tag/breakcore.html">
+                            breakcore
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-1">
                         <a href="http://blog.ca5.me/tag/live.html">
                             live
                         </a>
                     </li>
                     <li class="list-group-item tag-1">
-                        <a href="http://blog.ca5.me/tag/breakcore.html">
-                            breakcore
+                        <a href="http://blog.ca5.me/tag/ramen.html">
+                            ラーメン
                         </a>
                     </li>
                     <li class="list-group-item tag-1">
@@ -305,19 +324,19 @@ on
                             chiptune
                         </a>
                     </li>
-                    <li class="list-group-item tag-1">
-                        <a href="http://blog.ca5.me/tag/ramen.html">
-                            ラーメン
+                    <li class="list-group-item tag-2">
+                        <a href="http://blog.ca5.me/tag/kahue.html">
+                            カフェ
                         </a>
                     </li>
                     <li class="list-group-item tag-2">
-                        <a href="http://blog.ca5.me/tag/remix.html">
-                            remix
+                        <a href="http://blog.ca5.me/tag/fl.html">
+                            FL
                         </a>
                     </li>
                     <li class="list-group-item tag-2">
-                        <a href="http://blog.ca5.me/tag/mashup.html">
-                            mashup
+                        <a href="http://blog.ca5.me/tag/touchosc.html">
+                            touchosc
                         </a>
                     </li>
                     <li class="list-group-item tag-2">
@@ -326,8 +345,43 @@ on
                         </a>
                     </li>
                     <li class="list-group-item tag-2">
+                        <a href="http://blog.ca5.me/tag/mac.html">
+                            mac
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-2">
                         <a href="http://blog.ca5.me/tag/hanbaga.html">
                             ハンバーガー
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-2">
+                        <a href="http://blog.ca5.me/tag/remix.html">
+                            remix
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-2">
+                        <a href="http://blog.ca5.me/tag/lsdj.html">
+                            LSDJ
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-2">
+                        <a href="http://blog.ca5.me/tag/ipad.html">
+                            iPad
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-2">
+                        <a href="http://blog.ca5.me/tag/mashup.html">
+                            mashup
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-2">
+                        <a href="http://blog.ca5.me/tag/m3.html">
+                            M3
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-2">
+                        <a href="http://blog.ca5.me/tag/nkrn.html">
+                            NKRN
                         </a>
                     </li>
                     <li class="list-group-item tag-2">
@@ -341,53 +395,18 @@ on
                         </a>
                     </li>
                     <li class="list-group-item tag-2">
-                        <a href="http://blog.ca5.me/tag/fl.html">
-                            FL
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-2">
-                        <a href="http://blog.ca5.me/tag/lsdj.html">
-                            LSDJ
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-2">
-                        <a href="http://blog.ca5.me/tag/kahue.html">
-                            カフェ
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-2">
-                        <a href="http://blog.ca5.me/tag/touchosc.html">
-                            touchosc
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-2">
-                        <a href="http://blog.ca5.me/tag/mac.html">
-                            mac
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-2">
-                        <a href="http://blog.ca5.me/tag/m3.html">
-                            M3
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-2">
                         <a href="http://blog.ca5.me/tag/esctrax.html">
                             esctrax
                         </a>
                     </li>
-                    <li class="list-group-item tag-2">
-                        <a href="http://blog.ca5.me/tag/ipad.html">
-                            iPad
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-2">
-                        <a href="http://blog.ca5.me/tag/nkrn.html">
-                            NKRN
+                    <li class="list-group-item tag-3">
+                        <a href="http://blog.ca5.me/tag/lu-xing.html">
+                            旅行
                         </a>
                     </li>
                     <li class="list-group-item tag-3">
-                        <a href="http://blog.ca5.me/tag/python.html">
-                            python
+                        <a href="http://blog.ca5.me/tag/ba.html">
+                            バー
                         </a>
                     </li>
                     <li class="list-group-item tag-3">
@@ -396,23 +415,8 @@ on
                         </a>
                     </li>
                     <li class="list-group-item tag-3">
-                        <a href="http://blog.ca5.me/tag/arduino.html">
-                            arduino
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-3">
-                        <a href="http://blog.ca5.me/tag/wordpress.html">
-                            wordpress
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-3">
-                        <a href="http://blog.ca5.me/tag/pitiful-pip-puppet.html">
-                            pitiful pip puppet
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-3">
-                        <a href="http://blog.ca5.me/tag/nerdcore.html">
-                            nerdcore
+                        <a href="http://blog.ca5.me/tag/rayou.html">
+                            ラー油
                         </a>
                     </li>
                     <li class="list-group-item tag-3">
@@ -421,13 +425,43 @@ on
                         </a>
                     </li>
                     <li class="list-group-item tag-3">
-                        <a href="http://blog.ca5.me/tag/er-lang.html">
-                            二郎
+                        <a href="http://blog.ca5.me/tag/dopeup.html">
+                            dopeup
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-3">
+                        <a href="http://blog.ca5.me/tag/pyaudio.html">
+                            PyAudio
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-3">
+                        <a href="http://blog.ca5.me/tag/vol4.html">
+                            vol4
                         </a>
                     </li>
                     <li class="list-group-item tag-3">
                         <a href="http://blog.ca5.me/tag/midi.html">
                             midi
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-3">
+                        <a href="http://blog.ca5.me/tag/pitiful-pip-puppet.html">
+                            pitiful pip puppet
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-3">
+                        <a href="http://blog.ca5.me/tag/ohao-mishao-ki.html">
+                            お好み焼き
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-3">
+                        <a href="http://blog.ca5.me/tag/arduino.html">
+                            arduino
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-3">
+                        <a href="http://blog.ca5.me/tag/nerdcore.html">
+                            nerdcore
                         </a>
                     </li>
                     <li class="list-group-item tag-3">
@@ -441,38 +475,8 @@ on
                         </a>
                     </li>
                     <li class="list-group-item tag-3">
-                        <a href="http://blog.ca5.me/tag/pyaudio.html">
-                            PyAudio
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-3">
-                        <a href="http://blog.ca5.me/tag/kohi.html">
-                            コーヒー
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-3">
-                        <a href="http://blog.ca5.me/tag/ohao-mishao-ki.html">
-                            お好み焼き
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-3">
-                        <a href="http://blog.ca5.me/tag/ba.html">
-                            バー
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-3">
-                        <a href="http://blog.ca5.me/tag/rayou.html">
-                            ラー油
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-3">
-                        <a href="http://blog.ca5.me/tag/vol4.html">
-                            vol4
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-3">
-                        <a href="http://blog.ca5.me/tag/lu-xing.html">
-                            旅行
+                        <a href="http://blog.ca5.me/tag/er-lang.html">
+                            二郎
                         </a>
                     </li>
                     <li class="list-group-item tag-3">
@@ -481,8 +485,8 @@ on
                         </a>
                     </li>
                     <li class="list-group-item tag-3">
-                        <a href="http://blog.ca5.me/tag/he-guo-zi.html">
-                            和菓子
+                        <a href="http://blog.ca5.me/tag/python.html">
+                            python
                         </a>
                     </li>
                     <li class="list-group-item tag-3">
@@ -491,8 +495,8 @@ on
                         </a>
                     </li>
                     <li class="list-group-item tag-3">
-                        <a href="http://blog.ca5.me/tag/raibu.html">
-                            ライブ
+                        <a href="http://blog.ca5.me/tag/kohi.html">
+                            コーヒー
                         </a>
                     </li>
                     <li class="list-group-item tag-3">
@@ -501,8 +505,8 @@ on
                         </a>
                     </li>
                     <li class="list-group-item tag-3">
-                        <a href="http://blog.ca5.me/tag/dopeup.html">
-                            dopeup
+                        <a href="http://blog.ca5.me/tag/raibu.html">
+                            ライブ
                         </a>
                     </li>
                     <li class="list-group-item tag-3">
@@ -510,94 +514,14 @@ on
                             kinect
                         </a>
                     </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/pelican.html">
-                            pelican
+                    <li class="list-group-item tag-3">
+                        <a href="http://blog.ca5.me/tag/he-guo-zi.html">
+                            和菓子
                         </a>
                     </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/komike.html">
-                            コミケ
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/midines.html">
-                            MIDINES
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/ilremote.html">
-                            ILRemote
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/bleep-love.html">
-                            bleep-love
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/gapao.html">
-                            ガパオ
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/bo.html">
-                            柏
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/jitter.html">
-                            jitter
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/blipfestival.html">
-                            blipfestival
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/lua.html">
-                            Lua
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/webmidi.html">
-                            webmidi
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/electronica.html">
-                            electronica
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/supaidama.html">
-                            スパイダーマ
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/webaudio.html">
-                            webaudio
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/yoyo.html">
-                            ヨーヨー
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/wu-fan-tian.html">
-                            五反田
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/soundcloud.html">
-                            soundcloud
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/biru.html">
-                            ビール
+                    <li class="list-group-item tag-3">
+                        <a href="http://blog.ca5.me/tag/wordpress.html">
+                            wordpress
                         </a>
                     </li>
                     <li class="list-group-item tag-4">
@@ -606,43 +530,18 @@ on
                         </a>
                     </li>
                     <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/azialiao-li.html">
-                            アジア料理
+                        <a href="http://blog.ca5.me/tag/webmidi.html">
+                            webmidi
                         </a>
                     </li>
                     <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/tuan-zi.html">
-                            団子
+                        <a href="http://blog.ca5.me/tag/tun-kimuchi.html">
+                            豚キムチ
                         </a>
                     </li>
                     <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/beatmania.html">
-                            beatmania
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/hoge.html">
-                            hoge
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/ubuntu.html">
-                            ubuntu
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/katsupumian.html">
-                            カップ麺
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/.html">
-                            
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/niu-tan.html">
-                            牛タン
+                        <a href="http://blog.ca5.me/tag/joypad.html">
+                            joypad
                         </a>
                     </li>
                     <li class="list-group-item tag-4">
@@ -651,8 +550,43 @@ on
                         </a>
                     </li>
                     <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/iamas.html">
-                            IAMAS
+                        <a href="http://blog.ca5.me/tag/osc.html">
+                            osc
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://blog.ca5.me/tag/fuga.html">
+                            fuga
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://blog.ca5.me/tag/electronica.html">
+                            electronica
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://blog.ca5.me/tag/gapao.html">
+                            ガパオ
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://blog.ca5.me/tag/shirasujing.html">
+                            しらす丼
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://blog.ca5.me/tag/supaidama.html">
+                            スパイダーマ
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://blog.ca5.me/tag/lua.html">
+                            Lua
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://blog.ca5.me/tag/biru.html">
+                            ビール
                         </a>
                     </li>
                     <li class="list-group-item tag-4">
@@ -661,13 +595,33 @@ on
                         </a>
                     </li>
                     <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/nsf.html">
-                            nsf
+                        <a href="http://blog.ca5.me/tag/pelican.html">
+                            pelican
                         </a>
                     </li>
                     <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/amen.html">
-                            amen
+                        <a href="http://blog.ca5.me/tag/niu-tan.html">
+                            牛タン
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://blog.ca5.me/tag/karemian.html">
+                            カレー麺
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://blog.ca5.me/tag/wei-cheng.html">
+                            味噌
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://blog.ca5.me/tag/azialiao-li.html">
+                            アジア料理
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://blog.ca5.me/tag/kakihurai.html">
+                            カキフライ
                         </a>
                     </li>
                     <li class="list-group-item tag-4">
@@ -676,13 +630,113 @@ on
                         </a>
                     </li>
                     <li class="list-group-item tag-4">
+                        <a href="http://blog.ca5.me/tag/wu-fan-tian.html">
+                            五反田
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://blog.ca5.me/tag/amen.html">
+                            amen
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://blog.ca5.me/tag/nsf.html">
+                            nsf
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://blog.ca5.me/tag/.html">
+                            
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://blog.ca5.me/tag/katsupumian.html">
+                            カップ麺
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://blog.ca5.me/tag/bleep-love.html">
+                            bleep-love
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://blog.ca5.me/tag/fu-shi-shan.html">
+                            富士山
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://blog.ca5.me/tag/gamepad.html">
+                            gamepad
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://blog.ca5.me/tag/soundcloud.html">
+                            soundcloud
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://blog.ca5.me/tag/lion.html">
+                            lion
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://blog.ca5.me/tag/ubuntu.html">
+                            ubuntu
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
                         <a href="http://blog.ca5.me/tag/renoise.html">
                             renoise
                         </a>
                     </li>
                     <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/wei-cheng.html">
-                            味噌
+                        <a href="http://blog.ca5.me/tag/xi-di-wa.html">
+                            西荻窪
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://blog.ca5.me/tag/iamas.html">
+                            IAMAS
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://blog.ca5.me/tag/jitter.html">
+                            jitter
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://blog.ca5.me/tag/qiao-mai.html">
+                            蕎麦
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://blog.ca5.me/tag/ilremote.html">
+                            ILRemote
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://blog.ca5.me/tag/beatmania.html">
+                            beatmania
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://blog.ca5.me/tag/midines.html">
+                            MIDINES
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://blog.ca5.me/tag/hoge.html">
+                            hoge
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://blog.ca5.me/tag/wen-ju.html">
+                            文具
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://blog.ca5.me/tag/korotsuke.html">
+                            コロッケ
                         </a>
                     </li>
                     <li class="list-group-item tag-4">
@@ -696,8 +750,8 @@ on
                         </a>
                     </li>
                     <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/korotsuke.html">
-                            コロッケ
+                        <a href="http://blog.ca5.me/tag/blipfestival.html">
+                            blipfestival
                         </a>
                     </li>
                     <li class="list-group-item tag-4">
@@ -706,63 +760,8 @@ on
                         </a>
                     </li>
                     <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/fu-shi-shan.html">
-                            富士山
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/xi-di-wa.html">
-                            西荻窪
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/lion.html">
-                            lion
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/qiao-mai.html">
-                            蕎麦
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/kakihurai.html">
-                            カキフライ
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/joypad.html">
-                            joypad
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/wen-ju.html">
-                            文具
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/fuga.html">
-                            fuga
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/osc.html">
-                            osc
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/shirasujing.html">
-                            しらす丼
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/gamepad.html">
-                            gamepad
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/karemian.html">
-                            カレー麺
+                        <a href="http://blog.ca5.me/tag/webaudio.html">
+                            webaudio
                         </a>
                     </li>
                     <li class="list-group-item tag-4">
@@ -771,8 +770,23 @@ on
                         </a>
                     </li>
                     <li class="list-group-item tag-4">
-                        <a href="http://blog.ca5.me/tag/tun-kimuchi.html">
-                            豚キムチ
+                        <a href="http://blog.ca5.me/tag/komike.html">
+                            コミケ
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://blog.ca5.me/tag/tuan-zi.html">
+                            団子
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://blog.ca5.me/tag/bo.html">
+                            柏
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://blog.ca5.me/tag/yoyo.html">
+                            ヨーヨー
                         </a>
                     </li>
                 </ul>

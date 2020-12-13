@@ -1,5 +1,83 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>ca5blog</title><link href="http://blog.ca5.me/" rel="alternate"></link><link href="http://blog.ca5.me/feeds/all.atom.xml" rel="self"></link><id>http://blog.ca5.me/</id><updated>2020-08-16T19:00:00+09:00</updated><entry><title>NeoTrellisで遊ぶ</title><link href="http://blog.ca5.me/2020/08/16/neotrellis/" rel="alternate"></link><updated>2020-08-16T19:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2020-08-16:2020/08/16/neotrellis/</id><summary type="html">&lt;p&gt;my new gear... が増えたので&lt;br /&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>ca5blog</title><link href="http://blog.ca5.me/" rel="alternate"></link><link href="http://blog.ca5.me/feeds/all.atom.xml" rel="self"></link><id>http://blog.ca5.me/</id><updated>2020-12-13T23:30:00+09:00</updated><entry><title>Little GP Tracker ON Bittboy</title><link href="http://blog.ca5.me/2020/12/13/lgpt_piggy_on_bittboy/" rel="alternate"></link><updated>2020-12-13T23:30:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2020-12-13:2020/12/13/lgpt_piggy_on_bittboy/</id><summary type="html">&lt;p&gt;ブラックフライデーセールで &lt;a href="https://retromimi.com/collections/deals/products/new-bittboy"&gt;NEW Bittboy&lt;/a&gt;を買って&lt;br /&gt;
+&lt;a href="https://www.littlegptracker.com/index.php"&gt;Little GP Tracker (通称piggy tracker)&lt;/a&gt; を入れて作曲環境を整えるまでの記録です。&lt;/p&gt;
+&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="ja" dir="ltr"&gt;激安ポータブル作曲環境が仕上がってきた &lt;a href="https://t.co/NXxSSnWwKa"&gt;pic.twitter.com/NXxSSnWwKa&lt;/a&gt;&lt;/p&gt;&amp;mdash; かご (@Ca5) &lt;a href="https://twitter.com/Ca5/status/1335965195378647040?ref_src=twsrc%5Etfw"&gt;December 7, 2020&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;h2&gt;1. Little GP Tracker の導入&lt;/h2&gt;
+&lt;h3&gt;1-1. Dingux版バイナリ&lt;/h3&gt;
+&lt;p&gt;Bittboyは Dingux というディストリビューションのLinuxが動くようなんですが、&lt;br /&gt;
+いきなり[公式のDLページ])(https://www.littlegptracker.com/download.php)に無くて途方に暮れます。&lt;/p&gt;
+&lt;p&gt;有志の方がプルリクでBittboyのビルドに対応した修正を出してるんですが、  &lt;br /&gt;
+まだ現時点(2020/12/13)ではマージもされていないようです。&lt;br /&gt;
+修正した方がビルド版を公開してくれているので、&lt;br /&gt;
+このバイナリをそのまま使わせていただきます。  &lt;/p&gt;
+&lt;p&gt;下記のプルリクの下の方にある &lt;code&gt;gameblabla&lt;/code&gt; さんのコメント&lt;br /&gt;
+&lt;a href="https://github.com/Mdashdotdashn/LittleGPTracker/pull/10"&gt;https://github.com/Mdashdotdashn/LittleGPTracker/pull/10&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Here's a binary for the Bittboy/PocketGo :&lt;br /&gt;
+&lt;a href="https://github.com/Mdashdotdashn/LittleGPTracker/files/3428804/lgbt_binary_bittboy.zip"&gt;lgbt_binary_bittboy.zip&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3&gt;1-2. サンプルフォルダ&lt;/h3&gt;
+&lt;p&gt;また、バイナリだけだとサンプルも何もなくてちょっと困るので、
+&lt;a href="https://www.littlegptracker.com/download.php"&gt;公式のDLページ&lt;/a&gt; から windows版でもOSX版でもいいのでDLしておいて&lt;br /&gt;
+その中にこのバイナリを置いて使います。&lt;/p&gt;
+&lt;h3&gt;1-3. キーマッピング&lt;/h3&gt;
+&lt;p&gt;Bittboyは他のDinguxが乗る筐体と違ってボタンが少なく、&lt;br /&gt;
+いろんな操作が犠牲になってしまっていてそのままでは実は&lt;br /&gt;
+メニュー移動すらできずアプリの終了もままならない状態です。&lt;/p&gt;
+&lt;p&gt;僕が勝手に頑張って作った下記のmapping.xmlをバイナリと同じ階層に置きます&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;mapping.xml&lt;/strong&gt;&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="nt"&gt;&amp;lt;MAPPINGS&amp;gt;&lt;/span&gt;
+&lt;span class="nt"&gt;&amp;lt;MAP&lt;/span&gt; &lt;span class="na"&gt;src=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;key:0:up&amp;quot;&lt;/span&gt; &lt;span class="na"&gt;dst=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;/event/up&amp;quot;&lt;/span&gt; &lt;span class="nt"&gt;/&amp;gt;&lt;/span&gt;
+&lt;span class="nt"&gt;&amp;lt;MAP&lt;/span&gt; &lt;span class="na"&gt;src=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;key:0:down&amp;quot;&lt;/span&gt; &lt;span class="na"&gt;dst=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;/event/down&amp;quot;&lt;/span&gt; &lt;span class="nt"&gt;/&amp;gt;&lt;/span&gt;
+&lt;span class="nt"&gt;&amp;lt;MAP&lt;/span&gt; &lt;span class="na"&gt;src=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;key:0:left&amp;quot;&lt;/span&gt; &lt;span class="na"&gt;dst=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;/event/left&amp;quot;&lt;/span&gt; &lt;span class="nt"&gt;/&amp;gt;&lt;/span&gt;
+&lt;span class="nt"&gt;&amp;lt;MAP&lt;/span&gt; &lt;span class="na"&gt;src=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;key:0:right&amp;quot;&lt;/span&gt; &lt;span class="na"&gt;dst=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;/event/right&amp;quot;&lt;/span&gt; &lt;span class="nt"&gt;/&amp;gt;&lt;/span&gt;
+&lt;span class="nt"&gt;&amp;lt;MAP&lt;/span&gt; &lt;span class="na"&gt;src=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;key:0:left ctrl&amp;quot;&lt;/span&gt; &lt;span class="na"&gt;dst=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;/event/a&amp;quot;&lt;/span&gt; &lt;span class="nt"&gt;/&amp;gt;&lt;/span&gt;
+&lt;span class="nt"&gt;&amp;lt;MAP&lt;/span&gt; &lt;span class="na"&gt;src=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;key:0:space&amp;quot;&lt;/span&gt; &lt;span class="na"&gt;dst=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;/event/b&amp;quot;&lt;/span&gt; &lt;span class="nt"&gt;/&amp;gt;&lt;/span&gt;
+&lt;span class="nt"&gt;&amp;lt;MAP&lt;/span&gt; &lt;span class="na"&gt;src=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;key:0:right alt&amp;quot;&lt;/span&gt; &lt;span class="na"&gt;dst=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;/event/rshoulder&amp;quot;&lt;/span&gt; &lt;span class="nt"&gt;/&amp;gt;&lt;/span&gt;
+&lt;span class="nt"&gt;&amp;lt;MAP&lt;/span&gt; &lt;span class="na"&gt;src=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;key:0:left alt&amp;quot;&lt;/span&gt; &lt;span class="na"&gt;dst=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;/event/rshoulder&amp;quot;&lt;/span&gt; &lt;span class="nt"&gt;/&amp;gt;&lt;/span&gt;
+&lt;span class="nt"&gt;&amp;lt;MAP&lt;/span&gt; &lt;span class="na"&gt;src=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;key:0:escape&amp;quot;&lt;/span&gt; &lt;span class="na"&gt;dst=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;/event/rshoulder&amp;quot;&lt;/span&gt; &lt;span class="nt"&gt;/&amp;gt;&lt;/span&gt;
+&lt;span class="nt"&gt;&amp;lt;MAP&lt;/span&gt; &lt;span class="na"&gt;src=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;key:0:left shift&amp;quot;&lt;/span&gt; &lt;span class="na"&gt;dst=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;/event/lshoulder&amp;quot;&lt;/span&gt; &lt;span class="nt"&gt;/&amp;gt;&lt;/span&gt;
+&lt;span class="nt"&gt;&amp;lt;MAP&lt;/span&gt; &lt;span class="na"&gt;src=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;key:0:return&amp;quot;&lt;/span&gt; &lt;span class="na"&gt;dst=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;/event/start&amp;quot;&lt;/span&gt; &lt;span class="nt"&gt;/&amp;gt;&lt;/span&gt;
+&lt;span class="nt"&gt;&amp;lt;/MAPPINGS&amp;gt;&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;これを使うと、&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;LボタンがBittboyのTボタン右&lt;/li&gt;
+&lt;li&gt;RボタンがBittboyのTボタン左&lt;/li&gt;
+&lt;li&gt;十字キー, start, A, B は刻印通り&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;に基本なるんですが、&lt;br /&gt;
+メニュー移動(R+十字キー)だけはselectボタンになります。&lt;/p&gt;
+&lt;p&gt;本当は全部Rボタンの操作をselectボタンに寄せればLSDjと操作が一緒になるんですが、&lt;br /&gt;
+Bittboyはselect+A(orB) がシステムの音量調整に割り当てられているのでうまくいきません。&lt;/p&gt;
+&lt;p&gt;いっそpiggyにならって全部T左ボタンに寄せようとも思ったんですが、それだと何故かメニュー移動ができなくなったりして結局これに落ち着いてます。&lt;/p&gt;
+&lt;h3&gt;1-4. 最終的なパス構成&lt;/h3&gt;
+&lt;p&gt;Bittboy用のSDカードのmainボリュームの中で、&lt;br /&gt;
+こういうパス構成で置ければOKです&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;lgpt/
+├── mapping.xml
+├── lgpt.elf
+├── lgpt10k
+├── lgptNew
+└── samplelib
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;h1&gt;2. PWMノイズ対策&lt;/h1&gt;
+&lt;p&gt;起動中ちょっとイヤホンジャックでノイズを拾っちゃうんですが、 &lt;br /&gt;
+特に画面のバックライトを落とすと顕著に現れます。&lt;/p&gt;
+&lt;p&gt;下記の記事を見ると、bittboyの別なバージョン(pocket go)では バックライトのPWMが1000Hz設定されているようで、これを17000くらいにすると聞こえにくくなるとのことでした
+https://byteporter.com/pocket-go-pwm-script-install/&lt;/p&gt;
+&lt;p&gt;NEW bittboyで試すとこれも同じくうまくいったので合わせて行うといいと思います。&lt;br /&gt;
+ただしノイズが無くなるというよりは、高周波になって聞こえにくくなるだけってことですね。&lt;/p&gt;
+&lt;h1&gt;その他&lt;/h1&gt;
+&lt;p&gt;付属のsamplelibで [Osc] のサンプル(例えばsinus.wav) とかを&lt;br /&gt;
+&lt;code&gt;loop mode: osc&lt;/code&gt; で 高めの音出すとすぐ音程狂う気がするんですが。。&lt;br /&gt;
+これってlgpt全体の問題なんですかね?&lt;/p&gt;</summary><category term="chiptune"></category></entry><entry><title>NeoTrellisで遊ぶ</title><link href="http://blog.ca5.me/2020/08/16/neotrellis/" rel="alternate"></link><updated>2020-08-16T19:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2020-08-16:2020/08/16/neotrellis/</id><summary type="html">&lt;p&gt;my new gear... が増えたので&lt;br /&gt;
 備忘録的に久々にブログにまとめました&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://www.adafruit.com/product/3938"&gt;https://www.adafruit.com/product/3938&lt;/a&gt;&lt;br /&gt;
 最近教えてもらった NeoTrellis が結構いけてそうだったので衝動買いしてしまいました。&lt;br /&gt;
@@ -62,7 +140,19 @@ Arduinoを開いて
 &lt;p&gt;で一応音がちゃんと出るんですが、&lt;br /&gt;
 ボタンが光らないんですよね。。。&lt;br /&gt;
 これは NeopixelっていうLEDリボンを外付けしたときに光らせるものだったのかな。。互換性があるのかと思ったが。。  &lt;/p&gt;
-&lt;p&gt;もうちょっと色々いじってみます。&lt;/p&gt;</summary><category term="chiptune"></category><category term="chipbreak"></category></entry><entry><title>【LIVE】2019/7,8,9月のライブ予定</title><link href="http://blog.ca5.me/2019/07/20/2019_summer_live/" rel="alternate"></link><updated>2019-07-20T23:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2019-07-20:2019/07/20/2019_summer_live/</id><summary type="html">&lt;p&gt;夏のライブ出演情報が出揃いましたので告知します!&lt;/p&gt;
+&lt;p&gt;もうちょっと色々いじってみます。&lt;/p&gt;</summary><category term="chiptune"></category><category term="chipbreak"></category></entry><entry><title>NeoTrellisで遊ぶ 続き</title><link href="http://blog.ca5.me/2020/08/16/neotrellis2/" rel="alternate"></link><updated>2020-08-16T19:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2020-08-16:2020/08/16/neotrellis2/</id><summary type="html">&lt;p&gt;前回の続き
+今度は CircuitPython の環境を整えて、&lt;br /&gt;
+pythonでサンプルコードを書いたり動かしたりします。&lt;/p&gt;
+&lt;h2&gt;めちゃくちゃいいまとめサイトがあった&lt;/h2&gt;
+&lt;p&gt;なんかもう全部まとまってます。&lt;br /&gt;
+困ったらここ見ればOK&lt;br /&gt;
+https://www.devdungeon.com/content/neotrellis-m4-circuitpy-tutorial-adabox-010&lt;/p&gt;
+&lt;h2&gt;CircuitPython のインストール&lt;/h2&gt;
+&lt;p&gt;https://www.devdungeon.com/content/neotrellis-m4-circuitpy-tutorial-adabox-010#toc-19&lt;/p&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p&gt;screen /dev/tty.usbmodem14401  115200&lt;/p&gt;
+&lt;h2&gt;4.x最後&lt;/h2&gt;
+&lt;p&gt;https://github.com/adafruit/Adafruit_CircuitPython_Bundle/releases/tag/20200707&lt;/p&gt;</summary><category term="chiptune"></category><category term="chipbreak"></category></entry><entry><title>【LIVE】2019/7,8,9月のライブ予定</title><link href="http://blog.ca5.me/2019/07/20/2019_summer_live/" rel="alternate"></link><updated>2019-07-20T23:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2019-07-20:2019/07/20/2019_summer_live/</id><summary type="html">&lt;p&gt;夏のライブ出演情報が出揃いましたので告知します!&lt;/p&gt;
 &lt;h2&gt;2019/7/27 Technique Vol.102 (ふぷほ出演)&lt;/h2&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;Technique Vol. 102  
 2019/7/27(sat)@BE-WAVE 18:00-23:00 2000yen/1D 

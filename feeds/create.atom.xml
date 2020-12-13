@@ -1,5 +1,83 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>ca5blog</title><link href="http://blog.ca5.me/" rel="alternate"></link><link href="http://blog.ca5.me/feeds/create.atom.xml" rel="self"></link><id>http://blog.ca5.me/</id><updated>2018-10-26T00:00:00+09:00</updated><entry><title>TOKYO BLOCKS ハッカソンで入賞しました! #tbh2018</title><link href="http://blog.ca5.me/2018/10/26/tbh2018/" rel="alternate"></link><updated>2018-10-26T00:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2018-10-26:2018/10/26/tbh2018/</id><summary type="html">&lt;p&gt;2018/10/20, 21と2日間に渡って行われた&lt;br /&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>ca5blog</title><link href="http://blog.ca5.me/" rel="alternate"></link><link href="http://blog.ca5.me/feeds/create.atom.xml" rel="self"></link><id>http://blog.ca5.me/</id><updated>2020-12-13T23:30:00+09:00</updated><entry><title>Little GP Tracker ON Bittboy</title><link href="http://blog.ca5.me/2020/12/13/lgpt_piggy_on_bittboy/" rel="alternate"></link><updated>2020-12-13T23:30:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2020-12-13:2020/12/13/lgpt_piggy_on_bittboy/</id><summary type="html">&lt;p&gt;ブラックフライデーセールで &lt;a href="https://retromimi.com/collections/deals/products/new-bittboy"&gt;NEW Bittboy&lt;/a&gt;を買って&lt;br /&gt;
+&lt;a href="https://www.littlegptracker.com/index.php"&gt;Little GP Tracker (通称piggy tracker)&lt;/a&gt; を入れて作曲環境を整えるまでの記録です。&lt;/p&gt;
+&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="ja" dir="ltr"&gt;激安ポータブル作曲環境が仕上がってきた &lt;a href="https://t.co/NXxSSnWwKa"&gt;pic.twitter.com/NXxSSnWwKa&lt;/a&gt;&lt;/p&gt;&amp;mdash; かご (@Ca5) &lt;a href="https://twitter.com/Ca5/status/1335965195378647040?ref_src=twsrc%5Etfw"&gt;December 7, 2020&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;h2&gt;1. Little GP Tracker の導入&lt;/h2&gt;
+&lt;h3&gt;1-1. Dingux版バイナリ&lt;/h3&gt;
+&lt;p&gt;Bittboyは Dingux というディストリビューションのLinuxが動くようなんですが、&lt;br /&gt;
+いきなり[公式のDLページ])(https://www.littlegptracker.com/download.php)に無くて途方に暮れます。&lt;/p&gt;
+&lt;p&gt;有志の方がプルリクでBittboyのビルドに対応した修正を出してるんですが、  &lt;br /&gt;
+まだ現時点(2020/12/13)ではマージもされていないようです。&lt;br /&gt;
+修正した方がビルド版を公開してくれているので、&lt;br /&gt;
+このバイナリをそのまま使わせていただきます。  &lt;/p&gt;
+&lt;p&gt;下記のプルリクの下の方にある &lt;code&gt;gameblabla&lt;/code&gt; さんのコメント&lt;br /&gt;
+&lt;a href="https://github.com/Mdashdotdashn/LittleGPTracker/pull/10"&gt;https://github.com/Mdashdotdashn/LittleGPTracker/pull/10&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Here's a binary for the Bittboy/PocketGo :&lt;br /&gt;
+&lt;a href="https://github.com/Mdashdotdashn/LittleGPTracker/files/3428804/lgbt_binary_bittboy.zip"&gt;lgbt_binary_bittboy.zip&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3&gt;1-2. サンプルフォルダ&lt;/h3&gt;
+&lt;p&gt;また、バイナリだけだとサンプルも何もなくてちょっと困るので、
+&lt;a href="https://www.littlegptracker.com/download.php"&gt;公式のDLページ&lt;/a&gt; から windows版でもOSX版でもいいのでDLしておいて&lt;br /&gt;
+その中にこのバイナリを置いて使います。&lt;/p&gt;
+&lt;h3&gt;1-3. キーマッピング&lt;/h3&gt;
+&lt;p&gt;Bittboyは他のDinguxが乗る筐体と違ってボタンが少なく、&lt;br /&gt;
+いろんな操作が犠牲になってしまっていてそのままでは実は&lt;br /&gt;
+メニュー移動すらできずアプリの終了もままならない状態です。&lt;/p&gt;
+&lt;p&gt;僕が勝手に頑張って作った下記のmapping.xmlをバイナリと同じ階層に置きます&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;mapping.xml&lt;/strong&gt;&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="nt"&gt;&amp;lt;MAPPINGS&amp;gt;&lt;/span&gt;
+&lt;span class="nt"&gt;&amp;lt;MAP&lt;/span&gt; &lt;span class="na"&gt;src=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;key:0:up&amp;quot;&lt;/span&gt; &lt;span class="na"&gt;dst=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;/event/up&amp;quot;&lt;/span&gt; &lt;span class="nt"&gt;/&amp;gt;&lt;/span&gt;
+&lt;span class="nt"&gt;&amp;lt;MAP&lt;/span&gt; &lt;span class="na"&gt;src=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;key:0:down&amp;quot;&lt;/span&gt; &lt;span class="na"&gt;dst=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;/event/down&amp;quot;&lt;/span&gt; &lt;span class="nt"&gt;/&amp;gt;&lt;/span&gt;
+&lt;span class="nt"&gt;&amp;lt;MAP&lt;/span&gt; &lt;span class="na"&gt;src=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;key:0:left&amp;quot;&lt;/span&gt; &lt;span class="na"&gt;dst=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;/event/left&amp;quot;&lt;/span&gt; &lt;span class="nt"&gt;/&amp;gt;&lt;/span&gt;
+&lt;span class="nt"&gt;&amp;lt;MAP&lt;/span&gt; &lt;span class="na"&gt;src=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;key:0:right&amp;quot;&lt;/span&gt; &lt;span class="na"&gt;dst=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;/event/right&amp;quot;&lt;/span&gt; &lt;span class="nt"&gt;/&amp;gt;&lt;/span&gt;
+&lt;span class="nt"&gt;&amp;lt;MAP&lt;/span&gt; &lt;span class="na"&gt;src=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;key:0:left ctrl&amp;quot;&lt;/span&gt; &lt;span class="na"&gt;dst=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;/event/a&amp;quot;&lt;/span&gt; &lt;span class="nt"&gt;/&amp;gt;&lt;/span&gt;
+&lt;span class="nt"&gt;&amp;lt;MAP&lt;/span&gt; &lt;span class="na"&gt;src=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;key:0:space&amp;quot;&lt;/span&gt; &lt;span class="na"&gt;dst=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;/event/b&amp;quot;&lt;/span&gt; &lt;span class="nt"&gt;/&amp;gt;&lt;/span&gt;
+&lt;span class="nt"&gt;&amp;lt;MAP&lt;/span&gt; &lt;span class="na"&gt;src=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;key:0:right alt&amp;quot;&lt;/span&gt; &lt;span class="na"&gt;dst=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;/event/rshoulder&amp;quot;&lt;/span&gt; &lt;span class="nt"&gt;/&amp;gt;&lt;/span&gt;
+&lt;span class="nt"&gt;&amp;lt;MAP&lt;/span&gt; &lt;span class="na"&gt;src=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;key:0:left alt&amp;quot;&lt;/span&gt; &lt;span class="na"&gt;dst=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;/event/rshoulder&amp;quot;&lt;/span&gt; &lt;span class="nt"&gt;/&amp;gt;&lt;/span&gt;
+&lt;span class="nt"&gt;&amp;lt;MAP&lt;/span&gt; &lt;span class="na"&gt;src=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;key:0:escape&amp;quot;&lt;/span&gt; &lt;span class="na"&gt;dst=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;/event/rshoulder&amp;quot;&lt;/span&gt; &lt;span class="nt"&gt;/&amp;gt;&lt;/span&gt;
+&lt;span class="nt"&gt;&amp;lt;MAP&lt;/span&gt; &lt;span class="na"&gt;src=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;key:0:left shift&amp;quot;&lt;/span&gt; &lt;span class="na"&gt;dst=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;/event/lshoulder&amp;quot;&lt;/span&gt; &lt;span class="nt"&gt;/&amp;gt;&lt;/span&gt;
+&lt;span class="nt"&gt;&amp;lt;MAP&lt;/span&gt; &lt;span class="na"&gt;src=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;key:0:return&amp;quot;&lt;/span&gt; &lt;span class="na"&gt;dst=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;/event/start&amp;quot;&lt;/span&gt; &lt;span class="nt"&gt;/&amp;gt;&lt;/span&gt;
+&lt;span class="nt"&gt;&amp;lt;/MAPPINGS&amp;gt;&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;これを使うと、&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;LボタンがBittboyのTボタン右&lt;/li&gt;
+&lt;li&gt;RボタンがBittboyのTボタン左&lt;/li&gt;
+&lt;li&gt;十字キー, start, A, B は刻印通り&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;に基本なるんですが、&lt;br /&gt;
+メニュー移動(R+十字キー)だけはselectボタンになります。&lt;/p&gt;
+&lt;p&gt;本当は全部Rボタンの操作をselectボタンに寄せればLSDjと操作が一緒になるんですが、&lt;br /&gt;
+Bittboyはselect+A(orB) がシステムの音量調整に割り当てられているのでうまくいきません。&lt;/p&gt;
+&lt;p&gt;いっそpiggyにならって全部T左ボタンに寄せようとも思ったんですが、それだと何故かメニュー移動ができなくなったりして結局これに落ち着いてます。&lt;/p&gt;
+&lt;h3&gt;1-4. 最終的なパス構成&lt;/h3&gt;
+&lt;p&gt;Bittboy用のSDカードのmainボリュームの中で、&lt;br /&gt;
+こういうパス構成で置ければOKです&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;lgpt/
+├── mapping.xml
+├── lgpt.elf
+├── lgpt10k
+├── lgptNew
+└── samplelib
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;h1&gt;2. PWMノイズ対策&lt;/h1&gt;
+&lt;p&gt;起動中ちょっとイヤホンジャックでノイズを拾っちゃうんですが、 &lt;br /&gt;
+特に画面のバックライトを落とすと顕著に現れます。&lt;/p&gt;
+&lt;p&gt;下記の記事を見ると、bittboyの別なバージョン(pocket go)では バックライトのPWMが1000Hz設定されているようで、これを17000くらいにすると聞こえにくくなるとのことでした
+https://byteporter.com/pocket-go-pwm-script-install/&lt;/p&gt;
+&lt;p&gt;NEW bittboyで試すとこれも同じくうまくいったので合わせて行うといいと思います。&lt;br /&gt;
+ただしノイズが無くなるというよりは、高周波になって聞こえにくくなるだけってことですね。&lt;/p&gt;
+&lt;h1&gt;その他&lt;/h1&gt;
+&lt;p&gt;付属のsamplelibで [Osc] のサンプル(例えばsinus.wav) とかを&lt;br /&gt;
+&lt;code&gt;loop mode: osc&lt;/code&gt; で 高めの音出すとすぐ音程狂う気がするんですが。。&lt;br /&gt;
+これってlgpt全体の問題なんですかね?&lt;/p&gt;</summary><category term="chiptune"></category></entry><entry><title>TOKYO BLOCKS ハッカソンで入賞しました! #tbh2018</title><link href="http://blog.ca5.me/2018/10/26/tbh2018/" rel="alternate"></link><updated>2018-10-26T00:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2018-10-26:2018/10/26/tbh2018/</id><summary type="html">&lt;p&gt;2018/10/20, 21と2日間に渡って行われた&lt;br /&gt;
 TOKYO BLOCKS HACKATHON 2018 で3位に入賞しました！&lt;br /&gt;
 去年も参加してるのでどういうイベントか・・・という話は割愛&lt;br /&gt;
 参考: &lt;a href="http://blog.ca5.me/2017/10/11/tbh2017/"&gt;TOKYO BLOCKS ハッカソンで入賞しました! #tbh2017&lt;/a&gt;&lt;/p&gt;

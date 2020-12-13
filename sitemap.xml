@@ -5,34 +5,48 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://blog.ca5.me/</loc>
-<lastmod>2020-08-17T09:12:46-00:00</lastmod>
+<lastmod>2020-12-14T00:42:05-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://blog.ca5.me/archives.html</loc>
-<lastmod>2020-08-17T09:12:46-00:00</lastmod>
+<lastmod>2020-12-14T00:42:05-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://blog.ca5.me/tags.html</loc>
-<lastmod>2020-08-17T09:12:46-00:00</lastmod>
+<lastmod>2020-12-14T00:42:05-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://blog.ca5.me/categories.html</loc>
-<lastmod>2020-08-17T09:12:46-00:00</lastmod>
+<lastmod>2020-12-14T00:42:05-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
+<loc>http://blog.ca5.me/2020/12/13/lgpt_piggy_on_bittboy/</loc>
+<lastmod>2020-12-13T23:30:00+09:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://blog.ca5.me/2020/08/16/neotrellis/</loc>
+<lastmod>2020-08-16T19:00:00+09:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://blog.ca5.me/2020/08/16/neotrellis2/</loc>
 <lastmod>2020-08-16T19:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
@@ -2735,7 +2749,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://blog.ca5.me/category/create.html</loc>
-<lastmod>2018-10-26T00:00:00+09:00</lastmod>
+<lastmod>2020-12-13T23:30:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -3260,7 +3274,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://blog.ca5.me/tag/chiptune.html</loc>
-<lastmod>2020-08-16T19:00:00+09:00</lastmod>
+<lastmod>2020-12-13T23:30:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -3715,7 +3729,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://blog.ca5.me/author/ca5.html</loc>
-<lastmod>2020-08-16T19:00:00+09:00</lastmod>
+<lastmod>2020-12-13T23:30:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
