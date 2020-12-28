@@ -23,7 +23,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Ca5', 'http://ca5.me'),
+LINKS = (('Ca5', 'https://ca5.me'),
          ('Discography', 'http://ca5.me/discography'))
 
 # Social widget
