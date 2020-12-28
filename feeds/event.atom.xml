@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>ca5blog</title><link href="http://blog.ca5.me/" rel="alternate"></link><link href="http://blog.ca5.me/feeds/event.atom.xml" rel="self"></link><id>http://blog.ca5.me/</id><updated>2019-02-13T22:00:00+09:00</updated><entry><title>Pico Pico Panic! Vol.3のライブ映像と解説</title><link href="http://blog.ca5.me/2019/02/13/2P_PPP/" rel="alternate"></link><updated>2019-02-13T22:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2019-02-13:2019/02/13/2P_PPP/</id><summary type="html">&lt;p&gt;すっかり告知忘れてしまっていましたが、&lt;br /&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>ca5blog</title><link href="https://blog.ca5.me/" rel="alternate"></link><link href="https://blog.ca5.me/feeds/event.atom.xml" rel="self"></link><id>https://blog.ca5.me/</id><updated>2019-02-13T22:00:00+09:00</updated><entry><title>Pico Pico Panic! Vol.3のライブ映像と解説</title><link href="https://blog.ca5.me/2019/02/13/2P_PPP/" rel="alternate"></link><updated>2019-02-13T22:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2019-02-13:2019/02/13/2P_PPP/</id><summary type="html">&lt;p&gt;すっかり告知忘れてしまっていましたが、&lt;br /&gt;
 2/5(火)にチップチューンイベント 『Pico Pico Panic! Vol.3』に出演しました。&lt;br /&gt;
 その時のライブ映像を撮っていただいていたので公開します。  &lt;/p&gt;
 &lt;p&gt;撮影: 2Pcolorさん&lt;/p&gt;
@@ -8,7 +8,7 @@
 &lt;p&gt;よく、ライブで何やってるかわからないと言われるので、&lt;br /&gt;
 上の映像で自分が何をやっているか軽く解説します。&lt;/p&gt;
 &lt;h2&gt;構成図&lt;/h2&gt;
-&lt;p&gt;&lt;img alt="2p_ppp_3_system" src="http://blog.ca5.me/images/20190214/system.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="2p_ppp_3_system" src="https://blog.ca5.me/images/20190214/system.png" /&gt;&lt;/p&gt;
 &lt;h2&gt;GameBoyでの演奏&lt;/h2&gt;
 &lt;p&gt;冒頭の曲と3曲目はGameBoyAdvanceでLSDjで組んだ曲を流しています。&lt;br /&gt;
 GameBoyのoutputがMacBookに一旦入っているので、&lt;br /&gt;
@@ -21,12 +21,12 @@ Max4Liveで作ったプラグインで、&lt;br /&gt;
 &lt;p&gt;最後の曲だけOP-Zで作った曲をそのまま流しています。&lt;br /&gt;
 GameBoy同様一旦MacBookにアウトプットを通しているので&lt;br /&gt;
 ここでもエフェクトをかけたりすることができてます。
-&lt;/p&gt;</summary><category term="chiptune"></category><category term="chipbreak"></category><category term="mashup"></category></entry><entry><title>【LIVE】 9/23 SSKN Sessions@札幌 #SSKNSessions</title><link href="http://blog.ca5.me/2018/09/23/ssknsessions/" rel="alternate"></link><updated>2018-09-23T21:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2018-09-23:2018/09/23/ssknsessions/</id><summary type="html">&lt;p&gt;まだ地震の影響もある中、少し心苦しいですがライブの告知をさせてください。&lt;br /&gt;
+&lt;/p&gt;</summary><category term="chiptune"></category><category term="chipbreak"></category><category term="mashup"></category></entry><entry><title>【LIVE】 9/23 SSKN Sessions@札幌 #SSKNSessions</title><link href="https://blog.ca5.me/2018/09/23/ssknsessions/" rel="alternate"></link><updated>2018-09-23T21:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2018-09-23:2018/09/23/ssknsessions/</id><summary type="html">&lt;p&gt;まだ地震の影響もある中、少し心苦しいですがライブの告知をさせてください。&lt;br /&gt;
 9/23に札幌でライブします！&lt;/p&gt;
 &lt;p&gt;詳細: SSKN Sessions&lt;br /&gt;
-&lt;img alt="フライヤー" src="http://blog.ca5.me/images/20180910/ssknsessions.jpg" /&gt;&lt;/p&gt;
+&lt;img alt="フライヤー" src="https://blog.ca5.me/images/20180910/ssknsessions.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;チップチューンからブレイクコアまで&lt;br /&gt;
-ごちゃまぜなフルセットで挑もうと思ってます！来てね！&lt;/p&gt;</summary><category term="live"></category></entry><entry><title>【Live】8/4 Akiparty, 8/5 THE DAY OF HARDCORE #AkiParty #TDOH2018</title><link href="http://blog.ca5.me/2018/07/19/201808/" rel="alternate"></link><updated>2018-07-19T22:30:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2018-07-19:2018/07/19/201808/</id><summary type="html">&lt;p&gt;&lt;/p&gt;
+ごちゃまぜなフルセットで挑もうと思ってます！来てね！&lt;/p&gt;</summary><category term="live"></category></entry><entry><title>【Live】8/4 Akiparty, 8/5 THE DAY OF HARDCORE #AkiParty #TDOH2018</title><link href="https://blog.ca5.me/2018/07/19/201808/" rel="alternate"></link><updated>2018-07-19T22:30:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2018-07-19:2018/07/19/201808/</id><summary type="html">&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;8/4, 8/5 と2日連続で別々なイベントに出演します！！&lt;/p&gt;
 &lt;h2&gt;8/4 AkiParty Tokyo 2018&lt;/h2&gt;
 &lt;p&gt;今年も呼んでいただけました、Maker + 音楽なイベント、AkiParty！&lt;/p&gt;
@@ -53,13 +53,13 @@ GameBoy同様一旦MacBookにアウトプットを通しているので&lt;br /
 &lt;a href="http://corekrave.otherman-records.com/TDOH2018/"&gt;&lt;img alt="tdoh" src="http://corekrave.otherman-records.com/TDOH2018/TDOH.jpg" /&gt;&lt;/a&gt;
 &lt;a href="http://corekrave.otherman-records.com/TDOH2018/"&gt;http://corekrave.otherman-records.com/TDOH2018/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;参加曲: BWV539(Ca5 remix)
-&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/281985797&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"&gt;&lt;/iframe&gt;&lt;/p&gt;</summary><category term="live"></category></entry><entry><title>【Live】Technique Vol.89 に出演します!</title><link href="http://blog.ca5.me/2018/06/05/technique89/" rel="alternate"></link><updated>2018-06-05T00:30:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2018-06-05:2018/06/05/technique89/</id><summary type="html">&lt;p&gt;またライブします
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/281985797&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"&gt;&lt;/iframe&gt;&lt;/p&gt;</summary><category term="live"></category></entry><entry><title>【Live】Technique Vol.89 に出演します!</title><link href="https://blog.ca5.me/2018/06/05/technique89/" rel="alternate"></link><updated>2018-06-05T00:30:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2018-06-05:2018/06/05/technique89/</id><summary type="html">&lt;p&gt;またライブします
 &lt;/p&gt;
 &lt;p&gt;詳細:&lt;br /&gt;
 &lt;a href="https://technique-2nd-sat.tumblr.com/post/174389139562/technique-vol89"&gt;https://technique-2nd-sat.tumblr.com/post/174389139562/technique-vol89&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img alt=" " src="https://78.media.tumblr.com/c122dbffffcb292fc8654e2226b09055/tumblr_inline_p9mlvj1xG81r204jr_1280.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;今回は4月にやらなかったような速いアーメンの曲もりもりで行こうと思います&lt;br /&gt;
-是非気になった方見に来てください〜&lt;/p&gt;</summary><category term="live"></category></entry><entry><title>【Live】Technique Vol.87 に出演します!</title><link href="http://blog.ca5.me/2018/04/13/technique87/" rel="alternate"></link><updated>2018-04-13T00:30:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2018-04-13:2018/04/13/technique87/</id><summary type="html">&lt;p&gt;久々にライブします
+是非気になった方見に来てください〜&lt;/p&gt;</summary><category term="live"></category></entry><entry><title>【Live】Technique Vol.87 に出演します!</title><link href="https://blog.ca5.me/2018/04/13/technique87/" rel="alternate"></link><updated>2018-04-13T00:30:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2018-04-13:2018/04/13/technique87/</id><summary type="html">&lt;p&gt;久々にライブします
 &lt;/p&gt;
 &lt;p&gt;詳細:&lt;br /&gt;
 &lt;a href="https://technique-2nd-sat.tumblr.com/"&gt;https://technique-2nd-sat.tumblr.com/&lt;/a&gt;&lt;/p&gt;
@@ -67,7 +67,7 @@ GameBoy同様一旦MacBookにアウトプットを通しているので&lt;br /
 &lt;p&gt;今回はGBも速いアーメンも使わない感じにしようと思ってます&lt;br /&gt;
 是非気になった方見に来てください〜&lt;/p&gt;
 &lt;p&gt;サンプル:&lt;br /&gt;
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/UtPN74eElZM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</summary><category term="live"></category></entry><entry><title>【Live】[8/5]Akiparty Tokyo/[8/6]THE DAY OF HARDCOREに出演します! #Akiparty #TDOH2017</title><link href="http://blog.ca5.me/2017/07/28/akiparty_tdoh/" rel="alternate"></link><updated>2017-07-28T01:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2017-07-28:2017/07/28/akiparty_tdoh/</id><summary type="html">&lt;p&gt;タイトルがクッソ長くなってしまいましたが、&lt;br /&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/UtPN74eElZM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</summary><category term="live"></category></entry><entry><title>【Live】[8/5]Akiparty Tokyo/[8/6]THE DAY OF HARDCOREに出演します! #Akiparty #TDOH2017</title><link href="https://blog.ca5.me/2017/07/28/akiparty_tdoh/" rel="alternate"></link><updated>2017-07-28T01:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2017-07-28:2017/07/28/akiparty_tdoh/</id><summary type="html">&lt;p&gt;タイトルがクッソ長くなってしまいましたが、&lt;br /&gt;
 8/4, 8/5と2日連続でライブ出演がございます！&lt;/p&gt;
 &lt;h2&gt;8/5 Akiparty Tokyo 2017&lt;/h2&gt;
 &lt;p&gt;&lt;a href="http://club-mogra.jp/2017/08/05/3231/"&gt;(mogra) AKIPARTY TOKYO 2017&lt;/a&gt;&lt;/p&gt;
@@ -150,7 +150,7 @@ extremeOBSN(anybody universe)&lt;br /&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;こちらは初出演&lt;br /&gt;
 こんなに豪華なメンバーで、入場フリーです！&lt;br /&gt;
-是非お越しください〜&lt;/p&gt;</summary><category term="live"></category><category term="chipbreak"></category></entry><entry><title>【Live】NEXTDAYBREAKに出演します!</title><link href="http://blog.ca5.me/2017/04/18/nextdaybreak/" rel="alternate"></link><updated>2017-04-18T01:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2017-04-18:2017/04/18/nextdaybreak/</id><summary type="html">&lt;p&gt;5/3 に大阪のイベント NEXTDAYBREAKに出演することになりました！&lt;/p&gt;
+是非お越しください〜&lt;/p&gt;</summary><category term="live"></category><category term="chipbreak"></category></entry><entry><title>【Live】NEXTDAYBREAKに出演します!</title><link href="https://blog.ca5.me/2017/04/18/nextdaybreak/" rel="alternate"></link><updated>2017-04-18T01:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2017-04-18:2017/04/18/nextdaybreak/</id><summary type="html">&lt;p&gt;5/3 に大阪のイベント NEXTDAYBREAKに出演することになりました！&lt;/p&gt;
 &lt;p&gt;&lt;a href="http://twipla.jp/events/253476"&gt;(twipla) #NEXTDAYBREAK&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;////////// パーティ情報 ///////////  &lt;/p&gt;
@@ -179,7 +179,7 @@ demoso (全滅 / v.o.c / AMENLIFE)  &lt;/p&gt;
 本家ななかまどや  &lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;ブレイクコアメインなイベントなので、&lt;br /&gt;
-久々にチップブレイクセットで行きます！来てね！&lt;/p&gt;</summary><category term="live"></category><category term="chipbreak"></category></entry><entry><title>【Live】Technique Vol.75に出演します!</title><link href="http://blog.ca5.me/2017/04/05/technique-75/" rel="alternate"></link><updated>2017-04-05T01:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2017-04-05:2017/04/05/technique-75/</id><summary type="html">&lt;p&gt;実はまだ2017年にはいってから初投稿・・・&lt;br /&gt;
+久々にチップブレイクセットで行きます！来てね！&lt;/p&gt;</summary><category term="live"></category><category term="chipbreak"></category></entry><entry><title>【Live】Technique Vol.75に出演します!</title><link href="https://blog.ca5.me/2017/04/05/technique-75/" rel="alternate"></link><updated>2017-04-05T01:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2017-04-05:2017/04/05/technique-75/</id><summary type="html">&lt;p&gt;実はまだ2017年にはいってから初投稿・・・&lt;br /&gt;
 ちゃんと生きてます。ライブします  &lt;/p&gt;
 &lt;p&gt;https://technique-2nd-sat.tumblr.com/post/159066332757/technique-vol75  &lt;/p&gt;
 &lt;p&gt;以下&lt;a href="https://technique-2nd-sat.tumblr.com/post/159066332757/technique-vol75"&gt;公式サイト&lt;/a&gt;より抜粋:&lt;br /&gt;
@@ -200,20 +200,20 @@ demoso (全滅 / v.o.c / AMENLIFE)  &lt;/p&gt;
 &lt;a href="https://twitter.com/XoicoX"&gt;吉澤史也&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;今回はGBのみのライブセットでやる予定です。&lt;br /&gt;
-最近BangFace行ったばかりなのでamenかけたい気持ちもありますが。。ぐっとこらえます。&lt;/p&gt;</summary><category term="live"></category><category term="esctrax"></category></entry><entry><title>【Live】YATSUZAKI HARDCORE #48に出演します！ #ヤツコア</title><link href="http://blog.ca5.me/2016/09/20/yatsucore/" rel="alternate"></link><updated>2016-09-20T00:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2016-09-20:2016/09/20/yatsucore/</id><summary type="html">&lt;p&gt;esctrax blogでも紹介してますが、&lt;br /&gt;
+最近BangFace行ったばかりなのでamenかけたい気持ちもありますが。。ぐっとこらえます。&lt;/p&gt;</summary><category term="live"></category><category term="esctrax"></category></entry><entry><title>【Live】YATSUZAKI HARDCORE #48に出演します！ #ヤツコア</title><link href="https://blog.ca5.me/2016/09/20/yatsucore/" rel="alternate"></link><updated>2016-09-20T00:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2016-09-20:2016/09/20/yatsucore/</id><summary type="html">&lt;p&gt;esctrax blogでも紹介してますが、&lt;br /&gt;
 札幌のハードコアなイベント、YATSUZAKI HARDCORE #48に出演します！&lt;br /&gt;
 &lt;a href="http://blog.esctrax.com/post/149927671655/liveyatsuzaki-hardcore-48%E3%81%AB-ca5%E5%87%BA%E6%BC%94-%E3%83%A4%E3%83%84%E3%82%B3%E3%82%A2"&gt;esctrax blog - 【LIVE】YATSUZAKI HARDCORE #48に Ca5出演 #ヤツコア &lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今の形の活動で初めて地元の札幌でライブができるので楽しみです！&lt;br /&gt;
-よろしくおねがいします！&lt;/p&gt;</summary><category term="live"></category><category term=""></category></entry><entry><title>【Live】秋葉原メイカーズ倶楽部 2016に出演します！ #akiparty</title><link href="http://blog.ca5.me/2016/07/18/makers2016/" rel="alternate"></link><updated>2016-07-18T23:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2016-07-18:2016/07/18/makers2016/</id><summary type="html">&lt;p&gt;esctrax blogでも紹介してますが、&lt;br /&gt;
+よろしくおねがいします！&lt;/p&gt;</summary><category term="live"></category><category term=""></category></entry><entry><title>【Live】秋葉原メイカーズ倶楽部 2016に出演します！ #akiparty</title><link href="https://blog.ca5.me/2016/07/18/makers2016/" rel="alternate"></link><updated>2016-07-18T23:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2016-07-18:2016/07/18/makers2016/</id><summary type="html">&lt;p&gt;esctrax blogでも紹介してますが、&lt;br /&gt;
 「秋葉原メイカーズ倶楽部 2016」というイベントに出演します！&lt;br /&gt;
 &lt;a href="http://blog.esctrax.com/post/147491691450/live%E7%A7%8B%E8%91%89%E5%8E%9F%E3%83%A1%E3%82%A4%E3%82%AB%E3%83%BC%E3%82%BA%E5%80%B6%E6%A5%BD%E9%83%A82016%E3%81%ABca5%E5%87%BA%E6%BC%94"&gt;esctrax blog - 【LIVE】秋葉原メイカーズ倶楽部2016にCa5出演&lt;/a&gt;&lt;br /&gt;
 &lt;a href="http://akiba-maker-club.cs8.biz/2016/"&gt;秋葉原メイカーズ倶楽部2016 公式サイト&lt;/a&gt;  &lt;/p&gt;
 &lt;p&gt;今年で3度目となるイベントで、過去にもこんな形で出演させていただいておりました&lt;br /&gt;
-&lt;a href="http://blog.ca5.me/2014/11/11/1124-akiba-mogra/"&gt;第一回&lt;/a&gt;&lt;br /&gt;
-&lt;a href="http://blog.ca5.me/2015/07/11/akiparty2015/"&gt;第二回&lt;/a&gt;&lt;/p&gt;
+&lt;a href="https://blog.ca5.me/2014/11/11/1124-akiba-mogra/"&gt;第一回&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://blog.ca5.me/2015/07/11/akiparty2015/"&gt;第二回&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今回は&lt;a href="http://wiki.nicotech.jp/nico_tech/index.php?NT%E6%9D%B1%E4%BA%AC2016"&gt;NT東京&lt;/a&gt;という展示イベントも併設されるそうなので、&lt;br /&gt;
 よりギーク度を増したイベントになりそうですね！個人的にもすごく楽しみです。  &lt;/p&gt;
-&lt;p&gt;自分も、また自作コントローラやらを引っさげてライブに挑もうと思います！&lt;/p&gt;</summary><category term="live"></category><category term="max/msp"></category></entry><entry><title>【Live】Technique Vol.65に出演します!</title><link href="http://blog.ca5.me/2016/06/07/technique-65/" rel="alternate"></link><updated>2016-06-07T23:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2016-06-07:2016/06/07/technique-65/</id><summary type="html">&lt;p&gt;Technique Vol.65にて出演することになりました！&lt;br /&gt;
+&lt;p&gt;自分も、また自作コントローラやらを引っさげてライブに挑もうと思います！&lt;/p&gt;</summary><category term="live"></category><category term="max/msp"></category></entry><entry><title>【Live】Technique Vol.65に出演します!</title><link href="https://blog.ca5.me/2016/06/07/technique-65/" rel="alternate"></link><updated>2016-06-07T23:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2016-06-07:2016/06/07/technique-65/</id><summary type="html">&lt;p&gt;Technique Vol.65にて出演することになりました！&lt;br /&gt;
 以前は"ふぷほ"名義での参加でしたが、今回は単独名義での参加となります!&lt;/p&gt;
 &lt;p&gt;http://technique-2nd-sat.tumblr.com/&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;Technique Vol.65
@@ -234,9 +234,9 @@ Arabenitron
 
 
 &lt;p&gt;多分今回はチップチューン多めの新しいセットでやるとおもいます&lt;br /&gt;
-是非見に来てくださいね!&lt;/p&gt;</summary><category term="live"></category><category term="esctrax"></category></entry><entry><title>【ライブ告知】2016/3/26 Lo-bit Freedom Ver.3 -VS.LBF-</title><link href="http://blog.ca5.me/2016/03/09/lobitfreedom3/" rel="alternate"></link><updated>2016-03-09T00:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2016-03-09:2016/03/09/lobitfreedom3/</id><summary type="html">&lt;p&gt;3/26のLo-bit Freedomに出演します!  &lt;/p&gt;
+是非見に来てくださいね!&lt;/p&gt;</summary><category term="live"></category><category term="esctrax"></category></entry><entry><title>【ライブ告知】2016/3/26 Lo-bit Freedom Ver.3 -VS.LBF-</title><link href="https://blog.ca5.me/2016/03/09/lobitfreedom3/" rel="alternate"></link><updated>2016-03-09T00:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2016-03-09:2016/03/09/lobitfreedom3/</id><summary type="html">&lt;p&gt;3/26のLo-bit Freedomに出演します!  &lt;/p&gt;
 &lt;p&gt;&lt;a href="http://lo-bit-freedom.connpass.com/event/27327/"&gt;Lo-bit Freedom Ver.3 -VS.LBF-&lt;/a&gt;&lt;br /&gt;
-&lt;img alt="lbf3" src="http://blog.ca5.me/images/20160309/lbf3.png" /&gt;  &lt;/p&gt;
+&lt;img alt="lbf3" src="https://blog.ca5.me/images/20160309/lbf3.png" /&gt;  &lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;開催日時&lt;/p&gt;
 &lt;p&gt;2016/3/26(土) 23:00open(予定)&lt;/p&gt;
@@ -248,7 +248,7 @@ Lo-Bit Freedom とは？&lt;/p&gt;
 &lt;p&gt;今回は「VS.LBF」の通り、VS形式のLiveをお届けします！ 各カードは「？？対決」というようなテーマを設けた設定を現在考案中です。 現時点で出演&amp;gt;が確定しているメンバーから類推するのも面白いかもしれません。&lt;/p&gt;
 &lt;p&gt;更に今回「も」実験的なことを行います。イベントの後半戦に、「2時間程度、数名でB2Bし続ける」という実験をしてみようと思いますが、前回とは違い、今回は前準備は一切しない！！出演者・参加者でB2Bしまくろうじゃないか、入り乱れの殴り合い()しようじゃないか、という暴挙に出ます！！参戦するぞ！という方は、参加表明のB2B側でﾎﾟﾁっとしていただければ幸いです。&lt;/p&gt;
 &lt;p&gt;みなさん各々でFreedomに楽しんで頂こうと思います。そしてそれを酒の肴にしてワイワイガヤガヤやりましょう！&lt;/p&gt;
-&lt;/blockquote&gt;</summary><category term="chiptune"></category><category term="live"></category></entry><entry><title>【ライブ告知】2015/10/24 パラレコフェスタ</title><link href="http://blog.ca5.me/2015/09/29/parareco/" rel="alternate"></link><updated>2015-09-29T22:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2015-09-29:2015/09/29/parareco/</id><summary type="html">&lt;p&gt;ちょっと告知遅れちゃいましたが、&lt;br /&gt;
+&lt;/blockquote&gt;</summary><category term="chiptune"></category><category term="live"></category></entry><entry><title>【ライブ告知】2015/10/24 パラレコフェスタ</title><link href="https://blog.ca5.me/2015/09/29/parareco/" rel="alternate"></link><updated>2015-09-29T22:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2015-09-29:2015/09/29/parareco/</id><summary type="html">&lt;p&gt;ちょっと告知遅れちゃいましたが、&lt;br /&gt;
 10/24にパラレログラムレコーズのイベントにてライブします!&lt;br /&gt;
 &lt;img alt="パラレコフェスタ" src="http://twipla.jp/imgs/1509/565202383109538.jpg" /&gt;
 &lt;a href="http://twipla.jp/events/164825"&gt;http://twipla.jp/events/164825&lt;/a&gt;&lt;/p&gt;
@@ -259,9 +259,9 @@ Lo-Bit Freedom とは？&lt;/p&gt;
 [TICKET] ¥1500（1ドリンク込み）&lt;br /&gt;
 [Act] tkmt／hydden／Xinon／Ca5／suesett／2mg／aya-saka／sdhizumi／iserobin／梅干茶漬け&lt;br /&gt;
 [VJ] applesorce  &lt;/p&gt;
-&lt;/blockquote&gt;</summary><category term="chiptune"></category><category term="live"></category></entry><entry><title>【ライブ告知】2015/10/3 The Otherman Show 12 #OTMN12</title><link href="http://blog.ca5.me/2015/09/14/otmn12/" rel="alternate"></link><updated>2015-09-14T19:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2015-09-14:2015/09/14/otmn12/</id><summary type="html">&lt;p&gt;2015/10/03 の otherman show 12に出演します！  &lt;/p&gt;
+&lt;/blockquote&gt;</summary><category term="chiptune"></category><category term="live"></category></entry><entry><title>【ライブ告知】2015/10/3 The Otherman Show 12 #OTMN12</title><link href="https://blog.ca5.me/2015/09/14/otmn12/" rel="alternate"></link><updated>2015-09-14T19:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2015-09-14:2015/09/14/otmn12/</id><summary type="html">&lt;p&gt;2015/10/03 の otherman show 12に出演します！  &lt;/p&gt;
 &lt;p&gt;&lt;a href="http://tweetvite.com/event/OTMN12"&gt;http://tweetvite.com/event/OTMN12&lt;/a&gt; ← こちらより事前予約すると入場料割引！&lt;br /&gt;
-&lt;img alt="Event" src="http://blog.ca5.me/images/20150914/event.jpg" /&gt;  &lt;/p&gt;
+&lt;img alt="Event" src="https://blog.ca5.me/images/20150914/event.jpg" /&gt;  &lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;@渋谷Dimension (元Acid Panda Cafe)&lt;/p&gt;
 &lt;p&gt;10/3(土) 15:00〜21:00&lt;/p&gt;
@@ -300,7 +300,7 @@ Lo-Bit Freedom とは？&lt;/p&gt;
 &lt;p&gt;fm &lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;なんと今回はカナダからOthermanRecordsにゆかりあるアーティストがやってきます！&lt;br /&gt;
-お楽しみに！&lt;/p&gt;</summary><category term="otherman"></category><category term="breakcore"></category><category term="chiptune"></category><category term="chipbreak"></category><category term="live"></category></entry><entry><title>【ライブ告知】新宿AKIPARTY @ 西新宿メモリーオブサマー #akiparty</title><link href="http://blog.ca5.me/2015/07/11/akiparty2015/" rel="alternate"></link><updated>2015-07-11T23:30:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2015-07-11:2015/07/11/akiparty2015/</id><summary type="html">&lt;p&gt;去年出演させていただいた「秋葉原メイカーズ倶楽部」が&lt;br /&gt;
+お楽しみに！&lt;/p&gt;</summary><category term="otherman"></category><category term="breakcore"></category><category term="chiptune"></category><category term="chipbreak"></category><category term="live"></category></entry><entry><title>【ライブ告知】新宿AKIPARTY @ 西新宿メモリーオブサマー #akiparty</title><link href="https://blog.ca5.me/2015/07/11/akiparty2015/" rel="alternate"></link><updated>2015-07-11T23:30:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2015-07-11:2015/07/11/akiparty2015/</id><summary type="html">&lt;p&gt;去年出演させていただいた「秋葉原メイカーズ倶楽部」が&lt;br /&gt;
 「新宿AKIPARTY」として帰ってきました！  &lt;/p&gt;
 &lt;p&gt;&lt;a href="http://akiba-maker-club.cs8.biz/"&gt;公式サイト&lt;/a&gt;&lt;br /&gt;
 &lt;a href="https://www.facebook.com/events/928711910484372/"&gt;facebookイベントページ&lt;/a&gt;  &lt;/p&gt;
@@ -335,7 +335,7 @@ m7kenji  &lt;/p&gt;
 &lt;p&gt;今年もメンツが豪華！&lt;br /&gt;
 きっと盛り上がると思います！&lt;br /&gt;
 自分はまた、kinectやらなんやら手持ちのガジェット組み合わせたライブを演る予定です。&lt;br /&gt;
-よろしくおねがいします。&lt;/p&gt;</summary><category term="live"></category></entry><entry><title>【ライブ告知 6/20】Unexpected Downpour 03 #UnDo03</title><link href="http://blog.ca5.me/2015/05/03/undo03/" rel="alternate"></link><updated>2015-05-03T21:30:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2015-05-03:2015/05/03/undo03/</id><summary type="html">&lt;p&gt;こんなイベントに出させていただくことになりました！&lt;/p&gt;
+よろしくおねがいします。&lt;/p&gt;</summary><category term="live"></category></entry><entry><title>【ライブ告知 6/20】Unexpected Downpour 03 #UnDo03</title><link href="https://blog.ca5.me/2015/05/03/undo03/" rel="alternate"></link><updated>2015-05-03T21:30:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2015-05-03:2015/05/03/undo03/</id><summary type="html">&lt;p&gt;こんなイベントに出させていただくことになりました！&lt;/p&gt;
 &lt;p&gt;&lt;a href="http://tweetvite.com/event/UnDo03"&gt;http://tweetvite.com/event/UnDo03&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Unexpected Downpour 03&lt;/p&gt;
@@ -357,7 +357,7 @@ FRENZY.NET / DefDistortion (trydelta))&lt;/p&gt;
 市ノ宮電音工房(れんげ電子))&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;いろんなジャンルが入り混じる楽しそうなイベントです&lt;br /&gt;
-6/20はぜひ中野のHeavysick ZEROへお立ち寄りください～&lt;/p&gt;</summary></entry><entry><title>【2015春M3】4/26にM3で新曲頒布します【第二展示場1F お-30b】</title><link href="http://blog.ca5.me/2015/04/15/m32015426/" rel="alternate"></link><updated>2015-04-15T21:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2015-04-15:2015/04/15/m32015426/</id><summary type="html">&lt;p&gt;2015/4/26のM3で新曲を頒布します！&lt;br /&gt;
+6/20はぜひ中野のHeavysick ZEROへお立ち寄りください～&lt;/p&gt;</summary></entry><entry><title>【2015春M3】4/26にM3で新曲頒布します【第二展示場1F お-30b】</title><link href="https://blog.ca5.me/2015/04/15/m32015426/" rel="alternate"></link><updated>2015-04-15T21:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2015-04-15:2015/04/15/m32015426/</id><summary type="html">&lt;p&gt;2015/4/26のM3で新曲を頒布します！&lt;br /&gt;
 今回は全員LSDJで作ったアルバムです!&lt;/p&gt;
 &lt;p&gt;チップチューンだけど全員必ずどこかにamenサンプルを使うという縛りありなアルバムなので、&lt;br /&gt;
 どこかで必ずあのドラムサンプルのドカドカっとした音が入る&lt;br /&gt;
@@ -376,7 +376,7 @@ Boy by various
 artists](http://nkrn.bandcamp.com/album/gamen-boy)&lt;/iframe&gt;
 
 &lt;p&gt;4曲入りのEP１つ500円です&lt;br /&gt;
-よろしくおねがいしますー&lt;/p&gt;</summary><category term="chiptune"></category><category term="LSDJ"></category><category term="M3"></category><category term="NKRN"></category></entry><entry><title>【告知】3/7に高円寺4thでライブします</title><link href="http://blog.ca5.me/2015/02/19/robolabo/" rel="alternate"></link><updated>2015-02-19T00:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2015-02-19:2015/02/19/robolabo/</id><summary type="html">&lt;p&gt;&lt;a href="http://chipordie.otherman-records.com"&gt;アザマンショー&lt;/a&gt;の丁度1週間前にあたる3/7(土)にもライブ出演させていただけることになりました！&lt;/p&gt;
+よろしくおねがいしますー&lt;/p&gt;</summary><category term="chiptune"></category><category term="LSDJ"></category><category term="M3"></category><category term="NKRN"></category></entry><entry><title>【告知】3/7に高円寺4thでライブします</title><link href="https://blog.ca5.me/2015/02/19/robolabo/" rel="alternate"></link><updated>2015-02-19T00:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2015-02-19:2015/02/19/robolabo/</id><summary type="html">&lt;p&gt;&lt;a href="http://chipordie.otherman-records.com"&gt;アザマンショー&lt;/a&gt;の丁度1週間前にあたる3/7(土)にもライブ出演させていただけることになりました！&lt;/p&gt;
 &lt;p&gt;
 &lt;center&gt;
 [![](https://farm8.staticflickr.com/7325/16571283765_e33a0c8499_o.jpg)](http://www.flickr.com/photos/46200029@N06/16571283765/)
@@ -401,7 +401,7 @@ artists](http://nkrn.bandcamp.com/album/gamen-boy)&lt;/iframe&gt;
 &lt;p&gt;-DJ-&lt;br /&gt;
  SEXYYY&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;是非遊びに来てください！&lt;/p&gt;</summary><category term="chiptune"></category></entry><entry><title>【ライブ告知】The Otherman Show XI【3/14】</title><link href="http://blog.ca5.me/2015/02/12/the-otherman-show-xi/" rel="alternate"></link><updated>2015-02-12T00:43:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2015-02-12:2015/02/12/the-otherman-show-xi/</id><summary type="html">&lt;p&gt;2015/3/14にまたライブやります！&lt;br /&gt;
+&lt;p&gt;是非遊びに来てください！&lt;/p&gt;</summary><category term="chiptune"></category></entry><entry><title>【ライブ告知】The Otherman Show XI【3/14】</title><link href="https://blog.ca5.me/2015/02/12/the-otherman-show-xi/" rel="alternate"></link><updated>2015-02-12T00:43:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2015-02-12:2015/02/12/the-otherman-show-xi/</id><summary type="html">&lt;p&gt;2015/3/14にまたライブやります！&lt;br /&gt;
 アーティスト全員発表&amp;amp;チケットの前売り情報も既に公開されています！&lt;/p&gt;
 &lt;h3&gt;&lt;a href="http://chipordie.otherman-records.com/" title="The Otherman Show XI"&gt;The Otherman Show XI&lt;/a&gt;&lt;/h3&gt;
 &lt;blockquote&gt;
@@ -420,7 +420,7 @@ OthermanRecords が主催するはやくてうるさくてややこしい音の�
 &lt;p&gt;今回はテーマが「Chip or Die」ということもあって、&lt;br /&gt;
 チップチューンなアーティストの方がいつもより多いです。  &lt;/p&gt;
 &lt;p&gt;チップチューンもブレイクコアも好きな方、どっちか片方しかよく知らないって方も&lt;br /&gt;
-ぜひこの機会に聞きに来て見てください！&lt;/p&gt;</summary><category term="breakcore"></category><category term="chipbreak"></category><category term="chiptune"></category><category term="otherman"></category></entry><entry><title>【オンラインイベント】1/31, 2/1はThe Otherman Radio Show</title><link href="http://blog.ca5.me/2015/01/30/the-otherman-radio-show/" rel="alternate"></link><updated>2015-01-30T00:03:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2015-01-30:2015/01/30/the-otherman-radio-show/</id><summary type="html">&lt;p&gt;1/31, 2/1に OthermanRecords 5周年を記念したオンラインイベント&lt;br /&gt;
+ぜひこの機会に聞きに来て見てください！&lt;/p&gt;</summary><category term="breakcore"></category><category term="chipbreak"></category><category term="chiptune"></category><category term="otherman"></category></entry><entry><title>【オンラインイベント】1/31, 2/1はThe Otherman Radio Show</title><link href="https://blog.ca5.me/2015/01/30/the-otherman-radio-show/" rel="alternate"></link><updated>2015-01-30T00:03:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2015-01-30:2015/01/30/the-otherman-radio-show/</id><summary type="html">&lt;p&gt;1/31, 2/1に OthermanRecords 5周年を記念したオンラインイベント&lt;br /&gt;
 The Otherman Radio Showが開催されます&lt;br /&gt;
 もちろん僕も出ます！&lt;/p&gt;
 &lt;p&gt;公式サイト(=イベント会場):&lt;br /&gt;
@@ -431,7 +431,7 @@ The Otherman Radio Showが開催されます&lt;br /&gt;
 &lt;p&gt;僕の出番は 2/1(日) 19:15 - 19:45頃(JST)です&lt;br /&gt;
 家で一発撮りしたライブ動画で参戦します！&lt;/p&gt;
 &lt;p&gt;自分の出番の時は可能な限り&lt;a href="https://twitter.com/Ca5"&gt;Twitter&lt;/a&gt;でその時なってる曲の元リンクや  &lt;/p&gt;
-&lt;p&gt;ご要望があればライブの仕組みなんかをツイートしようと思ってるので、是非合わせてご覧ください！&lt;/p&gt;</summary></entry><entry><title>11/23,24 MakerFaireに出展します #mft2014</title><link href="http://blog.ca5.me/2014/11/22/mft2014/" rel="alternate"></link><updated>2014-11-22T22:23:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2014-11-22:2014/11/22/mft2014/</id><summary type="html">&lt;p&gt;以前
+&lt;p&gt;ご要望があればライブの仕組みなんかをツイートしようと思ってるので、是非合わせてご覧ください！&lt;/p&gt;</summary></entry><entry><title>11/23,24 MakerFaireに出展します #mft2014</title><link href="https://blog.ca5.me/2014/11/22/mft2014/" rel="alternate"></link><updated>2014-11-22T22:23:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2014-11-22:2014/11/22/mft2014/</id><summary type="html">&lt;p&gt;以前
 &lt;a href="https://twitter.com/fujikky"&gt;@fujikky&lt;/a&gt; と一緒に WebMusicハッカソンで作った作品が&lt;br /&gt;
 MakerFaireのGoogleのブースで出展させていただけることになりました！&lt;br /&gt;
 (参考: &lt;a href="http://blog.ca54makske.com/blog/2014/09/19/webmusichackathon/"&gt;WebMusicハッカソンに参加してきました
@@ -442,7 +442,7 @@ MakerFaireへお越しの際は是非お立ち寄りください。&lt;/p&gt;
 MakerFaireのあとは是非秋葉原のMOGRAへお越しください！&lt;/p&gt;
 &lt;p&gt;&lt;a href="http://club-mogra.jp/2014/11/24/2163/"&gt;http://club-mogra.jp/2014/11/24/2163/&lt;br /&gt;
 &lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;arduino持参で割引、等 各種割引もございます！&lt;/p&gt;</summary><category term="mft2014"></category></entry><entry><title>【11/16】ゲームレジェンドに参加します！【3a】</title><link href="http://blog.ca5.me/2014/11/13/2014gamelegend/" rel="alternate"></link><updated>2014-11-13T23:02:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2014-11-13:2014/11/13/2014gamelegend/</id><summary type="html">&lt;p&gt;今年も去年に引き続きゲームレジェンドというイベントで曲の頒布をします！&lt;/p&gt;
+&lt;p&gt;arduino持参で割引、等 各種割引もございます！&lt;/p&gt;</summary><category term="mft2014"></category></entry><entry><title>【11/16】ゲームレジェンドに参加します！【3a】</title><link href="https://blog.ca5.me/2014/11/13/2014gamelegend/" rel="alternate"></link><updated>2014-11-13T23:02:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2014-11-13:2014/11/13/2014gamelegend/</id><summary type="html">&lt;p&gt;今年も去年に引き続きゲームレジェンドというイベントで曲の頒布をします！&lt;/p&gt;
 &lt;p&gt;east breaks in thousandのブース[&lt;strong&gt;3a&lt;/strong&gt;]でお待ちしております&lt;/p&gt;
 &lt;p&gt;&lt;a href="http://www.geocities.jp/zed_gamelegend/"&gt;http://www.geocities.jp/zed_gamelegend/&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
@@ -456,7 +456,7 @@ MakerFaireのあとは是非秋葉原のMOGRAへお越しください！&lt;/p&g
 
 &lt;iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/176719908&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;visual=true" width="100%" height="450" frameborder="no" scrolling="no"&gt;&lt;/iframe&gt;
 
-&lt;p&gt;ゲームレジェンドにお越しの際は、ぜひお手にとって見てみてください！&lt;/p&gt;</summary></entry><entry><title>【11/24(祝)】秋葉原メイカーズ倶楽部に出演します【MOGRA】</title><link href="http://blog.ca5.me/2014/11/11/1124-akiba-mogra/" rel="alternate"></link><updated>2014-11-11T22:30:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2014-11-11:2014/11/11/1124-akiba-mogra/</id><summary type="html">&lt;p&gt;11/24に久々にライブ出させてもらえることになりました！&lt;/p&gt;
+&lt;p&gt;ゲームレジェンドにお越しの際は、ぜひお手にとって見てみてください！&lt;/p&gt;</summary></entry><entry><title>【11/24(祝)】秋葉原メイカーズ倶楽部に出演します【MOGRA】</title><link href="https://blog.ca5.me/2014/11/11/1124-akiba-mogra/" rel="alternate"></link><updated>2014-11-11T22:30:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2014-11-11:2014/11/11/1124-akiba-mogra/</id><summary type="html">&lt;p&gt;11/24に久々にライブ出させてもらえることになりました！&lt;/p&gt;
 &lt;p&gt;Maker Faireの非公式アフターイベントです！&lt;/p&gt;
 &lt;p&gt;公式サイト:&lt;br /&gt;
 &lt;a href="http://akiba-maker-club.cs8.biz/"&gt;http://akiba-maker-club.cs8.biz/&lt;/a&gt;&lt;/p&gt;
@@ -507,12 +507,12 @@ style="color: #141823;"&gt;プロジェクター&lt;/span&gt;&lt;span class="tex
 &lt;p&gt;\&amp;lt;iframe width="420" height="315"
 src="//www.youtube.com/embed/p5obKtVHaRE" frameborder="0"
 allowfullscreen&gt;\&amp;lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;ぜひ遊びに来てください！&lt;/p&gt;</summary></entry><entry><title>【M3】2014/10/26 新譜Demo版配布予定です！</title><link href="http://blog.ca5.me/2014/10/17/2014m3autumn/" rel="alternate"></link><updated>2014-10-17T23:58:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2014-10-17:2014/10/17/2014m3autumn/</id><summary type="html">&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/172576654&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;
+&lt;p&gt;ぜひ遊びに来てください！&lt;/p&gt;</summary></entry><entry><title>【M3】2014/10/26 新譜Demo版配布予定です！</title><link href="https://blog.ca5.me/2014/10/17/2014m3autumn/" rel="alternate"></link><updated>2014-10-17T23:58:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2014-10-17:2014/10/17/2014m3autumn/</id><summary type="html">&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/172576654&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;
 
 &lt;p&gt;現在作成中のアルバムのDEMO版を 今度のM3で配布予定です！&lt;/p&gt;
 &lt;p&gt;詳しくは 2014/10/26 &lt;a href="http://www.m3net.jp/" title="m3"&gt;M3&lt;/a&gt; NKRNブース(&lt;span
 style="color: #000000;"&gt;第一展示場 C 15b&lt;/span&gt;) まで！&lt;/p&gt;
-&lt;p&gt;アルバムのフルリリースは2015年のM3で行う予定です&lt;/p&gt;</summary><category term="breakcore"></category><category term="chipbreak"></category><category term="chiptune"></category><category term="M3"></category></entry><entry><title>【2014 8/17】memory of the cartridge再販します 【コミケ 東レ32b】</title><link href="http://blog.ca5.me/2014/08/16/%E3%80%902014-817%E3%80%91memory-of-the-cartridge%E5%86%8D%E8%B2%A9%E3%81%97%E3%81%BE%E3%81%99-%E3%80%90%E3%82%B3%E3%83%9F%E3%82%B1-%E6%9D%B1%E3%83%AC32b%E3%80%91/" rel="alternate"></link><updated>2014-08-16T22:02:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2014-08-16:2014/08/16/【2014-817】memory-of-the-cartridge再販します-【コミケ-東レ32b】/</id><summary type="html">&lt;p&gt;明日 8/17 east breaks in thousand (@ebi1000)のブース[東レ32b]&lt;br /&gt;
+&lt;p&gt;アルバムのフルリリースは2015年のM3で行う予定です&lt;/p&gt;</summary><category term="breakcore"></category><category term="chipbreak"></category><category term="chiptune"></category><category term="M3"></category></entry><entry><title>【2014 8/17】memory of the cartridge再販します 【コミケ 東レ32b】</title><link href="https://blog.ca5.me/2014/08/16/%E3%80%902014-817%E3%80%91memory-of-the-cartridge%E5%86%8D%E8%B2%A9%E3%81%97%E3%81%BE%E3%81%99-%E3%80%90%E3%82%B3%E3%83%9F%E3%82%B1-%E6%9D%B1%E3%83%AC32b%E3%80%91/" rel="alternate"></link><updated>2014-08-16T22:02:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2014-08-16:2014/08/16/【2014-817】memory-of-the-cartridge再販します-【コミケ-東レ32b】/</id><summary type="html">&lt;p&gt;明日 8/17 east breaks in thousand (@ebi1000)のブース[東レ32b]&lt;br /&gt;
 にて、&lt;br /&gt;
 memory of the cartridgeのCDR版を再販します！&lt;/p&gt;
 &lt;p&gt;
@@ -525,7 +525,7 @@ memory of the cartridgeのCDR版を再販します！&lt;/p&gt;
 webリリース版には無いボーナストラックもあるので、  
 気になった方は是非お立ち寄りください！
 
-&lt;/p&gt;</summary></entry><entry><title>8/2あざまんショーに出ます</title><link href="http://blog.ca5.me/2014/08/01/82%E3%81%82%E3%81%96%E3%81%BE%E3%82%93%E3%82%B7%E3%83%A7%E3%83%BC%E3%81%AB%E5%87%BA%E3%81%BE%E3%81%99/" rel="alternate"></link><updated>2014-08-01T08:49:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2014-08-01:2014/08/01/82あざまんショーに出ます/</id><summary type="html">&lt;p&gt;既にツイッターではうるさいくらい告知してますが、&lt;br /&gt;
+&lt;/p&gt;</summary></entry><entry><title>8/2あざまんショーに出ます</title><link href="https://blog.ca5.me/2014/08/01/82%E3%81%82%E3%81%96%E3%81%BE%E3%82%93%E3%82%B7%E3%83%A7%E3%83%BC%E3%81%AB%E5%87%BA%E3%81%BE%E3%81%99/" rel="alternate"></link><updated>2014-08-01T08:49:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2014-08-01:2014/08/01/82あざまんショーに出ます/</id><summary type="html">&lt;p&gt;既にツイッターではうるさいくらい告知してますが、&lt;br /&gt;
 8/2(土) Otherman Show Xに出ます！&lt;/p&gt;
 &lt;p&gt;詳細:&lt;br /&gt;
 &lt;a href="http://ravesamurai.otherman-records.com/"&gt;http://ravesamurai.otherman-records.com/&lt;/a&gt;&lt;/p&gt;
@@ -539,7 +539,7 @@ webリリース版には無いボーナストラックもあるので、
 [![](https://farm4.staticflickr.com/3844/14607854069_325c3417b8_b.jpg)](http://www.flickr.com/photos/46200029@N06/14607854069/)
 
 &lt;/center&gt;
-&lt;/p&gt;</summary><category term="iPad"></category><category term="otherman"></category><category term="ライブ"></category></entry><entry><title>【M3】新作出します【4/27】</title><link href="http://blog.ca5.me/2014/04/20/m3-nkrn-201404/" rel="alternate"></link><updated>2014-04-20T23:38:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2014-04-20:2014/04/20/m3-nkrn-201404/</id><summary type="html">&lt;p&gt;2014 4/27はM3！！&lt;br /&gt;
+&lt;/p&gt;</summary><category term="iPad"></category><category term="otherman"></category><category term="ライブ"></category></entry><entry><title>【M3】新作出します【4/27】</title><link href="https://blog.ca5.me/2014/04/20/m3-nkrn-201404/" rel="alternate"></link><updated>2014-04-20T23:38:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2014-04-20:2014/04/20/m3-nkrn-201404/</id><summary type="html">&lt;p&gt;2014 4/27はM3！！&lt;br /&gt;
 &lt;a href="http://www.m3net.jp/"&gt;http://www.m3net.jp/&lt;br /&gt;
 &lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;NKRN&lt;/h2&gt;
@@ -563,7 +563,7 @@ FLのプロジェクトファイル付きのコンピレーションアルバム
 &lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/144360723&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_artwork=true"&gt;&lt;/iframe&gt;
 
 &lt;p&gt;自分の曲の視聴:  &lt;/p&gt;
-&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/145605472&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_artwork=true"&gt;&lt;/iframe&gt;</summary><category term="breakcore"></category><category term="chipbreak"></category><category term="chiptune"></category><category term="M3"></category><category term="NKRN"></category></entry><entry><title>【1/13】今年最初のライブ #vdp4</title><link href="http://blog.ca5.me/2014/01/08/%E3%80%90113%E3%80%91%E4%BB%8A%E5%B9%B4%E6%9C%80%E5%88%9D%E3%81%AE%E3%83%A9%E3%82%A4%E3%83%96-vdp4/" rel="alternate"></link><updated>2014-01-08T22:38:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2014-01-08:2014/01/08/【113】今年最初のライブ-vdp4/</id><summary type="html">&lt;p&gt;&lt;a href="http://blog.ca54makske.com/blog/2013/12/18/voldope4/"&gt;年末の記事&lt;/a&gt;でも告知しましたが、&lt;br /&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/145605472&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_artwork=true"&gt;&lt;/iframe&gt;</summary><category term="breakcore"></category><category term="chipbreak"></category><category term="chiptune"></category><category term="M3"></category><category term="NKRN"></category></entry><entry><title>【1/13】今年最初のライブ #vdp4</title><link href="https://blog.ca5.me/2014/01/08/%E3%80%90113%E3%80%91%E4%BB%8A%E5%B9%B4%E6%9C%80%E5%88%9D%E3%81%AE%E3%83%A9%E3%82%A4%E3%83%96-vdp4/" rel="alternate"></link><updated>2014-01-08T22:38:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2014-01-08:2014/01/08/【113】今年最初のライブ-vdp4/</id><summary type="html">&lt;p&gt;&lt;a href="http://blog.ca54makske.com/blog/2013/12/18/voldope4/"&gt;年末の記事&lt;/a&gt;でも告知しましたが、&lt;br /&gt;
  今度の成人の日にライブします！&lt;br /&gt;
 &lt;br /&gt;
  1/13は是非、中野HeavySickZeroへ！&lt;br /&gt;
@@ -575,7 +575,7 @@ FLのプロジェクトファイル付きのコンピレーションアルバム
 &lt;img alt="" src="http://www.gaf-guren.com/vold4/vol_dope4_tt.png" /&gt;&lt;br /&gt;
 &lt;br /&gt;
  よろしくおねがいします&lt;br /&gt;
-&lt;/p&gt;</summary><category term="dopeup"></category><category term="live"></category><category term="vol4"></category></entry><entry><title>【ライブ告知】VolDOPE4 2014/1/13</title><link href="http://blog.ca5.me/2013/12/18/voldope4/" rel="alternate"></link><updated>2013-12-18T22:30:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2013-12-18:2013/12/18/voldope4/</id><summary type="html">&lt;p&gt;年明けにライブします！&lt;/p&gt;
+&lt;/p&gt;</summary><category term="dopeup"></category><category term="live"></category><category term="vol4"></category></entry><entry><title>【ライブ告知】VolDOPE4 2014/1/13</title><link href="https://blog.ca5.me/2013/12/18/voldope4/" rel="alternate"></link><updated>2013-12-18T22:30:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2013-12-18:2013/12/18/voldope4/</id><summary type="html">&lt;p&gt;年明けにライブします！&lt;/p&gt;
 &lt;p&gt;DOPE UPと Vol.4との合同企画、「VolDOPE4」に出させていただきます！&lt;br /&gt;
 &lt;a href="http://vol4records.wix.com/vdp4"&gt;http://vol4records.wix.com/vdp4&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
@@ -600,7 +600,7 @@ Vol4. + アザマン企画！&lt;br /&gt;
 「#50」という曲で参加してます&lt;/p&gt;
 &lt;p&gt;&lt;a href="http://www.otherman-records.com/releases/DPMN001"&gt;&lt;img alt="" src="http://www.otherman-records.com/images/releases/DPMN001.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;
 DOPEUP + アザマン企画！&lt;br /&gt;
-こちらは「whiteout」という曲で参加&lt;/p&gt;</summary><category term="dopeup"></category><category term="live"></category><category term="vol4"></category></entry><entry><title>【イベント告知】今度の日曜はあざまんしょー9【12/8】</title><link href="http://blog.ca5.me/2013/12/02/othm9/" rel="alternate"></link><updated>2013-12-02T23:32:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2013-12-02:2013/12/02/othm9/</id><summary type="html">&lt;p&gt;この前もこんな形で告知しましたが・・・&lt;br /&gt;
+こちらは「whiteout」という曲で参加&lt;/p&gt;</summary><category term="dopeup"></category><category term="live"></category><category term="vol4"></category></entry><entry><title>【イベント告知】今度の日曜はあざまんしょー9【12/8】</title><link href="https://blog.ca5.me/2013/12/02/othm9/" rel="alternate"></link><updated>2013-12-02T23:32:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2013-12-02:2013/12/02/othm9/</id><summary type="html">&lt;p&gt;この前もこんな形で告知しましたが・・・&lt;br /&gt;
 &lt;a href="http://blog.ca54makske.com/blog/2013/11/16/othermanrecords-9/"&gt;http://blog.ca54makske.com/blog/2013/11/16/othermanrecords-9/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;次のライブまでついに1週間を切りました！  &lt;/p&gt;
 &lt;p&gt;今度はいつものライブセット＋ちょっと変わったことをやれたらやるつもりです&lt;/p&gt;
@@ -611,7 +611,7 @@ DOPEUP + アザマン企画！&lt;br /&gt;
 &lt;iframe width="420" height="315" src="//www.youtube.com/embed/p5obKtVHaRE" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;お得なWEB割引もまだ間に合いますので、気になっている方は是非よろしくお願いします！&lt;br /&gt;
-&lt;a href="http://peatix.com/event/20875"&gt;http://peatix.com/event/20875&lt;/a&gt;&lt;/p&gt;</summary><category term="arduino"></category><category term="breakcore"></category><category term="chipbreak"></category><category term="chiptune"></category><category term="live"></category><category term="max/msp"></category><category term="oth"></category><category term="otherman"></category></entry><entry><title>【イベント告知】Otherman Show # 9</title><link href="http://blog.ca5.me/2013/11/16/othermanrecords-9/" rel="alternate"></link><updated>2013-11-16T22:45:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2013-11-16:2013/11/16/othermanrecords-9/</id><summary type="html">&lt;p&gt;来月ライブします！&lt;/p&gt;
+&lt;a href="http://peatix.com/event/20875"&gt;http://peatix.com/event/20875&lt;/a&gt;&lt;/p&gt;</summary><category term="arduino"></category><category term="breakcore"></category><category term="chipbreak"></category><category term="chiptune"></category><category term="live"></category><category term="max/msp"></category><category term="oth"></category><category term="otherman"></category></entry><entry><title>【イベント告知】Otherman Show # 9</title><link href="https://blog.ca5.me/2013/11/16/othermanrecords-9/" rel="alternate"></link><updated>2013-11-16T22:45:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2013-11-16:2013/11/16/othermanrecords-9/</id><summary type="html">&lt;p&gt;来月ライブします！&lt;/p&gt;
 &lt;h1&gt;Otherman Show #9&lt;/h1&gt;
 &lt;h3&gt;日時&lt;/h3&gt;
 &lt;p&gt;2013/12/08 (日)&lt;br /&gt;
@@ -639,7 +639,7 @@ GUEST「AbortRetryFail」が襲来！！  &lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;今回何と謎のカンガルー料理が登場します！（自分も食べたこと無いからよくわからんですがｗ&lt;/p&gt;
 &lt;p&gt;当日お友達を連れてきてくれた方には割引が適用されますので、&lt;br /&gt;
-ぜひぜひお誘い合わせの上おこしくださいませー&lt;/p&gt;</summary><category term="breakcore"></category><category term="chipbreak"></category><category term="chiptune"></category><category term="live"></category><category term="otherman"></category></entry><entry><title>【イベント参加】11/10 ゲームレジェンドに参加します【川口】</title><link href="http://blog.ca5.me/2013/11/09/gamelegend/" rel="alternate"></link><updated>2013-11-09T00:19:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2013-11-09:2013/11/09/gamelegend/</id><summary type="html">&lt;p&gt;ゲームレジェンドというイベントに初参加予定です！&lt;/p&gt;
+ぜひぜひお誘い合わせの上おこしくださいませー&lt;/p&gt;</summary><category term="breakcore"></category><category term="chipbreak"></category><category term="chiptune"></category><category term="live"></category><category term="otherman"></category></entry><entry><title>【イベント参加】11/10 ゲームレジェンドに参加します【川口】</title><link href="https://blog.ca5.me/2013/11/09/gamelegend/" rel="alternate"></link><updated>2013-11-09T00:19:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2013-11-09:2013/11/09/gamelegend/</id><summary type="html">&lt;p&gt;ゲームレジェンドというイベントに初参加予定です！&lt;/p&gt;
 &lt;p&gt;公式サイト：&lt;br /&gt;
 &lt;a href="http://www.geocities.jp/zed_gamelegend/"&gt;http://www.geocities.jp/zed_gamelegend/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;自分も初参加であまりイベントの勝手が良くわかってないんですが、  &lt;/p&gt;
@@ -652,7 +652,7 @@ NKRN selectionとmemory of the cartridgeをまた販売する予定です！&lt;
 26a の east breaks in
 thousand(ebi10000)のブースにてお待ちしております！&lt;/p&gt;
 &lt;p&gt;ゲームレジェンドサークルリスト：&lt;br /&gt;
-&lt;a href="http://www.geocities.jp/zed_gamelegend/circlelist19.html"&gt;http://www.geocities.jp/zed_gamelegend/circlelist19.html&lt;/a&gt;&lt;/p&gt;</summary><category term="chiptune"></category><category term="ゲームレジェンド"></category></entry><entry><title>M3 2013秋で新アルバム出します(第一展示場G14b )</title><link href="http://blog.ca5.me/2013/10/20/m3-2013-autumn/" rel="alternate"></link><updated>2013-10-20T23:55:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2013-10-20:2013/10/20/m3-2013-autumn/</id><summary type="html">&lt;h3&gt;NKRNの宣伝&lt;/h3&gt;
+&lt;a href="http://www.geocities.jp/zed_gamelegend/circlelist19.html"&gt;http://www.geocities.jp/zed_gamelegend/circlelist19.html&lt;/a&gt;&lt;/p&gt;</summary><category term="chiptune"></category><category term="ゲームレジェンド"></category></entry><entry><title>M3 2013秋で新アルバム出します(第一展示場G14b )</title><link href="https://blog.ca5.me/2013/10/20/m3-2013-autumn/" rel="alternate"></link><updated>2013-10-20T23:55:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2013-10-20:2013/10/20/m3-2013-autumn/</id><summary type="html">&lt;h3&gt;NKRNの宣伝&lt;/h3&gt;
 &lt;p&gt;既にtwitterではbotを動かして告知してますが、&lt;br /&gt;
 2013/10/27のM3でベスト盤のアルバムを出します。&lt;/p&gt;
 &lt;p&gt;[&lt;img alt="jacket" src="http://www.otherman-records.com/NKRN/releases/NKRN-SL-001/images/img_jacket_sl.jpg" /&gt;  &lt;/p&gt;
@@ -688,7 +688,7 @@ tac-t!s君にお願いしたナイスなジャケットを実物で手に取り�
 &lt;/a&gt;&lt;br /&gt;
 &lt;/p&gt;
 &lt;p&gt;OthermanRecordsではKenKoTaijiさんのアルバムのジャケットも担当されてました&lt;br /&gt;
-&lt;a href="http://www.otherman-records.com/releases/OTMN044"&gt;http://www.otherman-records.com/releases/OTMN044&lt;/a&gt;&lt;/p&gt;</summary><category term="breakcore"></category><category term="chipbreak"></category><category term="chiptune"></category><category term="M3"></category><category term="NKRN"></category><category term="otherman"></category></entry><entry><title>【イベント告知】7/15 FL研究会 @中野HeavySickZero 【#FL研究会】</title><link href="http://blog.ca5.me/2013/06/20/%E3%80%90%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E5%91%8A%E7%9F%A5%E3%80%91715-fl%E7%A0%94%E7%A9%B6%E4%BC%9A-%E4%B8%AD%E9%87%8Eheavysickzero-%E3%80%90fl%E7%A0%94%E7%A9%B6%E4%BC%9A%E3%80%91/" rel="alternate"></link><updated>2013-06-20T22:30:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2013-06-20:2013/06/20/【イベント告知】715-fl研究会-中野heavysickzero-【fl研究会】/</id><summary type="html">&lt;p&gt;7/15にこんなイベントやります！&lt;/p&gt;
+&lt;a href="http://www.otherman-records.com/releases/OTMN044"&gt;http://www.otherman-records.com/releases/OTMN044&lt;/a&gt;&lt;/p&gt;</summary><category term="breakcore"></category><category term="chipbreak"></category><category term="chiptune"></category><category term="M3"></category><category term="NKRN"></category><category term="otherman"></category></entry><entry><title>【イベント告知】7/15 FL研究会 @中野HeavySickZero 【#FL研究会】</title><link href="https://blog.ca5.me/2013/06/20/%E3%80%90%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E5%91%8A%E7%9F%A5%E3%80%91715-fl%E7%A0%94%E7%A9%B6%E4%BC%9A-%E4%B8%AD%E9%87%8Eheavysickzero-%E3%80%90fl%E7%A0%94%E7%A9%B6%E4%BC%9A%E3%80%91/" rel="alternate"></link><updated>2013-06-20T22:30:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2013-06-20:2013/06/20/【イベント告知】715-fl研究会-中野heavysickzero-【fl研究会】/</id><summary type="html">&lt;p&gt;7/15にこんなイベントやります！&lt;/p&gt;
 &lt;p&gt;FL使いな方も、これから使ってみたい方も、ぜひぜひお越しください！&lt;/p&gt;
 &lt;h1&gt;FL研究会&lt;/h1&gt;
 &lt;blockquote&gt;
@@ -708,7 +708,7 @@ tac-t!s君にお願いしたナイスなジャケットを実物で手に取り�
  ラウンジでFLStudioユーザによる講演および交流会(一人30分、転換10分
 計40分)、  &lt;/p&gt;
 &lt;p&gt;メインでは講演者によるライブ及びDJ（一人30分、転換や客入り等別DJ入ります）。&lt;/p&gt;
-&lt;/blockquote&gt;</summary><category term="FL"></category></entry><entry><title>【ライブ告知】2013/7/27 OthermanShow #8</title><link href="http://blog.ca5.me/2013/06/19/%E3%80%90%E3%83%A9%E3%82%A4%E3%83%96%E5%91%8A%E7%9F%A5%E3%80%912013727%20othermanshow-8/" rel="alternate"></link><updated>2013-06-19T22:30:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2013-06-19:2013/06/19/【ライブ告知】2013727 othermanshow-8/</id><summary type="html">&lt;p&gt;久々にライブやります!&lt;/p&gt;
+&lt;/blockquote&gt;</summary><category term="FL"></category></entry><entry><title>【ライブ告知】2013/7/27 OthermanShow #8</title><link href="https://blog.ca5.me/2013/06/19/%E3%80%90%E3%83%A9%E3%82%A4%E3%83%96%E5%91%8A%E7%9F%A5%E3%80%912013727%20othermanshow-8/" rel="alternate"></link><updated>2013-06-19T22:30:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2013-06-19:2013/06/19/【ライブ告知】2013727 othermanshow-8/</id><summary type="html">&lt;p&gt;久々にライブやります!&lt;/p&gt;
 &lt;h1&gt;OthermanShow #8&lt;/h1&gt;
 &lt;p&gt;イベント詳細　http://t.co/0ViUJRFLxW&lt;/p&gt;
 &lt;blockquote&gt;
@@ -746,9 +746,9 @@ tac-t!s君にお願いしたナイスなジャケットを実物で手に取り�
 &lt;/blockquote&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;今回は夏っぽいイベントということで、ソーメンも振舞われます！&lt;/p&gt;
-&lt;p&gt;事前予約だと500円お得なので是非&lt;a href="http://t.co/0ViUJRFLxW"&gt;公式サイト&lt;/a&gt;より申し込んでみてください！&lt;/p&gt;</summary><category term="breakcore"></category><category term="live"></category><category term="otherman"></category></entry><entry><title>明日M3に出ます！(4/29 第二展示場1Fえ-30a)</title><link href="http://blog.ca5.me/2013/04/28/%E6%98%8E%E6%97%A5m3%E3%81%AB%E5%87%BA%E3%81%BE%E3%81%99!429-%E7%AC%AC%E4%BA%8C%E5%B1%95%E7%A4%BA%E5%A0%B41f%E3%81%88-30a/" rel="alternate"></link><updated>2013-04-28T22:45:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2013-04-28:2013/04/28/明日m3に出ます!429-第二展示場1fえ-30a/</id><summary type="html">&lt;p&gt;&lt;a href="http://blog.ca54makske.com/blog/2013/04/20/m3%E3%81%AB%E5%87%BA%E3%81%BE%E3%81%99%EF%BC%81429-%E7%AC%AC%E4%BA%8C%E5%B1%95%E7%A4%BA%E5%A0%B41f%E3%81%88-30a/"&gt;前々回の記事&lt;/a&gt;でも書きましたが明日はM3でアルバムを出します！&lt;/p&gt;
+&lt;p&gt;事前予約だと500円お得なので是非&lt;a href="http://t.co/0ViUJRFLxW"&gt;公式サイト&lt;/a&gt;より申し込んでみてください！&lt;/p&gt;</summary><category term="breakcore"></category><category term="live"></category><category term="otherman"></category></entry><entry><title>明日M3に出ます！(4/29 第二展示場1Fえ-30a)</title><link href="https://blog.ca5.me/2013/04/28/%E6%98%8E%E6%97%A5m3%E3%81%AB%E5%87%BA%E3%81%BE%E3%81%99!429-%E7%AC%AC%E4%BA%8C%E5%B1%95%E7%A4%BA%E5%A0%B41f%E3%81%88-30a/" rel="alternate"></link><updated>2013-04-28T22:45:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2013-04-28:2013/04/28/明日m3に出ます!429-第二展示場1fえ-30a/</id><summary type="html">&lt;p&gt;&lt;a href="http://blog.ca54makske.com/blog/2013/04/20/m3%E3%81%AB%E5%87%BA%E3%81%BE%E3%81%99%EF%BC%81429-%E7%AC%AC%E4%BA%8C%E5%B1%95%E7%A4%BA%E5%A0%B41f%E3%81%88-30a/"&gt;前々回の記事&lt;/a&gt;でも書きましたが明日はM3でアルバムを出します！&lt;/p&gt;
 &lt;p&gt;M3会場限定でおまけとして無料リミックス集も配布予定なので&lt;br /&gt;
-ぜひぜひ 第二展示場1F え-30aまでお越しください！&lt;/p&gt;</summary><category term="breakcore"></category><category term="chipbreak"></category><category term="NKRN"></category><category term="otherman"></category></entry><entry><title>M3に出ます！(4/29 第二展示場1Fえ-30a)</title><link href="http://blog.ca5.me/2013/04/20/m3%E3%81%AB%E5%87%BA%E3%81%BE%E3%81%99429-%E7%AC%AC%E4%BA%8C%E5%B1%95%E7%A4%BA%E5%A0%B41f%E3%81%88-30a/" rel="alternate"></link><updated>2013-04-20T23:30:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2013-04-20:2013/04/20/m3に出ます429-第二展示場1fえ-30a/</id><summary type="html">&lt;p&gt;一年ぶりにM3でCD出すことになりました！&lt;/p&gt;
+ぜひぜひ 第二展示場1F え-30aまでお越しください！&lt;/p&gt;</summary><category term="breakcore"></category><category term="chipbreak"></category><category term="NKRN"></category><category term="otherman"></category></entry><entry><title>M3に出ます！(4/29 第二展示場1Fえ-30a)</title><link href="https://blog.ca5.me/2013/04/20/m3%E3%81%AB%E5%87%BA%E3%81%BE%E3%81%99429-%E7%AC%AC%E4%BA%8C%E5%B1%95%E7%A4%BA%E5%A0%B41f%E3%81%88-30a/" rel="alternate"></link><updated>2013-04-20T23:30:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2013-04-20:2013/04/20/m3に出ます429-第二展示場1fえ-30a/</id><summary type="html">&lt;p&gt;一年ぶりにM3でCD出すことになりました！&lt;/p&gt;
 &lt;p&gt;Soulgem Breaks  &lt;/p&gt;
 &lt;iframe width="300" height="410" style="position: relative; display: block; width: 300px; height: 410px;" src="http://bandcamp.com/EmbeddedPlayer/v=2/album=128468457/size=grande3/bgcol=FFFFFF/linkcol=4285BB/" allowtransparency="true" frameborder="0"&gt;[Soulgem
 Breaks by various
@@ -759,15 +759,15 @@ artists](http://nkrn.bandcamp.com/album/soulgem-breaks)&lt;/iframe&gt;
 &lt;iframe width="46" height="23" style="position: relative; display: block; width: 46px; height: 23px;" src="http://bandcamp.com/EmbeddedPlayer/v=2/track=2244096427/size=short/bgcol=FFFFFF/linkcol=4285BB/" allowtransparency="true" frameborder="0"&gt;&lt;a href="http://nkrn.bandcamp.com/track/irmela-von-nordheim"&gt;Irmela
 von Nordheim (ティアラの魔女) by
 Ca5&lt;/a&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;第二展示場1Fえ-30a でお待ちしております!&lt;/p&gt;</summary><category term="breakcore"></category><category term="chipbreak"></category><category term="chiptune"></category><category term="M3"></category><category term="NKRN"></category></entry><entry><title>ロックマン３オープニングのリミックス</title><link href="http://blog.ca5.me/2012/08/23/%E3%83%AD%E3%83%83%E3%82%AF%E3%83%9E%E3%83%B33%E3%82%AA%E3%83%BC%E3%83%97%E3%83%8B%E3%83%B3%E3%82%B0%E3%81%AE%E3%83%AA%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9/" rel="alternate"></link><updated>2012-08-23T00:39:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2012-08-23:2012/08/23/ロックマン3オープニングのリミックス/</id><summary type="html">&lt;p&gt;完全に勢いで作りました&lt;br /&gt;
+&lt;p&gt;第二展示場1Fえ-30a でお待ちしております!&lt;/p&gt;</summary><category term="breakcore"></category><category term="chipbreak"></category><category term="chiptune"></category><category term="M3"></category><category term="NKRN"></category></entry><entry><title>ロックマン３オープニングのリミックス</title><link href="https://blog.ca5.me/2012/08/23/%E3%83%AD%E3%83%83%E3%82%AF%E3%83%9E%E3%83%B33%E3%82%AA%E3%83%BC%E3%83%97%E3%83%8B%E3%83%B3%E3%82%B0%E3%81%AE%E3%83%AA%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9/" rel="alternate"></link><updated>2012-08-23T00:39:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2012-08-23:2012/08/23/ロックマン3オープニングのリミックス/</id><summary type="html">&lt;p&gt;完全に勢いで作りました&lt;br /&gt;
 &lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/57183065&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;p&gt;FireJam2012でもたぶんかけます！こちらもよろしくおねがいします&lt;br /&gt;
-&lt;a href="http://firejam.rosx.net/"&gt;http://firejam.rosx.net/&lt;/a&gt;&lt;/p&gt;</summary></entry><entry><title>コミケで曲出します！2 (8/11 西地区 “さ” 25b)</title><link href="http://blog.ca5.me/2012/08/09/%E3%82%B3%E3%83%9F%E3%82%B1%E3%81%A7%E6%9B%B2%E5%87%BA%E3%81%97%E3%81%BE%E3%81%99!2-811-%E8%A5%BF%E5%9C%B0%E5%8C%BA-%E3%81%95-25b/" rel="alternate"></link><updated>2012-08-09T23:25:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2012-08-09:2012/08/09/コミケで曲出します!2-811-西地区-さ-25b/</id><summary type="html">&lt;p&gt;今年もebi1000ブースで曲出します！&lt;br /&gt;
+&lt;a href="http://firejam.rosx.net/"&gt;http://firejam.rosx.net/&lt;/a&gt;&lt;/p&gt;</summary></entry><entry><title>コミケで曲出します！2 (8/11 西地区 “さ” 25b)</title><link href="https://blog.ca5.me/2012/08/09/%E3%82%B3%E3%83%9F%E3%82%B1%E3%81%A7%E6%9B%B2%E5%87%BA%E3%81%97%E3%81%BE%E3%81%99!2-811-%E8%A5%BF%E5%9C%B0%E5%8C%BA-%E3%81%95-25b/" rel="alternate"></link><updated>2012-08-09T23:25:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2012-08-09:2012/08/09/コミケで曲出します!2-811-西地区-さ-25b/</id><summary type="html">&lt;p&gt;今年もebi1000ブースで曲出します！&lt;br /&gt;
 (関連記事:&lt;a href="http://blog.ca54makske.com/?p=13167"&gt;コミケで曲出します！(8/11 西地区 “さ”
 25b&lt;/a&gt;))&lt;/p&gt;
 &lt;p&gt;&lt;a href="http://nkrn.bandcamp.com/"&gt;NKRN&lt;/a&gt;のアルバムも一部販売予定なので、&lt;br /&gt;
 M3でゲットし忘れた方もぜひお越しください！&lt;/p&gt;
-&lt;p&gt;場所は&lt;a href="http://twitcmap.jp/?id=0082-2-SAh-25-b"&gt;ここ&lt;/a&gt;&lt;/p&gt;</summary></entry><entry><title>コミケで曲出します！(8/11 西地区 "さ" 25b)</title><link href="http://blog.ca5.me/2012/08/08/%E3%82%B3%E3%83%9F%E3%82%B1%E3%81%A7%E6%9B%B2%E5%87%BA%E3%81%97%E3%81%BE%E3%81%99!811-%E8%A5%BF%E5%9C%B0%E5%8C%BA-%E3%81%95-25b/" rel="alternate"></link><updated>2012-08-08T23:29:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2012-08-08:2012/08/08/コミケで曲出します!811-西地区-さ-25b/</id><summary type="html">&lt;p&gt;今年もコミケのebi1000ブースでぼくの曲が収録されたCDがでます！&lt;/p&gt;
+&lt;p&gt;場所は&lt;a href="http://twitcmap.jp/?id=0082-2-SAh-25-b"&gt;ここ&lt;/a&gt;&lt;/p&gt;</summary></entry><entry><title>コミケで曲出します！(8/11 西地区 "さ" 25b)</title><link href="https://blog.ca5.me/2012/08/08/%E3%82%B3%E3%83%9F%E3%82%B1%E3%81%A7%E6%9B%B2%E5%87%BA%E3%81%97%E3%81%BE%E3%81%99!811-%E8%A5%BF%E5%9C%B0%E5%8C%BA-%E3%81%95-25b/" rel="alternate"></link><updated>2012-08-08T23:29:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2012-08-08:2012/08/08/コミケで曲出します!811-西地区-さ-25b/</id><summary type="html">&lt;p&gt;今年もコミケのebi1000ブースでぼくの曲が収録されたCDがでます！&lt;/p&gt;
 &lt;p&gt;場所は&lt;a href="http://twitcmap.jp/?id=0082-2-SAh-25-b"&gt;ここ&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;詳細はえびさんブログに載ってます&lt;br /&gt;
 &lt;a href="http://ebi1000.net/"&gt;http://ebi1000.net/&lt;/a&gt;&lt;/p&gt;
@@ -781,7 +781,7 @@ M3でゲットし忘れた方もぜひお越しください！&lt;/p&gt;
  05.戦い (maha-yuga remix) - maha-yuga&lt;br /&gt;
  06.ロボのテーマ (VRC6 remix) - suesett&lt;br /&gt;
  07.tokinouiro - ca5&lt;/p&gt;
-&lt;/blockquote&gt;</summary><category term="otherman"></category><category term="コミケ"></category></entry><entry><title>8/24,25,26 FIREJAM 2012</title><link href="http://blog.ca5.me/2012/07/23/8242526-firejam-2012/" rel="alternate"></link><updated>2012-07-23T22:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2012-07-23:2012/07/23/8242526-firejam-2012/</id><summary type="html">&lt;p&gt;来月こんなイベントに参加します&lt;/p&gt;
+&lt;/blockquote&gt;</summary><category term="otherman"></category><category term="コミケ"></category></entry><entry><title>8/24,25,26 FIREJAM 2012</title><link href="https://blog.ca5.me/2012/07/23/8242526-firejam-2012/" rel="alternate"></link><updated>2012-07-23T22:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2012-07-23:2012/07/23/8242526-firejam-2012/</id><summary type="html">&lt;p&gt;来月こんなイベントに参加します&lt;/p&gt;
 &lt;p&gt;&lt;a href="http://firejam.rosx.net/"&gt;http://firejam.rosx.net/&lt;br /&gt;
 &lt;/a&gt;  &lt;/p&gt;
 &lt;blockquote&gt;
@@ -796,7 +796,7 @@ M3でゲットし忘れた方もぜひお越しください！&lt;/p&gt;
 ということでどんな感じになるか自分でもあまり想像できてないですが&lt;br /&gt;
 楽しみです！&lt;/p&gt;
 &lt;p&gt;参加アーティスト一覧はこちら&lt;br /&gt;
-&lt;a href="http://firejam.rosx.net/info/artist/"&gt;http://firejam.rosx.net/info/artist/&lt;/a&gt;&lt;/p&gt;</summary></entry><entry><title>7/29 江ノレイブ</title><link href="http://blog.ca5.me/2012/07/22/729-%E6%B1%9F%E3%83%8E%E3%83%AC%E3%82%A4%E3%83%96-2/" rel="alternate"></link><updated>2012-07-22T23:48:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2012-07-22:2012/07/22/729-江ノレイブ-2/</id><summary type="html">&lt;p&gt;来週江ノ島でゲリラライブのようなイベントに参加します&lt;/p&gt;
+&lt;a href="http://firejam.rosx.net/info/artist/"&gt;http://firejam.rosx.net/info/artist/&lt;/a&gt;&lt;/p&gt;</summary></entry><entry><title>7/29 江ノレイブ</title><link href="https://blog.ca5.me/2012/07/22/729-%E6%B1%9F%E3%83%8E%E3%83%AC%E3%82%A4%E3%83%96-2/" rel="alternate"></link><updated>2012-07-22T23:48:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2012-07-22:2012/07/22/729-江ノレイブ-2/</id><summary type="html">&lt;p&gt;来週江ノ島でゲリラライブのようなイベントに参加します&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;7/29 enerave番外編「江ノレイブ」&lt;br /&gt;
 &lt;/strong&gt;&lt;br /&gt;
 &lt;a href="http://tweetvite.com/event/enorave0729%20"&gt;http://tweetvite.com/event/enorave0729&lt;br /&gt;
@@ -807,7 +807,7 @@ M3でゲットし忘れた方もぜひお越しください！&lt;/p&gt;
 発表予定です！&lt;/p&gt;
 &lt;p&gt;(追記)&lt;br /&gt;
 公式の告知サイトが出ました！場所詳細などはこちらに載ってます！&lt;br /&gt;
-&lt;a href="http://www.otherman-records.com/special/enorave/"&gt;http://www.otherman-records.com/special/enorave/&lt;/a&gt;&lt;/p&gt;</summary><category term="live"></category><category term="otherman"></category></entry><entry><title>あざまんしょー７</title><link href="http://blog.ca5.me/2012/05/13/%E3%81%82%E3%81%96%E3%81%BE%E3%82%93%E3%81%97%E3%82%87%E3%83%BC7/" rel="alternate"></link><updated>2012-05-13T02:21:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2012-05-13:2012/05/13/あざまんしょー7/</id><summary type="html">&lt;p&gt;明日・・・じゃないもう本日、ですね　あざまんしょー７に出ます!&lt;/p&gt;
+&lt;a href="http://www.otherman-records.com/special/enorave/"&gt;http://www.otherman-records.com/special/enorave/&lt;/a&gt;&lt;/p&gt;</summary><category term="live"></category><category term="otherman"></category></entry><entry><title>あざまんしょー７</title><link href="https://blog.ca5.me/2012/05/13/%E3%81%82%E3%81%96%E3%81%BE%E3%82%93%E3%81%97%E3%82%87%E3%83%BC7/" rel="alternate"></link><updated>2012-05-13T02:21:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2012-05-13:2012/05/13/あざまんしょー7/</id><summary type="html">&lt;p&gt;明日・・・じゃないもう本日、ですね　あざまんしょー７に出ます!&lt;/p&gt;
 &lt;p&gt;THE OTHERMAN SHOW 7&lt;br /&gt;
 &lt;a href="http://www.otherman-records.com/special/7/"&gt;http://www.otherman-records.com/special/7/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日はいつにもまして準備が悪い上に&lt;br /&gt;
@@ -822,13 +822,13 @@ M3でゲットし忘れた方もぜひお越しください！&lt;/p&gt;
  　　　　　　　`・+｡*・' ﾟ⊃ +ﾟ&lt;br /&gt;
  　　　　　　　☆　　 ∪\~ ｡*ﾟ&lt;br /&gt;
  　 　　　　　　`・+｡*・ ﾟ&lt;/p&gt;
-&lt;/blockquote&gt;</summary><category term="otherman"></category></entry><entry><title>明日(4/30)M3でます</title><link href="http://blog.ca5.me/2012/04/29/%E6%98%8E%E6%97%A5430m3%E3%81%A7%E3%81%BE%E3%81%99/" rel="alternate"></link><updated>2012-04-29T16:35:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2012-04-29:2012/04/29/明日430m3でます/</id><summary type="html">&lt;p&gt;また今回もNKRNでM3でます！&lt;br /&gt;
+&lt;/blockquote&gt;</summary><category term="otherman"></category></entry><entry><title>明日(4/30)M3でます</title><link href="https://blog.ca5.me/2012/04/29/%E6%98%8E%E6%97%A5430m3%E3%81%A7%E3%81%BE%E3%81%99/" rel="alternate"></link><updated>2012-04-29T16:35:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2012-04-29:2012/04/29/明日430m3でます/</id><summary type="html">&lt;p&gt;また今回もNKRNでM3でます！&lt;br /&gt;
 &lt;a href="http://www.m3net.jp/"&gt;音系・メディアミックス同人即売会 [M3]&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今回はボーカロイドがテーマのアルバムなので、&lt;br /&gt;
 初めてまともに鏡音を使って曲つくってみました。&lt;/p&gt;
 &lt;p&gt;今回ブースは 「ケ 07f」です。&lt;br /&gt;
 前回と同じく音出せるスペースなので、&lt;br /&gt;
-用意が間に合えばプチライブなんかもたぶんやります！&lt;/p&gt;</summary></entry><entry><title>【ライブ告知】proxy vol.2【4/28】</title><link href="http://blog.ca5.me/2012/04/04/%E3%80%90%E3%83%A9%E3%82%A4%E3%83%96%E5%91%8A%E7%9F%A5%E3%80%91proxy-vol-2%E3%80%90428%E3%80%91/" rel="alternate"></link><updated>2012-04-04T00:43:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2012-04-04:2012/04/04/【ライブ告知】proxy-vol-2【428】/</id><summary type="html">&lt;p&gt;こんなイベントにださせていただくことになりました！&lt;/p&gt;
+用意が間に合えばプチライブなんかもたぶんやります！&lt;/p&gt;</summary></entry><entry><title>【ライブ告知】proxy vol.2【4/28】</title><link href="https://blog.ca5.me/2012/04/04/%E3%80%90%E3%83%A9%E3%82%A4%E3%83%96%E5%91%8A%E7%9F%A5%E3%80%91proxy-vol-2%E3%80%90428%E3%80%91/" rel="alternate"></link><updated>2012-04-04T00:43:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2012-04-04:2012/04/04/【ライブ告知】proxy-vol-2【428】/</id><summary type="html">&lt;p&gt;こんなイベントにださせていただくことになりました！&lt;/p&gt;
 &lt;p&gt;&lt;a href="http://tokyomax.jp/?p=1804"&gt;http://tokyomax.jp/?p=1804&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Tokyo Max Users Group PRESENTS “proxy vol.2”&lt;/p&gt;
@@ -845,7 +845,7 @@ M3でゲットし忘れた方もぜひお越しください！&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;img alt="" src="http://tokyomax.jp/wp-content/uploads/2012/04/proxy.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;ちょうどM3直前なんで、M3に出す曲もきっとかけます&lt;br /&gt;
-きてね！&lt;/p&gt;</summary></entry><entry><title>今日(2/4)はドプマンショーです！ #dopeman_show</title><link href="http://blog.ca5.me/2012/02/04/%E4%BB%8A%E6%97%A524%E3%81%AF%E3%83%89%E3%83%97%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%BC%E3%81%A7%E3%81%99!%20dopeman_show/" rel="alternate"></link><updated>2012-02-04T00:37:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2012-02-04:2012/02/04/今日24はドプマンショーです! dopeman_show/</id><summary type="html">&lt;p&gt;今日はドピュ・・・じゃなかったドプマンショーです！&lt;/p&gt;
+きてね！&lt;/p&gt;</summary></entry><entry><title>今日(2/4)はドプマンショーです！ #dopeman_show</title><link href="https://blog.ca5.me/2012/02/04/%E4%BB%8A%E6%97%A524%E3%81%AF%E3%83%89%E3%83%97%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%BC%E3%81%A7%E3%81%99!%20dopeman_show/" rel="alternate"></link><updated>2012-02-04T00:37:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2012-02-04:2012/02/04/今日24はドプマンショーです! dopeman_show/</id><summary type="html">&lt;p&gt;今日はドピュ・・・じゃなかったドプマンショーです！&lt;/p&gt;
 &lt;p&gt;詳細は&lt;a href="http://blog.ca54makske.com/?p=9488"&gt;前回の記事&lt;/a&gt;にもありますが&lt;br /&gt;
 中野 HeavySickZeroでライブします&lt;br /&gt;
 &lt;a href="http://www.otherman-records.com/special/dopeman/%20"&gt;http://www.otherman-records.com/special/dopeman/&lt;br /&gt;
@@ -854,7 +854,7 @@ M3でゲットし忘れた方もぜひお越しください！&lt;/p&gt;
 ここで紹介させていただきます！&lt;/p&gt;
 &lt;p&gt;[DPMN001]THE DOPEMAN SHOW!&lt;br /&gt;
 &lt;a href="http://www.otherman-records.com/releases/DPMN001"&gt;http://www.otherman-records.com/releases/DPMN001&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;そしてまた今回も全然準備が終わってない・・・&lt;/p&gt;</summary></entry><entry><title>次のらいぶはNakano Heavysick Zeroでドプマンショー #dopeman_show</title><link href="http://blog.ca5.me/2012/01/21/%E6%AC%A1%E3%81%AE%E3%82%89%E3%81%84%E3%81%B6%E3%81%AFnakano-heavysick-zero%E3%81%A7%E3%83%89%E3%83%97%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%BC-dopeman_show/" rel="alternate"></link><updated>2012-01-21T23:41:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2012-01-21:2012/01/21/次のらいぶはnakano-heavysick-zeroでドプマンショー-dopeman_show/</id><summary type="html">&lt;p&gt;次は2/4にライブします！&lt;br /&gt;
+&lt;p&gt;そしてまた今回も全然準備が終わってない・・・&lt;/p&gt;</summary></entry><entry><title>次のらいぶはNakano Heavysick Zeroでドプマンショー #dopeman_show</title><link href="https://blog.ca5.me/2012/01/21/%E6%AC%A1%E3%81%AE%E3%82%89%E3%81%84%E3%81%B6%E3%81%AFnakano-heavysick-zero%E3%81%A7%E3%83%89%E3%83%97%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%BC-dopeman_show/" rel="alternate"></link><updated>2012-01-21T23:41:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2012-01-21:2012/01/21/次のらいぶはnakano-heavysick-zeroでドプマンショー-dopeman_show/</id><summary type="html">&lt;p&gt;次は2/4にライブします！&lt;br /&gt;
 例によってまた準備が全然できてｎ&lt;/p&gt;
 &lt;p&gt;THE DOPEMAN SHOW&lt;br /&gt;
 &lt;a href="http://www.otherman-records.com/special/dopeman/"&gt;http://www.otherman-records.com/special/dopeman/&lt;/a&gt;&lt;/p&gt;
@@ -867,7 +867,7 @@ M3でゲットし忘れた方もぜひお越しください！&lt;/p&gt;
 &lt;p&gt;&lt;img alt="" src="http://www.otherman-records.com/special/dopeman/images/flyer_omote.png" /&gt;  &lt;/p&gt;
 &lt;p&gt;&lt;img alt="" src="http://www.otherman-records.com/special/dopeman/images/flyer_ura.png" /&gt;&lt;/p&gt;
 &lt;p&gt;いつもやるライブより10分枠が長いんで&lt;br /&gt;
-出来ればいろいろ試してみようと思います！&lt;/p&gt;</summary><category term="otherman"></category></entry><entry><title>2011/12/11は The Otherman Show 6 !!!!!</title><link href="http://blog.ca5.me/2011/12/03/20111211%E3%81%AF-the-otherman-show-6/" rel="alternate"></link><updated>2011-12-03T00:24:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2011-12-03:2011/12/03/20111211は-the-otherman-show-6/</id><summary type="html">&lt;p&gt;来週の日曜日はまたライブをやりますー  &lt;/p&gt;
+出来ればいろいろ試してみようと思います！&lt;/p&gt;</summary><category term="otherman"></category></entry><entry><title>2011/12/11は The Otherman Show 6 !!!!!</title><link href="https://blog.ca5.me/2011/12/03/20111211%E3%81%AF-the-otherman-show-6/" rel="alternate"></link><updated>2011-12-03T00:24:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2011-12-03:2011/12/03/20111211は-the-otherman-show-6/</id><summary type="html">&lt;p&gt;来週の日曜日はまたライブをやりますー  &lt;/p&gt;
 &lt;p&gt;&lt;img alt="" src="http://www.otherman-records.com/images/events/theothermanshow6.jpg" /&gt;&lt;br /&gt;
 &lt;a href="http://www.otherman-records.com/events"&gt;http://www.otherman-records.com/events&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;quote&gt;&lt;br /&gt;
@@ -890,20 +890,20 @@ M3でゲットし忘れた方もぜひお越しください！&lt;/p&gt;
 &lt;quote&gt;&lt;/p&gt;
 &lt;p&gt;また acid panda cafeでやりますが、今度は渋谷です  &lt;/p&gt;
 &lt;p&gt;たぶん&lt;a href="http://blog.ca54makske.com/?p=7469"&gt;こんな&lt;/a&gt;ライブセットで今度は挑みます&lt;br /&gt;
-よろしく！&lt;/p&gt;</summary></entry><entry><title>10/30 M3にでます(試聴盤出ました)</title><link href="http://blog.ca5.me/2011/10/29/1030-m3%E3%81%AB%E3%81%A7%E3%81%BE%E3%81%99%E8%A9%A6%E8%81%B4%E7%9B%A4%E5%87%BA%E3%81%BE%E3%81%97%E3%81%9F/" rel="alternate"></link><updated>2011-10-29T11:35:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2011-10-29:2011/10/29/1030-m3にでます試聴盤出ました/</id><summary type="html">&lt;p&gt;こんどのM3で出すCDの試聴盤ができました！&lt;br /&gt;
+よろしく！&lt;/p&gt;</summary></entry><entry><title>10/30 M3にでます(試聴盤出ました)</title><link href="https://blog.ca5.me/2011/10/29/1030-m3%E3%81%AB%E3%81%A7%E3%81%BE%E3%81%99%E8%A9%A6%E8%81%B4%E7%9B%A4%E5%87%BA%E3%81%BE%E3%81%97%E3%81%9F/" rel="alternate"></link><updated>2011-10-29T11:35:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2011-10-29:2011/10/29/1030-m3にでます試聴盤出ました/</id><summary type="html">&lt;p&gt;こんどのM3で出すCDの試聴盤ができました！&lt;br /&gt;
 &lt;a href="http://nkrn.bandcamp.com/album/killer-9-nie-killer-nine-5"&gt;http://nkrn.bandcamp.com/album/killer-9-nie-killer-nine-5&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;ぼくがなんのリミックスしたかわからない人は当日本人まで。。ごにょごにょ&lt;/p&gt;</summary></entry><entry><title>10/30 M3にでます</title><link href="http://blog.ca5.me/2011/10/27/1030-m3%E3%81%AB%E3%81%A7%E3%81%BE%E3%81%99/" rel="alternate"></link><updated>2011-10-27T07:50:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2011-10-27:2011/10/27/1030-m3にでます/</id><summary type="html">&lt;p&gt;10/30にM3に出ます！&lt;br /&gt;
+&lt;p&gt;ぼくがなんのリミックスしたかわからない人は当日本人まで。。ごにょごにょ&lt;/p&gt;</summary></entry><entry><title>10/30 M3にでます</title><link href="https://blog.ca5.me/2011/10/27/1030-m3%E3%81%AB%E3%81%A7%E3%81%BE%E3%81%99/" rel="alternate"></link><updated>2011-10-27T07:50:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2011-10-27:2011/10/27/1030-m3にでます/</id><summary type="html">&lt;p&gt;10/30にM3に出ます！&lt;br /&gt;
 &lt;a href="http://www.m3net.jp/"&gt;http://www.m3net.jp/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今回もNKRN(ブースは「一展 う 06ｆ」)でゲームのリミックス出す予定です&lt;/p&gt;
 &lt;p&gt;過去のリリース分はこちらから聞けます&lt;br /&gt;
-&lt;a href="http://nkrn.bandcamp.com/"&gt;http://nkrn.bandcamp.com/&lt;/a&gt;&lt;/p&gt;</summary></entry><entry><title>コミケ二日目に出ます！ (東地区 イ-28 b)</title><link href="http://blog.ca5.me/2011/08/12/%E3%82%B3%E3%83%9F%E3%82%B1%E4%BA%8C%E6%97%A5%E7%9B%AE%E3%81%AB%E5%87%BA%E3%81%BE%E3%81%99!-%E6%9D%B1%E5%9C%B0%E5%8C%BA-%E3%82%A4-28-b/" rel="alternate"></link><updated>2011-08-12T23:18:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2011-08-12:2011/08/12/コミケ二日目に出ます!-東地区-イ-28-b/</id><summary type="html">&lt;p&gt;ebi1000さんのブースに&lt;br /&gt;
+&lt;a href="http://nkrn.bandcamp.com/"&gt;http://nkrn.bandcamp.com/&lt;/a&gt;&lt;/p&gt;</summary></entry><entry><title>コミケ二日目に出ます！ (東地区 イ-28 b)</title><link href="https://blog.ca5.me/2011/08/12/%E3%82%B3%E3%83%9F%E3%82%B1%E4%BA%8C%E6%97%A5%E7%9B%AE%E3%81%AB%E5%87%BA%E3%81%BE%E3%81%99!-%E6%9D%B1%E5%9C%B0%E5%8C%BA-%E3%82%A4-28-b/" rel="alternate"></link><updated>2011-08-12T23:18:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2011-08-12:2011/08/12/コミケ二日目に出ます!-東地区-イ-28-b/</id><summary type="html">&lt;p&gt;ebi1000さんのブースに&lt;br /&gt;
 ぼくのCDも置かせてもらうことになりました！&lt;/p&gt;
 &lt;p&gt;場所はこちらを参照&lt;br /&gt;
 http://t.co/hwyjZUT&lt;/p&gt;
 &lt;p&gt;今回持っていくCDは、&lt;br /&gt;
 まだリリースしてない新曲となってます&lt;br /&gt;
 まだCD焼いてすらいません！&lt;br /&gt;
-これからやります！実質徹夜です かーっ！&lt;/p&gt;</summary></entry><entry><title>あざまんしょー５</title><link href="http://blog.ca5.me/2011/08/07/%E3%81%82%E3%81%96%E3%81%BE%E3%82%93%E3%81%97%E3%82%87%E3%83%BC5/" rel="alternate"></link><updated>2011-08-07T01:39:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2011-08-07:2011/08/07/あざまんしょー5/</id><summary type="html">&lt;p&gt;今から準備大詰めだよ！今こんな気分だよ！&lt;/p&gt;
+これからやります！実質徹夜です かーっ！&lt;/p&gt;</summary></entry><entry><title>あざまんしょー５</title><link href="https://blog.ca5.me/2011/08/07/%E3%81%82%E3%81%96%E3%81%BE%E3%82%93%E3%81%97%E3%82%87%E3%83%BC5/" rel="alternate"></link><updated>2011-08-07T01:39:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2011-08-07:2011/08/07/あざまんしょー5/</id><summary type="html">&lt;p&gt;今から準備大詰めだよ！今こんな気分だよ！&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;初ライブ…ども…&lt;/p&gt;
 &lt;p&gt;俺みたいにライブの準備で夜更かししてる腐れ野郎、他に、いますかっていねーか、はは&lt;/p&gt;
@@ -916,13 +916,13 @@ http://t.co/hwyjZUT&lt;/p&gt;
  尊敬する人間　地獄のミサワ（ちんちんでっかいネタはNO）&lt;/p&gt;
 &lt;p&gt;なんつってる間に3時っすよ(笑)　あ～あ、社会人の辛いとこね、これ&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;http://www.otherman-records.com/events&lt;/p&gt;</summary><category term="otherman"></category></entry><entry><title>8/7はあざまんしょーC・a・5!</title><link href="http://blog.ca5.me/2011/07/15/87%E3%81%AF%E3%81%82%E3%81%96%E3%81%BE%E3%82%93%E3%81%97%E3%82%87%E3%83%BCc%E3%83%BBa%E3%83%BB5/" rel="alternate"></link><updated>2011-07-15T00:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2011-07-15:2011/07/15/87はあざまんしょーc・a・5/</id><summary type="html">&lt;p&gt;&lt;a href="http://www.otherman-records.com/events"&gt;http://www.otherman-records.com/events&lt;/a&gt;&lt;br /&gt;
+&lt;p&gt;http://www.otherman-records.com/events&lt;/p&gt;</summary><category term="otherman"></category></entry><entry><title>8/7はあざまんしょーC・a・5!</title><link href="https://blog.ca5.me/2011/07/15/87%E3%81%AF%E3%81%82%E3%81%96%E3%81%BE%E3%82%93%E3%81%97%E3%82%87%E3%83%BCc%E3%83%BBa%E3%83%BB5/" rel="alternate"></link><updated>2011-07-15T00:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2011-07-15:2011/07/15/87はあざまんしょーc・a・5/</id><summary type="html">&lt;p&gt;&lt;a href="http://www.otherman-records.com/events"&gt;http://www.otherman-records.com/events&lt;/a&gt;&lt;br /&gt;
 &lt;img alt="" src="http://www.otherman-records.com/images/events/theothermanshow5.png" /&gt;&lt;/p&gt;
 &lt;p&gt;またライブやります！あざまんしょー５です&lt;br /&gt;
 自由が丘のアシパンです！&lt;/p&gt;
 &lt;p&gt;今回はいつもの個人プレイにくわえて特別枠で&lt;br /&gt;
 east breaks in thousand, suesett　と３人で合同ユニットやります！&lt;/p&gt;
-&lt;p&gt;さーて今度はなにやろうかなぁ&lt;/p&gt;</summary></entry><entry><title>M3出てました &amp; 5/14にライブやります</title><link href="http://blog.ca5.me/2011/05/01/m3%E5%87%BA%E3%81%A6%E3%81%BE%E3%81%97%E3%81%9F-514%E3%81%AB%E3%83%A9%E3%82%A4%E3%83%96%E3%82%84%E3%82%8A%E3%81%BE%E3%81%99/" rel="alternate"></link><updated>2011-05-01T23:49:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2011-05-01:2011/05/01/m3出てました-514にライブやります/</id><summary type="html">&lt;h3&gt;M3でてました&lt;/h3&gt;
+&lt;p&gt;さーて今度はなにやろうかなぁ&lt;/p&gt;</summary></entry><entry><title>M3出てました &amp; 5/14にライブやります</title><link href="https://blog.ca5.me/2011/05/01/m3%E5%87%BA%E3%81%A6%E3%81%BE%E3%81%97%E3%81%9F-514%E3%81%AB%E3%83%A9%E3%82%A4%E3%83%96%E3%82%84%E3%82%8A%E3%81%BE%E3%81%99/" rel="alternate"></link><updated>2011-05-01T23:49:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2011-05-01:2011/05/01/m3出てました-514にライブやります/</id><summary type="html">&lt;h3&gt;M3でてました&lt;/h3&gt;
 &lt;p&gt;準備がギリギリになってしまって告知すっかり忘れてましたが、&lt;br /&gt;
 5/1のM3参加していました！&lt;br /&gt;
 &lt;br /&gt;
@@ -932,13 +932,13 @@ M3は終わっちゃいましたが、曲自体は下記のサイトで視聴で
 &lt;p&gt;2011/5/14(土)に早稲田の茶箱でライブやります！&lt;/p&gt;
 &lt;p&gt;&lt;a href="http://www.otherman-records.com/events"&gt;http://www.otherman-records.com/events&lt;/a&gt;&lt;br /&gt;
 &lt;img alt="" src="http://www.otherman-records.com/images/events/theothermanshow4.png" /&gt;&lt;/p&gt;
-&lt;p&gt;まだ何も準備してない！やばい！&lt;/p&gt;</summary><category term="otherman"></category></entry><entry><title>【NKRN】M3に出ます！</title><link href="http://blog.ca5.me/2010/10/30/%E3%80%90nkrn%E3%80%91m3%E3%81%AB%E5%87%BA%E3%81%BE%E3%81%99!/" rel="alternate"></link><updated>2010-10-30T10:07:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2010-10-30:2010/10/30/【nkrn】m3に出ます!/</id><summary type="html">&lt;p&gt;明日のM3で曲出します！&lt;br /&gt;
+&lt;p&gt;まだ何も準備してない！やばい！&lt;/p&gt;</summary><category term="otherman"></category></entry><entry><title>【NKRN】M3に出ます！</title><link href="https://blog.ca5.me/2010/10/30/%E3%80%90nkrn%E3%80%91m3%E3%81%AB%E5%87%BA%E3%81%BE%E3%81%99!/" rel="alternate"></link><updated>2010-10-30T10:07:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2010-10-30:2010/10/30/【nkrn】m3に出ます!/</id><summary type="html">&lt;p&gt;明日のM3で曲出します！&lt;br /&gt;
 http://www.m3net.jp/&lt;/p&gt;
 &lt;p&gt;サークル名はNKRN&lt;br /&gt;
 2Fの「カ049」です&lt;br /&gt;
 http://www.nkrn.net/&lt;/p&gt;
 &lt;p&gt;もしかしたらここにしかない特典もあるかも？&lt;br /&gt;
-是非是非おこしください&lt;/p&gt;</summary><category term="NKRN"></category><category term="otherman"></category></entry><entry><title>今日は14時から The Otherman Show#2</title><link href="http://blog.ca5.me/2010/07/04/%E4%BB%8A%E6%97%A5%E3%81%AF14%E6%99%82%E3%81%8B%E3%82%89-the-otherman-show2/" rel="alternate"></link><updated>2010-07-04T00:39:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2010-07-04:2010/07/04/今日は14時から-the-otherman-show2/</id><summary type="html">&lt;p&gt;えー　まだまだ準備中でありますが&lt;br /&gt;
+是非是非おこしください&lt;/p&gt;</summary><category term="NKRN"></category><category term="otherman"></category></entry><entry><title>今日は14時から The Otherman Show#2</title><link href="https://blog.ca5.me/2010/07/04/%E4%BB%8A%E6%97%A5%E3%81%AF14%E6%99%82%E3%81%8B%E3%82%89-the-otherman-show2/" rel="alternate"></link><updated>2010-07-04T00:39:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2010-07-04:2010/07/04/今日は14時から-the-otherman-show2/</id><summary type="html">&lt;p&gt;えー　まだまだ準備中でありますが&lt;br /&gt;
 7/4 14時は自由が丘のアシッドパンダカフェにぜひぜひ起こし下さい！&lt;/p&gt;
 &lt;p&gt;地図（クリックで拡大）:  &lt;/p&gt;
 &lt;p&gt;&lt;a href="http://tweetphoto.com/30531207"&gt;&lt;img alt="" src="http://cdn.cloudfiles.mosso.com/c54112/x2_1d1de87" /&gt;&lt;/a&gt;&lt;/p&gt;
@@ -961,7 +961,7 @@ http://www.nkrn.net/&lt;/p&gt;
 &lt;/quote&gt;&lt;/p&gt;
 &lt;p&gt;ちなみに明日はこんなライブセットでやります  &lt;/p&gt;
 &lt;p&gt;&lt;a href="http://tweetphoto.com/30484087"&gt;&lt;img alt="" src="http://cdn.cloudfiles.mosso.com/c54112/x2_1d12677" /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;ではでは&lt;/p&gt;</summary><category term="otherman"></category></entry><entry><title>2/7はライブです</title><link href="http://blog.ca5.me/2010/01/31/27%E3%81%AF%E3%83%A9%E3%82%A4%E3%83%96%E3%81%A7%E3%81%99/" rel="alternate"></link><updated>2010-01-31T23:22:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2010-01-31:2010/01/31/27はライブです/</id><summary type="html">&lt;p&gt;しつこいようですが2/7(日)はライブです&lt;br /&gt;
+&lt;p&gt;ではでは&lt;/p&gt;</summary><category term="otherman"></category></entry><entry><title>2/7はライブです</title><link href="https://blog.ca5.me/2010/01/31/27%E3%81%AF%E3%83%A9%E3%82%A4%E3%83%96%E3%81%A7%E3%81%99/" rel="alternate"></link><updated>2010-01-31T23:22:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2010-01-31:2010/01/31/27はライブです/</id><summary type="html">&lt;p&gt;しつこいようですが2/7(日)はライブです&lt;br /&gt;
 公式サイト:&lt;br /&gt;
 &lt;a href="http://www.otherman-records.com/index.html"&gt;http://www.otherman-records.com/index.html&lt;/a&gt;  &lt;/p&gt;
 &lt;p&gt;ぼくは一切楽器を使わず打ち込みだけで曲を作ってる（＝楽器弾けない）ので、&lt;br /&gt;
@@ -977,7 +977,7 @@ http://www.nkrn.net/&lt;/p&gt;
 原曲に強く気に入ったフレーズがある曲ばかりなので&lt;br /&gt;
 その場で予想外な音の出方がすると、なんだか楽しいんですよね。&lt;br /&gt;
 という訳で今回はたぶんネタ多めで。&lt;br /&gt;
-あ、もちろんオリジナルの曲も流しますよ。&lt;/p&gt;</summary></entry><entry><title>【ライブ告知】 The Otherman show 【2/7】</title><link href="http://blog.ca5.me/2010/01/16/%E3%80%90%E3%83%A9%E3%82%A4%E3%83%96%E5%91%8A%E7%9F%A5%E3%80%91-the-otherman-show-%E3%80%9027%E3%80%91/" rel="alternate"></link><updated>2010-01-16T18:54:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2010-01-16:2010/01/16/【ライブ告知】-the-otherman-show-【27】/</id><summary type="html">&lt;p&gt;twitterでは自動で毎朝告知させてますが、&lt;br /&gt;
+あ、もちろんオリジナルの曲も流しますよ。&lt;/p&gt;</summary></entry><entry><title>【ライブ告知】 The Otherman show 【2/7】</title><link href="https://blog.ca5.me/2010/01/16/%E3%80%90%E3%83%A9%E3%82%A4%E3%83%96%E5%91%8A%E7%9F%A5%E3%80%91-the-otherman-show-%E3%80%9027%E3%80%91/" rel="alternate"></link><updated>2010-01-16T18:54:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2010-01-16:2010/01/16/【ライブ告知】-the-otherman-show-【27】/</id><summary type="html">&lt;p&gt;twitterでは自動で毎朝告知させてますが、&lt;br /&gt;
 2/7にライブやります！&lt;br /&gt;
 The Otherman Show&lt;br /&gt;
 2010.02.07 (SUN) 14:00 - 18:00 1,000yen&lt;br /&gt;
@@ -989,11 +989,11 @@ at 自由が丘 Acid Panda Cafe&lt;br /&gt;
 
 &lt;p&gt;&lt;small&gt;&lt;a href="http://maps.google.co.jp/maps?f=q&amp;amp;source=embed&amp;amp;hl=ja&amp;amp;geocode=&amp;amp;q=%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%98+Acid+Panda+Cafe&amp;amp;sll=35.608058,139.669849&amp;amp;sspn=0.001184,0.001808&amp;amp;brcurrent=3,0x6018f51ffaabe6af:0xcf08054efa6a55fa,0&amp;amp;ie=UTF8&amp;amp;hq=Acid+Panda+Cafe&amp;amp;hnear=%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%98%E9%A7%85%EF%BC%88%E6%9D%B1%E4%BA%AC%EF%BC%89&amp;amp;ll=35.607968,139.669766&amp;amp;spn=0.006295,0.006295"&gt;大きな地図で見る&lt;/a&gt;&lt;/small&gt;&lt;br /&gt;
 ちなみにまだ準備が整ってません&lt;br /&gt;
-まぁなんとかなる。。&lt;/p&gt;</summary></entry><entry><title>coreKrave終了！</title><link href="http://blog.ca5.me/2008/04/09/corekrave%E7%B5%82%E4%BA%86!/" rel="alternate"></link><updated>2008-04-09T01:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2008-04-09:2008/04/09/corekrave終了!/</id><summary type="html">&lt;p&gt;お疲れ様でした！&lt;br /&gt;
+まぁなんとかなる。。&lt;/p&gt;</summary></entry><entry><title>coreKrave終了！</title><link href="https://blog.ca5.me/2008/04/09/corekrave%E7%B5%82%E4%BA%86!/" rel="alternate"></link><updated>2008-04-09T01:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2008-04-09:2008/04/09/corekrave終了!/</id><summary type="html">&lt;p&gt;お疲れ様でした！&lt;br /&gt;
 だいぶ失敗してしまいましたが。。&lt;br /&gt;
 dust君がかなりかっこよかったです&lt;/p&gt;
 &lt;p&gt;demoCDは1曲目が新曲（曲名はまだ無い）で、&lt;br /&gt;
-他はすでに公開してる曲となってます&lt;/p&gt;</summary></entry><entry><title>coreKrave (4/6)</title><link href="http://blog.ca5.me/2008/03/29/corekrave-46/" rel="alternate"></link><updated>2008-03-29T16:38:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2008-03-29:2008/03/29/corekrave-46/</id><summary type="html">&lt;p&gt;&lt;span class="mt-enclosure mt-enclosure-image"
+他はすでに公開してる曲となってます&lt;/p&gt;</summary></entry><entry><title>coreKrave (4/6)</title><link href="https://blog.ca5.me/2008/03/29/corekrave-46/" rel="alternate"></link><updated>2008-03-29T16:38:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2008-03-29:2008/03/29/corekrave-46/</id><summary type="html">&lt;p&gt;&lt;span class="mt-enclosure mt-enclosure-image"
 style="display: inline;"&gt;&lt;img alt="flyer20080406.jpg" src="http://ca5z.info/blog/images/flyer20080406.jpg" /&gt;&lt;/span&gt;&lt;br /&gt;
 coreKrave 参加するよー&lt;/p&gt;
 &lt;p&gt;•公式サイト　&lt;br /&gt;
