@@ -6,7 +6,7 @@ facebook-sdk==0.4.0
 feedgenerator==1.7
 ghp-import==0.4.1
 Jinja2==2.7.3
-lxml==3.4.4
+lxml==4.6.2
 macholib==1.7
 Markdown==2.6.2
 MarkupSafe==0.23
