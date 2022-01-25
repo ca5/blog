@@ -5,29 +5,36 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://blog.ca5.me/</loc>
-<lastmod>2020-12-28T17:08:37-00:00</lastmod>
+<lastmod>2022-01-25T20:36:48-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://blog.ca5.me/archives.html</loc>
-<lastmod>2020-12-28T17:08:37-00:00</lastmod>
+<lastmod>2022-01-25T20:36:48-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://blog.ca5.me/tags.html</loc>
-<lastmod>2020-12-28T17:08:37-00:00</lastmod>
+<lastmod>2022-01-25T20:36:48-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://blog.ca5.me/categories.html</loc>
-<lastmod>2020-12-28T17:08:37-00:00</lastmod>
+<lastmod>2022-01-25T20:36:48-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://blog.ca5.me/2022/01/25/linernotes/</loc>
+<lastmod>2022-01-25T20:00:00+09:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -40,13 +47,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://blog.ca5.me/2020/08/16/neotrellis/</loc>
-<lastmod>2020-08-16T19:00:00+09:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://blog.ca5.me/2020/08/16/neotrellis2/</loc>
 <lastmod>2020-08-16T19:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
@@ -2749,7 +2749,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://blog.ca5.me/category/create.html</loc>
-<lastmod>2020-12-13T23:30:00+09:00</lastmod>
+<lastmod>2022-01-25T20:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -3323,7 +3323,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://blog.ca5.me/tag/esctrax.html</loc>
-<lastmod>2017-04-05T01:00:00+09:00</lastmod>
+<lastmod>2022-01-25T20:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -3729,7 +3729,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://blog.ca5.me/author/ca5.html</loc>
-<lastmod>2020-12-13T23:30:00+09:00</lastmod>
+<lastmod>2022-01-25T20:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>

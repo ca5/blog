@@ -62,19 +62,7 @@ Arduinoを開いて
 &lt;p&gt;で一応音がちゃんと出るんですが、&lt;br /&gt;
 ボタンが光らないんですよね。。。&lt;br /&gt;
 これは NeopixelっていうLEDリボンを外付けしたときに光らせるものだったのかな。。互換性があるのかと思ったが。。  &lt;/p&gt;
-&lt;p&gt;もうちょっと色々いじってみます。&lt;/p&gt;</summary><category term="chiptune"></category><category term="chipbreak"></category></entry><entry><title>NeoTrellisで遊ぶ 続き</title><link href="https://blog.ca5.me/2020/08/16/neotrellis2/" rel="alternate"></link><updated>2020-08-16T19:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2020-08-16:2020/08/16/neotrellis2/</id><summary type="html">&lt;p&gt;前回の続き
-今度は CircuitPython の環境を整えて、&lt;br /&gt;
-pythonでサンプルコードを書いたり動かしたりします。&lt;/p&gt;
-&lt;h2&gt;めちゃくちゃいいまとめサイトがあった&lt;/h2&gt;
-&lt;p&gt;なんかもう全部まとまってます。&lt;br /&gt;
-困ったらここ見ればOK&lt;br /&gt;
-https://www.devdungeon.com/content/neotrellis-m4-circuitpy-tutorial-adabox-010&lt;/p&gt;
-&lt;h2&gt;CircuitPython のインストール&lt;/h2&gt;
-&lt;p&gt;https://www.devdungeon.com/content/neotrellis-m4-circuitpy-tutorial-adabox-010#toc-19&lt;/p&gt;
-&lt;h2&gt;&lt;/h2&gt;
-&lt;p&gt;screen /dev/tty.usbmodem14401  115200&lt;/p&gt;
-&lt;h2&gt;4.x最後&lt;/h2&gt;
-&lt;p&gt;https://github.com/adafruit/Adafruit_CircuitPython_Bundle/releases/tag/20200707&lt;/p&gt;</summary><category term="chiptune"></category><category term="chipbreak"></category></entry><entry><title>【LIVE】2019/7,8,9月のライブ予定</title><link href="https://blog.ca5.me/2019/07/20/2019_summer_live/" rel="alternate"></link><updated>2019-07-20T23:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2019-07-20:2019/07/20/2019_summer_live/</id><summary type="html">&lt;p&gt;夏のライブ出演情報が出揃いましたので告知します!&lt;/p&gt;
+&lt;p&gt;もうちょっと色々いじってみます。&lt;/p&gt;</summary><category term="chiptune"></category><category term="chipbreak"></category></entry><entry><title>【LIVE】2019/7,8,9月のライブ予定</title><link href="https://blog.ca5.me/2019/07/20/2019_summer_live/" rel="alternate"></link><updated>2019-07-20T23:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2019-07-20:2019/07/20/2019_summer_live/</id><summary type="html">&lt;p&gt;夏のライブ出演情報が出揃いましたので告知します!&lt;/p&gt;
 &lt;h2&gt;2019/7/27 Technique Vol.102 (ふぷほ出演)&lt;/h2&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;Technique Vol. 102  
 2019/7/27(sat)@BE-WAVE 18:00-23:00 2000yen/1D 
