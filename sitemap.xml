@@ -5,29 +5,36 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://blog.ca5.me/</loc>
-<lastmod>2022-01-25T20:36:48-00:00</lastmod>
+<lastmod>2023-02-18T12:31:46-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://blog.ca5.me/archives.html</loc>
-<lastmod>2022-01-25T20:36:48-00:00</lastmod>
+<lastmod>2023-02-18T12:31:46-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://blog.ca5.me/tags.html</loc>
-<lastmod>2022-01-25T20:36:48-00:00</lastmod>
+<lastmod>2023-02-18T12:31:46-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://blog.ca5.me/categories.html</loc>
-<lastmod>2022-01-25T20:36:48-00:00</lastmod>
+<lastmod>2023-02-18T12:31:46-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://blog.ca5.me/2023/02/15/tobox/</loc>
+<lastmod>2023-02-15T20:00:00+09:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -2756,7 +2763,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://blog.ca5.me/category/event.html</loc>
-<lastmod>2019-02-13T22:00:00+09:00</lastmod>
+<lastmod>2023-02-15T20:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -3274,7 +3281,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://blog.ca5.me/tag/chiptune.html</loc>
-<lastmod>2020-12-13T23:30:00+09:00</lastmod>
+<lastmod>2023-02-15T20:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -3358,7 +3365,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://blog.ca5.me/tag/live.html</loc>
-<lastmod>2018-09-23T21:00:00+09:00</lastmod>
+<lastmod>2023-02-15T20:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -3729,7 +3736,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://blog.ca5.me/author/ca5.html</loc>
-<lastmod>2022-01-25T20:00:00+09:00</lastmod>
+<lastmod>2023-02-15T20:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
