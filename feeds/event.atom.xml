@@ -1,5 +1,114 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>ca5blog</title><link href="https://blog.ca5.me/" rel="alternate"></link><link href="https://blog.ca5.me/feeds/event.atom.xml" rel="self"></link><id>https://blog.ca5.me/</id><updated>2023-02-15T20:00:00+09:00</updated><entry><title>【LIVE】2023 TOBOX Release Party</title><link href="https://blog.ca5.me/2023/02/15/tobox/" rel="alternate"></link><updated>2023-02-15T20:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2023-02-15:2023/02/15/tobox/</id><summary type="html">&lt;p&gt;またしばらく更新忘れてて空いてしまいましたが、&lt;br /&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>ca5blog</title><link href="https://blog.ca5.me/" rel="alternate"></link><link href="https://blog.ca5.me/feeds/event.atom.xml" rel="self"></link><id>https://blog.ca5.me/</id><updated>2023-06-25T23:59:00+09:00</updated><entry><title>Liveセットを新しくしました</title><link href="https://blog.ca5.me/2023/06/25/live_set_renewal/" rel="alternate"></link><updated>2023-06-25T23:59:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2023-06-25:2023/06/25/live_set_renewal/</id><summary type="html">&lt;p&gt;準備に追われていてブログの方では告知できていませんでしたが&lt;br /&gt;
+先日、赤帯さん主催の「Handhelds' Meetup!」というイベントに出演させていただきました。&lt;/p&gt;
+&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="ja" dir="ltr"&gt;「Handhelds&amp;#39; Meetup!」本日、13時開場・開演予定です。&lt;br&gt;会場の高円寺Fourth Floor IIは高円寺駅南口方面、業務スーパー近くのビル地下一階。&lt;br&gt;会場内外での感染防止のため、マスク着用にご協力よろしくお願いいたします。&lt;br&gt;タグは &lt;a href="https://twitter.com/hashtag/HMVOL1?src=hash&amp;amp;ref_src=twsrc%5Etfw"&gt;#HMVOL1&lt;/a&gt; をお使いください。&lt;br&gt;お待ちしております！ &lt;a href="https://t.co/uOJaWiZer2"&gt;https://t.co/uOJaWiZer2&lt;/a&gt; &lt;a href="https://t.co/QqTc0KrJaW"&gt;pic.twitter.com/QqTc0KrJaW&lt;/a&gt;&lt;/p&gt;&amp;mdash; 赤帯 Takashi Kawano (@aka_obi) &lt;a href="https://twitter.com/aka_obi/status/1672376382847082496?ref_src=twsrc%5Etfw"&gt;June 23, 2023&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;小型携帯機器=ハンドヘルドでのライブというのがテーマというとても面白いコンセプトのイベントで、&lt;br /&gt;
+出演者としても観客としても存分に楽しんで来ました。  &lt;/p&gt;
+&lt;p&gt;その中で、ここ1-2ヶ月くらいで急にライブの仕組みを整えたので&lt;br /&gt;
+自分で諸々忘れないようにというメモの意味も兼ねて解説をしたいと思います。&lt;/p&gt;
+&lt;h2&gt;構想&lt;/h2&gt;
+&lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/9ItFkaIudx0?start=1527" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;今までこんな形で、ドラムのパートのシーケンスをその場でいじるようなライブセットを&lt;br /&gt;
+Max For Liveの自作のプラグインで実現していました。&lt;br /&gt;
+内部的には各拍ごとに対応したDelayが挟まっていて、それらをBPMと同期しながら切り替えて演奏しています。&lt;/p&gt;
+&lt;p&gt;iOSがAUプラグインに対応した時から、いつかこのライブの環境をiPhoneに移植できたらいいなとずっと思っていました
+&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="ja" dir="ltr"&gt;AUv3でて3年くらいたったのに全然浸透してない気がする。&lt;br&gt;そろそろライブするのにラップトップも持ち歩かなくていい時代が来ても良さそうなもんなのに。&lt;/p&gt;&amp;mdash; かご@6/24 Handhelds&amp;#39; Meetup! (@Ca5) &lt;a href="https://twitter.com/Ca5/status/1174683049167974402?ref_src=twsrc%5Etfw"&gt;September 19, 2019&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+この頃も色々試してたんですが、うまいことAUv3をフルフルに活かせる母艦となるソフトが少なかったように見えます。&lt;/p&gt;
+&lt;p&gt;今回必要に駆られてもうちょっと真面目に探してみると、それなりになんとかなることがわかりました。&lt;/p&gt;
+&lt;h2&gt;実働環境&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;iPhone 13 mini&lt;/li&gt;
+&lt;li&gt;AUM (メインのミキサー + 音源再生 + AUプラグイン母艦)&lt;ul&gt;
+&lt;li&gt;ドラムのシーケンス&lt;ul&gt;
+&lt;li&gt;Mozaic (MIDI制御)&lt;/li&gt;
+&lt;li&gt;Drambo (ドラムパートの再生)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;各種エフェクト&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;TouchOSC (コントローラー)  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;iPhone 13 mini&lt;/h3&gt;
+&lt;p&gt;特に何もいじってない普通のiPhoneです。&lt;br /&gt;
+14からminiのラインナップが無くなって次どうしようかな。。と思ってましたが、&lt;br /&gt;
+今回ライブの機材として使ってからはもうちょっと大きくてもいいな。。と思うようになりました。&lt;/p&gt;
+&lt;h3&gt;AUM&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://apps.apple.com/id/app/aum-audio-mixer/id1055636344"&gt;
+https://apps.apple.com/id/app/aum-audio-mixer/id1055636344
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;iPhoneのアプリとしてはちょっと躊躇する価格ですが、DAWみたいなもんだと思うと相当お値打ちな素晴らしいアプリです。  &lt;/p&gt;
+&lt;p&gt;あらかじめDAWでパートごとに繋げておいたWAVをここで再生し、&lt;br /&gt;
+各種エフェクトをかけます。&lt;/p&gt;
+&lt;h3&gt;ドラムのシーケンス&lt;/h3&gt;
+&lt;h4&gt;Mozaic&lt;/h4&gt;
+&lt;p&gt;&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="ja" dir="ltr"&gt;iPhone上でライブ環境完結させようとしてますが、ここで直接スクリプト書くのはまあまあしんどい &lt;a href="https://t.co/S5UClaPxN1"&gt;pic.twitter.com/S5UClaPxN1&lt;/a&gt;&lt;/p&gt;&amp;mdash; かご@6/24 Handhelds&amp;#39; Meetup! (@Ca5) &lt;a href="https://twitter.com/Ca5/status/1668945322020864000?ref_src=twsrc%5Etfw"&gt;June 14, 2023&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://apps.apple.com/jp/app/mozaic-plugin-workshop/id1457962653"&gt;
+https://apps.apple.com/jp/app/mozaic-plugin-workshop/id1457962653
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;MIDIの入出力を独自の形式のスクリプトで制御できるプラグインです。&lt;br /&gt;
+本当は後述するDramboで完結させたかったんですが、ちょっと断念してこちらのプラグインの力を借りることとしました。&lt;br /&gt;
+自由度が高いのと、イベントハンドリングもきっちり揃っていて機能的には申し分ないんですが&lt;br /&gt;
+如何せんiPhone上でスクリプトを書き込むのが結構つらいです。&lt;/p&gt;
+&lt;p&gt;今回は、midiコントローラーのノートを1/2拍単位で受け付ける制御と、 
+コントローラー側に再生位置と本来シーケンすをいじらなかったときの元の位置の両方を返すのに使っています。&lt;/p&gt;
+&lt;h4&gt;Drambo&lt;/h4&gt;
+&lt;p&gt;&lt;blockquote class="twitter-tweet" data-conversation="none"&gt;&lt;p lang="ja" dir="ltr"&gt;もーちょいなんだよな &lt;a href="https://t.co/2cSh4tm23K"&gt;pic.twitter.com/2cSh4tm23K&lt;/a&gt;&lt;/p&gt;&amp;mdash; かご@6/24 Handhelds&amp;#39; Meetup! (@Ca5) &lt;a href="https://twitter.com/Ca5/status/1668971969667284993?ref_src=twsrc%5Etfw"&gt;June 14, 2023&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://apps.apple.com/jp/app/drambo/id1469365718"&gt;
+https://apps.apple.com/jp/app/drambo/id1469365718
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;モジュラーシンセみたいなプラグインです。
+これは使いこなせばかなり色んなことができると思います。&lt;/p&gt;
+&lt;p&gt;今回は、ドラムのシーケンス用に1/2拍ずつずらしたDelayを16個並べて、
+Mozaicから受け取ったとおりに鳴らすことで、今までの仕組みに近いものを実現しています&lt;/p&gt;
+&lt;h4&gt;TouchOSC&lt;/h4&gt;
+&lt;p&gt;&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="ja" dir="ltr"&gt;いつものヤツを更にtouchoscで実装&lt;br&gt;一旦機能的にはここまでかな。。 &lt;a href="https://t.co/l4GnwCyJyL"&gt;pic.twitter.com/l4GnwCyJyL&lt;/a&gt;&lt;/p&gt;&amp;mdash; かご@6/24 Handhelds&amp;#39; Meetup! (@Ca5) &lt;a href="https://twitter.com/Ca5/status/1670821963353427968?ref_src=twsrc%5Etfw"&gt;June 19, 2023&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://apps.apple.com/jp/app/touchosc/id1569996730"&gt;
+https://apps.apple.com/jp/app/touchosc/id1569996730
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;MIDIコンを自由にデザインして作れるアプリです。
+旧バージョン(mk1)からずっとお世話になっているアプリですが、&lt;br /&gt;
+現行版は各要素のデフォルトの挙動に加え、Luaでスクリプトを書いて挙動を制御出来るより玄人向けな仕上がりとなっています。&lt;/p&gt;
+&lt;h2&gt;問題点&lt;/h2&gt;
+&lt;p&gt;大体今まで通りライブできるようになったんですが、2点ほど問題点が&lt;/p&gt;
+&lt;h3&gt;1.ドラムのシーケンスの位置によっては音質が悪い&lt;/h3&gt;
+&lt;p&gt;DramboのDelayが最大1拍なのですが、今回の仕組みだと1/2拍 x 16 = 8拍必要なので&lt;br /&gt;
+仕方なく3個目以降はDelayを数珠つなぎにしています。&lt;br /&gt;
+そうなると、後半はだんだん音が劣化してしまって 15,16個目あたりはフィルタが掛かったような音に。。&lt;br /&gt;
+Dramboさん、Delayの最大拍数もっと増やしてくれませんかね。。。&lt;/p&gt;
+&lt;h3&gt;2.たまに一部が落ちる&lt;/h3&gt;
+&lt;p&gt;今回のライブでは問題なかったですが、稀にDramboがクラッシュします。&lt;br /&gt;
+AUMではクラッシュ直前の各プラグインの設定を保持してくれないので、&lt;br /&gt;
+プラグインのリロードをすると設定がまっさらな状態で始まります。。&lt;/p&gt;
+&lt;p&gt;各プラグインごとの設定を別途保存できるので、それで一応最悪の事態にはならないです。&lt;/p&gt;
+&lt;h3&gt;3.プロジェクト全体を通したBPM同期ができない&lt;/h3&gt;
+&lt;p&gt;今までは母艦がAbleton Liveだったので&lt;br /&gt;
+途中でBPMの違う曲を入れても正確に追従することができたんですが、&lt;br /&gt;
+AUMのファイルプレイヤーにはそういう機能はなく、最初に設定したBPMのまま同期が進みます。&lt;br /&gt;
+今回はMozaicのLFO向けの機能で任意のBPMのタイマーをセットすることで途中でBPMを変える対応をしましたが、&lt;br /&gt;
+手動でBPMのセットと拍の頭出しがどうしても必要になります。&lt;/p&gt;
+&lt;h3&gt;4.発熱&lt;/h3&gt;
+&lt;p&gt;端末を充電しながら実装してると大体こういうことになります
+&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="ja" dir="ltr"&gt;明日のライブはこいつとの戦いです &lt;a href="https://t.co/KnC7y6iSd7"&gt;pic.twitter.com/KnC7y6iSd7&lt;/a&gt;&lt;/p&gt;&amp;mdash; かご@6/24 Handhelds&amp;#39; Meetup! (@Ca5) &lt;a href="https://twitter.com/Ca5/status/1672132913364897792?ref_src=twsrc%5Etfw"&gt;June 23, 2023&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;h2&gt;所感など&lt;/h2&gt;
+&lt;p&gt;一旦以上で大体やりたかったことをiPhone上で再現してライブに至りましたが、&lt;br /&gt;
+個人的にはあまりこの構成お勧めしにくいです。 &lt;/p&gt;
+&lt;p&gt;今回は今まで作ってきたものの再現だったので、&lt;br /&gt;
+あらかじめロジック等がわかった状態での環境構築でしたが&lt;br /&gt;
+試行錯誤するにはこの環境は扱いづらいです。&lt;br /&gt;
+プロトタイプ的なものを作るならやっぱり素直にMaxなどを使うのが良いと思います。&lt;/p&gt;
+&lt;p&gt;また、思ったより色んなアプリに頼る形になってしまったので、&lt;br /&gt;
+今後これらのアップデート状況を追わないといけないことになります。
+ライブ当日にどこかのアプリがアップデートして挙動が変わる。。なんてことになりかねません。&lt;/p&gt;
+&lt;p&gt;こういうところは、やっぱり専用のハードや枯れ切った端末・環境には敵わないなと思います。&lt;/p&gt;
+&lt;p&gt;音質問題は今の仕様だとちょっと難しいので、しばらくはアレンジの幅を狭める形でカバーとなると思います。&lt;/p&gt;
+&lt;p&gt;それにしても、iPhoneで完結できる事による恩恵は大きいです。&lt;br /&gt;
+荷物も少なくて済みますし、通勤中に練習できます。&lt;/p&gt;
+&lt;p&gt;最後に、自分と同じでTouchOSC + AUMでライブセットを仕込んでるすごい例を貼って締めとしたいと思います。&lt;br /&gt;
+これはどうやって作ってるのか本当に全然わからない。。。&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/5AQoYbGA6AM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="live"></category><category term="chiptune"></category></entry><entry><title>【LIVE】2023 TOBOX Release Party</title><link href="https://blog.ca5.me/2023/02/15/tobox/" rel="alternate"></link><updated>2023-02-15T20:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2023-02-15:2023/02/15/tobox/</id><summary type="html">&lt;p&gt;またしばらく更新忘れてて空いてしまいましたが、&lt;br /&gt;
 久々にライブします&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://twipla.jp/events/542886"&gt;TOBOX Release Party In Sapporo&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Venue: Plastic Theater @plastictheater&lt;br /&gt;
