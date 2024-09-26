@@ -1,4 +1,4 @@
-name: CI
+name: deploy
 
 on: [push]
 
@@ -9,9 +9,16 @@ jobs:
     
     steps:
     - uses: actions/checkout@master
-    - name: Run a one-line script
-      run: echo Hello, world!
-    - name: Run a multi-line script
+    - name: python2 version
+      run: python --version
+    - name: python3 version
+      run: python3 --version
+    - name: apt
+      run: sudo apt-get update
+    - name: pip base install
       run: |
-        echo Add other actions to build,
-        echo test, and deploy your project.
+        pip install wheel
+    - name: setup
+      run: pip install -r requirements.txt
+    - name: run
+      run: make
