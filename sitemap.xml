@@ -5,29 +5,36 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://blog.ca5.me/</loc>
-<lastmod>2023-06-26T22:57:28-00:00</lastmod>
+<lastmod>2025-10-29T22:11:56-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://blog.ca5.me/archives.html</loc>
-<lastmod>2023-06-26T22:57:28-00:00</lastmod>
+<lastmod>2025-10-29T22:11:56-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://blog.ca5.me/tags.html</loc>
-<lastmod>2023-06-26T22:57:28-00:00</lastmod>
+<lastmod>2025-10-29T22:11:56-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://blog.ca5.me/categories.html</loc>
-<lastmod>2023-06-26T22:57:28-00:00</lastmod>
+<lastmod>2025-10-29T22:11:56-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://blog.ca5.me/2025/10/29/repl8-esctrax-10th-anniversary/</loc>
+<lastmod>2025-10-29T20:00:00+09:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -2770,7 +2777,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://blog.ca5.me/category/event.html</loc>
-<lastmod>2023-06-25T23:59:00+09:00</lastmod>
+<lastmod>2025-10-29T20:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -3106,7 +3113,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://blog.ca5.me/tag/electronica.html</loc>
-<lastmod>2013-06-22T00:17:00+09:00</lastmod>
+<lastmod>2025-10-29T20:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -3252,6 +3259,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://blog.ca5.me/tag/repl8.html</loc>
+<lastmod>2025-10-29T20:00:00+09:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>https://blog.ca5.me/tag/tuan-zi.html</loc>
 <lastmod>2010-06-12T09:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
@@ -3288,7 +3302,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://blog.ca5.me/tag/chiptune.html</loc>
-<lastmod>2023-06-25T23:59:00+09:00</lastmod>
+<lastmod>2025-10-29T20:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -3337,7 +3351,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://blog.ca5.me/tag/esctrax.html</loc>
-<lastmod>2022-01-25T20:00:00+09:00</lastmod>
+<lastmod>2025-10-29T20:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -3372,7 +3386,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://blog.ca5.me/tag/live.html</loc>
-<lastmod>2023-06-25T23:59:00+09:00</lastmod>
+<lastmod>2025-10-29T20:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -3694,7 +3708,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://blog.ca5.me/tag/breakcore.html</loc>
-<lastmod>2016-01-11T21:30:00+09:00</lastmod>
+<lastmod>2025-10-29T20:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -3743,7 +3757,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://blog.ca5.me/author/ca5.html</loc>
-<lastmod>2023-06-25T23:59:00+09:00</lastmod>
+<lastmod>2025-10-29T20:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
