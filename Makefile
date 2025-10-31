@@ -65,22 +65,15 @@ regenerate:
 
 serve:
 ifdef PORT
-	cd $(OUTPUTDIR) && $(PY) -m pelican.server $(PORT)
+	$(PELICAN) -r $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS) --listen --port $(PORT)
 else
-	cd $(OUTPUTDIR) && $(PY) -m pelican.server
+	$(PELICAN) -r $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS) --listen
 endif
 
-devserver:
-ifdef PORT
-	$(BASEDIR)/develop_server.sh restart $(PORT)
-else
-	$(BASEDIR)/develop_server.sh restart
-endif
+devserver: serve
 
 stopserver:
-	kill -9 `cat pelican.pid`
-	kill -9 `cat srv.pid`
-	@echo 'Stopped Pelican and SimpleHTTPServer processes running in background.'
+	@echo "Pelican's development server runs in the foreground and can be stopped with Ctrl-C."
 
 publish:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
