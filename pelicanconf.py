@@ -58,7 +58,7 @@ USE_PAGER = True
 
 
 # Plugin
-PLUGIN_PATHS = ["plugins", "./pelican/plugins"]
+PLUGIN_PATHS = ["plugins"]
 
 ## Plugin-Sitemap
 PLUGINS = ['sitemap']#,'sns']
