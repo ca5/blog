@@ -15,13 +15,13 @@
 
         <meta name="author" content="Ca5" />
         <meta name="keywords" content="android,debian,PyAudio,python" />
-        <meta name="description" content="家に使ってないAndroid端末があったんで、 Debian化してpython入れて音出せるかどうか試してみました。 結論から言うと全然うまくいかないんですが。 対象端末: ・Galaxy Tab(SC-01C) → 中古で購入した時点ですでに JK2 FroyoのRoot化ROMが焼いてあったっぽい → バージョンは2.2 Froyo Debianのinstall この記事を参考に、Debian kitを使ってDebianを入れます http://gihyo.jp/admin/serial/01/ubuntu-recipe/0256?page=3 Debian入れると言っても完全にOS焼きなおすんじゃなくて、 chrootな環境が出来上がるだけってもののようです。 基本的にはAndroid端末にDebian kitと何か端末シミュレータをいれて上記の記事にそってインストールしていっただけ。 OSが入って、debコマンドで環境起動したら、その後の作業が楽になるようにssh serverを入れておきます [bash] apt-get install openssh-server [/bash] その後の作業は外部からこの端末にsshして色々いじっていく pythonとかpyenvとか pyenv入れる前に以下をapt-get installしておく 参考：https://github.com/yyuu/pyenv ..." />
+        <meta name="description" content="家に使ってないAndroid端末があったんで、 Debian化してpython入れて音出せるかどうか試してみました。 結論から言うと全然うまくいかないんですが。 対象端末: ・Galaxy Tab(SC-01C) → 中古で購入した時点ですでに …" />
 
         <meta property="og:site_name" content="ca5blog" />
         <meta property="og:type" content="article"/>
         <meta property="og:title" content="Android端末と Debian kitと PyAudio"/>
         <meta property="og:url" content="https://blog.ca5.me/2014/05/04/androiddebian-kit-pyaudio/"/>
-        <meta property="og:description" content="家に使ってないAndroid端末があったんで、 Debian化してpython入れて音出せるかどうか試してみました。 結論から言うと全然うまくいかないんですが。 対象端末: ・Galaxy Tab(SC-01C) → 中古で購入した時点ですでに JK2 FroyoのRoot化ROMが焼いてあったっぽい → バージョンは2.2 Froyo Debianのinstall この記事を参考に、Debian kitを使ってDebianを入れます http://gihyo.jp/admin/serial/01/ubuntu-recipe/0256?page=3 Debian入れると言っても完全にOS焼きなおすんじゃなくて、 chrootな環境が出来上がるだけってもののようです。 基本的にはAndroid端末にDebian kitと何か端末シミュレータをいれて上記の記事にそってインストールしていっただけ。 OSが入って、debコマンドで環境起動したら、その後の作業が楽になるようにssh serverを入れておきます [bash] apt-get install openssh-server [/bash] その後の作業は外部からこの端末にsshして色々いじっていく pythonとかpyenvとか pyenv入れる前に以下をapt-get installしておく 参考：https://github.com/yyuu/pyenv ..."/>
+        <meta property="og:description" content="家に使ってないAndroid端末があったんで、 Debian化してpython入れて音出せるかどうか試してみました。 結論から言うと全然うまくいかないんですが。 対象端末: ・Galaxy Tab(SC-01C) → 中古で購入した時点ですでに …"/>
         <meta property="article:published_time" content="2014-05-04" />
             <meta property="article:section" content="create" />
             <meta property="article:tag" content="android" />
@@ -113,7 +113,7 @@ ca5blog            </a>
 <footer class="post-info">
     <span class="label label-default">Date</span>
     <span class="published">
-        <i class="fa fa-calendar"></i><time datetime="2014-05-04T22:30:00+09:00"> 日 04 5月 2014</time>
+        <i class="fa fa-calendar"></i><time datetime="2014-05-04T22:30:00+09:00"> Sun 04 May 2014</time>
     </span>
 
 
@@ -129,118 +129,118 @@ ca5blog            </a>
     
 </footer><!-- /.post-info -->                    </div>
                 </div>
-                <p>家に使ってないAndroid端末があったんで、<br />
-Debian化してpython入れて音出せるかどうか試してみました。<br />
+                <p>家に使ってないAndroid端末があったんで、<br>
+Debian化してpython入れて音出せるかどうか試してみました。<br>
 結論から言うと全然うまくいかないんですが。</p>
-<p>対象端末:<br />
-・Galaxy Tab(SC-01C)<br />
-→ 中古で購入した時点ですでに JK2 FroyoのRoot化ROMが焼いてあったっぽい<br />
+<p>対象端末:<br>
+・Galaxy Tab(SC-01C)<br>
+→ 中古で購入した時点ですでに JK2 FroyoのRoot化ROMが焼いてあったっぽい<br>
 　→ バージョンは2.2 Froyo</p>
 <h2>Debianのinstall</h2>
-<p>この記事を参考に、Debian kitを使ってDebianを入れます<br />
-<a href="http://gihyo.jp/admin/serial/01/ubuntu-recipe/0256?page=3">http://gihyo.jp/admin/serial/01/ubuntu-recipe/0256?page=3<br />
-</a><br />
-Debian入れると言っても完全にOS焼きなおすんじゃなくて、<br />
+<p>この記事を参考に、Debian kitを使ってDebianを入れます<br>
+<a href="http://gihyo.jp/admin/serial/01/ubuntu-recipe/0256?page=3">http://gihyo.jp/admin/serial/01/ubuntu-recipe/0256?page=3<br>
+</a><br>
+Debian入れると言っても完全にOS焼きなおすんじゃなくて、<br>
 chrootな環境が出来上がるだけってもののようです。</p>
 <p>基本的にはAndroid端末にDebian
 kitと何か端末シミュレータをいれて上記の記事にそってインストールしていっただけ。  </p>
 <p>OSが入って、debコマンドで環境起動したら、その後の作業が楽になるようにssh
 serverを入れておきます</p>
-<p>[bash]<br />
-apt-get install openssh-server<br />
+<p>[bash]<br>
+apt-get install openssh-server<br>
 [/bash]</p>
 <p>その後の作業は外部からこの端末にsshして色々いじっていく</p>
 <h2>pythonとかpyenvとか</h2>
-<p>pyenv入れる前に以下をapt-get installしておく<br />
-参考：<a href="https://github.com/yyuu/pyenv/wiki/Common-build-problems">https://github.com/yyuu/pyenv/wiki/Common-build-problems<br />
-</a><br />
-[bash]<br />
-git<br />
-make<br />
-build-essential<br />
-libssl-dev<br />
-zlib1g-dev<br />
-libbz2-dev<br />
-libreadline-dev<br />
-libsqlite3-dev<br />
-wget<br />
-curl<br />
-llvm<br />
+<p>pyenv入れる前に以下をapt-get installしておく<br>
+参考：<a href="https://github.com/yyuu/pyenv/wiki/Common-build-problems">https://github.com/yyuu/pyenv/wiki/Common-build-problems<br>
+</a><br>
+[bash]<br>
+git<br>
+make<br>
+build-essential<br>
+libssl-dev<br>
+zlib1g-dev<br>
+libbz2-dev<br>
+libreadline-dev<br>
+libsqlite3-dev<br>
+wget<br>
+curl<br>
+llvm<br>
 [/bash]</p>
-<p>pyenvをレポジトリのREADMEに沿ってインストール<br />
+<p>pyenvをレポジトリのREADMEに沿ってインストール<br>
 <a href="https://github.com/yyuu/pyenv">https://github.com/yyuu/pyenv</a></p>
-<p>pythonのインストールと環境設定<br />
-[bash]<br />
-pyenv install 2.7.6<br />
-pyenv local 2.7.6<br />
+<p>pythonのインストールと環境設定<br>
+[bash]<br>
+pyenv install 2.7.6<br>
+pyenv local 2.7.6<br>
 [/bash]</p>
 <h2>PyAudioとportaudio</h2>
-<p>PyAudioはportaudioのpython wrapper版<br />
+<p>PyAudioはportaudioのpython wrapper版<br>
 http://people.csail.mit.edu/hubert/pyaudio/</p>
-<p>portaudioは各OSのaudio apiをwrapしたAPI<br />
+<p>portaudioは各OSのaudio apiをwrapしたAPI<br>
 http://portaudio.com/docs/v19-doxydocs/api_overview.html</p>
-<p>PyAudio入れる前に、aptでportaudio v19を入れておく<br />
-[bash]<br />
-portaudio19-dev<br />
-libportaudio-dev<br />
+<p>PyAudio入れる前に、aptでportaudio v19を入れておく<br>
+[bash]<br>
+portaudio19-dev<br>
+libportaudio-dev<br>
 [/bash]</p>
-<p>PyAudioのインストール<br />
-[bash]<br />
+<p>PyAudioのインストール<br>
+[bash]<br>
 pip install --allow-external PyAudio --allow-unverified PyAudio
-PyAudio<br />
-[/bash]<br />
+PyAudio<br>
+[/bash]<br>
 この長ったらしいオプション指定なんとかならんのか。。</p>
 <h2>動作チェック</h2>
-<p>PyAudio本家のサンプルをそのままコピって動かしてみる<br />
+<p>PyAudio本家のサンプルをそのままコピって動かしてみる<br>
 http://people.csail.mit.edu/hubert/pyaudio/</p>
-<p>[python]<br />
+<p>[python]<br>
 """PyAudio Example: Play a WAVE file."""</p>
-<p>import pyaudio<br />
-import wave<br />
+<p>import pyaudio<br>
+import wave<br>
 import sys</p>
 <p>CHUNK = 1024</p>
-<p>if len(sys.argv) \&lt; 2:<br />
-print("Plays a wave file.\n\nUsage: %s filename.wav" % sys.argv[0])<br />
+<p>if len(sys.argv) \&lt; 2:<br>
+print("Plays a wave file.\n\nUsage: %s filename.wav" % sys.argv[0])<br>
 sys.exit(-1)</p>
 <p>wf = wave.open(sys.argv[1], 'rb')</p>
 <p>p = pyaudio.PyAudio()</p>
-<p>stream = p.open(format=p.get_format_from_width(wf.getsampwidth()),<br />
-channels=wf.getnchannels(),<br />
-rate=wf.getframerate(),<br />
+<p>stream = p.open(format=p.get_format_from_width(wf.getsampwidth()),<br>
+channels=wf.getnchannels(),<br>
+rate=wf.getframerate(),<br>
 output=True)</p>
 <p>data = wf.readframes(CHUNK)</p>
-<p>while data != '':<br />
-stream.write(data)<br />
+<p>while data != '':<br>
+stream.write(data)<br>
 data = wf.readframes(CHUNK)</p>
-<p>stream.stop_stream()<br />
+<p>stream.stop_stream()<br>
 stream.close()</p>
-<p>p.terminate()<br />
+<p>p.terminate()<br>
 [/python]</p>
-<p>実行<br />
-[bash]<br />
-\$ python ./soundtest.py amen.wav<br />
-Traceback (most recent call last):<br />
-File "./soundtest.py", line 22, in \&lt;module><br />
-output=True)<br />
+<p>実行<br>
+[bash]<br>
+\$ python ./soundtest.py amen.wav<br>
+Traceback (most recent call last):<br>
+File "./soundtest.py", line 22, in \&lt;module&gt;<br>
+output=True)<br>
 File
 "/home/ca5/.pyenv/versions/2.7.6/lib/python2.7/site-packages/pyaudio.py",
-line 747, in open<br />
-stream = Stream(self, *args, **kwargs)<br />
+line 747, in open<br>
+stream = Stream(self, *args, **kwargs)<br>
 File
 "/home/ca5/.pyenv/versions/2.7.6/lib/python2.7/site-packages/pyaudio.py",
-line 442, in __init__<br />
-self._stream = pa.open(**arguments)<br />
+line 442, in __init__<br>
+self._stream = pa.open(**arguments)<br>
 IOError: [Errno Invalid output device (no default output
-device)] -9996<br />
+device)] -9996<br>
 [/bash]</p>
 <p>わー　デバイスが認識されてねー</p>
-<p>別途、portaudioのサンプルも動かしてみたんですがやっぱりダメ<br />
+<p>別途、portaudioのサンプルも動かしてみたんですがやっぱりダメ<br>
 portaudioが使うaudioAPIが対応してないと思われる。</p>
-<p>Android側のバージョンあげたらportaudioが使えるってどこかの記事で見かけたんで<br />
+<p>Android側のバージョンあげたらportaudioが使えるってどこかの記事で見かけたんで<br>
 次はOS上げて再チャレンジか</p>
 <h2>参考</h2>
 <p>http://stackoverflow.com/questions/5921947/pyaudio-installation-error-command-gcc-failed-with-exit-status-1</p>
-<p>ここ見るとportaudioでOpenSL使えそう？<br />
+<p>ここ見るとportaudioでOpenSL使えそう？<br>
 http://www.gizmodo.jp/2012/07/android_osjelly_bean.html</p>
 <p>http://stackoverflow.com/questions/4672155/pyaudio-ioerror-no-default-input-device-available</p>
             </div>
@@ -295,506 +295,6 @@ http://www.gizmodo.jp/2012/07/android_osjelly_bean.html</p>
 
             <li class="list-group-item"><a href="https://blog.ca5.me/"><h4><i class="fa fa-tags fa-lg"></i><span class="icon-label">Tags</span></h4></a>
                 <ul class="list-group " id="tags">
-                    <li class="list-group-item tag-1">
-                        <a href="https://blog.ca5.me/tag/breakcore.html">
-                            breakcore
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-1">
-                        <a href="https://blog.ca5.me/tag/chipbreak.html">
-                            chipbreak
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-1">
-                        <a href="https://blog.ca5.me/tag/ramen.html">
-                            ラーメン
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-1">
-                        <a href="https://blog.ca5.me/tag/chiptune.html">
-                            chiptune
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-1">
-                        <a href="https://blog.ca5.me/tag/maxmsp.html">
-                            max/msp
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-1">
-                        <a href="https://blog.ca5.me/tag/otherman.html">
-                            otherman
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-1">
-                        <a href="https://blog.ca5.me/tag/live.html">
-                            live
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-2">
-                        <a href="https://blog.ca5.me/tag/suitsu.html">
-                            スイーツ
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-2">
-                        <a href="https://blog.ca5.me/tag/kahue.html">
-                            カフェ
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-2">
-                        <a href="https://blog.ca5.me/tag/touchosc.html">
-                            touchosc
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-2">
-                        <a href="https://blog.ca5.me/tag/fl.html">
-                            FL
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-2">
-                        <a href="https://blog.ca5.me/tag/lsdj.html">
-                            LSDJ
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-2">
-                        <a href="https://blog.ca5.me/tag/remix.html">
-                            remix
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-2">
-                        <a href="https://blog.ca5.me/tag/hanbaga.html">
-                            ハンバーガー
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-2">
-                        <a href="https://blog.ca5.me/tag/mashup.html">
-                            mashup
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-2">
-                        <a href="https://blog.ca5.me/tag/mac.html">
-                            mac
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-2">
-                        <a href="https://blog.ca5.me/tag/jiao-zi.html">
-                            餃子
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-2">
-                        <a href="https://blog.ca5.me/tag/ipad.html">
-                            iPad
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-2">
-                        <a href="https://blog.ca5.me/tag/esctrax.html">
-                            esctrax
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-2">
-                        <a href="https://blog.ca5.me/tag/m3.html">
-                            M3
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-2">
-                        <a href="https://blog.ca5.me/tag/nkrn.html">
-                            NKRN
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-2">
-                        <a href="https://blog.ca5.me/tag/iphone.html">
-                            iPhone
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-3">
-                        <a href="https://blog.ca5.me/tag/arduino.html">
-                            arduino
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-3">
-                        <a href="https://blog.ca5.me/tag/vol4.html">
-                            vol4
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-3">
-                        <a href="https://blog.ca5.me/tag/he-guo-zi.html">
-                            和菓子
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-3">
-                        <a href="https://blog.ca5.me/tag/liu-ben-mu.html">
-                            六本木
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-3">
-                        <a href="https://blog.ca5.me/tag/python.html">
-                            python
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-3">
-                        <a href="https://blog.ca5.me/tag/ohao-mishao-ki.html">
-                            お好み焼き
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-3">
-                        <a href="https://blog.ca5.me/tag/blocks.html">
-                            blocks
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-3">
-                        <a href="https://blog.ca5.me/tag/tailiao-li.html">
-                            タイ料理
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-3">
-                        <a href="https://blog.ca5.me/tag/er-lang.html">
-                            二郎
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-3">
-                        <a href="https://blog.ca5.me/tag/android.html">
-                            android
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-3">
-                        <a href="https://blog.ca5.me/tag/kinect.html">
-                            kinect
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-3">
-                        <a href="https://blog.ca5.me/tag/wordpress.html">
-                            wordpress
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-3">
-                        <a href="https://blog.ca5.me/tag/ba.html">
-                            バー
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-3">
-                        <a href="https://blog.ca5.me/tag/debian.html">
-                            debian
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-3">
-                        <a href="https://blog.ca5.me/tag/keki.html">
-                            ケーキ
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-3">
-                        <a href="https://blog.ca5.me/tag/midi.html">
-                            midi
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-3">
-                        <a href="https://blog.ca5.me/tag/tsukemian.html">
-                            つけ麺
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-3">
-                        <a href="https://blog.ca5.me/tag/nerdcore.html">
-                            nerdcore
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-3">
-                        <a href="https://blog.ca5.me/tag/rayou.html">
-                            ラー油
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-3">
-                        <a href="https://blog.ca5.me/tag/pyaudio.html">
-                            PyAudio
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-3">
-                        <a href="https://blog.ca5.me/tag/dopeup.html">
-                            dopeup
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-3">
-                        <a href="https://blog.ca5.me/tag/electronica.html">
-                            electronica
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-3">
-                        <a href="https://blog.ca5.me/tag/raibu.html">
-                            ライブ
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-3">
-                        <a href="https://blog.ca5.me/tag/kohi.html">
-                            コーヒー
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-3">
-                        <a href="https://blog.ca5.me/tag/lu-xing.html">
-                            旅行
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-3">
-                        <a href="https://blog.ca5.me/tag/pitiful-pip-puppet.html">
-                            pitiful pip puppet
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="https://blog.ca5.me/tag/yoyo.html">
-                            ヨーヨー
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="https://blog.ca5.me/tag/niu-tan.html">
-                            牛タン
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="https://blog.ca5.me/tag/supaidama.html">
-                            スパイダーマ
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="https://blog.ca5.me/tag/donatsu.html">
-                            ドーナツ
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="https://blog.ca5.me/tag/midines.html">
-                            MIDINES
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="https://blog.ca5.me/tag/fu-shi-shan.html">
-                            富士山
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="https://blog.ca5.me/tag/game.html">
-                            game
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="https://blog.ca5.me/tag/ilremote.html">
-                            ILRemote
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="https://blog.ca5.me/tag/tuan-zi.html">
-                            団子
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="https://blog.ca5.me/tag/bo.html">
-                            柏
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="https://blog.ca5.me/tag/lion.html">
-                            lion
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="https://blog.ca5.me/tag/blipfestival.html">
-                            blipfestival
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="https://blog.ca5.me/tag/azialiao-li.html">
-                            アジア料理
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="https://blog.ca5.me/tag/wen-ju.html">
-                            文具
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="https://blog.ca5.me/tag/katsupumian.html">
-                            カップ麺
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="https://blog.ca5.me/tag/pelican.html">
-                            pelican
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="https://blog.ca5.me/tag/qiao-mai.html">
-                            蕎麦
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="https://blog.ca5.me/tag/hai.html">
-                            海
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="https://blog.ca5.me/tag/jitter.html">
-                            jitter
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="https://blog.ca5.me/tag/soundcloud.html">
-                            soundcloud
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="https://blog.ca5.me/tag/wu-fan-tian.html">
-                            五反田
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="https://blog.ca5.me/tag/lua.html">
-                            Lua
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="https://blog.ca5.me/tag/iamas.html">
-                            IAMAS
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="https://blog.ca5.me/tag/shirasujing.html">
-                            しらす丼
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="https://blog.ca5.me/tag/hoge.html">
-                            hoge
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="https://blog.ca5.me/tag/osc.html">
-                            osc
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="https://blog.ca5.me/tag/gapao.html">
-                            ガパオ
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="https://blog.ca5.me/tag/tun-kimuchi.html">
-                            豚キムチ
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="https://blog.ca5.me/tag/renoise.html">
-                            renoise
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="https://blog.ca5.me/tag/ubuntu.html">
-                            ubuntu
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="https://blog.ca5.me/tag/webaudio.html">
-                            webaudio
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="https://blog.ca5.me/tag/amen.html">
-                            amen
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="https://blog.ca5.me/tag/wei-cheng.html">
-                            味噌
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="https://blog.ca5.me/tag/windowslivemesh.html">
-                            WindowsLiveMesh
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="https://blog.ca5.me/tag/8081netlabel.html">
-                            8081netlabel
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="https://blog.ca5.me/tag/fuga.html">
-                            fuga
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="https://blog.ca5.me/tag/zhong-hua.html">
-                            中華
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="https://blog.ca5.me/tag/kakihurai.html">
-                            カキフライ
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="https://blog.ca5.me/tag/shao-rou.html">
-                            焼肉
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="https://blog.ca5.me/tag/repl8.html">
-                            REPL8
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="https://blog.ca5.me/tag/.html">
-                            
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="https://blog.ca5.me/tag/webmidi.html">
-                            webmidi
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="https://blog.ca5.me/tag/ge-bing.html">
-                            葛餅
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="https://blog.ca5.me/tag/xi-di-wa.html">
-                            西荻窪
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="https://blog.ca5.me/tag/beatmania.html">
-                            beatmania
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="https://blog.ca5.me/tag/bleep-love.html">
-                            bleep-love
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="https://blog.ca5.me/tag/biru.html">
-                            ビール
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="https://blog.ca5.me/tag/joypad.html">
-                            joypad
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="https://blog.ca5.me/tag/komike.html">
-                            コミケ
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="https://blog.ca5.me/tag/karemian.html">
-                            カレー麺
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="https://blog.ca5.me/tag/gamepad.html">
-                            gamepad
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4">
-                        <a href="https://blog.ca5.me/tag/korotsuke.html">
-                            コロッケ
-                        </a>
-                    </li>
                 </ul>
             </li>
     </ul>

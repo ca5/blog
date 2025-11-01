@@ -1,24 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>ca5blog</title><link href="https://blog.ca5.me/" rel="alternate"></link><link href="https://blog.ca5.me/feeds/release.atom.xml" rel="self"></link><id>https://blog.ca5.me/</id><updated>2020-08-16T19:00:00+09:00</updated><entry><title>NeoTrellisで遊ぶ</title><link href="https://blog.ca5.me/2020/08/16/neotrellis/" rel="alternate"></link><updated>2020-08-16T19:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2020-08-16:2020/08/16/neotrellis/</id><summary type="html">&lt;p&gt;my new gear... が増えたので&lt;br /&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>ca5blog - release</title><link href="https://blog.ca5.me/" rel="alternate"/><link href="https://blog.ca5.me/feeds/release.atom.xml" rel="self"/><id>https://blog.ca5.me/</id><updated>2020-08-16T19:00:00+09:00</updated><entry><title>NeoTrellisで遊ぶ</title><link href="https://blog.ca5.me/2020/08/16/neotrellis/" rel="alternate"/><published>2020-08-16T19:00:00+09:00</published><updated>2020-08-16T19:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2020-08-16:/2020/08/16/neotrellis/</id><summary type="html">&lt;p&gt;my new gear... が増えたので&lt;br&gt;
 備忘録的に久々にブログにまとめました&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.adafruit.com/product/3938"&gt;https://www.adafruit.com/product/3938&lt;/a&gt;&lt;br /&gt;
-最近教えてもらった NeoTrellis が結構いけてそうだったので衝動買いしてしまいました。&lt;br /&gt;
-あまり正体はよくわかってないんですが、最初からボタンやらイヤホンジャックが付いてるTeensy互換ボード、ってところでしょうか?&lt;br /&gt;
+&lt;p&gt;&lt;a href="https://www.adafruit.com/product/3938"&gt;https://www.adafruit.com/product/3938&lt;/a&gt;&lt;br&gt;
+最近教えてもらった NeoTrellis が結構いけてそうだったので衝動買いし …&lt;/p&gt;</summary><content type="html">&lt;p&gt;my new gear... が増えたので&lt;br&gt;
+備忘録的に久々にブログにまとめました&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.adafruit.com/product/3938"&gt;https://www.adafruit.com/product/3938&lt;/a&gt;&lt;br&gt;
+最近教えてもらった NeoTrellis が結構いけてそうだったので衝動買いしてしまいました。&lt;br&gt;
+あまり正体はよくわかってないんですが、最初からボタンやらイヤホンジャックが付いてるTeensy互換ボード、ってところでしょうか?&lt;br&gt;
 以下使ってみたメモ&lt;/p&gt;
 &lt;h2&gt;マニュアル&lt;/h2&gt;
-&lt;p&gt;まずここがこのキットのマニュアル全てっぽいです&lt;br /&gt;
-最初ここ見てなくて色々つまずいた&lt;br /&gt;
+&lt;p&gt;まずここがこのキットのマニュアル全てっぽいです&lt;br&gt;
+最初ここ見てなくて色々つまずいた&lt;br&gt;
 &lt;a href="https://learn.adafruit.com/adafruit-neotrellis-m4/overview"&gt;https://learn.adafruit.com/adafruit-neotrellis-m4/overview&lt;/a&gt;  &lt;/p&gt;
 &lt;h2&gt;組み立て&lt;/h2&gt;
-&lt;p&gt;全部ここに書いてます。&lt;br /&gt;
-&lt;a href="https://learn.adafruit.com/adafruit-neotrellis-m4/assembly"&gt;https://learn.adafruit.com/adafruit-neotrellis-m4/assembly&lt;/a&gt;&lt;br /&gt;
-・・・が、ネジは裏から入れるのがおすすめです。&lt;br /&gt;
-上から入れると、裏に貼るゴムの高さが足りなくて滑り止めになってくれませんでした。&lt;br /&gt;
+&lt;p&gt;全部ここに書いてます。&lt;br&gt;
+&lt;a href="https://learn.adafruit.com/adafruit-neotrellis-m4/assembly"&gt;https://learn.adafruit.com/adafruit-neotrellis-m4/assembly&lt;/a&gt;&lt;br&gt;
+・・・が、ネジは裏から入れるのがおすすめです。&lt;br&gt;
+上から入れると、裏に貼るゴムの高さが足りなくて滑り止めになってくれませんでした。&lt;br&gt;
 自分が頼んだときの部品の問題かもしれないですが。&lt;/p&gt;
 &lt;h2&gt;ブートローダーの更新&lt;/h2&gt;
-&lt;p&gt;ここのとおりに進めます&lt;br /&gt;
+&lt;p&gt;ここのとおりに進めます&lt;br&gt;
 &lt;a href="https://learn.adafruit.com/adafruit-neotrellis-m4/update-the-uf2-bootloader"&gt;https://learn.adafruit.com/adafruit-neotrellis-m4/update-the-uf2-bootloader&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;ブートローダー自体はここからDL&lt;br /&gt;
+&lt;p&gt;ブートローダー自体はここからDL&lt;br&gt;
 &lt;a href="https://circuitpython.org/board/trellis_m4_express/"&gt;https://circuitpython.org/board/trellis_m4_express/&lt;/a&gt; &lt;/p&gt;
 &lt;h2&gt;ボードマネージャ&lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://learn.adafruit.com/adafruit-metro-m4-express-featuring-atsamd51/using-with-arduino-ide"&gt;https://learn.adafruit.com/adafruit-metro-m4-express-featuring-atsamd51/using-with-arduino-ide&lt;/a&gt;  &lt;/p&gt;
@@ -26,212 +29,255 @@
 &lt;li&gt;Arduino SAMD Boards&lt;/li&gt;
 &lt;li&gt;Adafruit SAMD Boards&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;の2つを入れる必要があるようです。&lt;br /&gt;
+&lt;p&gt;の2つを入れる必要があるようです。&lt;br&gt;
 下の方だけでいいのかと思ってた。&lt;/p&gt;
 &lt;h2&gt;サンプルプログラム(SamplePlayer)のインストール&lt;/h2&gt;
 &lt;p&gt;サンプルプログラムののSamplePlayer... ってややこしいですね。  &lt;/p&gt;
-&lt;p&gt;本家サイト&lt;br /&gt;
+&lt;p&gt;本家サイト&lt;br&gt;
 &lt;a href="https://www.adafruit.com/product/3938"&gt;https://www.adafruit.com/product/3938&lt;/a&gt;   &lt;/p&gt;
-&lt;p&gt;本家サイトにはリンクが一つだけあって、&lt;br /&gt;
-リンク先はgithubでフォークされたレポジトリが一つ。&lt;br /&gt;
+&lt;p&gt;本家サイトにはリンクが一つだけあって、&lt;br&gt;
+リンク先はgithubでフォークされたレポジトリが一つ。&lt;br&gt;
 &lt;a href="https://github.com/adafruit/Audio"&gt;https://github.com/adafruit/Audio&lt;/a&gt;  &lt;/p&gt;
 &lt;p&gt;README.mdの一番最後に&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;To install, use the Arduino Library Manager
-and search for &amp;#39;Audio - Adafruit Fork&amp;#39; and install the library
-&lt;/pre&gt;&lt;/div&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="nx"&gt;To&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;install&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;use&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;the&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;Arduino&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;Library&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;Manager&lt;/span&gt;
+&lt;span class="k"&gt;and&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;search&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="k"&gt;for&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="err"&gt;&amp;#39;&lt;/span&gt;&lt;span class="nx"&gt;Audio&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;Adafruit&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;Fork&lt;/span&gt;&lt;span class="err"&gt;&amp;#39;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="k"&gt;and&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;install&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;the&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="kn"&gt;library&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
-
-&lt;p&gt;と書いてあるんで、&lt;br /&gt;
+&lt;p&gt;と書いてあるんで、&lt;br&gt;
 Arduinoを開いて
 &lt;code&gt;ライブラリマネージャー -&amp;gt; 検索フォームに'Audio - Adafruit Fork'と入れてインストール&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;・・・という流れでインストールすればOK&lt;br /&gt;
-別なプロジェクトでTeensy触っててよかった。&lt;br /&gt;
+&lt;p&gt;・・・という流れでインストールすればOK&lt;br&gt;
+別なプロジェクトでTeensy触っててよかった。&lt;br&gt;
 そっちの話は別な記事で書きます。&lt;/p&gt;
-&lt;p&gt;ここまで行ったら、&lt;br /&gt;
-&lt;code&gt;スケッチ例 -&amp;gt; Audio - Adafruit Fork -&amp;gt; SamplePlayer&lt;/code&gt;&lt;br /&gt;
+&lt;p&gt;ここまで行ったら、&lt;br&gt;
+&lt;code&gt;スケッチ例 -&amp;gt; Audio - Adafruit Fork -&amp;gt; SamplePlayer&lt;/code&gt;&lt;br&gt;
 でサンプルプログラムを呼び出して書き込み ...&lt;/p&gt;
-&lt;p&gt;... ではライブラリが足りなくて、&lt;br /&gt;
+&lt;p&gt;... ではライブラリが足りなくて、&lt;br&gt;
 追加で下記のライブラリを入れました。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Adafruit Keypad&lt;/li&gt;
 &lt;li&gt;Adafruit DMA neopixel library&lt;/li&gt;
 &lt;/ul&gt;
 &lt;blockquote class="twitter-tweet"&gt;&lt;p lang="ja" dir="ltr"&gt;やっとライブラリのサンプルプログラムが動いた &lt;a href="https://t.co/4FswpBSM6C"&gt;pic.twitter.com/4FswpBSM6C&lt;/a&gt;&lt;/p&gt;&amp;mdash; かご (@Ca5) &lt;a href="https://twitter.com/Ca5/status/1295006836744048641?ref_src=twsrc%5Etfw"&gt;August 16, 2020&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
 
-&lt;p&gt;&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;&lt;/p&gt;
-&lt;p&gt;で一応音がちゃんと出るんですが、&lt;br /&gt;
-ボタンが光らないんですよね。。。&lt;br /&gt;
+&lt;p&gt;で一応音がちゃんと出るんですが、&lt;br&gt;
+ボタンが光らないんですよね。。。&lt;br&gt;
 これは NeopixelっていうLEDリボンを外付けしたときに光らせるものだったのかな。。互換性があるのかと思ったが。。  &lt;/p&gt;
-&lt;p&gt;もうちょっと色々いじってみます。&lt;/p&gt;</summary><category term="chiptune"></category><category term="chipbreak"></category></entry><entry><title>【LIVE】2019/7,8,9月のライブ予定</title><link href="https://blog.ca5.me/2019/07/20/2019_summer_live/" rel="alternate"></link><updated>2019-07-20T23:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2019-07-20:2019/07/20/2019_summer_live/</id><summary type="html">&lt;p&gt;夏のライブ出演情報が出揃いましたので告知します!&lt;/p&gt;
+&lt;p&gt;もうちょっと色々いじってみます。&lt;/p&gt;</content><category term="release"/><category term="chiptune"/><category term="chipbreak"/></entry><entry><title>【LIVE】2019/7,8,9月のライブ予定</title><link href="https://blog.ca5.me/2019/07/20/2019_summer_live/" rel="alternate"/><published>2019-07-20T23:00:00+09:00</published><updated>2019-07-20T23:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2019-07-20:/2019/07/20/2019_summer_live/</id><summary type="html">&lt;p&gt;夏のライブ出演情報が出揃いましたので告知します!&lt;/p&gt;
 &lt;h2&gt;2019/7/27 Technique Vol.102 (ふぷほ出演)&lt;/h2&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;Technique Vol. 102  
-2019/7/27(sat)@BE-WAVE 18:00-23:00 2000yen/1D 
-&lt;/pre&gt;&lt;/div&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="n"&gt;Technique&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;Vol&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="mi"&gt;102&lt;/span&gt;&lt;span class="w"&gt;  &lt;/span&gt;
+&lt;span class="mi"&gt;2019&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="mi"&gt;7&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="mi"&gt;27&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;sat&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="nv"&gt;@BE&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;WAVE&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="mi"&gt;18&lt;/span&gt;&lt;span class="err"&gt;:&lt;/span&gt;&lt;span class="mi"&gt;00&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;23&lt;/span&gt;&lt;span class="err"&gt;:&lt;/span&gt;&lt;span class="mi"&gt;00&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="mi"&gt;2000&lt;/span&gt;&lt;span class="n"&gt;yen&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="mi"&gt;1 …&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</summary><content type="html">&lt;p&gt;夏のライブ出演情報が出揃いましたので告知します!&lt;/p&gt;
+&lt;h2&gt;2019/7/27 Technique Vol.102 (ふぷほ出演)&lt;/h2&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="n"&gt;Technique&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;Vol&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="mi"&gt;102&lt;/span&gt;&lt;span class="w"&gt;  &lt;/span&gt;
+&lt;span class="mi"&gt;2019&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="mi"&gt;7&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="mi"&gt;27&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;sat&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="nv"&gt;@BE&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;WAVE&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="mi"&gt;18&lt;/span&gt;&lt;span class="err"&gt;:&lt;/span&gt;&lt;span class="mi"&gt;00&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;23&lt;/span&gt;&lt;span class="err"&gt;:&lt;/span&gt;&lt;span class="mi"&gt;00&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="mi"&gt;2000&lt;/span&gt;&lt;span class="n"&gt;yen&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="n"&gt;D&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
-
-&lt;p&gt;&lt;strong&gt;公式サイト&lt;/strong&gt;:&lt;br /&gt;
+&lt;p&gt;&lt;strong&gt;公式サイト&lt;/strong&gt;:&lt;br&gt;
 &lt;a href="https://technique-2nd-sat.tumblr.com/post/185992109762/technique-vol102"&gt;https://technique-2nd-sat.tumblr.com/post/185992109762/technique-vol102&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;いつもお世話になっているTechniqueでまた suesett, ebi1000との3人ユニット「ふぷほ」でライブします！&lt;br /&gt;
+&lt;p&gt;いつもお世話になっているTechniqueでまた suesett, ebi1000との3人ユニット「ふぷほ」でライブします！&lt;br&gt;
 今まさに練習中です！&lt;/p&gt;
 &lt;h2&gt;2019/8/4 THE DAY OF HARDCORE 2019&lt;/h2&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;THE DAY OF HARDCORE 2019 硬核感謝祭 feat. MEGAREX  
-2019/8/4 @CIRCUS Tokyo 12:00-21:00 ENTRANCE FREE!!!(入場無料)   
-&lt;/pre&gt;&lt;/div&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="n"&gt;THE&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nf"&gt;DAY&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="k"&gt;OF&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;HARDCORE&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="mi"&gt;2019&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;硬核感謝祭&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;feat&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;MEGAREX&lt;/span&gt;&lt;span class="w"&gt;  &lt;/span&gt;
+&lt;span class="mi"&gt;2019&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="mi"&gt;8&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="mi"&gt;4&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nv"&gt;@CIRCUS&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;Tokyo&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="mi"&gt;12&lt;/span&gt;&lt;span class="err"&gt;:&lt;/span&gt;&lt;span class="mi"&gt;00&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;21&lt;/span&gt;&lt;span class="err"&gt;:&lt;/span&gt;&lt;span class="mi"&gt;00&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;ENTRANCE&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="k"&gt;FREE&lt;/span&gt;&lt;span class="err"&gt;!!!&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;入場無料&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="w"&gt;   &lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
-
-&lt;p&gt;&lt;strong&gt;公式サイト&lt;/strong&gt;:&lt;br /&gt;
+&lt;p&gt;&lt;strong&gt;公式サイト&lt;/strong&gt;:&lt;br&gt;
 &lt;a href="https://twipla.jp/events/365823"&gt;https://twipla.jp/events/365823&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今年も1Fのラウンジ『COREKRAVE FLOOR』でライブします！  &lt;/p&gt;
 &lt;h2&gt;2019/8/10 AKIPARTY TOKYO 2019&lt;/h2&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;AKIPARTY TOKYO 2019  
-2019/8/10 @mogura 16:00-21:00 3000yen/1D  
-&lt;/pre&gt;&lt;/div&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="n"&gt;AKIPARTY&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;TOKYO&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="mi"&gt;2019&lt;/span&gt;&lt;span class="w"&gt;  &lt;/span&gt;
+&lt;span class="mi"&gt;2019&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="mi"&gt;8&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="mi"&gt;10&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nv"&gt;@mogura&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="mi"&gt;16&lt;/span&gt;&lt;span class="err"&gt;:&lt;/span&gt;&lt;span class="mi"&gt;00&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;21&lt;/span&gt;&lt;span class="err"&gt;:&lt;/span&gt;&lt;span class="mi"&gt;00&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="mi"&gt;3000&lt;/span&gt;&lt;span class="n"&gt;yen&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="n"&gt;D&lt;/span&gt;&lt;span class="w"&gt;  &lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
-
-&lt;p&gt;&lt;strong&gt;公式サイト&lt;/strong&gt;:&lt;br /&gt;
+&lt;p&gt;&lt;strong&gt;公式サイト&lt;/strong&gt;:&lt;br&gt;
 &lt;a href="https://club-mogra.jp/2019/08/10/3935/"&gt;https://club-mogra.jp/2019/08/10/3935/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;こちらも今年も参加！去年と違って Maker Faire Tokyoとは別な日になってるのでご注意を！  &lt;/p&gt;
 &lt;h2&gt;2019/9/29 秋葉原パラダイスレイディオ&lt;/h2&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;秋葉原パラダイスレイディオ  
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;秋葉原パラダイスレイディオ  
 2019/9/29 @秋葉原ラジオ会館屋上 11:30-18:00 2500yen/1D  
-&lt;/pre&gt;&lt;/div&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
-
-&lt;p&gt;&lt;strong&gt;公式サイト&lt;/strong&gt; :&lt;br /&gt;
+&lt;p&gt;&lt;strong&gt;公式サイト&lt;/strong&gt; :&lt;br&gt;
 &lt;a href="http://aki-para.com/"&gt;http://aki-para.com/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;こちらは初参加です！&lt;br /&gt;
+&lt;p&gt;こちらは初参加です！&lt;br&gt;
 楽天斎、DJ YEW、PAKIN、板前商店、Ca5 の5人で組んだ「実験教室Rewind」というユニットでライブします！  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;今年もありがたいことに夏はいろいろライブをやらせていただけることになりました。&lt;br /&gt;
-ぜひ遊びに来てください！&lt;/p&gt;</summary><category term="chiptune"></category><category term="chipbreak"></category></entry><entry><title>【Release】City EP</title><link href="https://blog.ca5.me/2019/04/29/CityEP/" rel="alternate"></link><updated>2019-04-29T22:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2019-04-29:2019/04/29/CityEP/</id><summary type="html">&lt;p&gt;2019M3春に頒布開始したEP 「City EP」 のオンライン版がリリースされました！ &lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;今年もありがたいことに夏はいろいろライブをやらせていただけることになりました。&lt;br&gt;
+ぜひ遊びに来てください！&lt;/p&gt;</content><category term="release"/><category term="chiptune"/><category term="chipbreak"/></entry><entry><title>【Release】City EP</title><link href="https://blog.ca5.me/2019/04/29/CityEP/" rel="alternate"/><published>2019-04-29T22:00:00+09:00</published><updated>2019-04-29T22:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2019-04-29:/2019/04/29/CityEP/</id><summary type="html">&lt;p&gt;2019M3春に頒布開始したEP 「City EP」 のオンライン版がリリースされました！ &lt;/p&gt;
 &lt;iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2380524776/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless&gt;&lt;a href="http://esctrax.bandcamp.com/album/esc-ex007-city-ep"&gt;[ESC-EX007] City EP by Ca5&lt;/a&gt;&lt;/iframe&gt;
 
-&lt;p&gt;タイトルの通り各曲が別々な「街」を表した作品です。&lt;br /&gt;
-それぞれがどんな街を表しているか想像しながら聞いてみるのも面白いかなと思います。&lt;br /&gt;
-ぜひ聞いてみてください。&lt;/p&gt;</summary><category term="chiptune"></category><category term="chipbreak"></category></entry><entry><title>2018年の活動まとめ</title><link href="https://blog.ca5.me/2018/12/31/2018/" rel="alternate"></link><updated>2018-12-31T00:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2018-12-31:2018/12/31/2018/</id><summary type="html">&lt;h2&gt;2018/1&lt;/h2&gt;
+&lt;p&gt;タイトルの通り各曲が別々な「街」を表した作品です。&lt;br&gt;
+それぞれ …&lt;/p&gt;</summary><content type="html">&lt;p&gt;2019M3春に頒布開始したEP 「City EP」 のオンライン版がリリースされました！ &lt;/p&gt;
+&lt;iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2380524776/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless&gt;&lt;a href="http://esctrax.bandcamp.com/album/esc-ex007-city-ep"&gt;[ESC-EX007] City EP by Ca5&lt;/a&gt;&lt;/iframe&gt;
+
+&lt;p&gt;タイトルの通り各曲が別々な「街」を表した作品です。&lt;br&gt;
+それぞれがどんな街を表しているか想像しながら聞いてみるのも面白いかなと思います。&lt;br&gt;
+ぜひ聞いてみてください。&lt;/p&gt;</content><category term="release"/><category term="chiptune"/><category term="chipbreak"/></entry><entry><title>2018年の活動まとめ</title><link href="https://blog.ca5.me/2018/12/31/2018/" rel="alternate"/><published>2018-12-31T00:00:00+09:00</published><updated>2018-12-31T00:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2018-12-31:/2018/12/31/2018/</id><summary type="html">&lt;h2&gt;2018/1&lt;/h2&gt;
 &lt;h3&gt;New Year Tracks 2018&lt;/h3&gt;
 &lt;p&gt;Sapporo Hardcore Channelの新年コンピに収録させていただきました！
 &lt;a href="https://shc.themedia.jp/posts/3500006"&gt;https://shc.themedia.jp/posts/3500006&lt;/a&gt;&lt;/p&gt;
 &lt;h3&gt;ESC合宿&lt;/h3&gt;
-&lt;p&gt;毎年こっそりコアメンバー3人でやってるESC作曲合宿。&lt;br /&gt;
-今回は絶好調だったので2曲できました。&lt;br /&gt;
-どちらもこの夏にリリースした Seasons に収録できました。
+&lt;p&gt;毎年こっそりコアメンバー3人でやってるESC作曲合宿。&lt;br&gt;
+今回は絶好調だったので2曲できました。&lt;br&gt;
+どちらもこの夏にリ …&lt;/p&gt;</summary><content type="html">&lt;h2&gt;2018/1&lt;/h2&gt;
+&lt;h3&gt;New Year Tracks 2018&lt;/h3&gt;
+&lt;p&gt;Sapporo Hardcore Channelの新年コンピに収録させていただきました！
+&lt;a href="https://shc.themedia.jp/posts/3500006"&gt;https://shc.themedia.jp/posts/3500006&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;ESC合宿&lt;/h3&gt;
+&lt;p&gt;毎年こっそりコアメンバー3人でやってるESC作曲合宿。&lt;br&gt;
+今回は絶好調だったので2曲できました。&lt;br&gt;
+どちらもこの夏にリリースした Seasons に収録できました。&lt;/p&gt;
 &lt;iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/380518070&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"&gt;&lt;/iframe&gt;
-&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/380518835&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/380518835&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"&gt;&lt;/iframe&gt;
+
 &lt;h2&gt;2018/4&lt;/h2&gt;
 &lt;h3&gt;Technique vol.87&lt;/h3&gt;
-&lt;p&gt;いつもお世話になっているテクニークに出演。&lt;br /&gt;
-あんまりアーメン入れないセットにしました。&lt;br /&gt;
+&lt;p&gt;いつもお世話になっているテクニークに出演。&lt;br&gt;
+あんまりアーメン入れないセットにしました。&lt;br&gt;
 &lt;a href="https://technique-2nd-sat.tumblr.com/post/172576217017/technique-vol87"&gt;https://technique-2nd-sat.tumblr.com/post/172576217017/technique-vol87&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;再現mix:
-&lt;iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&amp;feed=%2Fca54makske%2Ftechnique-vol87%2F" frameborder="0" &gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;再現mix:&lt;/p&gt;
+&lt;iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&amp;feed=%2Fca54makske%2Ftechnique-vol87%2F" frameborder="0" &gt;&lt;/iframe&gt;
+
 &lt;h2&gt;2018/6&lt;/h2&gt;
 &lt;h3&gt;Technique vol.89&lt;/h3&gt;
-&lt;p&gt;こちらはアーメンバッキバキセットにしました。&lt;br /&gt;
-ちょっとやりすぎたかな。&lt;br /&gt;
+&lt;p&gt;こちらはアーメンバッキバキセットにしました。&lt;br&gt;
+ちょっとやりすぎたかな。&lt;br&gt;
 &lt;a href="https://technique-2nd-sat.tumblr.com/post/174389139562/technique-vol89"&gt;https://technique-2nd-sat.tumblr.com/post/174389139562/technique-vol89&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;再現mix:
-&lt;iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&amp;feed=%2Fca54makske%2Ftechnique-vol89%2F" frameborder="0" &gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;再現mix:&lt;/p&gt;
+&lt;iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&amp;feed=%2Fca54makske%2Ftechnique-vol89%2F" frameborder="0" &gt;&lt;/iframe&gt;
+
 &lt;h2&gt;2018/7&lt;/h2&gt;
 &lt;h3&gt;FPH&lt;/h3&gt;
-&lt;p&gt;ESCコアメンバー3人でやっているチルアウトユニット 『ふぷほ』 の&lt;br /&gt;
+&lt;p&gt;ESCコアメンバー3人でやっているチルアウトユニット 『ふぷほ』 の&lt;br&gt;
 アルバムオンライン版をひっそり公開
-&lt;a href="https://esctrax.bandcamp.com/album/esc-ex005-fph"&gt;https://esctrax.bandcamp.com/album/esc-ex005-fph&lt;/a&gt;
-&lt;iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1276470564/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless&gt;&lt;a href="http://esctrax.bandcamp.com/album/esc-ex005-fph"&gt;[ESC-EX005] FPH by fupuho&lt;/a&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;a href="https://esctrax.bandcamp.com/album/esc-ex005-fph"&gt;https://esctrax.bandcamp.com/album/esc-ex005-fph&lt;/a&gt;&lt;/p&gt;
+&lt;iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1276470564/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless&gt;&lt;a href="http://esctrax.bandcamp.com/album/esc-ex005-fph"&gt;[ESC-EX005] FPH by fupuho&lt;/a&gt;&lt;/iframe&gt;
+
 &lt;h2&gt;2018/8&lt;/h2&gt;
 &lt;p&gt;何かいろいろ詰め込みすぎました&lt;/p&gt;
 &lt;h3&gt;Seasons&lt;/h3&gt;
-&lt;p&gt;新作フルアルバムリリースしました
-&lt;iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3931633338/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless&gt;&lt;a href="http://esctrax.bandcamp.com/album/esc-ex006-seasons"&gt;[ESC-EX006] Seasons by Ca5&lt;/a&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;新作フルアルバムリリースしました&lt;/p&gt;
+&lt;iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3931633338/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless&gt;&lt;a href="http://esctrax.bandcamp.com/album/esc-ex006-seasons"&gt;[ESC-EX006] Seasons by Ca5&lt;/a&gt;&lt;/iframe&gt;
+
 &lt;h3&gt;Akiparty 2018&lt;/h3&gt;
-&lt;p&gt;毎年お世話になってるシリーズ。&lt;br /&gt;
-今回はネタモノ全然作ってなかったのでほぼオリジナルなセットにしてみました。&lt;br /&gt;
-今年もいろんな自作モノが出てくる楽しいイベントでした！&lt;br /&gt;
+&lt;p&gt;毎年お世話になってるシリーズ。&lt;br&gt;
+今回はネタモノ全然作ってなかったのでほぼオリジナルなセットにしてみました。&lt;br&gt;
+今年もいろんな自作モノが出てくる楽しいイベントでした！&lt;br&gt;
 &lt;a href="http://club-mogra.jp/2018/08/04/3560/"&gt;http://club-mogra.jp/2018/08/04/3560/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;再現mix:
-&lt;iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&amp;feed=%2Fca54makske%2Fakiparty-tokyo-2018-akiparty%2F" frameborder="0" &gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;再現mix:&lt;/p&gt;
+&lt;iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&amp;feed=%2Fca54makske%2Fakiparty-tokyo-2018-akiparty%2F" frameborder="0" &gt;&lt;/iframe&gt;
+
 &lt;h3&gt;THE DAY OF HARDCORE 2018&lt;/h3&gt;
-&lt;p&gt;二度目の出演でした。&lt;br /&gt;
-いつも大賑わいでほんとすごいイベントです。&lt;br /&gt;
-バキバキセット。 &lt;br /&gt;
+&lt;p&gt;二度目の出演でした。&lt;br&gt;
+いつも大賑わいでほんとすごいイベントです。&lt;br&gt;
+バキバキセット。 &lt;br&gt;
 &lt;a href="https://twipla.jp/events/317989"&gt;https://twipla.jp/events/317989&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;再現mix:
-&lt;iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&amp;feed=%2Fca54makske%2Fthe-day-of-hardcore-2018-tdoh2018%2F" frameborder="0" &gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;再現mix:&lt;/p&gt;
+&lt;iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&amp;feed=%2Fca54makske%2Fthe-day-of-hardcore-2018-tdoh2018%2F" frameborder="0" &gt;&lt;/iframe&gt;
+
 &lt;h3&gt;YATSUZAKI HARDCORE VOLUME 8 &amp;amp; 8.5&lt;/h3&gt;
 &lt;p&gt;ヤツコアの10周年コンピに収録させていただきました！&lt;/p&gt;
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/UZJKmM8lpCA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;h3&gt;SquareRave @ Vancouver&lt;/h3&gt;
-&lt;p&gt;ESCコアメンバーでカナダでライブ！&lt;br /&gt;
-めちゃくちゃ楽しかったです。&lt;br /&gt;
-またバンクーバー行きたい・・・ &lt;br /&gt;
+&lt;p&gt;ESCコアメンバーでカナダでライブ！&lt;br&gt;
+めちゃくちゃ楽しかったです。&lt;br&gt;
+またバンクーバー行きたい・・・ &lt;br&gt;
 &lt;a href="https://www.facebook.com/events/square-rave/1965056160213487/"&gt;https://www.facebook.com/events/square-rave/1965056160213487/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;ライブ音源:
-&lt;iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&amp;feed=%2Fesctrax%2Fca5-live-play-square-rave-vancouver%2F" frameborder="0" &gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;ライブ音源:&lt;/p&gt;
+&lt;iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&amp;feed=%2Fesctrax%2Fca5-live-play-square-rave-vancouver%2F" frameborder="0" &gt;&lt;/iframe&gt;
+
 &lt;h2&gt;2018/9&lt;/h2&gt;
 &lt;h3&gt;After Festival EP&lt;/h3&gt;
-&lt;p&gt;Kei Torikiくんとのスプリット作品をリリース！&lt;br /&gt;
+&lt;p&gt;Kei Torikiくんとのスプリット作品をリリース！&lt;br&gt;
 お互いリミックスもやれていろいろ試せた気がします。&lt;/p&gt;
 &lt;iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=652919111/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless&gt;&lt;a href="http://esctrax.bandcamp.com/album/esc-010-after-festival-ep"&gt;[ESC-010] After Festival EP by Ca5,Kei Toriki&lt;/a&gt;&lt;/iframe&gt;
 
 &lt;h3&gt;SSKNSessions&lt;/h3&gt;
-&lt;p&gt;札幌でライブしました！&lt;br /&gt;
-色んなジャンルの音楽を楽しめるいいイベントでした。 &lt;br /&gt;
-まさに札幌版テクニーク。
+&lt;p&gt;札幌でライブしました！&lt;br&gt;
+色んなジャンルの音楽を楽しめるいいイベントでした。 &lt;br&gt;
+まさに札幌版テクニーク。&lt;/p&gt;
 &lt;blockquote class="twitter-tweet" data-lang="ja"&gt;&lt;p lang="ja" dir="ltr"&gt;9月23日(日)東京から3名,ElectroのBAXIM,Technoのyousuke kaga,ChipbreakのCa5を迎えて、1度きりのテクノパーティー。対する札幌も心強いメンバーに引き受けてもらいました。Liveもたっぷり4組で見ごたえ抜群間違いなし。 ♯SSKNSessions &lt;a href="https://t.co/kFx2zi8NGI"&gt;pic.twitter.com/kFx2zi8NGI&lt;/a&gt;&lt;/p&gt;&amp;mdash; Invisible Theatre (@rakutensai) &lt;a href="https://twitter.com/rakutensai/status/1026001403590799360?ref_src=twsrc%5Etfw"&gt;2018年8月5日&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;&lt;/p&gt;
-&lt;p&gt;再現mix:
-&lt;iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&amp;feed=%2Fca54makske%2Fsskn-sessions%2F" frameborder="0" &gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+&lt;p&gt;再現mix:&lt;/p&gt;
+&lt;iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&amp;feed=%2Fca54makske%2Fsskn-sessions%2F" frameborder="0" &gt;&lt;/iframe&gt;
+
 &lt;h2&gt;2018/10&lt;/h2&gt;
 &lt;h3&gt;TOKYO BLOCKS HACKATHON 2018&lt;/h3&gt;
 &lt;p&gt;3位に入賞して、BLOCKSが増えました！
 &lt;a href="https://devpost.com/software/loooper"&gt;https://devpost.com/software/loooper&lt;/a&gt;&lt;/p&gt;
 &lt;h3&gt;M3&lt;/h3&gt;
-&lt;p&gt;&lt;blockquote class="twitter-tweet" data-lang="ja"&gt;&lt;p lang="ja" dir="ltr"&gt;AmenAnonimousになりました &lt;a href="https://t.co/Z22H3aJ0Ue"&gt;pic.twitter.com/Z22H3aJ0Ue&lt;/a&gt;&lt;/p&gt;&amp;mdash; カゴ (@Ca5) &lt;a href="https://twitter.com/Ca5/status/1056368328996868097?ref_src=twsrc%5Etfw"&gt;2018年10月28日&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;blockquote class="twitter-tweet" data-lang="ja"&gt;&lt;p lang="ja" dir="ltr"&gt;AmenAnonimousになりました &lt;a href="https://t.co/Z22H3aJ0Ue"&gt;pic.twitter.com/Z22H3aJ0Ue&lt;/a&gt;&lt;/p&gt;&amp;mdash; カゴ (@Ca5) &lt;a href="https://twitter.com/Ca5/status/1056368328996868097?ref_src=twsrc%5Etfw"&gt;2018年10月28日&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
 &lt;h2&gt;2018/11&lt;/h2&gt;
 &lt;h3&gt;Technique vol.94&lt;/h3&gt;
-&lt;p&gt;blocks2台使いになりました&lt;br /&gt;
+&lt;p&gt;blocks2台使いになりました&lt;br&gt;
 &lt;a href="https://technique-2nd-sat.tumblr.com/post/179673577962/technique-vol94"&gt; https://technique-2nd-sat.tumblr.com/post/179673577962/technique-vol94&lt;/a&gt;&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;今年も音楽制作・ライブ演奏ともに充実した一年でした！&lt;br /&gt;
-来年もよろしくおねがいします&lt;/p&gt;</summary><category term="chiptune"></category><category term="chipbreak"></category><category term="mashup"></category></entry><entry><title>【Release】新作アルバムできました: Seasons #Akiparty #TDOH2018</title><link href="https://blog.ca5.me/2018/08/03/seasons/" rel="alternate"></link><updated>2018-08-03T21:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2018-08-03:2018/08/03/seasons/</id><summary type="html">&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;ESC TRAXのblogでも紹介しましたが、新しいアルバムができました！&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;今年も音楽制作・ライブ演奏ともに充実した一年でした！&lt;br&gt;
+来年もよろしくおねがいします&lt;/p&gt;</content><category term="release"/><category term="chiptune"/><category term="chipbreak"/><category term="mashup"/></entry><entry><title>【Release】新作アルバムできました: Seasons #Akiparty #TDOH2018</title><link href="https://blog.ca5.me/2018/08/03/seasons/" rel="alternate"/><published>2018-08-03T21:00:00+09:00</published><updated>2018-08-03T21:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2018-08-03:/2018/08/03/seasons/</id><summary type="html">&lt;p&gt;ESC TRAXのblogでも紹介しましたが、新しいアルバムができました！&lt;/p&gt;
 &lt;p&gt;&lt;a href="http://blog.esctrax.com/post/176370150325/releaseesc-ex006-ca5-seasons"&gt;esctrax blog:【RELEASE】[ESC-EX006] Ca5 - Seasons&lt;/a&gt;&lt;/p&gt;
 &lt;iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/473602416&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"&gt;&lt;/iframe&gt;
 
-&lt;p&gt;収録曲の一部は既に一部公開されているものが結構ありまして。。&lt;/p&gt;
-&lt;p&gt;[WIP]20180107-002&lt;br /&gt;
-&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/380518835&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;[WIP]20180101-001
-&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/380518070&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;[WIP]20170916&lt;br /&gt;
-&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/343403353&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;Water Garden&lt;br /&gt;
-&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/336840838&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;[WIP] 20170107&lt;br /&gt;
-&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/301689422&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;収録曲の一部は既に一部公開されているものが結構ありまして。。&lt;/p&gt;
+&lt;p&gt;[WIP …&lt;/p&gt;</summary><content type="html">&lt;p&gt;ESC TRAXのblogでも紹介しましたが、新しいアルバムができました！&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://blog.esctrax.com/post/176370150325/releaseesc-ex006-ca5-seasons"&gt;esctrax blog:【RELEASE】[ESC-EX006] Ca5 - Seasons&lt;/a&gt;&lt;/p&gt;
+&lt;iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/473602416&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;収録曲の一部は既に一部公開されているものが結構ありまして。。&lt;/p&gt;
+&lt;p&gt;[WIP]20180107-002  &lt;/p&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/380518835&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;[WIP]20180101-001&lt;/p&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/380518070&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;[WIP]20170916  &lt;/p&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/343403353&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Water Garden  &lt;/p&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/336840838&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;[WIP] 20170107  &lt;/p&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/301689422&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"&gt;&lt;/iframe&gt;
+
 &lt;p&gt;この辺りが収録されています。&lt;/p&gt;
-&lt;p&gt;ジャケット担当は以前と別名で活動中の&lt;br /&gt;
-無想りんね(http://musourinne.tumblr.com/) さんです！&lt;br /&gt;
-旧作のジャケに登場していたキャラが登場していたりするので、&lt;br /&gt;
-比較しながら楽しんでみてはいかがでしょうか！&lt;/p&gt;
-&lt;p&gt;まずは8/4のAkipartyと8/5のTDOH2018にて販売予定です!
-&lt;/p&gt;</summary><category term="chiptune"></category><category term="chipbreak"></category></entry><entry><title>【リリース】NewYearTrax2018 - SapporoHardcoreChannel</title><link href="https://blog.ca5.me/2018/01/08/newyeartracks2018/" rel="alternate"></link><updated>2018-01-08T22:30:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2018-01-08:2018/01/08/newyeartracks2018/</id><summary type="html">&lt;p&gt;2018年一発目のリリースです！&lt;br /&gt;
+&lt;p&gt;ジャケット担当は以前と別名で活動中の&lt;br&gt;
+無想りんね(http://musourinne.tumblr.com/) さんです！&lt;br&gt;
+旧作のジャケに登場していたキャラが登場していたりするので、&lt;br&gt;
+比較しながら楽しんでみてはいかがでしょうか！&lt;/p&gt;
+&lt;p&gt;まずは8/4のAkipartyと8/5のTDOH2018にて販売予定です!&lt;/p&gt;</content><category term="release"/><category term="chiptune"/><category term="chipbreak"/></entry><entry><title>【リリース】NewYearTrax2018 - SapporoHardcoreChannel</title><link href="https://blog.ca5.me/2018/01/08/newyeartracks2018/" rel="alternate"/><published>2018-01-08T22:30:00+09:00</published><updated>2018-01-08T22:30:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2018-01-08:/2018/01/08/newyeartracks2018/</id><summary type="html">&lt;p&gt;2018年一発目のリリースです！&lt;br&gt;
 SapporoHardcoreChannelのコンピに参加させていただきました！  &lt;/p&gt;
-&lt;p&gt;詳細・ダウンロード:&lt;br /&gt;
+&lt;p&gt;詳細・ダウンロード:&lt;br&gt;
 &lt;a href="https://shc.themedia.jp/posts/3500006"&gt;[FreeDL]NewYear Tracks2018 - SapporoHardcoreChannel&lt;/a&gt;
-&lt;a href="https://shc.themedia.jp/posts/3500006"&gt;&lt;img alt="" src="https://cdn.amebaowndme.com/madrid-prd/madrid-web/images/sites/233777/f5b96d174f629c378696ab87e4eb423e_a6315ceb8e69cf9d92e1616b99e14ae1.jpg?width=1152" /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;参加曲は、くにおくんの時代劇の蝦夷ステージのBGM&lt;br /&gt;
-北海道民ならおなじみの北海盆唄のチップブレイクアレンジです&lt;br /&gt;
-ぜひ聞いてみてください！  &lt;/p&gt;</summary><category term="chiptune"></category><category term="chipbreak"></category><category term="mashup"></category></entry><entry><title>2017年の活動まとめ</title><link href="https://blog.ca5.me/2017/12/31/2017/" rel="alternate"></link><updated>2017-12-31T00:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2017-12-31:2017/12/31/2017/</id><summary type="html">&lt;h2&gt;2017/1&lt;/h2&gt;
+&lt;a href="https://shc.themedia.jp/posts/3500006"&gt;&lt;img alt="" src="https://cdn.amebaowndme.com/madrid-prd/madrid-web/images/sites/233777/f5b96d174f629c378696ab87e4eb423e_a6315ceb8e69cf9d92e1616b99e14ae1.jpg?width=1152"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;参加曲は、くにおくんの時代劇の蝦夷ステージのBGM&lt;br&gt;
+北海道民ならおなじみの北海 …&lt;/p&gt;</summary><content type="html">&lt;p&gt;2018年一発目のリリースです！&lt;br&gt;
+SapporoHardcoreChannelのコンピに参加させていただきました！  &lt;/p&gt;
+&lt;p&gt;詳細・ダウンロード:&lt;br&gt;
+&lt;a href="https://shc.themedia.jp/posts/3500006"&gt;[FreeDL]NewYear Tracks2018 - SapporoHardcoreChannel&lt;/a&gt;
+&lt;a href="https://shc.themedia.jp/posts/3500006"&gt;&lt;img alt="" src="https://cdn.amebaowndme.com/madrid-prd/madrid-web/images/sites/233777/f5b96d174f629c378696ab87e4eb423e_a6315ceb8e69cf9d92e1616b99e14ae1.jpg?width=1152"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;参加曲は、くにおくんの時代劇の蝦夷ステージのBGM&lt;br&gt;
+北海道民ならおなじみの北海盆唄のチップブレイクアレンジです&lt;br&gt;
+ぜひ聞いてみてください！  &lt;/p&gt;</content><category term="release"/><category term="chiptune"/><category term="chipbreak"/><category term="mashup"/></entry><entry><title>2017年の活動まとめ</title><link href="https://blog.ca5.me/2017/12/31/2017/" rel="alternate"/><published>2017-12-31T00:00:00+09:00</published><updated>2017-12-31T00:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2017-12-31:/2017/12/31/2017/</id><summary type="html">&lt;h2&gt;2017/1&lt;/h2&gt;
 &lt;h3&gt;[WIP] 20170107&lt;/h3&gt;
-&lt;p&gt;ほぼ出来上がっていますが、まだリリースしてない曲です。&lt;br /&gt;
-いつかきっと。&lt;br /&gt;
-&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/301689422&amp;amp;color=%23ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;ほぼ出来上がっていますが、まだリリースしてない曲です。&lt;br&gt;
+いつかきっと。  &lt;/p&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/301689422&amp;amp;color=%23ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true"&gt;&lt;/iframe&gt;
+
 &lt;h2&gt;2017/2&lt;/h2&gt;
 &lt;h3&gt;Caravan Palace - Dragons (LSDj cover)&lt;/h3&gt;
-&lt;p&gt;今年前半くらいまでは、LSDjカバーばっかり作ってた気がします。&lt;br /&gt;
+&lt;p&gt;今年前半くらいま …&lt;/p&gt;</summary><content type="html">&lt;h2&gt;2017/1&lt;/h2&gt;
+&lt;h3&gt;[WIP] 20170107&lt;/h3&gt;
+&lt;p&gt;ほぼ出来上がっていますが、まだリリースしてない曲です。&lt;br&gt;
+いつかきっと。  &lt;/p&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/301689422&amp;amp;color=%23ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true"&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;2017/2&lt;/h2&gt;
+&lt;h3&gt;Caravan Palace - Dragons (LSDj cover)&lt;/h3&gt;
+&lt;p&gt;今年前半くらいまでは、LSDjカバーばっかり作ってた気がします。&lt;br&gt;
 音作りとかのバリエーションは増えたんじゃないかと。  &lt;/p&gt;
 &lt;iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/306222823&amp;amp;color=%23ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&amp;amp;visual=true"&gt;&lt;/iframe&gt;
 
@@ -242,8 +288,9 @@ SapporoHardcoreChannelのコンピに参加させていただきました！  &l
 &lt;iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/315501316&amp;amp;color=%23ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&amp;amp;visual=true"&gt;&lt;/iframe&gt;
 
 &lt;h3&gt;Snowground&lt;/h3&gt;
-&lt;p&gt;これも。。
-&lt;iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/315501917&amp;amp;color=%23ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&amp;amp;visual=true"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;これも。。&lt;/p&gt;
+&lt;iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/315501917&amp;amp;color=%23ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&amp;amp;visual=true"&gt;&lt;/iframe&gt;
+
 &lt;h3&gt;aryx (LSDj cover)&lt;/h3&gt;
 &lt;p&gt;これはmodの曲のLSDjカバーですね。&lt;/p&gt;
 &lt;iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/315504327&amp;amp;color=%23ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&amp;amp;visual=true"&gt;&lt;/iframe&gt;
@@ -307,146 +354,188 @@ SapporoHardcoreChannelのコンピに参加させていただきました！  &l
 &lt;h3&gt;M3秋&lt;/h3&gt;
 &lt;p&gt;ふぷほの新作つくりました。&lt;/p&gt;
 &lt;p&gt;http://blog.esctrax.com/post/166672059195/2017m3%E7%A7%8B%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9fupuho-fph&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;今年は今までにないくらいライブ充だったと思います。&lt;br /&gt;
-来年は作りかけの曲をちゃんとまとめてリリースしたいと思います。&lt;/p&gt;</summary><category term="chiptune"></category><category term="chipbreak"></category><category term="mashup"></category></entry><entry><title>2016年の活動まとめ</title><link href="https://blog.ca5.me/2016/12/28/2016/" rel="alternate"></link><updated>2016-12-28T00:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2016-12-28:2016/12/28/2016/</id><summary type="html">&lt;p&gt;今年のまとめ！今年のうちに！&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;今年は今までにないくらいライブ充だったと思います。&lt;br&gt;
+来年は作りかけの曲をちゃんとまとめてリリースしたいと思います。&lt;/p&gt;</content><category term="release"/><category term="chiptune"/><category term="chipbreak"/><category term="mashup"/></entry><entry><title>2016年の活動まとめ</title><link href="https://blog.ca5.me/2016/12/28/2016/" rel="alternate"/><published>2016-12-28T00:00:00+09:00</published><updated>2016-12-28T00:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2016-12-28:/2016/12/28/2016/</id><summary type="html">&lt;p&gt;今年のまとめ！今年のうちに！&lt;/p&gt;
 &lt;h2&gt;2016/1&lt;/h2&gt;
 &lt;h3&gt;North Wing(DEMO)&lt;/h3&gt;
-&lt;p&gt;実はもうほぼ完成してるんですが、リリースどうしようか検討中の曲&lt;br /&gt;
-来年はリリースできるかな。。
-&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/241430711&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;実はもうほぼ完成してるんですが、リリースどうしようか検討中の曲&lt;br&gt;
+来年は …&lt;/p&gt;</summary><content type="html">&lt;p&gt;今年のまとめ！今年のうちに！&lt;/p&gt;
+&lt;h2&gt;2016/1&lt;/h2&gt;
+&lt;h3&gt;North Wing(DEMO)&lt;/h3&gt;
+&lt;p&gt;実はもうほぼ完成してるんですが、リリースどうしようか検討中の曲&lt;br&gt;
+来年はリリースできるかな。。&lt;/p&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/241430711&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;
+
 &lt;h2&gt;2016/3&lt;/h2&gt;
 &lt;h3&gt;Lo-bit Freedom Ver.3 -VS.LBF-&lt;/h3&gt;
-&lt;p&gt;&lt;a href="2016/03/09/lobitfreedom3/"&gt;Lo-bit Freedom Ver.3 -VS.LBF-&lt;/a&gt; に suesettと出演しました!&lt;br /&gt;
-今回は対決がテーマということで、&lt;br /&gt;
+&lt;p&gt;&lt;a href="2016/03/09/lobitfreedom3/"&gt;Lo-bit Freedom Ver.3 -VS.LBF-&lt;/a&gt; に suesettと出演しました!&lt;br&gt;
+今回は対決がテーマということで、&lt;br&gt;
 suesett とB2B形式でお送りしました。&lt;/p&gt;
 &lt;h2&gt;2016/4&lt;/h2&gt;
 &lt;h3&gt;ESC Sound Collection&lt;/h3&gt;
 &lt;p&gt;ESC TRAXで M3 2016春に出店したときのEPです　　
-　　
-&lt;iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2403188836/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless&gt;&lt;a href="http://esctrax.bandcamp.com/album/esc-ex004-esc-sound-collection"&gt;[ESC​-​EX004] ESC Sound Collection by Various Artists&lt;/a&gt;&lt;/iframe&gt;&lt;/p&gt;
+　　&lt;/p&gt;
+&lt;iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2403188836/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless&gt;&lt;a href="http://esctrax.bandcamp.com/album/esc-ex004-esc-sound-collection"&gt;[ESC​-​EX004] ESC Sound Collection by Various Artists&lt;/a&gt;&lt;/iframe&gt;
+
 &lt;h3&gt;Kola Kid - can't hide your love(LSDj Cover)&lt;/h3&gt;
-&lt;p&gt;原曲が好きすぎるのでカバーしました&lt;br /&gt;
-LSDjで効果音みたいのを出すのに苦労しましたが、&lt;br /&gt;
-これのお陰で今年はLSDjの音作りの幅が広がった気がします
-&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/256906842&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;原曲が好きすぎるのでカバーしました&lt;br&gt;
+LSDjで効果音みたいのを出すのに苦労しましたが、&lt;br&gt;
+これのお陰で今年はLSDjの音作りの幅が広がった気がします&lt;/p&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/256906842&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;
+
 &lt;h3&gt;energy flow quest(LSDj)&lt;/h3&gt;
-&lt;p&gt;僕が好きなenergy flowとドラクエのラーミアの曲が&lt;br /&gt;
-なんとなく調が似てる気がしたので混ぜてみました。&lt;br /&gt;
-ちなみに僕がやったドラクエは1,5,6だけなので、&lt;br /&gt;
-この曲の場面に出会ったことが一切ありません。
-&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/256908179&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;僕が好きなenergy flowとドラクエのラーミアの曲が&lt;br&gt;
+なんとなく調が似てる気がしたので混ぜてみました。&lt;br&gt;
+ちなみに僕がやったドラクエは1,5,6だけなので、&lt;br&gt;
+この曲の場面に出会ったことが一切ありません。&lt;/p&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/256908179&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;
+
 &lt;h3&gt;FinalOffset - Tokyo European Espresso (LSDj cover)&lt;/h3&gt;
-&lt;p&gt;僕が好きなビーマニの曲をリミックス。&lt;br /&gt;
-セリフのところが "LSDj cover"になってるんだけどわかるかな？
-&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/261517594&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;僕が好きなビーマニの曲をリミックス。&lt;br&gt;
+セリフのところが "LSDj cover"になってるんだけどわかるかな？&lt;/p&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/261517594&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;
+
 &lt;h2&gt;2016/5&lt;/h2&gt;
 &lt;p&gt;リリースかぶっちゃった月&lt;/p&gt;
 &lt;h3&gt;Chip Break In The Clouds&lt;/h3&gt;
-&lt;p&gt;ロシアのチップチューンレーベル BleepLoveのChipBreakコンピに参加しました。&lt;br /&gt;
-このご時世ChipBreakだけでコンピを企画してくれるなんてホント貴重なレーベルだと思います！&lt;br /&gt;
-今年 &lt;a href="https://twitter.com/biohannya/status/814846634727067648"&gt;#BioAwards2016&lt;/a&gt; 頂きました!&lt;br /&gt;
+&lt;p&gt;ロシアのチップチューンレーベル BleepLoveのChipBreakコンピに参加しました。&lt;br&gt;
+このご時世ChipBreakだけでコンピを企画してくれるなんてホント貴重なレーベルだと思います！&lt;br&gt;
+今年 &lt;a href="https://twitter.com/biohannya/status/814846634727067648"&gt;#BioAwards2016&lt;/a&gt; 頂きました!&lt;br&gt;
 &lt;a href="https://bleeplove.bandcamp.com/album/chip-break-in-the-clouds"&gt;https://bleeplove.bandcamp.com/album/chip-break-in-the-clouds&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;自分の参加曲:&lt;br /&gt;
-実はだいぶ前に作ってあった未発表曲だったりします。&lt;br /&gt;
-&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/265177573&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;自分の参加曲:&lt;br&gt;
+実はだいぶ前に作ってあった未発表曲だったりします。  &lt;/p&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/265177573&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;
+
 &lt;h3&gt;Back to hte 8bit&lt;/h3&gt;
-&lt;p&gt;過去曲を全部LSDjでリミックスし直したアルバムです。&lt;br /&gt;
+&lt;p&gt;過去曲を全部LSDjでリミックスし直したアルバムです。&lt;br&gt;
 原曲のリマスタ版を載せてあるので、両方聴き比べて楽しんでいただけるといいと思います！  &lt;/p&gt;
 &lt;iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=4057738787/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless&gt;&lt;a href="http://esctrax.bandcamp.com/album/esc-003-back-to-the-8bit"&gt;[ESC-003] Back to the 8bit by Ca5&lt;/a&gt;&lt;/iframe&gt;
 
 &lt;h3&gt;Skrillex - First Of The Year (Equinox) (LSDj cover)&lt;/h3&gt;
-&lt;p&gt;ワブルベースの練習で作りました。&lt;br /&gt;
+&lt;p&gt;ワブルベースの練習で作りました。&lt;br&gt;
 だいたい出したい音作れて個人的には満足です。  &lt;/p&gt;
 &lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/263783626&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;
 
 &lt;h2&gt;2016/6&lt;/h2&gt;
 &lt;h3&gt;Technique Vol.65&lt;/h3&gt;
-&lt;p&gt;ひさびさに単独で出演させていただいたイベントでした!&lt;br /&gt;
-高円寺の4thにて毎月やられているイベントで、&lt;br /&gt;
-エレクトロ中心に毎回いろんな方が出演されている楽しいイベントです!&lt;br /&gt;
+&lt;p&gt;ひさびさに単独で出演させていただいたイベントでした!&lt;br&gt;
+高円寺の4thにて毎月やられているイベントで、&lt;br&gt;
+エレクトロ中心に毎回いろんな方が出演されている楽しいイベントです!&lt;br&gt;
 &lt;a href="2016/06/07/technique-65/"&gt;Technique Vol.65&lt;/a&gt;&lt;/p&gt;
 &lt;h3&gt;Battery RAM (星屑のダンガンチューンズ収録曲)&lt;/h3&gt;
-&lt;p&gt;&lt;a href="https://itunes.apple.com/jp/app/xing-xienodanganchunzu/id1039514679?mt=8"&gt;星屑のダンガンチューンズ&lt;/a&gt;に収録させていただいた曲です！&lt;br /&gt;
-音ゲーを意識して効果音をちらした曲に仕上げました。&lt;br /&gt;
-&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/269856659&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://itunes.apple.com/jp/app/xing-xienodanganchunzu/id1039514679?mt=8"&gt;星屑のダンガンチューンズ&lt;/a&gt;に収録させていただいた曲です！&lt;br&gt;
+音ゲーを意識して効果音をちらした曲に仕上げました。  &lt;/p&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/269856659&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;
+
 &lt;h2&gt;2016/8&lt;/h2&gt;
 &lt;h3&gt;秋葉原メイカーズ倶楽部&lt;/h3&gt;
-&lt;p&gt;2014年から毎年MakersFaireの後に開催されている非公式アフターイベントに今回も出演しました!&lt;br /&gt;
-LogbarのRingが調子悪くて。。結局あまりあたらしいことはやれず。。&lt;br /&gt;
+&lt;p&gt;2014年から毎年MakersFaireの後に開催されている非公式アフターイベントに今回も出演しました!&lt;br&gt;
+LogbarのRingが調子悪くて。。結局あまりあたらしいことはやれず。。&lt;br&gt;
 &lt;a href="2016/07/18/makers2016/"&gt;【Live】秋葉原メイカーズ倶楽部 2016に出演します！ #akiparty&lt;/a&gt;&lt;/p&gt;
 &lt;h3&gt;TECHNOTRIS [LSDj mix]&lt;/h3&gt;
-&lt;p&gt;テトリスのあの曲をLSDjで打ち込んでみました。&lt;br /&gt;
+&lt;p&gt;テトリスのあの曲をLSDjで打ち込んでみました。&lt;br&gt;
 覚えたてのワブルベース入り。  &lt;/p&gt;
 &lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/277514482&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;
 
 &lt;h3&gt;Tokyo Ondo [LSDj mix]&lt;/h3&gt;
-&lt;p&gt;東京ネタ、を意識した曲です。&lt;br /&gt;
-秋葉原メイカーズ倶楽部でかけました。
-&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/277515476&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;東京ネタ、を意識した曲です。&lt;br&gt;
+秋葉原メイカーズ倶楽部でかけました。&lt;/p&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/277515476&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;
+
 &lt;h2&gt;2016/9&lt;/h2&gt;
 &lt;h3&gt;YATSUZAKI HARDCORE #48&lt;/h3&gt;
-&lt;p&gt;個人的には今年一番のビッグニュースでした&lt;br /&gt;
-地元札幌でライブをさせていただけて本当に楽しかったです！&lt;br /&gt;
-このライブのために子供盆踊り歌のレコード探したりしてました。&lt;br /&gt;
-&lt;a href="2016/09/20/yatsucore/"&gt;【Live】YATSUZAKI HARDCORE #48に出演します！ #ヤツコア&lt;/a&gt;
-&lt;iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?feed=https%3A%2F%2Fwww.mixcloud.com%2Fca54makske%2Fca5-live-yatsuzaki-hardcore-48%2F&amp;hide_cover=1&amp;mini=1&amp;light=1" frameborder="0"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;個人的には今年一番のビッグニュースでした&lt;br&gt;
+地元札幌でライブをさせていただけて本当に楽しかったです！&lt;br&gt;
+このライブのために子供盆踊り歌のレコード探したりしてました。&lt;br&gt;
+&lt;a href="2016/09/20/yatsucore/"&gt;【Live】YATSUZAKI HARDCORE #48に出演します！ #ヤツコア&lt;/a&gt;&lt;/p&gt;
+&lt;iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?feed=https%3A%2F%2Fwww.mixcloud.com%2Fca54makske%2Fca5-live-yatsuzaki-hardcore-48%2F&amp;hide_cover=1&amp;mini=1&amp;light=1" frameborder="0"&gt;&lt;/iframe&gt;
+
 &lt;h3&gt;J.S.Bach - BWV 539 (Ca5 remix)&lt;/h3&gt;
-&lt;p&gt;ニコニコでパイプオルガン演奏を聞くのにハマっていて、&lt;br /&gt;
-その中で見つけたバッハの曲がとても良くてリミックスしました。&lt;br /&gt;
+&lt;p&gt;ニコニコでパイプオルガン演奏を聞くのにハマっていて、&lt;br&gt;
+その中で見つけたバッハの曲がとても良くてリミックスしました。&lt;br&gt;
 こちらも &lt;a href="https://twitter.com/biohannya/status/814846691664760832"&gt;#BioAwards2016&lt;/a&gt; いただきました！  &lt;/p&gt;
 &lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/281985797&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;
 
 &lt;h2&gt;2016/10&lt;/h2&gt;
 &lt;h3&gt;Scott Brown - Elysium (LSDj cover)&lt;/h3&gt;
-&lt;p&gt;ハッピーハードコアの名曲のLSDjカバー&lt;br /&gt;
-多分僕がこの手の曲を聞くようになったきっかけの思い出の一曲です。&lt;br /&gt;
-&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/287875408&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;ハッピーハードコアの名曲のLSDjカバー&lt;br&gt;
+多分僕がこの手の曲を聞くようになったきっかけの思い出の一曲です。  &lt;/p&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/287875408&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;
+
 &lt;h2&gt;2016/12&lt;/h2&gt;
 &lt;h3&gt;つくしEP7&lt;/h3&gt;
-&lt;p&gt;今年も〆はつくしレコーズのEPでした!&lt;br /&gt;
-個人的に毎年楽しみにしてたりします&lt;br /&gt;
+&lt;p&gt;今年も〆はつくしレコーズのEPでした!&lt;br&gt;
+個人的に毎年楽しみにしてたりします&lt;br&gt;
 &lt;a href="http://tuxurecords.tumblr.com/post/154761406611/ep7"&gt;http://tuxurecords.tumblr.com/post/154761406611/ep7&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;自分の参加曲:&lt;br /&gt;
-自分の好きな曲をまた好き勝手に切り刻んでやりました。
-&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/298962367&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;今年はちょっとコメント丁寧に書いたつもりですが、&lt;br /&gt;
-かなりしんどくて年が明けるんじゃないかとドキドキしながら書いてました。&lt;br /&gt;
-来年も書くのがしんどいくらい色々活動できますように。&lt;/p&gt;</summary><category term="chiptune"></category><category term="chipbreak"></category><category term="mashup"></category></entry><entry><title>【Release】つくしEP7</title><link href="https://blog.ca5.me/2016/12/28/tuxu-ep7/" rel="alternate"></link><updated>2016-12-28T00:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2016-12-28:2016/12/28/tuxu-ep7/</id><summary type="html">&lt;p&gt;久々のリリースです！&lt;br /&gt;
+&lt;p&gt;自分の参加曲:&lt;br&gt;
+自分の好きな曲をまた好き勝手に切り刻んでやりました。&lt;/p&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/298962367&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;
+
+&lt;hr&gt;
+&lt;p&gt;今年はちょっとコメント丁寧に書いたつもりですが、&lt;br&gt;
+かなりしんどくて年が明けるんじゃないかとドキドキしながら書いてました。&lt;br&gt;
+来年も書くのがしんどいくらい色々活動できますように。&lt;/p&gt;</content><category term="release"/><category term="chiptune"/><category term="chipbreak"/><category term="mashup"/></entry><entry><title>【Release】つくしEP7</title><link href="https://blog.ca5.me/2016/12/28/tuxu-ep7/" rel="alternate"/><published>2016-12-28T00:00:00+09:00</published><updated>2016-12-28T00:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2016-12-28:/2016/12/28/tuxu-ep7/</id><summary type="html">&lt;p&gt;久々のリリースです！&lt;br&gt;
 もう先週になりますが、つくしレコーズのつくしEP7に参加しました！  &lt;/p&gt;
-&lt;p&gt;ダウンロード:&lt;br /&gt;
+&lt;p&gt;ダウンロード:&lt;br&gt;
 &lt;a href="http://tuxurecords.tumblr.com/post/154761406611/ep7"&gt;http://tuxurecords.tumblr.com/post/154761406611/ep7&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;視聴版:&lt;br /&gt;
-&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/298943362&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;視聴版:  &lt;/p&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/298943362&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;
+
 &lt;iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/298962367&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;visual=true"&gt;&lt;/iframe&gt;
 
-&lt;p&gt;よろしくお願いします!&lt;/p&gt;</summary><category term="chiptune"></category><category term="chipbreak"></category><category term="mashup"></category></entry><entry><title>iOSゲーム「星屑のダンガンチューンズ」に収録されました！</title><link href="https://blog.ca5.me/2016/06/19/bulletn-tunes/" rel="alternate"></link><updated>2016-06-19T23:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2016-06-19:2016/06/19/bulletn-tunes/</id><summary type="html">&lt;p&gt;esctraxのblogにて既に紹介されていますが、&lt;br /&gt;
-自分の楽曲がiOSの弾幕リズムシューティングゲーム&lt;br /&gt;
+&lt;p&gt;よろしくお願いします …&lt;/p&gt;</summary><content type="html">&lt;p&gt;久々のリリースです！&lt;br&gt;
+もう先週になりますが、つくしレコーズのつくしEP7に参加しました！  &lt;/p&gt;
+&lt;p&gt;ダウンロード:&lt;br&gt;
+&lt;a href="http://tuxurecords.tumblr.com/post/154761406611/ep7"&gt;http://tuxurecords.tumblr.com/post/154761406611/ep7&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;視聴版:  &lt;/p&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/298943362&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;
+
+&lt;iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/298962367&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;visual=true"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;よろしくお願いします!&lt;/p&gt;</content><category term="release"/><category term="chiptune"/><category term="chipbreak"/><category term="mashup"/></entry><entry><title>iOSゲーム「星屑のダンガンチューンズ」に収録されました！</title><link href="https://blog.ca5.me/2016/06/19/bulletn-tunes/" rel="alternate"/><published>2016-06-19T23:00:00+09:00</published><updated>2016-06-19T23:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2016-06-19:/2016/06/19/bulletn-tunes/</id><summary type="html">&lt;p&gt;esctraxのblogにて既に紹介されていますが、&lt;br&gt;
+自分の楽曲がiOSの弾幕リズムシューティングゲーム&lt;br&gt;
 &lt;a href="http://t.umblr.com/redirect?z=https%3A%2F%2Fitunes.apple.com%2Fjp%2Fapp%2Fbulletntunes%2Fid1039514679&amp;amp;t=YmVjNjY3NDllN2IxYzcxYTAyNDIxOWNmMjMxNzNjZTdhZTc2YjI1NSxiWmhmdTUwZA%3D%3D"&gt;「星屑のダンガンチューンズ｜BULLET'N TUNES」&lt;/a&gt;に収録されました！&lt;/p&gt;
-&lt;p&gt;詳細:&lt;br /&gt;
+&lt;p&gt;詳細:&lt;br&gt;
+&lt;a href="http://blog.esctrax.com/post/146105773560/release%E6%98%9F%E5%B1%91%E3%81%AE%E3%83%80%E3%83%B3%E3%82%AC%E3%83%B3%E3%83%81%E3%83%A5%E3%83%BC%E3%83%B3%E3%82%BA-%E3%81%ABesc-trax%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%E3%81%AE%E6%A5%BD%E6%9B%B2%E5%8F%8E%E9%8C%B2"&gt;esctrax blog - 【RELEASE】星屑のダンガンチューンズ にESC TRAXメンバーの楽曲収録 …&lt;/a&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;esctraxのblogにて既に紹介されていますが、&lt;br&gt;
+自分の楽曲がiOSの弾幕リズムシューティングゲーム&lt;br&gt;
+&lt;a href="http://t.umblr.com/redirect?z=https%3A%2F%2Fitunes.apple.com%2Fjp%2Fapp%2Fbulletntunes%2Fid1039514679&amp;amp;t=YmVjNjY3NDllN2IxYzcxYTAyNDIxOWNmMjMxNzNjZTdhZTc2YjI1NSxiWmhmdTUwZA%3D%3D"&gt;「星屑のダンガンチューンズ｜BULLET'N TUNES」&lt;/a&gt;に収録されました！&lt;/p&gt;
+&lt;p&gt;詳細:&lt;br&gt;
 &lt;a href="http://blog.esctrax.com/post/146105773560/release%E6%98%9F%E5%B1%91%E3%81%AE%E3%83%80%E3%83%B3%E3%82%AC%E3%83%B3%E3%83%81%E3%83%A5%E3%83%BC%E3%83%B3%E3%82%BA-%E3%81%ABesc-trax%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%E3%81%AE%E6%A5%BD%E6%9B%B2%E5%8F%8E%E9%8C%B2"&gt;esctrax blog - 【RELEASE】星屑のダンガンチューンズ にESC TRAXメンバーの楽曲収録&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;収録曲「Battery RAM」:
-&lt;iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/269856659&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;visual=true"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;ぜひ遊んでみてくださいね！&lt;/p&gt;</summary><category term="game"></category><category term="esctrax"></category></entry><entry><title>【Release】Back to the 8bit</title><link href="https://blog.ca5.me/2016/06/04/back-to-the-8bit/" rel="alternate"></link><updated>2016-06-04T00:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2016-06-04:2016/06/04/back-to-the-8bit/</id><summary type="html">&lt;p&gt;自分のブログで告知すっかり忘れてしまってましたが、&lt;br /&gt;
+&lt;p&gt;収録曲「Battery RAM」:&lt;/p&gt;
+&lt;iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/269856659&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;visual=true"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;ぜひ遊んでみてくださいね！&lt;/p&gt;</content><category term="release"/><category term="game"/><category term="esctrax"/></entry><entry><title>【Release】Back to the 8bit</title><link href="https://blog.ca5.me/2016/06/04/back-to-the-8bit/" rel="alternate"/><published>2016-06-04T00:00:00+09:00</published><updated>2016-06-04T00:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2016-06-04:/2016/06/04/back-to-the-8bit/</id><summary type="html">&lt;p&gt;自分のブログで告知すっかり忘れてしまってましたが、&lt;br&gt;
+先月新しいアルバムをリリースしました！&lt;/p&gt;
+&lt;h3&gt;リリースページ&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://esctrax.bandcamp.com/album/esc-003-back-to-the-8bit"&gt;https …&lt;/a&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;自分のブログで告知すっかり忘れてしまってましたが、&lt;br&gt;
 先月新しいアルバムをリリースしました！&lt;/p&gt;
 &lt;h3&gt;リリースページ&lt;/h3&gt;
 &lt;p&gt;&lt;a href="https://esctrax.bandcamp.com/album/esc-003-back-to-the-8bit"&gt;https://esctrax.bandcamp.com/album/esc-003-back-to-the-8bit&lt;/a&gt;&lt;/p&gt;
 &lt;iframe style="border: 0; width: 350px; height: 786px;" src="https://bandcamp.com/EmbeddedPlayer/album=4057738787/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless&gt;&lt;a href="http://esctrax.bandcamp.com/album/esc-003-back-to-the-8bit"&gt;[ESC-003] Back to the 8bit by Ca5&lt;/a&gt;&lt;/iframe&gt;
 
 &lt;p&gt;自分の過去曲を振り返り、8bitな環境(=LSDj)で作りなおしたセルフリミックスアルバムです。  &lt;/p&gt;
-&lt;p&gt;1-5曲目がLSDjで作成した楽曲&lt;br /&gt;
-6-10曲目がFL Studioで作ったオリジナル曲となっています。&lt;br /&gt;
-ぜひ聴いてみてください!&lt;/p&gt;</summary><category term="chipbreak"></category><category term="esctrax"></category></entry><entry><title>【Release】Chipbreakのコンピに参加しました[Bleep-Love]</title><link href="https://blog.ca5.me/2016/05/22/chip-break-in-the-clouds/" rel="alternate"></link><updated>2016-05-22T00:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2016-05-22:2016/05/22/chip-break-in-the-clouds/</id><summary type="html">&lt;p&gt;ロシアのチップチューンレーベル Bleep-Love発のChipbreakコンピレーション&lt;br /&gt;
+&lt;p&gt;1-5曲目がLSDjで作成した楽曲&lt;br&gt;
+6-10曲目がFL Studioで作ったオリジナル曲となっています。&lt;br&gt;
+ぜひ聴いてみてください!&lt;/p&gt;</content><category term="release"/><category term="chipbreak"/><category term="esctrax"/></entry><entry><title>【Release】Chipbreakのコンピに参加しました[Bleep-Love]</title><link href="https://blog.ca5.me/2016/05/22/chip-break-in-the-clouds/" rel="alternate"/><published>2016-05-22T00:00:00+09:00</published><updated>2016-05-22T00:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2016-05-22:/2016/05/22/chip-break-in-the-clouds/</id><summary type="html">&lt;p&gt;ロシアのチップチューンレーベル Bleep-Love発のChipbreakコンピレーション&lt;br&gt;
 &lt;em&gt;Chip Break In The Clouds&lt;/em&gt; に参加しました!&lt;/p&gt;
 &lt;h3&gt;リリースページ&lt;/h3&gt;
 &lt;p&gt;&lt;a href="https://bleeplove.bandcamp.com/album/chip-break-in-the-clouds"&gt;https://bleeplove.bandcamp.com/album/chip-break-in-the-clouds&lt;/a&gt;&lt;/p&gt;
 &lt;h3&gt;参加曲&lt;/h3&gt;
-&lt;p&gt;&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/265177573&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/265177573&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;
+
+&lt;h3&gt;アルバム全体 …&lt;/h3&gt;</summary><content type="html">&lt;p&gt;ロシアのチップチューンレーベル Bleep-Love発のChipbreakコンピレーション&lt;br&gt;
+&lt;em&gt;Chip Break In The Clouds&lt;/em&gt; に参加しました!&lt;/p&gt;
+&lt;h3&gt;リリースページ&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://bleeplove.bandcamp.com/album/chip-break-in-the-clouds"&gt;https://bleeplove.bandcamp.com/album/chip-break-in-the-clouds&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;参加曲&lt;/h3&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/265177573&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;
+
 &lt;h3&gt;アルバム全体の視聴&lt;/h3&gt;
-&lt;p&gt;&lt;iframe style="border: 0; width: 350px; height: 786px;" src="https://bandcamp.com/EmbeddedPlayer/album=2780967111/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless&gt;&lt;a href="http://bleeplove.bandcamp.com/album/chip-break-in-the-clouds"&gt;Chip Break In The Clouds by BleepLove&lt;/a&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;自分以外にも日本人の参加者が結構いらっしゃいますね！&lt;br /&gt;
-ぜひ聞いてみてください！&lt;/p&gt;</summary><category term="chipbreak"></category><category term="bleep-love"></category></entry><entry><title>【2016M3春】ESC TRAXで新譜出します!</title><link href="https://blog.ca5.me/2016/04/18/2016M3-spring/" rel="alternate"></link><updated>2016-04-18T23:30:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2016-04-18:2016/04/18/2016M3-spring/</id><summary type="html">&lt;p&gt;4/27のM3にESC TRAXのブースで新EPを頒布予定です！  &lt;/p&gt;
+&lt;iframe style="border: 0; width: 350px; height: 786px;" src="https://bandcamp.com/EmbeddedPlayer/album=2780967111/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless&gt;&lt;a href="http://bleeplove.bandcamp.com/album/chip-break-in-the-clouds"&gt;Chip Break In The Clouds by BleepLove&lt;/a&gt;&lt;/iframe&gt;
+
+&lt;p&gt;自分以外にも日本人の参加者が結構いらっしゃいますね！&lt;br&gt;
+ぜひ聞いてみてください！&lt;/p&gt;</content><category term="release"/><category term="chipbreak"/><category term="bleep-love"/></entry><entry><title>【2016M3春】ESC TRAXで新譜出します!</title><link href="https://blog.ca5.me/2016/04/18/2016M3-spring/" rel="alternate"/><published>2016-04-18T23:30:00+09:00</published><updated>2016-04-18T23:30:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2016-04-18:/2016/04/18/2016M3-spring/</id><summary type="html">&lt;p&gt;4/27のM3にESC TRAXのブースで新EPを頒布予定です！  &lt;/p&gt;
 &lt;p&gt;&lt;a href="http://blog.esctrax.com/post/142894223610/m3%E6%98%A5%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E4%BA%88%E5%AE%9Aesc-sound-collection"&gt;【M3春リリース予定】ESC Sound Collection&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;ESC Sound Collection&lt;/p&gt;
@@ -457,8 +546,21 @@ LogbarのRingが調子悪くて。。結局あまりあたらしいことはや�
 &lt;/ol&gt;
 &lt;p&gt;&lt;iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=4242366499/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless&gt;&lt;a href="http://esctrax.bandcamp.com/album/esc-ex004-esc-sound-collection-sample"&gt;[ESC-EX004] ESC Sound Collection (sample) by V.A.&lt;/a&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;hr /&gt;
-&lt;p&gt;旧譜も頒布予定です&lt;br /&gt;
+&lt;hr&gt;
+&lt;p&gt;旧譜も頒布予定です&lt;br&gt;
+限定版のアルバムも増刷しま …&lt;/p&gt;</summary><content type="html">&lt;p&gt;4/27のM3にESC TRAXのブースで新EPを頒布予定です！  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://blog.esctrax.com/post/142894223610/m3%E6%98%A5%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E4%BA%88%E5%AE%9Aesc-sound-collection"&gt;【M3春リリース予定】ESC Sound Collection&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;ESC Sound Collection&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Ca5 - New World&lt;/li&gt;
+&lt;li&gt;suesett - PaLox&lt;/li&gt;
+&lt;li&gt;east breaks in thousand - Daydream&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=4242366499/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless&gt;&lt;a href="http://esctrax.bandcamp.com/album/esc-ex004-esc-sound-collection-sample"&gt;[ESC-EX004] ESC Sound Collection (sample) by V.A.&lt;/a&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;p&gt;旧譜も頒布予定です&lt;br&gt;
 限定版のアルバムも増刷します！&lt;/p&gt;
 &lt;p&gt;&lt;a href="http://blog.esctrax.com/post/131345072326/releaseesc-ex002-ca5-dystopia"&gt;【RELEASE】[ESC-EX002] Ca5 - DYSTOPIA&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
@@ -473,44 +575,63 @@ LogbarのRingが調子悪くて。。結局あまりあたらしいことはや�
 &lt;li&gt;(ボーナストラック)&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/228758153&amp;color=ff5500"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;/blockquote&gt;</summary><category term="chiptune"></category><category term="LSDJ"></category><category term="M3"></category></entry><entry><title>【リリース】NewYearTrax2016 - SapporoHardcoreChannel</title><link href="https://blog.ca5.me/2016/01/11/newyeartracks2016/" rel="alternate"></link><updated>2016-01-11T21:30:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2016-01-11:2016/01/11/newyeartracks2016/</id><summary type="html">&lt;p&gt;2016年一発目のリリースです！&lt;br /&gt;
+&lt;/blockquote&gt;</content><category term="release"/><category term="chiptune"/><category term="LSDJ"/><category term="M3"/></entry><entry><title>【リリース】NewYearTrax2016 - SapporoHardcoreChannel</title><link href="https://blog.ca5.me/2016/01/11/newyeartracks2016/" rel="alternate"/><published>2016-01-11T21:30:00+09:00</published><updated>2016-01-11T21:30:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2016-01-11:/2016/01/11/newyeartracks2016/</id><summary type="html">&lt;p&gt;2016年一発目のリリースです！&lt;br&gt;
 SapporoHardcoreChannelのコンピに参加させていただきました！  &lt;/p&gt;
-&lt;p&gt;詳細・ダウンロード:&lt;br /&gt;
-&lt;a href="http://s.ameblo.jp/shcblog/entry-12114136069.html"&gt;NewYearTracks2016 - SHC blog &lt;img alt="NewYearTracks" src="https://blog.ca5.me/images/20160111/newyeartrax2016_jacket.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;参加曲は、実はちょっと前に作った曲で、&lt;br /&gt;
-スピッツのロビンソンとススキノのロビ地下(もう無いけど)をもじったネタリミックスです。
-&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/149951755&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;自分の故郷ネタで&lt;br /&gt;
-こうして地元のグループのリリースとして出させていただけて本当にありがたいです。&lt;br /&gt;
-今年もよろしくお願いします。&lt;/p&gt;</summary><category term="chipbreak"></category><category term="breakcore"></category></entry><entry><title>【リリース】つくしLP</title><link href="https://blog.ca5.me/2015/12/20/tuxulp/" rel="alternate"></link><updated>2015-12-20T00:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2015-12-20:2015/12/20/tuxulp/</id><summary type="html">&lt;p&gt;つくしレコーズから出たつくしLPに参加させていただきました！
+&lt;p&gt;詳細・ダウンロード:&lt;br&gt;
+&lt;a href="http://s.ameblo.jp/shcblog/entry-12114136069.html"&gt;NewYearTracks2016 - SHC blog &lt;img alt="NewYearTracks" src="https://blog.ca5.me/images/20160111/newyeartrax2016_jacket.jpg"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;参加曲は、実はちょっと前に作った曲で、&lt;br&gt;
+スピッツのロビンソンとススキノのロビ地 …&lt;/p&gt;</summary><content type="html">&lt;p&gt;2016年一発目のリリースです！&lt;br&gt;
+SapporoHardcoreChannelのコンピに参加させていただきました！  &lt;/p&gt;
+&lt;p&gt;詳細・ダウンロード:&lt;br&gt;
+&lt;a href="http://s.ameblo.jp/shcblog/entry-12114136069.html"&gt;NewYearTracks2016 - SHC blog &lt;img alt="NewYearTracks" src="https://blog.ca5.me/images/20160111/newyeartrax2016_jacket.jpg"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;参加曲は、実はちょっと前に作った曲で、&lt;br&gt;
+スピッツのロビンソンとススキノのロビ地下(もう無いけど)をもじったネタリミックスです。&lt;/p&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/149951755&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;自分の故郷ネタで&lt;br&gt;
+こうして地元のグループのリリースとして出させていただけて本当にありがたいです。&lt;br&gt;
+今年もよろしくお願いします。&lt;/p&gt;</content><category term="release"/><category term="chipbreak"/><category term="breakcore"/></entry><entry><title>【リリース】つくしLP</title><link href="https://blog.ca5.me/2015/12/20/tuxulp/" rel="alternate"/><published>2015-12-20T00:00:00+09:00</published><updated>2015-12-20T00:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2015-12-20:/2015/12/20/tuxulp/</id><summary type="html">&lt;p&gt;つくしレコーズから出たつくしLPに参加させていただきました！
+いつもよりナードコアっぽい曲で提出させていただいてます。&lt;/p&gt;
+&lt;h2&gt;リリースページ&lt;/h2&gt;
+&lt;p&gt;&lt;a href="http://tuxurecords.tumblr.com/post/135106243736/%E3%81%A4%E3%81%8F%E3%81%97lp"&gt;http …&lt;/a&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;つくしレコーズから出たつくしLPに参加させていただきました！
 いつもよりナードコアっぽい曲で提出させていただいてます。&lt;/p&gt;
 &lt;h2&gt;リリースページ&lt;/h2&gt;
 &lt;p&gt;&lt;a href="http://tuxurecords.tumblr.com/post/135106243736/%E3%81%A4%E3%81%8F%E3%81%97lp"&gt;http://tuxurecords.tumblr.com/post/135106243736/%E3%81%A4%E3%81%8F%E3%81%97lp&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="http://"&gt;aa&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;サンプル&lt;/h2&gt;
 &lt;h3&gt;LP全体のサンプル&lt;/h3&gt;
-&lt;p&gt;&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/237338741&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/237338741&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;
+
 &lt;h3&gt;自分の曲&lt;/h3&gt;
-&lt;p&gt;&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/237340899&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;楽しいアルバムなのでぜひ聞いてみてください!&lt;/p&gt;</summary><category term="nerdcore"></category></entry><entry><title>DYSTOPIAの委託販売開始しました!</title><link href="https://blog.ca5.me/2015/11/24/dystopia_on_sale/" rel="alternate"></link><updated>2015-11-24T23:30:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2015-11-24:2015/11/24/dystopia_on_sale/</id><summary type="html">&lt;p&gt;既に&lt;a href="http://blog.esctrax.com/post/133263557775/%E5%A7%94%E8%A8%97%E8%B2%A9%E5%A3%B2%E9%96%8B%E5%A7%8Besc-ex002-ca5-dystopia"&gt;ESC TRAXの記事&lt;/a&gt;や&lt;a href="http://chip-union.net/?p=2563"&gt;chip-unionさん&lt;/a&gt;でも紹介いただいていて&lt;br /&gt;
-個人ブログに書きそびれてましたが、&lt;br /&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/237340899&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;楽しいアルバムなのでぜひ聞いてみてください!&lt;/p&gt;</content><category term="release"/><category term="nerdcore"/></entry><entry><title>DYSTOPIAの委託販売開始しました!</title><link href="https://blog.ca5.me/2015/11/24/dystopia_on_sale/" rel="alternate"/><published>2015-11-24T23:30:00+09:00</published><updated>2015-11-24T23:30:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2015-11-24:/2015/11/24/dystopia_on_sale/</id><summary type="html">&lt;p&gt;既に&lt;a href="http://blog.esctrax.com/post/133263557775/%E5%A7%94%E8%A8%97%E8%B2%A9%E5%A3%B2%E9%96%8B%E5%A7%8Besc-ex002-ca5-dystopia"&gt;ESC TRAXの記事&lt;/a&gt;や&lt;a href="http://chip-union.net/?p=2563"&gt;chip-unionさん&lt;/a&gt;でも紹介いただいていて&lt;br&gt;
+個人ブログに書きそびれてましたが、&lt;br&gt;
 &lt;a href="https://blog.ca5.me/2015/10/20/dystopia/"&gt;以前の記事&lt;/a&gt; で紹介したDISTOPIAの委託販売が決定して只今販売中でございます。
-&lt;img alt="Jacket" src="https://blog.ca5.me/images/20151020/jacket.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;今回委託販売にご協力していただいたのは&lt;br /&gt;
-&lt;a href="http://www.3-get.com/"&gt;三月兎(http://www.3-get.com/)&lt;/a&gt;&lt;br /&gt;
-&lt;a href="http://www.future-music.co.jp/"&gt;TOKYO FUTURE MUSIC(http://www.future-music.co.jp/)&lt;/a&gt;&lt;br /&gt;
+&lt;img alt="Jacket" src="https://blog.ca5.me/images/20151020/jacket.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;今回委託販売 …&lt;/p&gt;</summary><content type="html">&lt;p&gt;既に&lt;a href="http://blog.esctrax.com/post/133263557775/%E5%A7%94%E8%A8%97%E8%B2%A9%E5%A3%B2%E9%96%8B%E5%A7%8Besc-ex002-ca5-dystopia"&gt;ESC TRAXの記事&lt;/a&gt;や&lt;a href="http://chip-union.net/?p=2563"&gt;chip-unionさん&lt;/a&gt;でも紹介いただいていて&lt;br&gt;
+個人ブログに書きそびれてましたが、&lt;br&gt;
+&lt;a href="https://blog.ca5.me/2015/10/20/dystopia/"&gt;以前の記事&lt;/a&gt; で紹介したDISTOPIAの委託販売が決定して只今販売中でございます。
+&lt;img alt="Jacket" src="https://blog.ca5.me/images/20151020/jacket.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;今回委託販売にご協力していただいたのは&lt;br&gt;
+&lt;a href="http://www.3-get.com/"&gt;三月兎(http://www.3-get.com/)&lt;/a&gt;&lt;br&gt;
+&lt;a href="http://www.future-music.co.jp/"&gt;TOKYO FUTURE MUSIC(http://www.future-music.co.jp/)&lt;/a&gt;&lt;br&gt;
 の二店です。  &lt;/p&gt;
-&lt;p&gt;本作品はCDRリリースなんですが、&lt;br /&gt;
-もうCDプレイヤーなんて持ってない人もいるんじゃないかと思って&lt;br /&gt;
-DLコードを個別に(DL認証サイトとかは自分で作りました)振っています。&lt;br /&gt;
+&lt;p&gt;本作品はCDRリリースなんですが、&lt;br&gt;
+もうCDプレイヤーなんて持ってない人もいるんじゃないかと思って&lt;br&gt;
+DLコードを個別に(DL認証サイトとかは自分で作りました)振っています。&lt;br&gt;
 その辺りのイレギュラーな対応もしていただけて本当に感謝しています。&lt;/p&gt;
-&lt;p&gt;どちらのお店も店内視聴が可能で、通信販売もやられています！&lt;br /&gt;
-気になった方是非よろしくお願いします。&lt;/p&gt;</summary><category term="hoge"></category><category term="fuga"></category></entry><entry><title>【新アルバム】DYSTOPIA</title><link href="https://blog.ca5.me/2015/10/20/dystopia/" rel="alternate"></link><updated>2015-10-20T22:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2015-10-20:2015/10/20/dystopia/</id><summary type="html">&lt;p&gt;新アルバムが完成しました!&lt;/p&gt;
+&lt;p&gt;どちらのお店も店内視聴が可能で、通信販売もやられています！&lt;br&gt;
+気になった方是非よろしくお願いします。&lt;/p&gt;</content><category term="release"/><category term="hoge"/><category term="fuga"/></entry><entry><title>【新アルバム】DYSTOPIA</title><link href="https://blog.ca5.me/2015/10/20/dystopia/" rel="alternate"/><published>2015-10-20T22:00:00+09:00</published><updated>2015-10-20T22:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2015-10-20:/2015/10/20/dystopia/</id><summary type="html">&lt;p&gt;新アルバムが完成しました!&lt;/p&gt;
 &lt;h2&gt;DYSTOPIA&lt;/h2&gt;
-&lt;p&gt;&lt;img alt="Jacket" src="https://blog.ca5.me/images/20151020/jacket.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;ダークで退廃的な未来都市をイメージした作品です。&lt;br /&gt;
-CDR/SDカード(限定版) での頒布となります。&lt;br /&gt;
-限定版にはFLのプロジェクトファイルがつきます!&lt;br /&gt;
+&lt;p&gt;&lt;img alt="Jacket" src="https://blog.ca5.me/images/20151020/jacket.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;ダークで退廃的な未来都市をイメージした作品です。&lt;br&gt;
+CDR/SDカード(限定版) での頒布となります …&lt;/p&gt;</summary><content type="html">&lt;p&gt;新アルバムが完成しました!&lt;/p&gt;
+&lt;h2&gt;DYSTOPIA&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="Jacket" src="https://blog.ca5.me/images/20151020/jacket.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;ダークで退廃的な未来都市をイメージした作品です。&lt;br&gt;
+CDR/SDカード(限定版) での頒布となります。&lt;br&gt;
+限定版にはFLのプロジェクトファイルがつきます!&lt;br&gt;
 → &lt;a href="http://blog.esctrax.com/post/131345072326/releaseesc-ex002-ca5-dystopia"&gt;詳細&lt;/a&gt;&lt;/p&gt;
 &lt;h3&gt;track list&lt;/h3&gt;
 &lt;ol&gt;
@@ -524,29 +645,43 @@ CDR/SDカード(限定版) での頒布となります。&lt;br /&gt;
 &lt;li&gt;ボーナストラック(限定版のみ)&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h3&gt;player (sample)&lt;/h3&gt;
-&lt;p&gt;&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/228758153&amp;color=ff5500"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/228758153&amp;color=ff5500"&gt;&lt;/iframe&gt;
+
 &lt;h2&gt;頒布場所&lt;/h2&gt;
-&lt;p&gt;今回M3はエントリーしていないので、&lt;br /&gt;
-しばらくは自分が出演するイベントでのみの頒布となります。&lt;br /&gt;
-直近では &lt;a href="2015/09/29/parareco/"&gt;パラレコフェスタ&lt;/a&gt; です。&lt;br /&gt;
-同人ショップなどへの委託も考えていますので、決まり次第blogやtwitterなどでお知らせします。&lt;/p&gt;</summary><category term="chiptune"></category><category term="chipbreak"></category><category term="breakcore"></category></entry><entry><title>【リミックス】Raindrop EP</title><link href="https://blog.ca5.me/2015/09/20/raindrop/" rel="alternate"></link><updated>2015-09-20T23:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2015-09-20:2015/09/20/raindrop/</id><summary type="html">&lt;p&gt;今週末リリースされるsuesettのEPにリミックス曲で参加しています!&lt;/p&gt;
-&lt;p&gt;アルバム詳細:&lt;br /&gt;
+&lt;p&gt;今回M3はエントリーしていないので、&lt;br&gt;
+しばらくは自分が出演するイベントでのみの頒布となります。&lt;br&gt;
+直近では &lt;a href="2015/09/29/parareco/"&gt;パラレコフェスタ&lt;/a&gt; です。&lt;br&gt;
+同人ショップなどへの委託も考えていますので、決まり次第blogやtwitterなどでお知らせします。&lt;/p&gt;</content><category term="release"/><category term="chiptune"/><category term="chipbreak"/><category term="breakcore"/></entry><entry><title>【リミックス】Raindrop EP</title><link href="https://blog.ca5.me/2015/09/20/raindrop/" rel="alternate"/><published>2015-09-20T23:00:00+09:00</published><updated>2015-09-20T23:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2015-09-20:/2015/09/20/raindrop/</id><summary type="html">&lt;p&gt;今週末リリースされるsuesettのEPにリミックス曲で参加しています!&lt;/p&gt;
+&lt;p&gt;アルバム詳細:&lt;br&gt;
 &lt;a href="http://blog.esctrax.com/post/129416262820/livesquare-sounds-tokyo-2015-%E3%81%AB-suesett%E5%87%BA%E6%BC%94"&gt;(esctrax blog: 【LIVE】SQUARE SOUNDS TOKYO 2015 に suesett出演)&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;[ESC EX001L] suesett - Raindrop EP (SST 2015 限定盤)&lt;br /&gt;
-Raindrop&lt;br /&gt;
-Hard &amp;amp; Footwork #02&lt;br /&gt;
-prototype 1394 (※SSST 2015 限定盤ボーナストラック)&lt;br /&gt;
-Raindrop (Ca5 Remix)&lt;br /&gt;
+&lt;p&gt;[ESC EX001L] suesett - Raindrop EP (SST 2015 限定盤)&lt;br&gt;
+Raindrop&lt;br&gt;
+Hard &amp;amp; Footwork #02&lt;br&gt;
+prototype 1394 (※SSST 2015 限定盤ボーナ …&lt;/p&gt;&lt;/blockquote&gt;</summary><content type="html">&lt;p&gt;今週末リリースされるsuesettのEPにリミックス曲で参加しています!&lt;/p&gt;
+&lt;p&gt;アルバム詳細:&lt;br&gt;
+&lt;a href="http://blog.esctrax.com/post/129416262820/livesquare-sounds-tokyo-2015-%E3%81%AB-suesett%E5%87%BA%E6%BC%94"&gt;(esctrax blog: 【LIVE】SQUARE SOUNDS TOKYO 2015 に suesett出演)&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[ESC EX001L] suesett - Raindrop EP (SST 2015 限定盤)&lt;br&gt;
+Raindrop&lt;br&gt;
+Hard &amp;amp; Footwork #02&lt;br&gt;
+prototype 1394 (※SSST 2015 限定盤ボーナストラック)&lt;br&gt;
+Raindrop (Ca5 Remix)&lt;br&gt;
 Hard &amp;amp; Footwork #02 (ebi1000 Remix)  &lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;自分の曲のサンプル :&lt;br /&gt;
-&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/224701022&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;アルバムメインのサンプル:&lt;br /&gt;
-&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/224295967&amp;color=ff5500"&gt;&lt;/iframe&gt;&lt;/p&gt;</summary><category term="chiptune"></category><category term="chipbreak"></category><category term="remix"></category></entry><entry><title>【新アルバム】After5 EP【LSDJ】</title><link href="https://blog.ca5.me/2015/08/07/After5-EP/" rel="alternate"></link><updated>2015-08-07T03:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2015-08-07:2015/08/07/After5-EP/</id><summary type="html">&lt;p&gt;全曲LSDJで作ったアルバムをリリースしました！  &lt;/p&gt;
+&lt;p&gt;自分の曲のサンプル :  &lt;/p&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/224701022&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;アルバムメインのサンプル:  &lt;/p&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/224295967&amp;color=ff5500"&gt;&lt;/iframe&gt;</content><category term="release"/><category term="chiptune"/><category term="chipbreak"/><category term="remix"/></entry><entry><title>【新アルバム】After5 EP【LSDJ】</title><link href="https://blog.ca5.me/2015/08/07/After5-EP/" rel="alternate"/><published>2015-08-07T03:00:00+09:00</published><updated>2015-08-07T03:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2015-08-07:/2015/08/07/After5-EP/</id><summary type="html">&lt;p&gt;全曲LSDJで作ったアルバムをリリースしました！  &lt;/p&gt;
 &lt;h2&gt;&lt;a href="https://bleeplove.bandcamp.com/album/after-5-ep"&gt;After5 EP&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;img alt="Jacket" src="https://blog.ca5.me/images/20150806/jacket.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;夕暮れから家に帰るまでの日常をイメージした作品です。&lt;br /&gt;
+&lt;p&gt;&lt;img alt="Jacket" src="https://blog.ca5.me/images/20150806/jacket.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;夕暮れから家に帰るまでの日常をイメージした作品です。&lt;br&gt;
+ロシアのチップチューンネットレーベル
+&lt;a href="http://bleep-love.ru/"&gt;Bleep Love …&lt;/a&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;全曲LSDJで作ったアルバムをリリースしました！  &lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://bleeplove.bandcamp.com/album/after-5-ep"&gt;After5 EP&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="Jacket" src="https://blog.ca5.me/images/20150806/jacket.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;夕暮れから家に帰るまでの日常をイメージした作品です。&lt;br&gt;
 ロシアのチップチューンネットレーベル
 &lt;a href="http://bleep-love.ru/"&gt;Bleep Love&lt;/a&gt;よりリリースしていただけることになりました。&lt;/p&gt;
 &lt;h3&gt;track list&lt;/h3&gt;
@@ -558,13 +693,19 @@ Hard &amp;amp; Footwork #02 (ebi1000 Remix)  &lt;/p&gt;
 &lt;li&gt;sleep&lt;/li&gt;
 &lt;li&gt;sunset (L'qcy remix)&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;Jacket: &lt;a href="http://t.co/E84HbztpDv"&gt;tac-t!s&lt;/a&gt;&lt;br /&gt;
+&lt;p&gt;Jacket: &lt;a href="http://t.co/E84HbztpDv"&gt;tac-t!s&lt;/a&gt;&lt;br&gt;
 Remix: &lt;a href="https://soundcloud.com/denisdasen"&gt;L'qcy&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;player&lt;/h2&gt;
-&lt;p&gt;&lt;iframe style="border: 0; width: 400px; height: 340px;" src="https://bandcamp.com/EmbeddedPlayer/album=2986284422/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless&gt;&lt;a href="http://bleeplove.bandcamp.com/album/after-5-ep"&gt;After 5 EP by Ca5&lt;/a&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;bandcampの仕様上 $1以上のお布施が必要ってことになっていますが、&lt;br /&gt;
+&lt;iframe style="border: 0; width: 400px; height: 340px;" src="https://bandcamp.com/EmbeddedPlayer/album=2986284422/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless&gt;&lt;a href="http://bleeplove.bandcamp.com/album/after-5-ep"&gt;After 5 EP by Ca5&lt;/a&gt;&lt;/iframe&gt;
+
+&lt;p&gt;bandcampの仕様上 $1以上のお布施が必要ってことになっていますが、&lt;br&gt;
 Bleep Love&lt;a href="http://bleep-love.ru/"&gt;公式サイト&lt;/a&gt;の47番目(BL_47)から
-フリーでDLできます!&lt;/p&gt;</summary><category term="chiptune"></category><category term="LSDJ"></category></entry><entry><title>【新曲】Chip Juke Bros.に参加しました</title><link href="https://blog.ca5.me/2015/05/11/chip-juke-bros/" rel="alternate"></link><updated>2015-05-11T22:41:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2015-05-11:2015/05/11/chip-juke-bros/</id><summary type="html">&lt;p&gt;ちょっと告知遅れてしまいましたが、  &lt;/p&gt;
+フリーでDLできます!&lt;/p&gt;</content><category term="release"/><category term="chiptune"/><category term="LSDJ"/></entry><entry><title>【新曲】Chip Juke Bros.に参加しました</title><link href="https://blog.ca5.me/2015/05/11/chip-juke-bros/" rel="alternate"/><published>2015-05-11T22:41:00+09:00</published><updated>2015-05-11T22:41:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2015-05-11:/2015/05/11/chip-juke-bros/</id><summary type="html">&lt;p&gt;ちょっと告知遅れてしまいましたが、  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://parallelogramrecords.wordpress.com/"&gt;Parallelogramrecords&lt;/a&gt; よりリリースされたChiptune
+で Jukeなコンピ　「Chip Juke Bros.」に参加しました！&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://parallelogramrecords.bandcamp.com/album/chip-juke-bros"&gt;https://parallelogramrecords.bandcamp.com/album/chip-juke-bros&lt;/a&gt;&lt;/p&gt;
+&lt;iframe style="border: 0; width: 350px; height: 786px;" src="https://bandcamp.com/EmbeddedPlayer/album=8627681/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" width="300" height="150" seamless&gt;[Chip
+Juke Bros. by parallelogram …&lt;/iframe&gt;</summary><content type="html">&lt;p&gt;ちょっと告知遅れてしまいましたが、  &lt;/p&gt;
 &lt;p&gt;&lt;a href="https://parallelogramrecords.wordpress.com/"&gt;Parallelogramrecords&lt;/a&gt; よりリリースされたChiptune
 で Jukeなコンピ　「Chip Juke Bros.」に参加しました！&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://parallelogramrecords.bandcamp.com/album/chip-juke-bros"&gt;https://parallelogramrecords.bandcamp.com/album/chip-juke-bros&lt;/a&gt;&lt;/p&gt;
@@ -577,169 +718,285 @@ records](http://parallelogramrecords.bandcamp.com/album/chip-juke-bros)&lt;/ifra
 Juke Bros. by
 Ca5](http://parallelogramrecords.bandcamp.com/album/chip-juke-bros)&lt;/iframe&gt;
 
-&lt;p&gt;全員ゲーム機実機を使ったChiptuneでジャンルがJuke縛りという&lt;br /&gt;
-とても面白い＆珍しいアルバムだと思います。&lt;br /&gt;
-ぜひ聞いてみてください！&lt;/p&gt;</summary><category term="chiptune"></category><category term="LSDJ"></category></entry><entry><title>【リミックス】ヘンデル 「水上の音楽」</title><link href="https://blog.ca5.me/2015/03/28/water-music/" rel="alternate"></link><updated>2015-03-28T22:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2015-03-28:2015/03/28/water-music/</id><summary type="html">&lt;p&gt;ヘンデルの「水上の音楽」をチップブレイクにしてみました。&lt;br /&gt;
-芸能人格付けチェックのBGMなどに使ってるあの曲です。&lt;br /&gt;
+&lt;p&gt;全員ゲーム機実機を使ったChiptuneでジャンルがJuke縛りという&lt;br&gt;
+とても面白い＆珍しいアルバムだと思います。&lt;br&gt;
+ぜひ聞いてみてください！&lt;/p&gt;</content><category term="release"/><category term="chiptune"/><category term="LSDJ"/></entry><entry><title>【リミックス】ヘンデル 「水上の音楽」</title><link href="https://blog.ca5.me/2015/03/28/water-music/" rel="alternate"/><published>2015-03-28T22:00:00+09:00</published><updated>2015-03-28T22:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2015-03-28:/2015/03/28/water-music/</id><summary type="html">&lt;p&gt;ヘンデルの「水上の音楽」をチップブレイクにしてみました。&lt;br&gt;
+芸能人格付けチェックのBGMなどに使ってるあの曲です。&lt;br&gt;
+この間のアザマンショーの最 …&lt;/p&gt;</summary><content type="html">&lt;p&gt;ヘンデルの「水上の音楽」をチップブレイクにしてみました。&lt;br&gt;
+芸能人格付けチェックのBGMなどに使ってるあの曲です。&lt;br&gt;
 この間のアザマンショーの最後にかけてました。&lt;/p&gt;
 &lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/196975219&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;
 
-&lt;p&gt;個人的にはクラシックの中でも中世くらいの曲とチップチューンは相性がすごくいいと思ってます。&lt;br /&gt;
-音数がそんなに多くないとか、共通点があるような気がする。&lt;/p&gt;</summary><category term="breakcore"></category><category term="chipbreak"></category><category term="chiptune"></category><category term="remix"></category></entry><entry><title>【新曲リリース】つくしEP6</title><link href="https://blog.ca5.me/2014/12/23/tuxuep6/" rel="alternate"></link><updated>2014-12-23T22:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2014-12-23:2014/12/23/tuxuep6/</id><summary type="html">&lt;p&gt;つくしレコーズのつくしEP6へ参加させていただきました！&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://tuxurecords.tumblr.com/post/105860816816/ep6"&gt;http://tuxurecords.tumblr.com/post/105860816816/ep6&lt;br /&gt;
-&lt;/a&gt;&lt;br /&gt;
-EP全体の試聴版&lt;br /&gt;
-&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/182603892&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;自分の曲の試聴版&lt;br /&gt;
-&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/182756465&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;ネタもの盛りだくさんの楽しいEPです&lt;br /&gt;
-是非聞いてみてください！&lt;/p&gt;</summary><category term="breakcore"></category><category term="chipbreak"></category><category term="mashup"></category><category term="nerdcore"></category><category term="remix"></category></entry><entry><title>【FREE DOWNLOAD】DYSTOPIA【DEMO】</title><link href="https://blog.ca5.me/2014/11/03/dystopia-demo/" rel="alternate"></link><updated>2014-11-03T22:30:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2014-11-03:2014/11/03/dystopia-demo/</id><summary type="html">&lt;p&gt;先日M3にお越しいただいた方、ありがとうございました&lt;/p&gt;
-&lt;p&gt;M3に来れなかった方も下記よURLよりDYSTOPIAのデモ版 DOWNLOADできます！&lt;br /&gt;
+&lt;p&gt;個人的にはクラシックの中でも中世くらいの曲とチップチューンは相性がすごくいいと思ってます。&lt;br&gt;
+音数がそんなに多くないとか、共通点があるような気がする。&lt;/p&gt;</content><category term="release"/><category term="breakcore"/><category term="chipbreak"/><category term="chiptune"/><category term="remix"/></entry><entry><title>【新曲リリース】つくしEP6</title><link href="https://blog.ca5.me/2014/12/23/tuxuep6/" rel="alternate"/><published>2014-12-23T22:00:00+09:00</published><updated>2014-12-23T22:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2014-12-23:/2014/12/23/tuxuep6/</id><summary type="html">&lt;p&gt;つくしレコーズのつくしEP6へ参加させていただきました！&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://tuxurecords.tumblr.com/post/105860816816/ep6"&gt;http://tuxurecords.tumblr.com/post/105860816816/ep6&lt;br&gt;
+&lt;/a&gt;&lt;br&gt;
+EP全体の試聴版  &lt;/p&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/182603892&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;自分の曲の試聴版  &lt;/p&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/182756465&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;ネタもの盛りだくさんの楽しいEPです&lt;br&gt;
+是非聞いてみて …&lt;/p&gt;</summary><content type="html">&lt;p&gt;つくしレコーズのつくしEP6へ参加させていただきました！&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://tuxurecords.tumblr.com/post/105860816816/ep6"&gt;http://tuxurecords.tumblr.com/post/105860816816/ep6&lt;br&gt;
+&lt;/a&gt;&lt;br&gt;
+EP全体の試聴版  &lt;/p&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/182603892&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;自分の曲の試聴版  &lt;/p&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/182756465&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;ネタもの盛りだくさんの楽しいEPです&lt;br&gt;
+是非聞いてみてください！&lt;/p&gt;</content><category term="release"/><category term="breakcore"/><category term="chipbreak"/><category term="mashup"/><category term="nerdcore"/><category term="remix"/></entry><entry><title>【FREE DOWNLOAD】DYSTOPIA【DEMO】</title><link href="https://blog.ca5.me/2014/11/03/dystopia-demo/" rel="alternate"/><published>2014-11-03T22:30:00+09:00</published><updated>2014-11-03T22:30:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2014-11-03:/2014/11/03/dystopia-demo/</id><content type="html">&lt;p&gt;先日M3にお越しいただいた方、ありがとうございました&lt;/p&gt;
+&lt;p&gt;M3に来れなかった方も下記よURLよりDYSTOPIAのデモ版 DOWNLOADできます！&lt;br&gt;
 DL数限定なのでお早めにどうぞ！&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://goo.gl/18FvvX"&gt;&lt;img alt="" src="http://chart.googleapis.com/chart?cht=qr&amp;amp;chs=100x100&amp;amp;choe=UTF-8&amp;amp;chld=H%7C0&amp;amp;chl=http://goo.gl/18FvvX" /&gt;http://goo.gl/18FvvX&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://goo.gl/18FvvX"&gt;&lt;img alt="" src="http://chart.googleapis.com/chart?cht=qr&amp;amp;chs=100x100&amp;amp;choe=UTF-8&amp;amp;chld=H%7C0&amp;amp;chl=http://goo.gl/18FvvX"&gt;http://goo.gl/18FvvX&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;※
-M3で配布したURLが大文字のIと小文字のlが混ざった大変わかりにくいものだったので、&lt;br /&gt;
-手打ちでURL試してうまくいかなかった方は上記のURLで再度お試しください&lt;/p&gt;</summary><category term="breakcore"></category><category term="chiptune"></category></entry><entry><title>【新曲リリース】dialup-surfer 【pitiful pip puppet】</title><link href="https://blog.ca5.me/2014/10/03/dialup-surfer/" rel="alternate"></link><updated>2014-10-03T00:16:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2014-10-03:2014/10/03/dialup-surfer/</id><summary type="html">&lt;p&gt;pitiful pip puppet から新曲リリースしました！&lt;/p&gt;
+M3で配布したURLが大文字のIと小文字のlが混ざった大変わかりにくいものだったので、&lt;br&gt;
+手打ちでURL試してうまくいかなかった方は上記のURLで再度お試しください&lt;/p&gt;</content><category term="release"/><category term="breakcore"/><category term="chiptune"/></entry><entry><title>【新曲リリース】dialup-surfer 【pitiful pip puppet】</title><link href="https://blog.ca5.me/2014/10/03/dialup-surfer/" rel="alternate"/><published>2014-10-03T00:16:00+09:00</published><updated>2014-10-03T00:16:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2014-10-03:/2014/10/03/dialup-surfer/</id><summary type="html">&lt;p&gt;pitiful pip puppet から新曲リリースしました！&lt;/p&gt;
 &lt;p&gt;&lt;a href="http://pitifulpippuppet.jp/album/digital/download.html"&gt;DIGITAL&lt;/a&gt; - 9.
-dialup-surfer&lt;br /&gt;
-&lt;img alt="" src="http://pitifulpippuppet.jp/album/digital/cover400.gif" /&gt;&lt;/p&gt;
+dialup-surfer&lt;br&gt;
+&lt;img alt="" src="http://pitifulpippuppet.jp/album/digital/cover400.gif"&gt;&lt;/p&gt;
+&lt;p&gt;今回のアルバムは "デジタル"　がテーマということで、&lt;/p&gt;
+&lt;p&gt;90年代くらいの 「デジタルかアナログ …&lt;/p&gt;</summary><content type="html">&lt;p&gt;pitiful pip puppet から新曲リリースしました！&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://pitifulpippuppet.jp/album/digital/download.html"&gt;DIGITAL&lt;/a&gt; - 9.
+dialup-surfer&lt;br&gt;
+&lt;img alt="" src="http://pitifulpippuppet.jp/album/digital/cover400.gif"&gt;&lt;/p&gt;
 &lt;p&gt;今回のアルバムは "デジタル"　がテーマということで、&lt;/p&gt;
 &lt;p&gt;90年代くらいの 「デジタルかアナログか？」みたいな過渡期の&lt;/p&gt;
 &lt;p&gt;ちょっと古臭い感じを出したいなーと思ってvaperwaveっぽい曲を目指したんですが、&lt;/p&gt;
 &lt;p&gt;イマイチそこまで古臭い感じを出せずじまいな感じの仕上がりになってしまいました。&lt;/p&gt;
 &lt;p&gt;とはいえ懐かしのモデム音とマッチしたゆったりした曲調になってくれたんじゃないかなと思ってます。&lt;/p&gt;
-&lt;p&gt;あと、ダイアルアップのモデムはアナログ回線用もあるだろ！ってツッコミはなしでお願いします。&lt;/p&gt;</summary><category term="chiptune"></category><category term="pitiful pip puppet"></category></entry><entry><title>【リミックス】嵐の素顔</title><link href="https://blog.ca5.me/2014/07/05/arashi-no-sugao/" rel="alternate"></link><updated>2014-07-05T22:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2014-07-05:2014/07/05/arashi-no-sugao/</id><summary type="html">&lt;p&gt;どこかのvaporwaveのミックス聞いてたら、この曲をスロー再生したフレーズが出てきて  &lt;/p&gt;
+&lt;p&gt;あと、ダイアルアップのモデムはアナログ回線用もあるだろ！ってツッコミはなしでお願いします。&lt;/p&gt;</content><category term="release"/><category term="chiptune"/><category term="pitiful pip puppet"/></entry><entry><title>【リミックス】嵐の素顔</title><link href="https://blog.ca5.me/2014/07/05/arashi-no-sugao/" rel="alternate"/><published>2014-07-05T22:00:00+09:00</published><updated>2014-07-05T22:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2014-07-05:/2014/07/05/arashi-no-sugao/</id><summary type="html">&lt;p&gt;どこかのvaporwaveのミックス聞いてたら、この曲をスロー再生したフレーズが出てきて  &lt;/p&gt;
+&lt;p&gt;あれ、この曲今更だけどめっちゃかっこいいじゃねえか　と …&lt;/p&gt;</summary><content type="html">&lt;p&gt;どこかのvaporwaveのミックス聞いてたら、この曲をスロー再生したフレーズが出てきて  &lt;/p&gt;
 &lt;p&gt;あれ、この曲今更だけどめっちゃかっこいいじゃねえか　と思ってリミックスしてみました。&lt;/p&gt;
-&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/155509600&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;</summary><category term="breakcore"></category><category term="chipbreak"></category><category term="chiptune"></category><category term="remix"></category></entry><entry><title>【リミックス】Robinson</title><link href="https://blog.ca5.me/2014/05/17/robinson/" rel="alternate"></link><updated>2014-05-17T22:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2014-05-17:2014/05/17/robinson/</id><summary type="html">&lt;p&gt;ホントはロビンソン百貨店のサウンドロゴとかも混ぜようと思ったけど&lt;br /&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/155509600&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;</content><category term="release"/><category term="breakcore"/><category term="chipbreak"/><category term="chiptune"/><category term="remix"/></entry><entry><title>【リミックス】Robinson</title><link href="https://blog.ca5.me/2014/05/17/robinson/" rel="alternate"/><published>2014-05-17T22:00:00+09:00</published><updated>2014-05-17T22:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2014-05-17:/2014/05/17/robinson/</id><content type="html">&lt;p&gt;ホントはロビンソン百貨店のサウンドロゴとかも混ぜようと思ったけど&lt;br&gt;
 全然見つからないんであきらめました。&lt;/p&gt;
-&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/149951755&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_artwork=true"&gt;&lt;/iframe&gt;</summary><category term="breakcore"></category><category term="chipbreak"></category><category term="chiptune"></category><category term="mashup"></category><category term="remix"></category></entry><entry><title>【新アルバムリリース】Memory of the Cartridge</title><link href="https://blog.ca5.me/2013/12/07/memory-of-the-cartridge-release/" rel="alternate"></link><updated>2013-12-07T00:30:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2013-12-07:2013/12/07/memory-of-the-cartridge-release/</id><summary type="html">&lt;p&gt;ちょっと前からdemo版公開したり、先行でCD版出したりしてたアルバムが&lt;br /&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/149951755&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_artwork=true"&gt;&lt;/iframe&gt;</content><category term="release"/><category term="breakcore"/><category term="chipbreak"/><category term="chiptune"/><category term="mashup"/><category term="remix"/></entry><entry><title>【新アルバムリリース】Memory of the Cartridge</title><link href="https://blog.ca5.me/2013/12/07/memory-of-the-cartridge-release/" rel="alternate"/><published>2013-12-07T00:30:00+09:00</published><updated>2013-12-07T00:30:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2013-12-07:/2013/12/07/memory-of-the-cartridge-release/</id><summary type="html">&lt;p&gt;ちょっと前からdemo版公開したり、先行でCD版出したりしてたアルバムが&lt;br&gt;
 遂にOthermanRecordsからリリースされました！&lt;/p&gt;
-&lt;p&gt;[&lt;br /&gt;
-&lt;img alt="" src="http://www.archive.org/download/OTMN051/folder.jpg" /&gt;  &lt;/p&gt;
+&lt;p&gt;[&lt;br&gt;
+&lt;img alt="" src="http://www.archive.org/download/OTMN051/folder.jpg"&gt;  &lt;/p&gt;
 &lt;p&gt;http://www.otherman-records.com/releases/OTMN051](http://www.otherman-records.com/releases/OTMN051)&lt;/p&gt;
-&lt;p&gt;試聴版&lt;br /&gt;
+&lt;p&gt;試聴版  &lt;/p&gt;
 &lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/82757708&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;
-&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/123533102&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/123533102&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;
+
 &lt;p&gt;そろそろsoundcloudの容量がいっぱいなので全部載せるのはとりあえずあきらめました。。&lt;/p&gt;
-&lt;p&gt;日曜のライブもよろしくね&lt;br /&gt;
-&lt;a href="http://peatix.com/event/20875"&gt;http://peatix.com/event/20875&lt;/a&gt;&lt;/p&gt;</summary><category term="otherman"></category></entry><entry><title>【新曲】Only Lonely Holy Story【クリスマスネタ】</title><link href="https://blog.ca5.me/2013/11/24/%E3%80%90%E6%96%B0%E6%9B%B2%E3%80%91only-lonely-holy-story%E3%80%90%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%83%8D%E3%82%BF%E3%80%91/" rel="alternate"></link><updated>2013-11-24T22:40:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2013-11-24:2013/11/24/【新曲】only-lonely-holy-story【クリスマスネタ】/</id><summary type="html">&lt;p&gt;そろそろクリスマスネタやりたいなーと思って、&lt;br /&gt;
+&lt;p&gt;日曜のライブもよろしくね&lt;br&gt;
+&lt;a href="http://peatix.com/event/20875"&gt;http://peatix.com …&lt;/a&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;ちょっと前からdemo版公開したり、先行でCD版出したりしてたアルバムが&lt;br&gt;
+遂にOthermanRecordsからリリースされました！&lt;/p&gt;
+&lt;p&gt;[&lt;br&gt;
+&lt;img alt="" src="http://www.archive.org/download/OTMN051/folder.jpg"&gt;  &lt;/p&gt;
+&lt;p&gt;http://www.otherman-records.com/releases/OTMN051](http://www.otherman-records.com/releases/OTMN051)&lt;/p&gt;
+&lt;p&gt;試聴版  &lt;/p&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/82757708&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/123533102&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;そろそろsoundcloudの容量がいっぱいなので全部載せるのはとりあえずあきらめました。。&lt;/p&gt;
+&lt;p&gt;日曜のライブもよろしくね&lt;br&gt;
+&lt;a href="http://peatix.com/event/20875"&gt;http://peatix.com/event/20875&lt;/a&gt;&lt;/p&gt;</content><category term="release"/><category term="otherman"/></entry><entry><title>【新曲】Only Lonely Holy Story【クリスマスネタ】</title><link href="https://blog.ca5.me/2013/11/24/%E3%80%90%E6%96%B0%E6%9B%B2%E3%80%91only-lonely-holy-story%E3%80%90%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%83%8D%E3%82%BF%E3%80%91/" rel="alternate"/><published>2013-11-24T22:40:00+09:00</published><updated>2013-11-24T22:40:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2013-11-24:/2013/11/24/【新曲】only-lonely-holy-story【クリスマスネタ】/</id><summary type="html">&lt;p&gt;そろそろクリスマスネタやりたいなーと思って、&lt;br&gt;
+自分が高校生の時にハマってた曲をリミックスしてみました。&lt;/p&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/121528815&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;なん …&lt;/p&gt;</summary><content type="html">&lt;p&gt;そろそろクリスマスネタやりたいなーと思って、&lt;br&gt;
 自分が高校生の時にハマってた曲をリミックスしてみました。&lt;/p&gt;
 &lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/121528815&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;
 
 &lt;p&gt;なんかやたらとポップな出来になった気がするけど、まあいいかｗ&lt;/p&gt;
 &lt;p&gt;元の曲名にちょっと一語付け足してますが、  &lt;/p&gt;
-&lt;p&gt;原曲のリア充っぽい歌詞を全部すっ飛ばしてやったんでこんなタイトルをつけてみました。&lt;br /&gt;
+&lt;p&gt;原曲のリア充っぽい歌詞を全部すっ飛ばしてやったんでこんなタイトルをつけてみました。&lt;br&gt;
 きっと次のライブ OthermanShow #9でかけると思います。&lt;/p&gt;
-&lt;p&gt;次のライブ詳細は&lt;a href="http://blog.ca54makske.com/blog/2013/11/16/othermanrecords-9/"&gt;こちら&lt;/a&gt;&lt;/p&gt;</summary><category term="chiptune"></category><category term="mashup"></category><category term="remix"></category></entry><entry><title>【新曲】Summer Shores(Monster Tale)</title><link href="https://blog.ca5.me/2013/10/14/%E3%80%90%E6%96%B0%E6%9B%B2%E3%80%91summer-shower-monster-tale/" rel="alternate"></link><updated>2013-10-14T22:30:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2013-10-14:2013/10/14/【新曲】summer-shower-monster-tale/</id><summary type="html">&lt;p&gt;ロシアのネットレーベル 8081netlabelより&lt;br /&gt;
-DSのMonter TaleというゲームBGMのリミックスコンピがリリースされました。&lt;br /&gt;
+&lt;p&gt;次のライブ詳細は&lt;a href="http://blog.ca54makske.com/blog/2013/11/16/othermanrecords-9/"&gt;こちら&lt;/a&gt;&lt;/p&gt;</content><category term="release"/><category term="chiptune"/><category term="mashup"/><category term="remix"/></entry><entry><title>【新曲】Summer Shores(Monster Tale)</title><link href="https://blog.ca5.me/2013/10/14/%E3%80%90%E6%96%B0%E6%9B%B2%E3%80%91summer-shower-monster-tale/" rel="alternate"/><published>2013-10-14T22:30:00+09:00</published><updated>2013-10-14T22:30:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2013-10-14:/2013/10/14/【新曲】summer-shower-monster-tale/</id><summary type="html">&lt;p&gt;ロシアのネットレーベル 8081netlabelより&lt;br&gt;
+DSのMonter TaleというゲームBGMのリミックスコンピがリリースされました。&lt;br&gt;
 12曲目の「Summer Shores」という曲で参加してます！&lt;/p&gt;
-&lt;p&gt;試聴版:&lt;br /&gt;
-&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/115166734&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;ダウンロードはこちら:&lt;br /&gt;
-&lt;a href="http://8081netlabel.ru/news/8081_va013_monster_tale/2013-10-13-117"&gt;http://8081netlabel.ru/news/8081_va013_monster_tale/2013-10-13-117&lt;br /&gt;
+&lt;p&gt;試聴版:  &lt;/p&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/115166734&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;ダウンロードはこちら:&lt;br&gt;
+&lt;a href="http://8081netlabel.ru/news/8081_va013_monster_tale/2013-10-13-117"&gt;http://8081netlabel.ru/news/8081_va013_monster_tale/2013-10-13-117&lt;br&gt;
 &lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;原曲:Ian Stocker - Summer Shores&lt;br /&gt;
-&lt;a href="http://www.youtube.com/watch?v=TjFMLMhqkjk"&gt;http://www.youtube.com/watch?v=TjFMLMhqkjk&lt;br /&gt;
+&lt;p&gt;原曲:Ian …&lt;/p&gt;</summary><content type="html">&lt;p&gt;ロシアのネットレーベル 8081netlabelより&lt;br&gt;
+DSのMonter TaleというゲームBGMのリミックスコンピがリリースされました。&lt;br&gt;
+12曲目の「Summer Shores」という曲で参加してます！&lt;/p&gt;
+&lt;p&gt;試聴版:  &lt;/p&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/115166734&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;ダウンロードはこちら:&lt;br&gt;
+&lt;a href="http://8081netlabel.ru/news/8081_va013_monster_tale/2013-10-13-117"&gt;http://8081netlabel.ru/news/8081_va013_monster_tale/2013-10-13-117&lt;br&gt;
 &lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;ちなみに、MonsterTaleは残念ながら日本未発売のソフトらしいんで、&lt;br /&gt;
-僕もやったことはないです。&lt;/p&gt;</summary><category term="8081netlabel"></category><category term="breakcore"></category><category term="chipbreak"></category><category term="chiptune"></category></entry><entry><title>Last Summer EP【新作リリース】</title><link href="https://blog.ca5.me/2013/09/03/lsep/" rel="alternate"></link><updated>2013-09-03T22:30:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2013-09-03:2013/09/03/lsep/</id><summary type="html">&lt;p&gt;Otherman Recordsから新作出ました！&lt;br /&gt;
-夏の終わりをテーマにしたEPです。&lt;br /&gt;
-&lt;img alt="" src="http://www.otherman-records.com/images/releases/OTMN047.jpg" /&gt;&lt;br /&gt;
+&lt;p&gt;原曲:Ian Stocker - Summer Shores&lt;br&gt;
+&lt;a href="http://www.youtube.com/watch?v=TjFMLMhqkjk"&gt;http://www.youtube.com/watch?v=TjFMLMhqkjk&lt;br&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ちなみに、MonsterTaleは残念ながら日本未発売のソフトらしいんで、&lt;br&gt;
+僕もやったことはないです。&lt;/p&gt;</content><category term="release"/><category term="8081netlabel"/><category term="breakcore"/><category term="chipbreak"/><category term="chiptune"/></entry><entry><title>Last Summer EP【新作リリース】</title><link href="https://blog.ca5.me/2013/09/03/lsep/" rel="alternate"/><published>2013-09-03T22:30:00+09:00</published><updated>2013-09-03T22:30:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2013-09-03:/2013/09/03/lsep/</id><summary type="html">&lt;p&gt;Otherman Recordsから新作出ました！&lt;br&gt;
+夏の終わりをテーマにしたEPです。&lt;br&gt;
+&lt;img alt="" src="http://www.otherman-records.com/images/releases/OTMN047.jpg"&gt;  &lt;/p&gt;
 &lt;iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/9715475&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;
-2曲目のSuikawariという曲で参加しています！&lt;br /&gt;
+&lt;p&gt;2曲目のSuikawariという曲で参加しています！&lt;br&gt;
 今回は珍しくテンポゆっくりめな仕上がりです。&lt;/p&gt;
-&lt;p&gt;ダウンロードはこちら&lt;br /&gt;
-&lt;a href="http://www.otherman-records.com/releases/OTMN047"&gt;http://www.otherman-records.com/releases/OTMN047&lt;/a&gt;&lt;/p&gt;</summary><category term="chiptune"></category><category term="otherman"></category></entry><entry><title>新曲リリース symmetric [pitiful pip puppet]</title><link href="https://blog.ca5.me/2013/06/22/%E6%96%B0%E6%9B%B2%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9-symmetric-pitiful-pip-puppet/" rel="alternate"></link><updated>2013-06-22T00:17:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2013-06-22:2013/06/22/新曲リリース-symmetric-pitiful-pip-puppet/</id><summary type="html">&lt;p&gt;pitifulp pip puppetから新曲をリリースしました！&lt;/p&gt;
+&lt;p&gt;ダウンロードはこちら&lt;br&gt;
+&lt;a href="http://www.otherman-records.com/releases/OTMN047"&gt;http://www.otherman-records …&lt;/a&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;Otherman Recordsから新作出ました！&lt;br&gt;
+夏の終わりをテーマにしたEPです。&lt;br&gt;
+&lt;img alt="" src="http://www.otherman-records.com/images/releases/OTMN047.jpg"&gt;  &lt;/p&gt;
+&lt;iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/9715475&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;
+&lt;p&gt;2曲目のSuikawariという曲で参加しています！&lt;br&gt;
+今回は珍しくテンポゆっくりめな仕上がりです。&lt;/p&gt;
+&lt;p&gt;ダウンロードはこちら&lt;br&gt;
+&lt;a href="http://www.otherman-records.com/releases/OTMN047"&gt;http://www.otherman-records.com/releases/OTMN047&lt;/a&gt;&lt;/p&gt;</content><category term="release"/><category term="chiptune"/><category term="otherman"/></entry><entry><title>新曲リリース symmetric [pitiful pip puppet]</title><link href="https://blog.ca5.me/2013/06/22/%E6%96%B0%E6%9B%B2%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9-symmetric-pitiful-pip-puppet/" rel="alternate"/><published>2013-06-22T00:17:00+09:00</published><updated>2013-06-22T00:17:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2013-06-22:/2013/06/22/新曲リリース-symmetric-pitiful-pip-puppet/</id><summary type="html">&lt;p&gt;pitifulp pip puppetから新曲をリリースしました！&lt;/p&gt;
 &lt;p&gt;HEMISHINKU  (#2 symmetric - Ca5)  &lt;/p&gt;
-&lt;p&gt;&lt;a href="http://pitifulpippuppet.web.fc2.com/album/hemishinku/download.html"&gt;&lt;img alt="" src="http://upup.bz/j/my99726dkuYt8_Y6ihJ5aJ2.gif" /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://pitifulpippuppet.web.fc2.com/album/hemishinku/download.html"&gt;http://pitifulpippuppet.web.fc2.com/album/hemishinku/download.html&lt;/a&gt;&lt;br /&gt;
-&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/97849765&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://pitifulpippuppet.web.fc2.com/album/hemishinku/download.html"&gt;&lt;img alt="" src="http://upup.bz/j/my99726dkuYt8_Y6ihJ5aJ2.gif"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://pitifulpippuppet.web.fc2.com/album/hemishinku/download.html"&gt;http://pitifulpippuppet.web.fc2.com/album/hemishinku/download.html&lt;/a&gt;  &lt;/p&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/97849765&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;今回はテーマがだいぶとんがっていて、&lt;/p&gt;
+&lt;p&gt;「バイノーラルビート」　がテーマのアルバ …&lt;/p&gt;</summary><content type="html">&lt;p&gt;pitifulp pip puppetから新曲をリリースしました！&lt;/p&gt;
+&lt;p&gt;HEMISHINKU  (#2 symmetric - Ca5)  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://pitifulpippuppet.web.fc2.com/album/hemishinku/download.html"&gt;&lt;img alt="" src="http://upup.bz/j/my99726dkuYt8_Y6ihJ5aJ2.gif"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://pitifulpippuppet.web.fc2.com/album/hemishinku/download.html"&gt;http://pitifulpippuppet.web.fc2.com/album/hemishinku/download.html&lt;/a&gt;  &lt;/p&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/97849765&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;
+
 &lt;p&gt;今回はテーマがだいぶとんがっていて、&lt;/p&gt;
 &lt;p&gt;「バイノーラルビート」　がテーマのアルバムとなってます。&lt;/p&gt;
 &lt;p&gt;厳密なバイノーラルビートな音縛りというわけではないんですが、&lt;/p&gt;
 &lt;p&gt;左右で別々な音が鳴っている　ということが条件の実験的な作品集です。&lt;/p&gt;
 &lt;p&gt;今回自分が作った「symmetric」という曲では、&lt;/p&gt;
-&lt;p&gt;左右シーケンスは全く一緒だけど音が必ず別々なものが鳴るような構成になってます。&lt;/p&gt;</summary><category term="electronica"></category><category term="pitiful pip puppet"></category></entry><entry><title>Deep Blue【新曲リリース】</title><link href="https://blog.ca5.me/2013/04/22/deep-blue/" rel="alternate"></link><updated>2013-04-22T00:40:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2013-04-22:2013/04/22/deep-blue/</id><summary type="html">&lt;p&gt;久々に OthermanRecordsでEPをリリースしました！&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Deep Blue&lt;/strong&gt;&lt;br /&gt;
-[&lt;img alt="" src="http://www.archive.org/download/OTMN045/deepblue-jacket.jpg" /&gt;  &lt;/p&gt;
+&lt;p&gt;左右シーケンスは全く一緒だけど音が必ず別々なものが鳴るような構成になってます。&lt;/p&gt;</content><category term="release"/><category term="electronica"/><category term="pitiful pip puppet"/></entry><entry><title>Deep Blue【新曲リリース】</title><link href="https://blog.ca5.me/2013/04/22/deep-blue/" rel="alternate"/><published>2013-04-22T00:40:00+09:00</published><updated>2013-04-22T00:40:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2013-04-22:/2013/04/22/deep-blue/</id><summary type="html">&lt;p&gt;久々に OthermanRecordsでEPをリリースしました！&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Deep Blue&lt;/strong&gt;&lt;br&gt;
+[&lt;img alt="" src="http://www.archive.org/download/OTMN045/deepblue-jacket.jpg"&gt;  &lt;/p&gt;
 &lt;p&gt;http://www.otherman-records.com/releases/OTMN045](http://www.otherman-records.com/releases/OTMN045)&lt;/p&gt;
-&lt;p&gt;ボーナストラックとしてumioさんによるタイトル曲のリミックスが入っています！&lt;br /&gt;
+&lt;p&gt;ボーナストラックとしてumioさんによるタイトル曲のリミックスが入っています！&lt;br&gt;
 ぜひぜひ皆さんDLしてみてください&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;試聴版&lt;/strong&gt;&lt;br /&gt;
-&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/88847695&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;～～おまけ～～&lt;/strong&gt;&lt;br /&gt;
+&lt;p&gt;&lt;strong&gt;試聴版&lt;/strong&gt;  &lt;/p&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/88847695&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;strong&gt;～～おまけ～～&lt;/strong&gt;&lt;br&gt;
+おまけで入って …&lt;/p&gt;</summary><content type="html">&lt;p&gt;久々に OthermanRecordsでEPをリリースしました！&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Deep Blue&lt;/strong&gt;&lt;br&gt;
+[&lt;img alt="" src="http://www.archive.org/download/OTMN045/deepblue-jacket.jpg"&gt;  &lt;/p&gt;
+&lt;p&gt;http://www.otherman-records.com/releases/OTMN045](http://www.otherman-records.com/releases/OTMN045)&lt;/p&gt;
+&lt;p&gt;ボーナストラックとしてumioさんによるタイトル曲のリミックスが入っています！&lt;br&gt;
+ぜひぜひ皆さんDLしてみてください&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;試聴版&lt;/strong&gt;  &lt;/p&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/88847695&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;strong&gt;～～おまけ～～&lt;/strong&gt;&lt;br&gt;
 おまけで入ってる壁紙はこんなふうに使って遊んでみてください  &lt;/p&gt;
 &lt;p&gt;ただの画像なんで相手がmacだろうがiPadだろうが、ブルースクリーンクラッシャーになることができます&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.flickr.com/photos/46200029@N06/8668953718/"&gt;&lt;img alt="" src="http://farm9.staticflickr.com/8383/8668953718_d7bd1a3e62_b.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.flickr.com/photos/46200029@N06/8668954092/"&gt;&lt;img alt="" src="http://farm9.staticflickr.com/8386/8668954092_24ed589fbe_b.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;※説明用なので明るい所で撮影していますが、暗い所で撮影したほうがそれっぽく写ります&lt;/p&gt;</summary><category term="breakcore"></category><category term="chipbreak"></category><category term="otherman"></category></entry><entry><title>春よ</title><link href="https://blog.ca5.me/2013/03/31/%E6%98%A5%E3%82%88/" rel="alternate"></link><updated>2013-03-31T00:30:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2013-03-31:2013/03/31/春よ/</id><summary type="html">&lt;p&gt;有名なあの曲と自分が7年前くらいに作った曲を混ぜてみました&lt;br /&gt;
-&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/85618646&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;元ネタのひとつはこちら&lt;br /&gt;
-&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/85620202&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.flickr.com/photos/46200029@N06/8668953718/"&gt;&lt;img alt="" src="http://farm9.staticflickr.com/8383/8668953718_d7bd1a3e62_b.jpg"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.flickr.com/photos/46200029@N06/8668954092/"&gt;&lt;img alt="" src="http://farm9.staticflickr.com/8386/8668954092_24ed589fbe_b.jpg"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;※説明用なので明るい所で撮影していますが、暗い所で撮影したほうがそれっぽく写ります&lt;/p&gt;</content><category term="release"/><category term="breakcore"/><category term="chipbreak"/><category term="otherman"/></entry><entry><title>春よ</title><link href="https://blog.ca5.me/2013/03/31/%E6%98%A5%E3%82%88/" rel="alternate"/><published>2013-03-31T00:30:00+09:00</published><updated>2013-03-31T00:30:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2013-03-31:/2013/03/31/春よ/</id><summary type="html">&lt;p&gt;有名なあの曲と自分が7年前くらいに作った曲を混ぜてみました  &lt;/p&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/85618646&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;元ネタのひとつはこちら  &lt;/p&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/85620202&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;2013/4/29 M3の「NKRN」+「east breaks in thousand」ブース(第二展示場1階
+え-30a)にて  &lt;/p&gt;
+&lt;p&gt;枚数限定でプ …&lt;/p&gt;</summary><content type="html">&lt;p&gt;有名なあの曲と自分が7年前くらいに作った曲を混ぜてみました  &lt;/p&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/85618646&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;元ネタのひとつはこちら  &lt;/p&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/85620202&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;
+
 &lt;p&gt;2013/4/29 M3の「NKRN」+「east breaks in thousand」ブース(第二展示場1階
 え-30a)にて  &lt;/p&gt;
 &lt;p&gt;枚数限定でプロモーション用の無料音源配布予定です。この曲も収録するかもしれません。&lt;/p&gt;
-&lt;p&gt;M3:&lt;br /&gt;
+&lt;p&gt;M3:&lt;br&gt;
 &lt;a href="http://www.m3net.jp/"&gt;http://www.m3net.jp/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;NKRN:&lt;br /&gt;
+&lt;p&gt;NKRN:&lt;br&gt;
 &lt;a href="http://nkrn.bandcamp.com/"&gt;http://nkrn.bandcamp.com/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;east breaks in thousand:&lt;br /&gt;
+&lt;p&gt;east breaks in thousand:&lt;br&gt;
 http://ebi1000.net/&lt;/p&gt;
-&lt;p&gt;肝心なM3で発売予定の曲はまだまだ作成中なので、&lt;br /&gt;
-また後日アナウンスします&lt;/p&gt;</summary></entry><entry><title>DEMO曲 (memory of the cartridge)</title><link href="https://blog.ca5.me/2013/03/12/demo-memory-of-the-cartridge/" rel="alternate"></link><updated>2013-03-12T00:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2013-03-12:2013/03/12/demo-memory-of-the-cartridge/</id><summary type="html">&lt;p&gt;1月から更新ネタが全然なかったので、手元の曲のDEMOバージョンをアップしてみました&lt;/p&gt;
+&lt;p&gt;肝心なM3で発売予定の曲はまだまだ作成中なので、&lt;br&gt;
+また後日アナウンスします&lt;/p&gt;</content><category term="release"/></entry><entry><title>DEMO曲 (memory of the cartridge)</title><link href="https://blog.ca5.me/2013/03/12/demo-memory-of-the-cartridge/" rel="alternate"/><published>2013-03-12T00:00:00+09:00</published><updated>2013-03-12T00:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2013-03-12:/2013/03/12/demo-memory-of-the-cartridge/</id><content type="html">&lt;p&gt;1月から更新ネタが全然なかったので、手元の曲のDEMOバージョンをアップしてみました&lt;/p&gt;
 &lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/82757708&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;
 
 &lt;p&gt;そのうちOthermanRecordsで出ると思います、そのうち&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.otherman-records.com/"&gt;http://www.otherman-records.com/&lt;/a&gt;&lt;/p&gt;</summary><category term="breakcore"></category><category term="chipbreak"></category><category term="chiptune"></category><category term="otherman"></category></entry><entry><title>新年早々新曲でました(steel wool) [pitiful pip puppet]</title><link href="https://blog.ca5.me/2013/01/01/%E6%96%B0%E5%B9%B4%E6%97%A9%E3%80%85%E6%96%B0%E6%9B%B2%E3%81%A7%E3%81%BE%E3%81%97%E3%81%9Fsteel-wool-pitiful-pip-puppet/" rel="alternate"></link><updated>2013-01-01T00:45:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2013-01-01:2013/01/01/新年早々新曲でましたsteel-wool-pitiful-pip-puppet/</id><summary type="html">&lt;p&gt;&lt;a href="http://pitifulpippuppet.web.fc2.com"&gt;pitiful pip
+&lt;p&gt;&lt;a href="http://www.otherman-records.com/"&gt;http://www.otherman-records.com/&lt;/a&gt;&lt;/p&gt;</content><category term="release"/><category term="breakcore"/><category term="chipbreak"/><category term="chiptune"/><category term="otherman"/></entry><entry><title>新年早々新曲でました(steel wool) [pitiful pip puppet]</title><link href="https://blog.ca5.me/2013/01/01/%E6%96%B0%E5%B9%B4%E6%97%A9%E3%80%85%E6%96%B0%E6%9B%B2%E3%81%A7%E3%81%BE%E3%81%97%E3%81%9Fsteel-wool-pitiful-pip-puppet/" rel="alternate"/><published>2013-01-01T00:45:00+09:00</published><updated>2013-01-01T00:45:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2013-01-01:/2013/01/01/新年早々新曲でましたsteel-wool-pitiful-pip-puppet/</id><summary type="html">&lt;p&gt;&lt;a href="http://pitifulpippuppet.web.fc2.com"&gt;pitiful pip
 puppet&lt;/a&gt;の新アルバム「iron」に1曲参加(#1
 steel wool)させていただきました&lt;/p&gt;
-&lt;p&gt;リリースページはこちら！&lt;br /&gt;
-[&lt;img alt="" src="http://pitifulpippuppet.web.fc2.com/pic/IRON400.gif" /&gt;  &lt;/p&gt;
+&lt;p&gt;リリースページはこちら！&lt;br&gt;
+[&lt;img alt="" src="http://pitifulpippuppet.web.fc2.com/pic/IRON400.gif"&gt;  &lt;/p&gt;
+&lt;p&gt;http://pitifulpippuppet.web.fc2.com/album/iron.html](http://pitifulpippuppet.web.fc2.com/album …&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;a href="http://pitifulpippuppet.web.fc2.com"&gt;pitiful pip
+puppet&lt;/a&gt;の新アルバム「iron」に1曲参加(#1
+steel wool)させていただきました&lt;/p&gt;
+&lt;p&gt;リリースページはこちら！&lt;br&gt;
+[&lt;img alt="" src="http://pitifulpippuppet.web.fc2.com/pic/IRON400.gif"&gt;  &lt;/p&gt;
 &lt;p&gt;http://pitifulpippuppet.web.fc2.com/album/iron.html](http://pitifulpippuppet.web.fc2.com/album/iron.html)&lt;/p&gt;
 &lt;p&gt;その名の通り「鉄」がテーマのアルバムとなっていて、  &lt;/p&gt;
 &lt;p&gt;自分の曲も珍しく鉄の音のサンプルを混ぜたちょっと遅めな形に仕上げてみました。&lt;/p&gt;
-&lt;p&gt;試聴版はsoundcloudにもあげてます&lt;br /&gt;
-&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/73169891&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;&lt;/p&gt;</summary></entry><entry><title>新曲リリース(white illumination) [NSF版もあるよ]</title><link href="https://blog.ca5.me/2012/12/25/%E6%96%B0%E6%9B%B2%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9white-illumination-nsf%E7%89%88%E3%82%82%E3%81%82%E3%82%8B%E3%82%88/" rel="alternate"></link><updated>2012-12-25T23:45:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2012-12-25:2012/12/25/新曲リリースwhite-illumination-nsf版もあるよ/</id><summary type="html">&lt;p&gt;クリスマスにこんなのをリリースしました！&lt;/p&gt;
+&lt;p&gt;試聴版はsoundcloudにもあげてます  &lt;/p&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/73169891&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;</content><category term="release"/></entry><entry><title>新曲リリース(white illumination) [NSF版もあるよ]</title><link href="https://blog.ca5.me/2012/12/25/%E6%96%B0%E6%9B%B2%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9white-illumination-nsf%E7%89%88%E3%82%82%E3%81%82%E3%82%8B%E3%82%88/" rel="alternate"/><published>2012-12-25T23:45:00+09:00</published><updated>2012-12-25T23:45:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2012-12-25:/2012/12/25/新曲リリースwhite-illumination-nsf版もあるよ/</id><summary type="html">&lt;p&gt;クリスマスにこんなのをリリースしました！&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Chiptunes Change Christmas (#10 white illumination)&lt;/strong&gt;  &lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.otherman-records.com/releases/CHIP002"&gt;&lt;img alt="" src="http://www.otherman-records.com/special/CHIP002/images/jacket_on.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;p&gt;&lt;a href="http://www.otherman-records.com/releases/CHIP002"&gt;&lt;img alt="" src="http://www.otherman-records.com/special/CHIP002/images/jacket_on.jpg"&gt;&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://www.otherman-records.com/releases/CHIP002"&gt;http://www.otherman-records.com/releases/CHIP002&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;サンプルとしてショート版をSoundCloudへアップしてあります&lt;br /&gt;
-&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/72528488&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;おまけ：&lt;br /&gt;
-今回はFamiTrackerで1曲仕上げたので、NSF版もあります&lt;br /&gt;
-&lt;a href="http://dl.dropbox.com/u/6879731/blog/wi.nsf"&gt;[NSF版DL]&lt;/a&gt;&lt;/p&gt;</summary><category term="chiptune"></category><category term="famitracker"></category><category term="nsf"></category><category term="otherman"></category></entry><entry><title>人間発電所のリミックス</title><link href="https://blog.ca5.me/2012/12/02/%E4%BA%BA%E9%96%93%E7%99%BA%E9%9B%BB%E6%89%80%E3%81%AE%E3%83%AA%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9/" rel="alternate"></link><updated>2012-12-02T00:34:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2012-12-02:2012/12/02/人間発電所のリミックス/</id><summary type="html">&lt;p&gt;勝手にリミックスシリーズまたやってみました。&lt;br /&gt;
-声ものは面白いけど混ぜるのむずかしいです。&lt;br /&gt;
-&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/69554196&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;&lt;/p&gt;</summary><category term="breakcore"></category><category term="remix"></category></entry><entry><title>きみとぼくと</title><link href="https://blog.ca5.me/2012/10/29/%E3%81%8D%E3%81%BF%E3%81%A8%E3%81%BC%E3%81%8F%E3%81%A8/" rel="alternate"></link><updated>2012-10-29T00:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2012-10-29:2012/10/29/きみとぼくと/</id><summary type="html">&lt;p&gt;Chipbreak&lt;br /&gt;
-&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/65097747&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;元の曲がすごく好きです&lt;/p&gt;</summary><category term="breakcore"></category><category term="chipbreak"></category><category term="chiptune"></category><category term="remix"></category></entry><entry><title>ChipBreakGentleman</title><link href="https://blog.ca5.me/2012/09/26/chipbreakgentleman/" rel="alternate"></link><updated>2012-09-26T00:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2012-09-26:2012/09/26/chipbreakgentleman/</id><summary type="html">&lt;p&gt;リミックス・・・というか、マッシュアップですね。&lt;br /&gt;
+&lt;p&gt;サンプルとしてショート版をSoundCloudへアップしてあります  &lt;/p&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/72528488&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;おまけ：&lt;br&gt;
+今回 …&lt;/p&gt;</summary><content type="html">&lt;p&gt;クリスマスにこんなのをリリースしました！&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Chiptunes Change Christmas (#10 white illumination)&lt;/strong&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.otherman-records.com/releases/CHIP002"&gt;&lt;img alt="" src="http://www.otherman-records.com/special/CHIP002/images/jacket_on.jpg"&gt;&lt;/a&gt;&lt;br&gt;
+&lt;a href="http://www.otherman-records.com/releases/CHIP002"&gt;http://www.otherman-records.com/releases/CHIP002&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;サンプルとしてショート版をSoundCloudへアップしてあります  &lt;/p&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/72528488&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;おまけ：&lt;br&gt;
+今回はFamiTrackerで1曲仕上げたので、NSF版もあります&lt;br&gt;
+&lt;a href="http://dl.dropbox.com/u/6879731/blog/wi.nsf"&gt;[NSF版DL]&lt;/a&gt;&lt;/p&gt;</content><category term="release"/><category term="chiptune"/><category term="famitracker"/><category term="nsf"/><category term="otherman"/></entry><entry><title>人間発電所のリミックス</title><link href="https://blog.ca5.me/2012/12/02/%E4%BA%BA%E9%96%93%E7%99%BA%E9%9B%BB%E6%89%80%E3%81%AE%E3%83%AA%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9/" rel="alternate"/><published>2012-12-02T00:34:00+09:00</published><updated>2012-12-02T00:34:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2012-12-02:/2012/12/02/人間発電所のリミックス/</id><content type="html">&lt;p&gt;勝手にリミックスシリーズまたやってみました。&lt;br&gt;
+声ものは面白いけど混ぜるのむずかしいです。  &lt;/p&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/69554196&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;</content><category term="release"/><category term="breakcore"/><category term="remix"/></entry><entry><title>きみとぼくと</title><link href="https://blog.ca5.me/2012/10/29/%E3%81%8D%E3%81%BF%E3%81%A8%E3%81%BC%E3%81%8F%E3%81%A8/" rel="alternate"/><published>2012-10-29T00:00:00+09:00</published><updated>2012-10-29T00:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2012-10-29:/2012/10/29/きみとぼくと/</id><content type="html">&lt;p&gt;Chipbreak  &lt;/p&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/65097747&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;元の曲がすごく好きです&lt;/p&gt;</content><category term="release"/><category term="breakcore"/><category term="chipbreak"/><category term="chiptune"/><category term="remix"/></entry><entry><title>ChipBreakGentleman</title><link href="https://blog.ca5.me/2012/09/26/chipbreakgentleman/" rel="alternate"/><published>2012-09-26T00:00:00+09:00</published><updated>2012-09-26T00:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2012-09-26:/2012/09/26/chipbreakgentleman/</id><content type="html">&lt;p&gt;リミックス・・・というか、マッシュアップですね。&lt;br&gt;
 山田マリオマン&lt;/p&gt;
-&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/61113618&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;</summary><category term="breakcore"></category><category term="chiptune"></category></entry><entry><title>コミケで曲出しました！(デモ版公開)</title><link href="https://blog.ca5.me/2012/08/14/%E3%82%B3%E3%83%9F%E3%82%B1%E3%81%A7%E6%9B%B2%E5%87%BA%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F!%E3%83%87%E3%83%A2%E7%89%88%E5%85%AC%E9%96%8B/" rel="alternate"></link><updated>2012-08-14T00:15:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2012-08-14:2012/08/14/コミケで曲出しました!デモ版公開/</id><summary type="html">&lt;p&gt;コミケお疲れ様でした！&lt;br /&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/61113618&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;</content><category term="release"/><category term="breakcore"/><category term="chiptune"/></entry><entry><title>コミケで曲出しました！(デモ版公開)</title><link href="https://blog.ca5.me/2012/08/14/%E3%82%B3%E3%83%9F%E3%82%B1%E3%81%A7%E6%9B%B2%E5%87%BA%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F!%E3%83%87%E3%83%A2%E7%89%88%E5%85%AC%E9%96%8B/" rel="alternate"/><published>2012-08-14T00:15:00+09:00</published><updated>2012-08-14T00:15:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2012-08-14:/2012/08/14/コミケで曲出しました!デモ版公開/</id><content type="html">&lt;p&gt;コミケお疲れ様でした！&lt;br&gt;
 今回出した曲のデモバージョンをSoundcloudにアップしました&lt;/p&gt;
-&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/56162566&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;</summary></entry><entry><title>リミックス出ました</title><link href="https://blog.ca5.me/2012/07/31/%E3%83%AA%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E5%87%BA%E3%81%BE%E3%81%97%E3%81%9F/" rel="alternate"></link><updated>2012-07-31T22:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2012-07-31:2012/07/31/リミックス出ました/</id><summary type="html">&lt;p&gt;こちらでリミックス１曲だしてます！&lt;/p&gt;
-&lt;p&gt;[OTMN37]Cyber terrorism&lt;br /&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/56162566&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;</content><category term="release"/></entry><entry><title>リミックス出ました</title><link href="https://blog.ca5.me/2012/07/31/%E3%83%AA%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E5%87%BA%E3%81%BE%E3%81%97%E3%81%9F/" rel="alternate"/><published>2012-07-31T22:00:00+09:00</published><updated>2012-07-31T22:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2012-07-31:/2012/07/31/リミックス出ました/</id><content type="html">&lt;p&gt;こちらでリミックス１曲だしてます！&lt;/p&gt;
+&lt;p&gt;[OTMN37]Cyber terrorism&lt;br&gt;
 &lt;a href="http://www.otherman-records.com/releases/OTMN037"&gt;http://www.otherman-records.com/releases/OTMN037&lt;/a&gt;&lt;/p&gt;
-&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/54599538&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;</summary></entry><entry><title>4/30のM3の曲のサンプル</title><link href="https://blog.ca5.me/2012/05/02/430%E3%81%AEm3%E3%81%AE%E6%9B%B2%E3%81%AE%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB/" rel="alternate"></link><updated>2012-05-02T00:40:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2012-05-02:2012/05/02/430のm3の曲のサンプル/</id><summary type="html">&lt;p&gt;4/30に出した曲のサンプルをUPしました&lt;br /&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/54599538&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;</content><category term="release"/></entry><entry><title>4/30のM3の曲のサンプル</title><link href="https://blog.ca5.me/2012/05/02/430%E3%81%AEm3%E3%81%AE%E6%9B%B2%E3%81%AE%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB/" rel="alternate"/><published>2012-05-02T00:40:00+09:00</published><updated>2012-05-02T00:40:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2012-05-02:/2012/05/02/430のm3の曲のサンプル/</id><content type="html">&lt;p&gt;4/30に出した曲のサンプルをUPしました&lt;br&gt;
 ちょっとサンプル短いかな。。&lt;/p&gt;
-&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/44961141&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;</summary></entry><entry><title>ドプマン後のsoundcloudリリースまとめ</title><link href="https://blog.ca5.me/2012/02/19/%E3%83%89%E3%83%97%E3%83%9E%E3%83%B3%E5%BE%8C%E3%81%AEsoundcloud%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%81%BE%E3%81%A8%E3%82%81/" rel="alternate"></link><updated>2012-02-19T22:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2012-02-19:2012/02/19/ドプマン後のsoundcloudリリースまとめ/</id><summary type="html">&lt;p&gt;多分今月はもうこれ以上リリースできんので先にまとめておきます&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;HSB (920 series)&lt;br /&gt;
-&lt;/strong&gt;&lt;br /&gt;
-&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/35846175&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/44961141&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;</content><category term="release"/></entry><entry><title>ドプマン後のsoundcloudリリースまとめ</title><link href="https://blog.ca5.me/2012/02/19/%E3%83%89%E3%83%97%E3%83%9E%E3%83%B3%E5%BE%8C%E3%81%AEsoundcloud%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%81%BE%E3%81%A8%E3%82%81/" rel="alternate"/><published>2012-02-19T22:00:00+09:00</published><updated>2012-02-19T22:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2012-02-19:/2012/02/19/ドプマン後のsoundcloudリリースまとめ/</id><summary type="html">&lt;p&gt;多分今月はもうこれ以上リリースできんので先にまとめておきます&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;HSB (920 series)&lt;br&gt;
+&lt;/strong&gt;  &lt;/p&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/35846175&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;
+
 &lt;p&gt;ドプマンショーでかけた曲です。  &lt;/p&gt;
-&lt;p&gt;ダウンタウン熱血行進曲のステージセレクト画面で流れる曲のリミックスです。&lt;br /&gt;
+&lt;p&gt;ダウン …&lt;/p&gt;</summary><content type="html">&lt;p&gt;多分今月はもうこれ以上リリースできんので先にまとめておきます&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;HSB (920 series)&lt;br&gt;
+&lt;/strong&gt;  &lt;/p&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/35846175&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;ドプマンショーでかけた曲です。  &lt;/p&gt;
+&lt;p&gt;ダウンタウン熱血行進曲のステージセレクト画面で流れる曲のリミックスです。&lt;br&gt;
 たしかくにおくんの時代劇あたりでも同じ曲が出てきたはず。。。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Hemoro X (Ca5 remix)&lt;br /&gt;
-&lt;/strong&gt;&lt;br /&gt;
-&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/37096673&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;Wan Bushiさんの曲をリミックスしました。&lt;br /&gt;
+&lt;p&gt;&lt;strong&gt;Hemoro X (Ca5 remix)&lt;br&gt;
+&lt;/strong&gt;  &lt;/p&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/37096673&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Wan Bushiさんの曲をリミックスしました。&lt;br&gt;
 原曲が素晴らしいんでぜひそっちの方を聞いて欲しいです。&lt;/p&gt;
-&lt;p&gt;DLはこちらから：&lt;br /&gt;
-&lt;a href="http://www.otherman-records.com/releases/OTMN030%20"&gt;http://www.otherman-records.com/releases/OTMN030&lt;br /&gt;
-&lt;/a&gt;&lt;/p&gt;</summary><category term="breakcore"></category><category term="otherman"></category></entry><entry><title>ワギャンランドのリミックス</title><link href="https://blog.ca5.me/2011/12/03/%E3%83%AF%E3%82%AE%E3%83%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E3%81%AE%E3%83%AA%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9/" rel="alternate"></link><updated>2011-12-03T01:35:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2011-12-03:2011/12/03/ワギャンランドのリミックス/</id><summary type="html">&lt;p&gt;ワギャンランド２の無敵の時の曲をリミックスしてみました&lt;/p&gt;
+&lt;p&gt;DLはこちらから：&lt;br&gt;
+&lt;a href="http://www.otherman-records.com/releases/OTMN030%20"&gt;http://www.otherman-records.com/releases/OTMN030&lt;br&gt;
+&lt;/a&gt;&lt;/p&gt;</content><category term="release"/><category term="breakcore"/><category term="otherman"/></entry><entry><title>ワギャンランドのリミックス</title><link href="https://blog.ca5.me/2011/12/03/%E3%83%AF%E3%82%AE%E3%83%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E3%81%AE%E3%83%AA%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9/" rel="alternate"/><published>2011-12-03T01:35:00+09:00</published><updated>2011-12-03T01:35:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2011-12-03:/2011/12/03/ワギャンランドのリミックス/</id><summary type="html">&lt;p&gt;ワギャンランド２の無敵の時の曲をリミックスしてみました&lt;/p&gt;
 &lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/29549003&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;
 
 &lt;p&gt;ぼくはワギャンランドと言ったら真っ先にこの原曲を思い出します&lt;/p&gt;
 &lt;p&gt;
-原曲はこちら↓
+原曲はこちら↓  
+
+&lt;script type="text/javascript" src="http://ext.nicovideo.jp/thumb_watch/sm11377740"&gt;&lt;/script&gt;
+
+
+&lt;noscript&gt;
+[【ニコニコ動画 …&lt;/noscript&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;ワギャンランド２の無敵の時の曲をリミックスしてみました&lt;/p&gt;
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/29549003&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;ぼくはワギャンランドと言ったら真っ先にこの原曲を思い出します&lt;/p&gt;
+&lt;p&gt;
+原曲はこちら↓  
 
 &lt;script type="text/javascript" src="http://ext.nicovideo.jp/thumb_watch/sm11377740"&gt;&lt;/script&gt;
 
@@ -747,56 +1004,75 @@ steel wool)させていただきました&lt;/p&gt;
 &lt;noscript&gt;
 [【ニコニコ動画】【100分間耐久】ワギャンランド2　無敵BGM](http://www.nicovideo.jp/watch/sm11377740)
 
-&lt;/noscript&gt;</summary></entry><entry><title>NKRNに出した曲のdemo版</title><link href="https://blog.ca5.me/2011/11/03/nkrn%E3%81%AB%E5%87%BA%E3%81%97%E3%81%9F%E6%9B%B2%E3%81%AEdemo%E7%89%88/" rel="alternate"></link><updated>2011-11-03T23:16:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2011-11-03:2011/11/03/nkrnに出した曲のdemo版/</id><summary type="html">&lt;p&gt;いままでNKRNに出した曲のdemo版をsoundcloudにざっと上げました&lt;/p&gt;
+&lt;/noscript&gt;</content><category term="release"/></entry><entry><title>NKRNに出した曲のdemo版</title><link href="https://blog.ca5.me/2011/11/03/nkrn%E3%81%AB%E5%87%BA%E3%81%97%E3%81%9F%E6%9B%B2%E3%81%AEdemo%E7%89%88/" rel="alternate"/><published>2011-11-03T23:16:00+09:00</published><updated>2011-11-03T23:16:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2011-11-03:/2011/11/03/nkrnに出した曲のdemo版/</id><content type="html">&lt;p&gt;いままでNKRNに出した曲のdemo版をsoundcloudにざっと上げました&lt;/p&gt;
 &lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/27075524&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;
-
 &lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/27076020&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;
-
 &lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/27076022&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;
-
 &lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/27076023&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;
 
-&lt;p&gt;・・・といってもフル版が公式のbandcampで聞けるんであんまり意味はないかな・・・&lt;br /&gt;
+&lt;p&gt;・・・といってもフル版が公式のbandcampで聞けるんであんまり意味はないかな・・・&lt;br&gt;
 soundcloudのは露出用ってことで&lt;/p&gt;
-&lt;p&gt;フル版:&lt;br /&gt;
-&lt;a href="http://nkrn.bandcamp.com/"&gt;http://nkrn.bandcamp.com/&lt;/a&gt;&lt;/p&gt;</summary></entry><entry><title>9in1をSoundCloudへUP</title><link href="https://blog.ca5.me/2011/09/27/9in1%E3%82%92soundcloud%E3%81%B8up/" rel="alternate"></link><updated>2011-09-27T00:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2011-09-27:2011/09/27/9in1をsoundcloudへup/</id><summary type="html">&lt;p&gt;すでに公開してた古い曲まとめをSoundCloudにもあっぷしてみました&lt;/p&gt;
+&lt;p&gt;フル版:&lt;br&gt;
+&lt;a href="http://nkrn.bandcamp.com/"&gt;http://nkrn.bandcamp.com/&lt;/a&gt;&lt;/p&gt;</content><category term="release"/></entry><entry><title>9in1をSoundCloudへUP</title><link href="https://blog.ca5.me/2011/09/27/9in1%E3%82%92soundcloud%E3%81%B8up/" rel="alternate"/><published>2011-09-27T00:00:00+09:00</published><updated>2011-09-27T00:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2011-09-27:/2011/09/27/9in1をsoundcloudへup/</id><summary type="html">&lt;p&gt;すでに公開してた古い曲まとめをSoundCloudにもあっぷしてみました&lt;/p&gt;
 &lt;p&gt;(容量逼迫につきリスト削除・・・)&lt;/p&gt;
-&lt;p&gt;ダウンロードはここからはできない設定にしているんで、&lt;br /&gt;
-OthermanRecordsへおねがいします&lt;br /&gt;
-&lt;a href="http://www.otherman-records.com/releases/OTMN017"&gt;9in1 (Ca5 classics)&lt;/a&gt;&lt;/p&gt;</summary><category term="soundcloud"></category></entry><entry><title>新曲リリース&amp;blogプチリニューアル</title><link href="https://blog.ca5.me/2011/09/04/%E6%96%B0%E6%9B%B2%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9blog%E3%83%97%E3%83%81%E3%83%AA%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%AB/" rel="alternate"></link><updated>2011-09-04T01:50:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2011-09-04:2011/09/04/新曲リリースblogプチリニューアル/</id><summary type="html">&lt;p&gt;新曲リリースしました！&lt;br /&gt;
-いつもよりちょっと遅い曲です&lt;br /&gt;
+&lt;p&gt;ダウンロードはここからはできない設定に …&lt;/p&gt;</summary><content type="html">&lt;p&gt;すでに公開してた古い曲まとめをSoundCloudにもあっぷしてみました&lt;/p&gt;
+&lt;p&gt;(容量逼迫につきリスト削除・・・)&lt;/p&gt;
+&lt;p&gt;ダウンロードはここからはできない設定にしているんで、&lt;br&gt;
+OthermanRecordsへおねがいします&lt;br&gt;
+&lt;a href="http://www.otherman-records.com/releases/OTMN017"&gt;9in1 (Ca5 classics)&lt;/a&gt;&lt;/p&gt;</content><category term="release"/><category term="soundcloud"/></entry><entry><title>新曲リリース&amp;blogプチリニューアル</title><link href="https://blog.ca5.me/2011/09/04/%E6%96%B0%E6%9B%B2%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9blog%E3%83%97%E3%83%81%E3%83%AA%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%AB/" rel="alternate"/><published>2011-09-04T01:50:00+09:00</published><updated>2011-09-04T01:50:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2011-09-04:/2011/09/04/新曲リリースblogプチリニューアル/</id><summary type="html">&lt;p&gt;新曲リリースしました！&lt;br&gt;
+いつもよりちょっと遅い曲です&lt;br&gt;
 &lt;a href="http://www.otherman-records.com/releases/OTMN024"&gt;[OTMN024] grayscale | Otherman
-Records&lt;/a&gt;&lt;br /&gt;
-&lt;img alt="" src="http://www.archive.org/download/OTMN024/folder.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;前回のコミケで先行で売っていたCDの曲です。&lt;br /&gt;
+Records&lt;/a&gt;&lt;br&gt;
+&lt;img alt="" src="http://www.archive.org/download/OTMN024/folder.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;前回のコミケで先行で売っていたCDの曲です。&lt;br&gt;
 3曲目にebi1000さんリミックスも入ってます！&lt;/p&gt;
-&lt;p&gt;それとあわせてブログもなんとなくリニューアルしました。なんとなく&lt;/p&gt;</summary><category term="otherman"></category></entry><entry><title>[colorEP]</title><link href="https://blog.ca5.me/2011/02/23/colorep/" rel="alternate"></link><updated>2011-02-23T00:31:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2011-02-23:2011/02/23/colorep/</id><summary type="html">&lt;p&gt;9in1と順番が前後しちゃいましたが  &lt;/p&gt;
+&lt;p&gt;それとあわ …&lt;/p&gt;</summary><content type="html">&lt;p&gt;新曲リリースしました！&lt;br&gt;
+いつもよりちょっと遅い曲です&lt;br&gt;
+&lt;a href="http://www.otherman-records.com/releases/OTMN024"&gt;[OTMN024] grayscale | Otherman
+Records&lt;/a&gt;&lt;br&gt;
+&lt;img alt="" src="http://www.archive.org/download/OTMN024/folder.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;前回のコミケで先行で売っていたCDの曲です。&lt;br&gt;
+3曲目にebi1000さんリミックスも入ってます！&lt;/p&gt;
+&lt;p&gt;それとあわせてブログもなんとなくリニューアルしました。なんとなく&lt;/p&gt;</content><category term="release"/><category term="otherman"/></entry><entry><title>[colorEP]</title><link href="https://blog.ca5.me/2011/02/23/colorep/" rel="alternate"/><published>2011-02-23T00:31:00+09:00</published><updated>2011-02-23T00:31:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2011-02-23:/2011/02/23/colorep/</id><summary type="html">&lt;p&gt;9in1と順番が前後しちゃいましたが  &lt;/p&gt;
 &lt;p&gt;色をテーマに３人で曲を作り合う＋リミックスまでやったEPを先月リリースしましたー&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" src="http://www.archive.org/download/OTMN010/folder.jpg" /&gt;&lt;br /&gt;
+&lt;p&gt;&lt;img alt="" src="http://www.archive.org/download/OTMN010/folder.jpg"&gt;&lt;br&gt;
 color EP[  &lt;/p&gt;
 &lt;p&gt;http://www.otherman-records.com/releases/OTMN010](http://www.otherman-records.com/releases/OTMN010)&lt;/p&gt;
-&lt;p&gt;構想からリリースまで&lt;br /&gt;
-なんだかんだで半年くらいかけてしまった渾身の作！ですｗ&lt;/p&gt;</summary><category term="otherman"></category></entry><entry><title>[9in1]古い曲まとめて出しました</title><link href="https://blog.ca5.me/2011/02/23/9in1%E5%8F%A4%E3%81%84%E6%9B%B2%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E5%87%BA%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/" rel="alternate"></link><updated>2011-02-23T00:13:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2011-02-23:2011/02/23/9in1古い曲まとめて出しました/</id><summary type="html">&lt;p&gt;ふるーい曲をまとめてりりーすしました&lt;br /&gt;
+&lt;p&gt;構想からリリースまで&lt;br&gt;
+なんだかんだで …&lt;/p&gt;</summary><content type="html">&lt;p&gt;9in1と順番が前後しちゃいましたが  &lt;/p&gt;
+&lt;p&gt;色をテーマに３人で曲を作り合う＋リミックスまでやったEPを先月リリースしましたー&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="http://www.archive.org/download/OTMN010/folder.jpg"&gt;&lt;br&gt;
+color EP[  &lt;/p&gt;
+&lt;p&gt;http://www.otherman-records.com/releases/OTMN010](http://www.otherman-records.com/releases/OTMN010)&lt;/p&gt;
+&lt;p&gt;構想からリリースまで&lt;br&gt;
+なんだかんだで半年くらいかけてしまった渾身の作！ですｗ&lt;/p&gt;</content><category term="release"/><category term="otherman"/></entry><entry><title>[9in1]古い曲まとめて出しました</title><link href="https://blog.ca5.me/2011/02/23/9in1%E5%8F%A4%E3%81%84%E6%9B%B2%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E5%87%BA%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/" rel="alternate"/><published>2011-02-23T00:13:00+09:00</published><updated>2011-02-23T00:13:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2011-02-23:/2011/02/23/9in1古い曲まとめて出しました/</id><summary type="html">&lt;p&gt;ふるーい曲をまとめてりりーすしました&lt;br&gt;
 OthermanRecordsで試聴・DLできます&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" src="http://ia700403.us.archive.org/5/items/OTMN017/9in1.png" /&gt;&lt;br /&gt;
-9in1 (Ca5 classics)&lt;br /&gt;
+&lt;p&gt;&lt;img alt="" src="http://ia700403.us.archive.org/5/items/OTMN017/9in1.png"&gt;&lt;br&gt;
+9in1 (Ca5 classics)&lt;br&gt;
 &lt;a href="http://www.otherman-records.com/releases/OTMN017"&gt;http://www.otherman-records.com/releases/OTMN017&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;多分ネット上にUPしたことない曲はなかったと思います。&lt;br /&gt;
-全部がいしゅつ。&lt;br /&gt;
-ただし、あまりにもマスタリングが酷かったので、&lt;br /&gt;
-大体の曲はマスタリングし直してあります。&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
+&lt;p&gt;多分ネット上にUPしたことない曲はなかったと思います。&lt;br&gt;
+全部がいしゅつ。&lt;br&gt;
+ただし、あま …&lt;/p&gt;</summary><content type="html">&lt;p&gt;ふるーい曲をまとめてりりーすしました&lt;br&gt;
+OthermanRecordsで試聴・DLできます&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="http://ia700403.us.archive.org/5/items/OTMN017/9in1.png"&gt;&lt;br&gt;
+9in1 (Ca5 classics)&lt;br&gt;
+&lt;a href="http://www.otherman-records.com/releases/OTMN017"&gt;http://www.otherman-records.com/releases/OTMN017&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;多分ネット上にUPしたことない曲はなかったと思います。&lt;br&gt;
+全部がいしゅつ。&lt;br&gt;
+ただし、あまりにもマスタリングが酷かったので、&lt;br&gt;
+大体の曲はマスタリングし直してあります。&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
 思いつくままにコメントを  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;StartingSong　→ forget-me-notのリミックス&lt;br /&gt;
-929　→　ライブで時間余って困ったからつなぎに作った曲&lt;br /&gt;
-Sentence of death　→　略すとAV的な&lt;br /&gt;
-NNNesterK　→　この頃からmagical8bitplug多用&lt;br /&gt;
-Crazy Frog Race　→ マルチネに出したような・・・&lt;br /&gt;
-Neww　→　全然曲名がおもいつかんかった&lt;br /&gt;
-DrunkDrummer　→　やっとFLに慣れ始めた頃&lt;br /&gt;
-Snow　→　modやってる時につくった古い曲&lt;br /&gt;
+&lt;hr&gt;
+&lt;p&gt;StartingSong　→ forget-me-notのリミックス&lt;br&gt;
+929　→　ライブで時間余って困ったからつなぎに作った曲&lt;br&gt;
+Sentence of death　→　略すとAV的な&lt;br&gt;
+NNNesterK　→　この頃からmagical8bitplug多用&lt;br&gt;
+Crazy Frog Race　→ マルチネに出したような・・・&lt;br&gt;
+Neww　→　全然曲名がおもいつかんかった&lt;br&gt;
+DrunkDrummer　→　やっとFLに慣れ始めた頃&lt;br&gt;
+Snow　→　modやってる時につくった古い曲&lt;br&gt;
 forget-me-not　→　もっと古い  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;まだ古い曲たくさんあるんでそのうち続編を・・・&lt;/p&gt;</summary><category term="otherman"></category></entry></feed>
+&lt;hr&gt;
+&lt;p&gt;まだ古い曲たくさんあるんでそのうち続編を・・・&lt;/p&gt;</content><category term="release"/><category term="otherman"/></entry></feed>
