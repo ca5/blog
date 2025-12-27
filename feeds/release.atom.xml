@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>ca5blog - release</title><link href="https://blog.ca5.me/" rel="alternate"/><link href="https://blog.ca5.me/feeds/release.atom.xml" rel="self"/><id>https://blog.ca5.me/</id><updated>2020-08-16T19:00:00+09:00</updated><entry><title>NeoTrellisで遊ぶ</title><link href="https://blog.ca5.me/2020/08/16/neotrellis/" rel="alternate"/><published>2020-08-16T19:00:00+09:00</published><updated>2020-08-16T19:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2020-08-16:/2020/08/16/neotrellis/</id><summary type="html">&lt;p&gt;my new gear... が増えたので&lt;br&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>ca5blog - release</title><link href="https://blog.ca5.me/" rel="alternate"/><link href="https://blog.ca5.me/feeds/release.atom.xml" rel="self"/><id>https://blog.ca5.me/</id><updated>2025-12-27T10:00:00+09:00</updated><entry><title>AmenBreakChopperをリリースしました</title><link href="https://blog.ca5.me/2025/12/27/amenbreakchopper-release/" rel="alternate"/><published>2025-12-27T10:00:00+09:00</published><updated>2025-12-27T10:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2025-12-27:/2025/12/27/amenbreakchopper-release/</id><summary type="html">&lt;h3&gt;AmenBreakChopper&lt;/h3&gt;
+&lt;p&gt;今年からライブで使うようになった、自作のオーディオプラグイン「AmenBreakChopper」をリリースしました。&lt;br&gt;
+入力されたオーディオ …&lt;/p&gt;</summary><content type="html">&lt;h3&gt;AmenBreakChopper&lt;/h3&gt;
+&lt;p&gt;今年からライブで使うようになった、自作のオーディオプラグイン「AmenBreakChopper」をリリースしました。&lt;br&gt;
+入力されたオーディオをBPMに同期したディレイでビートチョップするためのエフェクトです。&lt;br&gt;
+去年まで使っていたMax for Liveのパッチを元に、iPhoneやスタンドアロンアプリでも使えるようにJUCEで再実装したものとなります。&lt;/p&gt;
+&lt;p&gt;デモ動画:&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/VpYfyNo0POY?si=ozkrlGao4mJvfBr2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://apps.apple.com/jp/app/amenbreakchopper/id6751303065"&gt;AppStore (何気に初デビューです)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://ca5.github.io/AmenBreakChopper_doc/"&gt;ドキュメント&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;プラグイン上は現状は設定とモニタリング用のシンプルなUIしかなく、&lt;br&gt;
+実際に使うにはドキュメント記載のとおりにMIDIノートの送受信, CCの送信をする外部MIDIコントローラが必要です。&lt;br&gt;
+CCはプラグイン側で変更可能ですが、MIDIノートは固定です。  &lt;/p&gt;
+&lt;p&gt;iOSのAUv3/Standalone版に加え、&lt;br&gt;
+MacOS/Windowsで使う想定のVST3版がありますが、&lt;br&gt;
+VST3版はどう公開しようかまだ考えられてないです。&lt;/p&gt;
+&lt;p&gt;おすすめの公開方法とかあったら教えて下さい。&lt;/p&gt;</content><category term="release"/><category term="amenbreak"/><category term="breakcore"/><category term="vst"/><category term="juce"/></entry><entry><title>NeoTrellisで遊ぶ</title><link href="https://blog.ca5.me/2020/08/16/neotrellis/" rel="alternate"/><published>2020-08-16T19:00:00+09:00</published><updated>2020-08-16T19:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2020-08-16:/2020/08/16/neotrellis/</id><summary type="html">&lt;p&gt;my new gear... が増えたので&lt;br&gt;
 備忘録的に久々にブログにまとめました&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://www.adafruit.com/product/3938"&gt;https://www.adafruit.com/product/3938&lt;/a&gt;&lt;br&gt;
 最近教えてもらった NeoTrellis が結構いけてそうだったので衝動買いし …&lt;/p&gt;</summary><content type="html">&lt;p&gt;my new gear... が増えたので&lt;br&gt;
@@ -107,8 +124,7 @@ Arduinoを開いて
 ぜひ遊びに来てください！&lt;/p&gt;</content><category term="release"/><category term="chiptune"/><category term="chipbreak"/></entry><entry><title>【Release】City EP</title><link href="https://blog.ca5.me/2019/04/29/CityEP/" rel="alternate"/><published>2019-04-29T22:00:00+09:00</published><updated>2019-04-29T22:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2019-04-29:/2019/04/29/CityEP/</id><summary type="html">&lt;p&gt;2019M3春に頒布開始したEP 「City EP」 のオンライン版がリリースされました！ &lt;/p&gt;
 &lt;iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2380524776/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless&gt;&lt;a href="http://esctrax.bandcamp.com/album/esc-ex007-city-ep"&gt;[ESC-EX007] City EP by Ca5&lt;/a&gt;&lt;/iframe&gt;
 
-&lt;p&gt;タイトルの通り各曲が別々な「街」を表した作品です。&lt;br&gt;
-それぞれ …&lt;/p&gt;</summary><content type="html">&lt;p&gt;2019M3春に頒布開始したEP 「City EP」 のオンライン版がリリースされました！ &lt;/p&gt;
+&lt;p&gt;タイトルの通り各曲が別々な「街」を表し …&lt;/p&gt;</summary><content type="html">&lt;p&gt;2019M3春に頒布開始したEP 「City EP」 のオンライン版がリリースされました！ &lt;/p&gt;
 &lt;iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2380524776/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless&gt;&lt;a href="http://esctrax.bandcamp.com/album/esc-ex007-city-ep"&gt;[ESC-EX007] City EP by Ca5&lt;/a&gt;&lt;/iframe&gt;
 
 &lt;p&gt;タイトルの通り各曲が別々な「街」を表した作品です。&lt;br&gt;
@@ -548,7 +564,7 @@ LogbarのRingが調子悪くて。。結局あまりあたらしいことはや�
 &lt;/blockquote&gt;
 &lt;hr&gt;
 &lt;p&gt;旧譜も頒布予定です&lt;br&gt;
-限定版のアルバムも増刷しま …&lt;/p&gt;</summary><content type="html">&lt;p&gt;4/27のM3にESC TRAXのブースで新EPを頒布予定です！  &lt;/p&gt;
+限定版の …&lt;/p&gt;</summary><content type="html">&lt;p&gt;4/27のM3にESC TRAXのブースで新EPを頒布予定です！  &lt;/p&gt;
 &lt;p&gt;&lt;a href="http://blog.esctrax.com/post/142894223610/m3%E6%98%A5%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E4%BA%88%E5%AE%9Aesc-sound-collection"&gt;【M3春リリース予定】ESC Sound Collection&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;ESC Sound Collection&lt;/p&gt;

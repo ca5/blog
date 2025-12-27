@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>ca5blog</title><link href="https://blog.ca5.me/" rel="alternate"/><link href="https://blog.ca5.me/feeds/all.atom.xml" rel="self"/><id>https://blog.ca5.me/</id><updated>2025-10-29T20:00:00+09:00</updated><entry><title>今週末開催！ESC TRAX 10周年記念イベント「REPL8」</title><link href="https://blog.ca5.me/2025/10/29/repl8-esctrax-10th-anniversary/" rel="alternate"/><published>2025-10-29T20:00:00+09:00</published><updated>2025-10-29T20:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2025-10-29:/2025/10/29/repl8-esctrax-10th-anniversary/</id><summary type="html">&lt;p&gt;今週末、ESC TRAXの10周年を記念したイベント「REPL8 (リプレイト)」を開催します！
+<feed xmlns="http://www.w3.org/2005/Atom"><title>ca5blog</title><link href="https://blog.ca5.me/" rel="alternate"/><link href="https://blog.ca5.me/feeds/all.atom.xml" rel="self"/><id>https://blog.ca5.me/</id><updated>2025-12-27T10:00:00+09:00</updated><entry><title>AmenBreakChopperをリリースしました</title><link href="https://blog.ca5.me/2025/12/27/amenbreakchopper-release/" rel="alternate"/><published>2025-12-27T10:00:00+09:00</published><updated>2025-12-27T10:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2025-12-27:/2025/12/27/amenbreakchopper-release/</id><summary type="html">&lt;h3&gt;AmenBreakChopper&lt;/h3&gt;
+&lt;p&gt;今年からライブで使うようになった、自作のオーディオプラグイン「AmenBreakChopper」をリリースしました。&lt;br&gt;
+入力されたオーディオ …&lt;/p&gt;</summary><content type="html">&lt;h3&gt;AmenBreakChopper&lt;/h3&gt;
+&lt;p&gt;今年からライブで使うようになった、自作のオーディオプラグイン「AmenBreakChopper」をリリースしました。&lt;br&gt;
+入力されたオーディオをBPMに同期したディレイでビートチョップするためのエフェクトです。&lt;br&gt;
+去年まで使っていたMax for Liveのパッチを元に、iPhoneやスタンドアロンアプリでも使えるようにJUCEで再実装したものとなります。&lt;/p&gt;
+&lt;p&gt;デモ動画:&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/VpYfyNo0POY?si=ozkrlGao4mJvfBr2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://apps.apple.com/jp/app/amenbreakchopper/id6751303065"&gt;AppStore (何気に初デビューです)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://ca5.github.io/AmenBreakChopper_doc/"&gt;ドキュメント&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;プラグイン上は現状は設定とモニタリング用のシンプルなUIしかなく、&lt;br&gt;
+実際に使うにはドキュメント記載のとおりにMIDIノートの送受信, CCの送信をする外部MIDIコントローラが必要です。&lt;br&gt;
+CCはプラグイン側で変更可能ですが、MIDIノートは固定です。  &lt;/p&gt;
+&lt;p&gt;iOSのAUv3/Standalone版に加え、&lt;br&gt;
+MacOS/Windowsで使う想定のVST3版がありますが、&lt;br&gt;
+VST3版はどう公開しようかまだ考えられてないです。&lt;/p&gt;
+&lt;p&gt;おすすめの公開方法とかあったら教えて下さい。&lt;/p&gt;</content><category term="release"/><category term="amenbreak"/><category term="breakcore"/><category term="vst"/><category term="juce"/></entry><entry><title>今週末開催！ESC TRAX 10周年記念イベント「REPL8」</title><link href="https://blog.ca5.me/2025/10/29/repl8-esctrax-10th-anniversary/" rel="alternate"/><published>2025-10-29T20:00:00+09:00</published><updated>2025-10-29T20:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2025-10-29:/2025/10/29/repl8-esctrax-10th-anniversary/</id><summary type="html">&lt;p&gt;今週末、ESC TRAXの10周年を記念したイベント「REPL8 (リプレイト)」を開催します！
 僕も、主催メンバー3名によるユニット「ふぷほ」としての出演です&lt;/p&gt;
 &lt;h2&gt;イベント概要&lt;/h2&gt;
 &lt;ul&gt;
@@ -367,8 +384,7 @@ Arduinoを開いて
 ぜひ遊びに来てください！&lt;/p&gt;</content><category term="release"/><category term="chiptune"/><category term="chipbreak"/></entry><entry><title>【Release】City EP</title><link href="https://blog.ca5.me/2019/04/29/CityEP/" rel="alternate"/><published>2019-04-29T22:00:00+09:00</published><updated>2019-04-29T22:00:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2019-04-29:/2019/04/29/CityEP/</id><summary type="html">&lt;p&gt;2019M3春に頒布開始したEP 「City EP」 のオンライン版がリリースされました！ &lt;/p&gt;
 &lt;iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2380524776/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless&gt;&lt;a href="http://esctrax.bandcamp.com/album/esc-ex007-city-ep"&gt;[ESC-EX007] City EP by Ca5&lt;/a&gt;&lt;/iframe&gt;
 
-&lt;p&gt;タイトルの通り各曲が別々な「街」を表した作品です。&lt;br&gt;
-それぞれ …&lt;/p&gt;</summary><content type="html">&lt;p&gt;2019M3春に頒布開始したEP 「City EP」 のオンライン版がリリースされました！ &lt;/p&gt;
+&lt;p&gt;タイトルの通り各曲が別々な「街」を表し …&lt;/p&gt;</summary><content type="html">&lt;p&gt;2019M3春に頒布開始したEP 「City EP」 のオンライン版がリリースされました！ &lt;/p&gt;
 &lt;iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2380524776/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless&gt;&lt;a href="http://esctrax.bandcamp.com/album/esc-ex007-city-ep"&gt;[ESC-EX007] City EP by Ca5&lt;/a&gt;&lt;/iframe&gt;
 
 &lt;p&gt;タイトルの通り各曲が別々な「街」を表した作品です。&lt;br&gt;
@@ -1225,7 +1241,7 @@ Arabenitron
 &lt;/blockquote&gt;
 &lt;hr&gt;
 &lt;p&gt;旧譜も頒布予定です&lt;br&gt;
-限定版のアルバムも増刷しま …&lt;/p&gt;</summary><content type="html">&lt;p&gt;4/27のM3にESC TRAXのブースで新EPを頒布予定です！  &lt;/p&gt;
+限定版の …&lt;/p&gt;</summary><content type="html">&lt;p&gt;4/27のM3にESC TRAXのブースで新EPを頒布予定です！  &lt;/p&gt;
 &lt;p&gt;&lt;a href="http://blog.esctrax.com/post/142894223610/m3%E6%98%A5%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E4%BA%88%E5%AE%9Aesc-sound-collection"&gt;【M3春リリース予定】ESC Sound Collection&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;ESC Sound Collection&lt;/p&gt;
@@ -3465,28 +3481,4 @@ http://nkrn.bandcamp.com/album/soulgem-breaks&lt;/p&gt;</content><category term=
 &lt;p&gt;今回は夏っぽいイベントということで、ソーメンも振舞われます！&lt;/p&gt;
 &lt;p&gt;事前予約だと500円お得なので是非&lt;a href="http://t.co/0ViUJRFLxW"&gt;公式サイト&lt;/a&gt;より申し込んでみてください！&lt;/p&gt;</content><category term="event"/><category term="breakcore"/><category term="live"/><category term="otherman"/></entry><entry><title>明日M3に出ます！(4/29 第二展示場1Fえ-30a)</title><link href="https://blog.ca5.me/2013/04/28/%E6%98%8E%E6%97%A5m3%E3%81%AB%E5%87%BA%E3%81%BE%E3%81%99!429-%E7%AC%AC%E4%BA%8C%E5%B1%95%E7%A4%BA%E5%A0%B41f%E3%81%88-30a/" rel="alternate"/><published>2013-04-28T22:45:00+09:00</published><updated>2013-04-28T22:45:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2013-04-28:/2013/04/28/明日m3に出ます!429-第二展示場1fえ-30a/</id><content type="html">&lt;p&gt;&lt;a href="http://blog.ca54makske.com/blog/2013/04/20/m3%E3%81%AB%E5%87%BA%E3%81%BE%E3%81%99%EF%BC%81429-%E7%AC%AC%E4%BA%8C%E5%B1%95%E7%A4%BA%E5%A0%B41f%E3%81%88-30a/"&gt;前々回の記事&lt;/a&gt;でも書きましたが明日はM3でアルバムを出します！&lt;/p&gt;
 &lt;p&gt;M3会場限定でおまけとして無料リミックス集も配布予定なので&lt;br&gt;
-ぜひぜひ 第二展示場1F え-30aまでお越しください！&lt;/p&gt;</content><category term="event"/><category term="breakcore"/><category term="chipbreak"/><category term="NKRN"/><category term="otherman"/></entry><entry><title>Deep Blue【新曲リリース】</title><link href="https://blog.ca5.me/2013/04/22/deep-blue/" rel="alternate"/><published>2013-04-22T00:40:00+09:00</published><updated>2013-04-22T00:40:00+09:00</updated><author><name>Ca5</name></author><id>tag:blog.ca5.me,2013-04-22:/2013/04/22/deep-blue/</id><summary type="html">&lt;p&gt;久々に OthermanRecordsでEPをリリースしました！&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Deep Blue&lt;/strong&gt;&lt;br&gt;
-[&lt;img alt="" src="http://www.archive.org/download/OTMN045/deepblue-jacket.jpg"&gt;  &lt;/p&gt;
-&lt;p&gt;http://www.otherman-records.com/releases/OTMN045](http://www.otherman-records.com/releases/OTMN045)&lt;/p&gt;
-&lt;p&gt;ボーナストラックとしてumioさんによるタイトル曲のリミックスが入っています！&lt;br&gt;
-ぜひぜひ皆さんDLしてみてください&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;試聴版&lt;/strong&gt;  &lt;/p&gt;
-&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/88847695&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;strong&gt;～～おまけ～～&lt;/strong&gt;&lt;br&gt;
-おまけで入って …&lt;/p&gt;</summary><content type="html">&lt;p&gt;久々に OthermanRecordsでEPをリリースしました！&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Deep Blue&lt;/strong&gt;&lt;br&gt;
-[&lt;img alt="" src="http://www.archive.org/download/OTMN045/deepblue-jacket.jpg"&gt;  &lt;/p&gt;
-&lt;p&gt;http://www.otherman-records.com/releases/OTMN045](http://www.otherman-records.com/releases/OTMN045)&lt;/p&gt;
-&lt;p&gt;ボーナストラックとしてumioさんによるタイトル曲のリミックスが入っています！&lt;br&gt;
-ぜひぜひ皆さんDLしてみてください&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;試聴版&lt;/strong&gt;  &lt;/p&gt;
-&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/88847695&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false"&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;strong&gt;～～おまけ～～&lt;/strong&gt;&lt;br&gt;
-おまけで入ってる壁紙はこんなふうに使って遊んでみてください  &lt;/p&gt;
-&lt;p&gt;ただの画像なんで相手がmacだろうがiPadだろうが、ブルースクリーンクラッシャーになることができます&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.flickr.com/photos/46200029@N06/8668953718/"&gt;&lt;img alt="" src="http://farm9.staticflickr.com/8383/8668953718_d7bd1a3e62_b.jpg"&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.flickr.com/photos/46200029@N06/8668954092/"&gt;&lt;img alt="" src="http://farm9.staticflickr.com/8386/8668954092_24ed589fbe_b.jpg"&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;※説明用なので明るい所で撮影していますが、暗い所で撮影したほうがそれっぽく写ります&lt;/p&gt;</content><category term="release"/><category term="breakcore"/><category term="chipbreak"/><category term="otherman"/></entry></feed>
+ぜひぜひ 第二展示場1F え-30aまでお越しください！&lt;/p&gt;</content><category term="event"/><category term="breakcore"/><category term="chipbreak"/><category term="NKRN"/><category term="otherman"/></entry></feed>
